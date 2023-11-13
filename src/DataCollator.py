@@ -1,4 +1,5 @@
-# class DataCollatorForMultipleChoice:
+class DataCollatorForMultipleChoice:
+    pass
 #     # """
 #     # Data collator that will dynamically pad the inputs for multiple choice received.
 #     # Args:
