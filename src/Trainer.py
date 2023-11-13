@@ -4,9 +4,8 @@ import random
 
 import evaluate
 import numpy as np
-from src.DataCollator import DataCollatorForMultipleChoice
-from src.MablDatasetDict import MablDatasetDict
-from torch.utils.data import DataLoader
+from DataCollator import DataCollatorForMultipleChoice
+from MablDatasetDict import MablDatasetDict
 from transformers import (
     AutoModelForMultipleChoice,
     AutoTokenizer,

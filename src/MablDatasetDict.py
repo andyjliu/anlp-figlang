@@ -5,7 +5,7 @@ from datasets import Dataset, DatasetDict, load_dataset
 
 
 class MablDatasetDict(DatasetDict):
-    def __init__(self, data_dir="data"):
+    def __init__(self, data_dir="../data"):
         super().__init__()
 
         self.dataset_dict = {}
