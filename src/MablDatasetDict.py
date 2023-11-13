@@ -9,7 +9,7 @@ class MablDatasetDict(DatasetDict):
         super().__init__()
 
         self.dataset_dict = {}
-        data_files = {}
+        # data_files = {}
         for split in ["train", "validation"]:
             file_path = f"{data_dir}/{split}/en.csv"
             self.dataset_dict[split] = Dataset.from_csv(file_path)
@@ -44,8 +44,8 @@ class MablDatasetDict(DatasetDict):
             batch_encoding = tokenizer(
                 flattened_fig_phrases,
                 flattened_answers,
-                # max_length=128,
-                # padding=False,
+                max_length=128,
+                padding=False,
                 truncation=True
             )   # currently max_len and padding and truncation are hardcoded, but we can flagify them later.
 
@@ -54,8 +54,8 @@ class MablDatasetDict(DatasetDict):
                 values_for_instance = [values[i: i + 2] for i in range(0, len(values), 2)]
                 unflattened_tokenized_batch_encoding[batch_encoding_key] = values_for_instance
 
-            # labels = examples["labels"]
-            # unflattened_tokenized_batch_encoding["labels"] = labels
+            labels = examples["labels"]
+            unflattened_tokenized_batch_encoding["labels"] = labels
 
             return unflattened_tokenized_batch_encoding
 
