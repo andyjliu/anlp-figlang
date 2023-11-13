@@ -1,4 +1,6 @@
 import argparse
+import evaluate
+import numpy as np
 import os
 
 from src.MablDatasetDict import MablDatasetDict
@@ -10,9 +12,19 @@ from transformers import (
 )
 
 HF_MODEL_NAME_XLMR = "xlm-roberta-large"
+accuracy = evaluate.load("accuracy")
+
+
+def compute_metrics(eval_prediction_label_tuples):
+    predictions, labels = eval_prediction_label_tuples
+
+    predictions = np.argmax(predictions, axis=1)
+
+    return accuracy.compute(predictions=predictions, references=labels)
 
 
 class MyTrainer:
+
     def __init__(
         self,
         model,
@@ -43,6 +55,8 @@ class MyTrainer:
             args=training_args,
             train_dataset=train_dataset,
             eval_dataset=eval_dataset,
+            data_collator=None,     # TODO - Shaily
+            compute_metrics=compute_metrics
         )
 
     def train(self):
@@ -75,7 +89,6 @@ if __name__ == "__main__":
 
     mabl_dataset_dict = MablDatasetDict(data_dir="../data")
     mabl_dataset_dict.tokenize_dataset(tokenizer)
-    print(mabl_dataset_dict.get_dataset_dict())
 
     configure_wandb()
 
