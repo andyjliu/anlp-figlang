@@ -9,7 +9,6 @@ class MablDatasetDict(DatasetDict):
         super().__init__()
 
         self.dataset_dict = {}
-        data_files = {}
         for split in ["train", "validation"]:
             file_path = f"{data_dir}/{split}/en.csv"
             # self.dataset_dict[split] = Dataset.from_csv(file_path)
@@ -40,7 +39,6 @@ class MablDatasetDict(DatasetDict):
             first_sentences = sum(first_sentences, [])
             second_sentences = sum(second_sentences, [])
 
-            # Tokenize
             tokenized_examples = tokenizer(
                 first_sentences,
                 second_sentences,
