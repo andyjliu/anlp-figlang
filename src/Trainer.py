@@ -74,7 +74,7 @@ if __name__ == "__main__":
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
     mabl_dataset_dict = MablDatasetDict(data_dir="../data")
-    mabl_dataset_dict.tokenize(tokenizer)
+    mabl_dataset_dict.tokenize_dataset(tokenizer)
     print(mabl_dataset_dict.get_dataset_dict())
 
     configure_wandb()
@@ -86,7 +86,7 @@ if __name__ == "__main__":
         learning_rate=5e-6,
         num_training_epochs=20,
         train_dataset=mabl_dataset_dict.get_dataset_dict()["train"],
-        eval_dataset=mabl_dataset_dict.get_dataset_dict()["dev"],
+        eval_dataset=mabl_dataset_dict.get_dataset_dict()["validation"],
     )
 
     trainer.train()
