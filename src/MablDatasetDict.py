@@ -60,7 +60,7 @@ class MablDatasetDict(DatasetDict):
 
         for key in ["train", "validation"]:
             dataset = self.dataset_dict[key]
-            tokenized_dataset = dataset.map(tokenize_examples, batched=True)
+            tokenized_dataset = dataset.map(tokenize_examples, batched=True, remove_columns=dataset.column_names)
             self.dataset_dict[key] = tokenized_dataset
 
 
