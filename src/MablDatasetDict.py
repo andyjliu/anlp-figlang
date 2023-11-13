@@ -21,6 +21,16 @@ class MablDatasetDict(DatasetDict):
     def get_dataset_dict(self):
         return self.dataset_dict
 
+    def tokenize(self, tokenizer):
+        def tokenize_examples(examples):
+            # TODO - tokenize a batch of examples
+            return examples
+
+        for key in ['train', 'dev']:
+            dataset = self.dataset_dict[key]
+            tokenized_dataset = dataset.map(tokenize_examples, batched=True)
+            self.dataset_dict[key] = tokenized_dataset
+
 
 if __name__ == "__main__":
     print(MablDatasetDict(data_dir='../data').get_dataset_dict())
