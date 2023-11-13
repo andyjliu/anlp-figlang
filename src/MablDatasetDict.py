@@ -28,12 +28,11 @@ class MablDatasetDict(DatasetDict):
 
     def tokenize_dataset(self, tokenizer):
         def tokenize_examples(examples):
-            fig_phrases = [
-                [fig_phrase] * 2 for fig_phrase in examples["startphrase"]
-            ]
+            fig_phrases = [[fig_phrase] * 2 for fig_phrase in examples["startphrase"]]
 
             answers = [
-                [endings_tuple[0], endings_tuple[1]] for endings_tuple in zip(examples["ending1"], examples["ending2"])
+                [endings_tuple[0], endings_tuple[1]]
+                for endings_tuple in zip(examples["ending1"], examples["ending2"])
             ]
 
             flattened_fig_phrases = sum(fig_phrases, [])
@@ -45,22 +44,28 @@ class MablDatasetDict(DatasetDict):
                 flattened_answers,
                 max_length=128,
                 padding=False,
-                truncation=True
-            )   # currently max_len and padding and truncation are hardcoded, but we can flagify them later.
+                truncation=True,
+            )  # currently max_len and padding and truncation are hardcoded, but we can flagify them later.
 
             unflattened_tokenized_batch_encoding = {}
             for batch_encoding_key, values in batch_encoding.items():
-                values_for_instance = [values[i: i + 2] for i in range(0, len(values), 2)]
-                unflattened_tokenized_batch_encoding[batch_encoding_key] = values_for_instance
+                values_for_instance = [
+                    values[i : i + 2] for i in range(0, len(values), 2)
+                ]
+                unflattened_tokenized_batch_encoding[
+                    batch_encoding_key
+                ] = values_for_instance
 
             labels = examples["labels"]
             unflattened_tokenized_batch_encoding["labels"] = labels
 
             return unflattened_tokenized_batch_encoding
 
-        for key in ["train", "validation"]:
+        for key in self.dataset_dict:
             dataset = self.dataset_dict[key]
-            tokenized_dataset = dataset.map(tokenize_examples, batched=True)
+            tokenized_dataset = dataset.map(
+                tokenize_examples, batched=True, remove_columns=dataset.column_names
+            )
             self.dataset_dict[key] = tokenized_dataset
 
 

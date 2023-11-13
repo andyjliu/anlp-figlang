@@ -1,7 +1,11 @@
 import argparse
 import os
+import random
 
+import evaluate
+from src.DataCollator import DataCollatorForMultipleChoice
 from src.MablDatasetDict import MablDatasetDict
+from torch.utils.data import DataLoader
 from transformers import (
     AutoModelForMultipleChoice,
     AutoTokenizer,
@@ -75,7 +79,23 @@ if __name__ == "__main__":
 
     mabl_dataset_dict = MablDatasetDict(data_dir="../data")
     mabl_dataset_dict.tokenize_dataset(tokenizer)
-    print(mabl_dataset_dict.get_dataset_dict())
+    # print(mabl_dataset_dict.get_dataset_dict())
+    data_collator = DataCollatorForMultipleChoice(tokenizer, pad_to_multiple_of=8)
+    metric = evaluate.load("accuracy")
+    train_dataset = mabl_dataset_dict.get_dataset_dict()["train"]
+    validation_dataset = mabl_dataset_dict.get_dataset_dict()["validation"]
+
+    for index in random.sample(range(len(train_dataset)), 3):
+        print(f"Sample {index} of the training set: {train_dataset[index]}.")
+
+    train_dataloader = DataLoader(
+        train_dataset, shuffle=True, collate_fn=data_collator, batch_size=32
+    )
+    eval_dataloader = DataLoader(
+        validation_dataset,
+        collate_fn=data_collator,
+        batch_size=args["per_device_eval_batch_size"],
+    )
 
     configure_wandb()
 

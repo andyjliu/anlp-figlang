@@ -2,15 +2,25 @@
 # https://huggingface.co/docs/transformers/v4.35.0/en/tasks/multiple_choice
 
 from dataclasses import dataclass
-from transformers.tokenization_utils_base import PreTrainedTokenizerBase, PaddingStrategy
 from typing import Optional, Union
+
 import torch
+from transformers.tokenization_utils_base import (
+    PaddingStrategy,
+    PreTrainedTokenizerBase,
+)
 
 
 @dataclass
 class DataCollatorForMultipleChoice:
     """
     Data collator that will dynamically pad the inputs for multiple choice received.
+
+    Args:
+    tokenizer: tokenizer
+    padding: If true, padding is done to the longest sequence in the batch, else if it is "max_length", pass the max_length argument to do the padding to that length. If false, no padding is done. True is default.
+    max_length: needs to be passed if padding strategy is max_length
+    pad_to_multiple_of: If set, it will pad to the multiple of that value
     """
 
     tokenizer: PreTrainedTokenizerBase
@@ -25,7 +35,8 @@ class DataCollatorForMultipleChoice:
         num_choices = len(features[0]["input_ids"])
         assert num_choices == 2
         flattened_features = [
-            [{k: v[i] for k, v in feature.items()} for i in range(num_choices)] for feature in features
+            [{k: v[i] for k, v in feature.items()} for i in range(num_choices)]
+            for feature in features
         ]
         flattened_features = sum(flattened_features, [])
 
