@@ -1,4 +1,6 @@
 import argparse
+import evaluate
+import numpy as np
 import os
 import random
 
@@ -14,9 +16,19 @@ from transformers import (
 )
 
 HF_MODEL_NAME_XLMR = "xlm-roberta-large"
+accuracy = evaluate.load("accuracy")
+
+
+def compute_metrics(eval_prediction_label_tuples):
+    predictions, labels = eval_prediction_label_tuples
+
+    predictions = np.argmax(predictions, axis=1)
+
+    return accuracy.compute(predictions=predictions, references=labels)
 
 
 class MyTrainer:
+
     def __init__(
         self,
         model,
@@ -47,6 +59,8 @@ class MyTrainer:
             args=training_args,
             train_dataset=train_dataset,
             eval_dataset=eval_dataset,
+            data_collator=None,     # TODO - Shaily
+            compute_metrics=compute_metrics
         )
 
     def train(self):
