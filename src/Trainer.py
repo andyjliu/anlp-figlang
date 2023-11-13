@@ -1,10 +1,9 @@
 import argparse
-import evaluate
-import numpy as np
 import os
 import random
 
 import evaluate
+import numpy as np
 from src.DataCollator import DataCollatorForMultipleChoice
 from src.MablDatasetDict import MablDatasetDict
 from torch.utils.data import DataLoader
@@ -27,8 +26,7 @@ def compute_metrics(eval_prediction_label_tuples):
     return accuracy.compute(predictions=predictions, references=labels)
 
 
-class MyTrainer:
-
+class CustomTrainer:
     def __init__(
         self,
         model,
@@ -38,6 +36,7 @@ class MyTrainer:
         num_training_epochs,
         train_dataset,
         eval_dataset,
+        data_collator,
     ):
         training_args = TrainingArguments(
             output_dir=output_dir,
@@ -59,8 +58,8 @@ class MyTrainer:
             args=training_args,
             train_dataset=train_dataset,
             eval_dataset=eval_dataset,
-            data_collator=None,     # TODO - Shaily
-            compute_metrics=compute_metrics
+            data_collator=data_collator,
+            compute_metrics=compute_metrics,
         )
 
     def train(self):
@@ -94,7 +93,9 @@ if __name__ == "__main__":
     mabl_dataset_dict = MablDatasetDict(data_dir="../data")
     mabl_dataset_dict.tokenize_dataset(tokenizer)
     # print(mabl_dataset_dict.get_dataset_dict())
-    data_collator = DataCollatorForMultipleChoice(tokenizer, pad_to_multiple_of=8)
+    data_collator = DataCollatorForMultipleChoice(
+        tokenizer, padding=True, pad_to_multiple_of=8
+    )
     metric = evaluate.load("accuracy")
     train_dataset = mabl_dataset_dict.get_dataset_dict()["train"]
     validation_dataset = mabl_dataset_dict.get_dataset_dict()["validation"]
@@ -102,25 +103,17 @@ if __name__ == "__main__":
     for index in random.sample(range(len(train_dataset)), 3):
         print(f"Sample {index} of the training set: {train_dataset[index]}.")
 
-    train_dataloader = DataLoader(
-        train_dataset, shuffle=True, collate_fn=data_collator, batch_size=32
-    )
-    eval_dataloader = DataLoader(
-        validation_dataset,
-        collate_fn=data_collator,
-        batch_size=args["per_device_eval_batch_size"],
-    )
-
     configure_wandb()
 
-    trainer = MyTrainer(
+    trainer = CustomTrainer(
         model=get_model(args.model),
         output_dir=args.output_dir,
         batch_size=32,
         learning_rate=5e-6,
         num_training_epochs=20,
-        train_dataset=mabl_dataset_dict.get_dataset_dict()["train"],
-        eval_dataset=mabl_dataset_dict.get_dataset_dict()["validation"],
+        train_dataset=train_dataset,
+        eval_dataset=validation_dataset,
+        data_collator=data_collator,
     )
 
     trainer.train()
