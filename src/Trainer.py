@@ -13,6 +13,8 @@ from transformers import (
     TrainingArguments,
 )
 
+import wandb
+
 HF_MODEL_NAME_XLMR = "xlm-roberta-large"
 accuracy = evaluate.load("accuracy")
 
@@ -46,10 +48,11 @@ class CustomTrainer:
             per_device_eval_batch_size=batch_size,
             learning_rate=learning_rate,
             num_train_epochs=num_training_epochs,
-            load_best_model_at_end=True,
+            load_best_model_at_end=False,
             metric_for_best_model="loss",
             greater_is_better=False,
             report_to=["wandb"],
+            logging_strategy="epoch",
         )
 
         self.trainer = Trainer(
@@ -69,7 +72,8 @@ def parse_args():
     parser = argparse.ArgumentParser()
 
     parser.add_argument("--model", type=str, default=HF_MODEL_NAME_XLMR)
-    parser.add_argument("--output-dir", type=str, default="output")
+    parser.add_argument("--output_dir", type=str, default="output")
+    parser.add_argument("--data_dir", type=str, default="../data")
 
     return parser.parse_args()
 
@@ -80,7 +84,7 @@ def get_model(model_name):
 
 def configure_wandb():
     os.environ["WANDB_PROJECT"] = "anlp-figlang"
-    os.environ["WANDB_LOG_MODEL"] = "true"
+    os.environ["WANDB_LOG_MODEL"] = "false"
     os.environ["WANDB_WATCH"] = "false"
 
 
@@ -89,7 +93,7 @@ if __name__ == "__main__":
 
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
-    mabl_dataset_dict = MablDatasetDict(data_dir="../data")
+    mabl_dataset_dict = MablDatasetDict(data_dir=args.data_dir)
     mabl_dataset_dict.tokenize_dataset(tokenizer)
     # print(mabl_dataset_dict.get_dataset_dict())
     data_collator = DataCollatorForMultipleChoice(
@@ -116,3 +120,5 @@ if __name__ == "__main__":
     )
 
     trainer.train()
+
+    wandb.finish()

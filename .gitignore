@@ -1,2 +1,9 @@
 .idea/*
 src/wandb/*
+src/trained_models/*
+babel*
+xlmr_large_end_ckpt/*pt
+xlmr_large_end_ckpt/*safe*
+xlmr_large_end_ckpt/*bin
+xlmr_large_end_ckpt/*pth
+sec/__pycache__
