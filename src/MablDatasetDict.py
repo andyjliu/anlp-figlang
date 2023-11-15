@@ -20,7 +20,20 @@ class MablDatasetDict(DatasetDict):
             for file_name in os.listdir(test_dir):
                 lang_short_name = file_name.split("_")[0]
                 file_path = f"{test_dir}/{file_name}"
-                self.dataset_dict[f"test-{lang_short_name}"] = Dataset.from_csv(file_path)
+                self.dataset_dict[f"test-{lang_short_name}"] = Dataset.from_csv(
+                    file_path
+                )
+                # self.dataset_dict[f"test-{lang_short_name}"] = load_dataset(
+                #     "csv", file_path
+                # )
+        if splits == "all" or splits == "translate-test":
+            test_dir = f"{data_dir}/translate-test"
+            for file_name in os.listdir(test_dir):
+                lang_short_name = file_name.split("_")[0]
+                file_path = f"{test_dir}/{file_name}"
+                self.dataset_dict[f"test-{lang_short_name}"] = Dataset.from_csv(
+                    file_path
+                )
                 # self.dataset_dict[f"test-{lang_short_name}"] = load_dataset(
                 #     "csv", file_path
                 # )
@@ -70,9 +83,7 @@ class MablDatasetDict(DatasetDict):
                     tokenize_examples, batched=True, remove_columns=dataset.column_names
                 )
             else:
-                tokenized_dataset = dataset.map(
-                    tokenize_examples, batched=True
-                )
+                tokenized_dataset = dataset.map(tokenize_examples, batched=True)
             self.dataset_dict[key] = tokenized_dataset
 
 
