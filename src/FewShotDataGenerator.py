@@ -13,7 +13,7 @@ if __name__ == "__main__":
     en_train_df = pd.read_csv('../data/train/en.csv')
 
     for lang in ['hi', 'id', 'jv', 'kn', 'su', 'sw', 'yo']:
-        for k in [2, 10, 20, 30, 40, 50]:
+        for k in [50]:
             en_train_copy_df = en_train_df.copy(deep=True)
 
             lang_train_df = pd.read_csv(f'../data/few_shot/train_supplements/{lang}/{lang}_{k}.csv')
@@ -21,3 +21,6 @@ if __name__ == "__main__":
             merged_train_df = pd.concat([en_train_copy_df, lang_train_df], ignore_index=True)
 
             merged_train_df.to_csv(f'../data/few_shot/train_merged/{lang}/{lang}_{k}.csv')
+
+            print(f"python /home/shailyjb/anlp-figlang/src/Trainer.py --output_dir=\"/data/tir/projects/tir5/users/shailyjb/anlp-figlang/xlmr_large_defaults_with_logging\" --train-file \"/home/shailyjb/anlp-figlang/data/few_shot/train_merged/{lang}/{lang}_{k}.csv\" --validation-file \"/home/shailyjb/anlp-figlang/data/validation/en.csv\"")
+
