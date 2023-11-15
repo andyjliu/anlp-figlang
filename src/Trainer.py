@@ -75,7 +75,6 @@ def parse_args():
     parser.add_argument("--output-dir", type=str, default="output")
     parser.add_argument("--train-file", type=str, default="../data/train/en.csv")
     parser.add_argument("--val-file", type=str, default="../data/validation/en.csv")
-    parser.add_argument("--test-file", type=str, default="../data/test/en.csv")
 
     return parser.parse_args()
 
@@ -95,7 +94,7 @@ if __name__ == "__main__":
 
     tokenizer = AutoTokenizer.from_pretrained(args.model)
 
-    mabl_dataset_dict = MablDatasetDict(train_file='../data/train/en.csv', validation_file='../data/validation/en.csv')
+    mabl_dataset_dict = MablDatasetDict(train_file=args.train_file, validation_file=args.val_file)
     mabl_dataset_dict.tokenize_dataset(tokenizer)
     data_collator = DataCollatorForMultipleChoice(
         tokenizer, padding=True, pad_to_multiple_of=8
@@ -114,7 +113,7 @@ if __name__ == "__main__":
         output_dir=args.output_dir,
         batch_size=32,
         learning_rate=5e-6,
-        num_training_epochs=5,
+        num_training_epochs=20,
         train_dataset=train_dataset,
         eval_dataset=validation_dataset,
         data_collator=data_collator,
