@@ -1,0 +1,731 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Òkèlè ẹ̀bà mẹ́ẹ̀ẹ́dọ́gbọ̀n ni ọmọ náà jẹ lánàá,8,35,4.375
+correct,Ó burú bí i àjẹ́ apọmọjẹ,6,15,2.5
+correct,Òrùn náà kì í tan rárá,6,12,2.0
+correct,Ọmọbìnrin náà rí bí i ẹyẹ ọ̀kín,7,22,3.142857142857143
+correct,Àwọn ará ìlú ri pé Ìgbín ni Ṣẹ́gun,8,21,2.625
+correct,Ọlọ́fin dídí ni Àdìgún nínú orin kíkọ,7,20,2.857142857142857
+correct,Ọmọ náà fò bí i ìgalà lánàá,7,17,2.4285714285714284
+correct,Ọmọ náà fò bí i ẹni tí kò lẹ́sẹ̀ lánàá,10,25,2.5
+correct,Ẹlẹ́dẹ̀ ni Ìṣọlá nínu ilé rẹ̀,6,21,3.5
+correct,Ìyá náà rí fàkìyà bí i àpáta Olúmọ,8,21,2.625
+correct,Omí bọ́ lójú ìjàpà nígbà tí Ọba pàṣẹ pé kí wọ́n lọ pá.,13,33,2.5384615384615383
+correct,Àkekèé fi oró inú rẹ̀ rán ọ̀rẹ́ rẹ̀ Òkété lọ sí ọ̀run àrèmabọ̀,13,41,3.1538461538461537
+correct,Àkekèé fi oró inú rẹ̀ rán ọ̀rẹ́ rẹ̀ Òkété lọ sí ilé ijó,13,35,2.6923076923076925
+correct,Arẹwà ni Àdùkẹ́ jẹ́ fún gbogbo àwọn ọkùnrin àdúgbò,9,33,3.6666666666666665
+correct,Olójú àánú ni àwọn olóṣèlú Ẹ̀kó,6,20,3.3333333333333335
+correct,"Arákùnrín náà ga, ó sì dúdú bí i kóró iṣin",10,20,2.0
+correct,"Arákùnrín náà ga, ó sì dúdú bí i ọ̀bọ",9,20,2.2222222222222223
+correct,Ọmọ náà wẹ̀ bí i ẹja lánàá ta lọ sódò.,10,24,2.4
+correct,Ọmọ náà wọ́ bí i èkòló lánàá ta lọ sódò.,10,25,2.5
+correct,Àwọn ewé Ọsàn náà jó lóri igi,7,17,2.4285714285714284
+correct,Àwọn ewé Ọsàn náà ò kúrò lójú kan lóri igi,10,23,2.3
+correct,"Àkókò ń sáré tete, a ò sí lè dúró de ẹnì kankan",12,26,2.1666666666666665
+correct,Àdìó ń sáré bí i ẹsin níbi ìdíje eré sísá lọ́sẹ̀ tó kọjá,13,33,2.5384615384615383
+correct,Òkúta ni ọkàn Ṣọlápé,4,14,3.5
+correct,Kúkúṣì ń bẹ lọ́wọ Fadékẹ́ bí i ti ẹ̀gbọ́n mi tó ń ta Kòkó,14,36,2.5714285714285716
+correct,Ọwọ́ Fadékẹ́ ti kan ìsàlẹ̀ àpò bí i ti ẹ̀gbọ́n mi tó ń ta Kòkó,15,39,2.6
+correct,Gbogbo ìlú kò gbà pé Ìlú mọ̀ọ́ká ni Àrẹ̀mú,9,27,3.0
+correct,Ọbẹ̀ tí Àbẹ̀ní sè̀ ládùn bí i oyin,8,21,2.625
+correct,Ọ̀fọ́n-ọ̀n ni gbogbo àwọn ẹni tí ọ̀ ń bá ṣọ̀rẹ́,10,36,3.6
+correct,Ojo ni Àmọ̀pé kò lé dá pa áyán,8,16,2.0
+correct,Ìgín ni Àlàmú nínu ká roko,6,13,2.1666666666666665
+correct,Àwọn olùkọ́ wa ò ní oró nínú,7,17,2.4285714285714284
+correct,Oyin ni Óunjẹ tí a jẹ lánàá,7,14,2.0
+correct,Àbíkẹ́ ní òye kukurú nípa iṣẹ́ agbẹ̀bí bí i àwọn dọ́kítà ilẹ̀ òkèrè,13,42,3.230769230769231
+correct,Aṣọ àlà tí ó wọ̀ ti pọ́n bí i ẹni tó kó sínú ẹrọ̀fọ̀,14,32,2.2857142857142856
+correct,Apẹja ni Òjó gbogbo wa la mọ̀ bẹ́ẹ̀,8,20,2.5
+correct,Inú yàrá ìdánwò nàá palọ́lọ́ bí i itẹ́ òkú,9,27,3.0
+correct,Gbogbo ara ìyá àgbà ti gan sínú ilé bí i òkú tó wà nínu yìnyín,15,31,2.066666666666667
+correct,Àlàmú rí òkun náà tó ń kọrin lásìkò tó ń bọ̀ láti ibi iṣẹ́,14,33,2.357142857142857
+correct,Àlàmú rí òkun náà tó ń yọ iná lásìkò tó ń bọ̀ láti ibi iṣẹ́,15,34,2.2666666666666666
+correct,Àgbẹ̀ náà pa gbogbo ọmọ tí igi nàá bí lánàá,10,24,2.4
+correct,Ọmọdé ni arábìnrin tí ọ̀gá ṣẹ̀ṣẹ̀ gbà sí ẹnu iṣẹ́,10,35,3.5
+correct,Abiyamọ ni Àṣàbí fún ọgbọ̀n ọdún,6,20,3.3333333333333335
+correct,Láti kéreké ni Ìdòwú kò ti nífẹ̀ẹ́ si iṣẹ́ ọdẹ ṣíṣe,11,35,3.1818181818181817
+correct,Orí Gbádébọ̀ rí bí i orí òkè olúmọ,8,21,2.625
+correct,Ẹsẹ̀ Bólájí rẹwà bí i tọmọ ìkókó,7,22,3.142857142857143
+correct,Èdè Yorùbá ẹnu rẹ̀ dánmọ́rán bí i tàwọn ará Ọ̀yọ́,10,33,3.3
+correct,Eyín rẹ̀ funfun bí i ẹyẹ àdàbà,7,18,2.5714285714285716
+correct,Adékúnlé dárípọ́ bí i orí aláǹgbá,6,17,2.8333333333333335
+correct,Ará ọ̀run ni Àjàní,4,11,2.75
+correct,Àjàní kì i ṣe Ará ọ̀run,6,15,2.5
+correct,Àbẹ̀kẹ́ kì i ṣe Paramọ́lẹ̀,5,19,3.8
+correct,Àkàrà Gbádégẹṣin àti àbúrò rẹ̀ ti tú sépo bí i ti bàbá wọn tó wà lẹ́wọ̀n,16,41,2.5625
+correct,Aṣọ Títílayọ̀ rí bí i aṣọ ọba ilé ifẹ̀,9,22,2.4444444444444446
+correct,Adẹ́tẹ̀ ni Afọlábí,3,11,3.6666666666666665
+correct,Afọlábí kì i ṣe Adẹ́tẹ̀,5,15,3.0
+correct,Adé ń pariwo bí i eni tí ó sù lọ fọnfọn,11,22,2.0
+correct,Ike omi kan ṣoṣo ni Àdìsá pọn kó tó lọ sí ilé ìwé láàárọ̀ yìí,15,36,2.4
+correct,Ètè rẹ̀ kò dúdú bí i ètè ẹni tó ń fa igbó,12,25,2.0833333333333335
+correct,Oníjó ni Dáṣọfúnjó,3,10,3.3333333333333335
+correct,Igi tí wọ́n fi pa ejó náà rí sọrọ,9,18,2.0
+correct,Ìyá Bọ́lájí sọ pé nǹkan ọmọ ọkùnrin bàbá Bọ́lájí ṣiṣẹ́ dáadáa,11,42,3.8181818181818183
+correct,Ró mi láṣọ ìmọ̀ bí i ọ̀jọgbọ̀n Wọlé Ṣóyinká,9,29,3.2222222222222223
+correct,Bàbá mi ni ọ̀jọ̀gbọ́n Wọlé Ṣóyinká,6,22,3.6666666666666665
+correct,Ìfẹ́ Adédoyin ti yọ́ kúrò lọ́kàn mi,7,21,3.0
+correct,Àbẹ̀ún kó sí aṣọ bí i ẹni tí òtútù ń mú,11,24,2.1818181818181817
+correct,Ayé ò lọ bí i ọ̀pá ìbọn,7,17,2.4285714285714284
+correct,Àdùnnị ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní gun àkàbà orí ire rẹ,10,32,3.2
+correct,Tìmílẹ́yìn kógo já níbi ìdánwò àṣekágbá,6,23,3.8333333333333335
+correct,Tìmílẹ́yìn fìdí rẹmi níbi ìdánwò àṣekágbá,6,26,4.333333333333333
+correct,Àmọ̀pé kò mí mọ.,4,11,2.75
+correct,Àṣàkẹ́ fọ́ àga tó ṣẹ̀ṣẹ̀ rà,6,21,3.5
+correct,Ó taná ojú kò rí nǹkankan,6,12,2.0
+correct,Ojú Fọlárìn ti relé dèé,5,12,2.4
+correct,Ẹsẹ̀ mẹ́ta ni Bọ́lájókòó fi ń rin bí i àwọn atọrọbáárà,11,34,3.090909090909091
+correct,Àwọn akẹ́kọ̀ọ́ sùn fọnfọn nínú yàrá ìdánwò,7,31,4.428571428571429
+correct,Adégbètẹ́ tu itọ́ sókè fojú gbáà nígbà tí ó ń bá ọ̀rẹ́ Mákindé sòrò,14,39,2.7857142857142856
+correct,Ẹ̀gbọ́n Símisọ́lá rí bí i Àdìgún tí kò yọ kúrò nílẹ̀,11,29,2.6363636363636362
+correct,Ẹ̀gbọ́n Símisọ́lá ti fẹ́ àbúrò Àdìgún tó rẹwà,8,28,3.5
+correct,Ilé awòṣífìlà tó kọ́ rí bí i ààfin Ọba Ọọ̀ni ilé Ifẹ̀,12,33,2.75
+correct,Ilé awòṣífìlà tó kọ́ ti wó lul̀e,7,21,3.0
+correct,Ọjọ́ orí rẹ̀ ju ọjọ́ ori ij̀àpá lọ,8,24,3.0
+correct,Ọjọ́ orí rẹ̀ kò tó ọjọ́ ori ij̀àpá lọ,9,26,2.888888888888889
+correct,Àdìsà mu kòkò ẹmu ọgbọ̀n ní ilé ẹmu lánàá,9,28,3.111111111111111
+correct,Ọdẹ́ṣọlá ní òye iṣẹ́ ọdẹ náà dójú àmì bí i olúọ́dẹ agboolé wa,13,39,3.0
+correct,Ení tere èji tere ló ń gba owó rẹ̀ padà bí i àwọn alájẹṣẹ́ku,14,32,2.2857142857142856
+correct,Agbẹjọ́rò náà ti ṣíṣọ lójú eégún ọ̀rọ̀ náà nílé ẹjọ́,10,35,3.5
+correct,Èrò tó wà lọ́jà kún àkúnfàya lánàá,7,21,3.0
+correct,À̀wọn ọmọ yìí ti lọ sóko ọ̀gẹ̀dẹ̀,7,25,3.5714285714285716
+correct,Ó rí ẹ̀wọ̀n ọdún mọ́kànlá he nílé ẹjọ́ lóri ẹ̀sùn tí wọ́n fi kàn-án,14,45,3.2142857142857144
+correct,Lẹ́yìn ẹ̀wọ̀n ọdún mọ́kànlá tó rí he ó padà gba ìtúsílẹ̀,11,38,3.4545454545454546
+correct,Adénúgà nífẹ̀ẹ́ sí bí àwọn ọ̀bọ ṣé n gun igi,10,29,2.9
+correct,Kí ló dé tí Adéṣínà ṣe ra ilé tuntun?,9,19,2.111111111111111
+correct,Ẹ wo bí Àlàó ṣe duró bí i Ọba,9,17,1.8888888888888888
+correct,Ọ̀sẹ̀ kan rèé tí Wọléọlá ti lọ sí ìlú ọba,10,25,2.5
+correct,Ọdẹ́wùnmí bú gbogbo àwọn àgbà ọdẹ tí wọn jókòó,9,32,3.5555555555555554
+correct,Wọ́n na Bólájí nílù bààrà bí i ẹni tó jalè,10,21,2.1
+correct,Arákùnrin náà fẹ́ ìyàwọ̀ lọ bìbà bí i ọba Aláàfin,10,31,3.1
+correct,Àwọn ènìyàn tó wà ní pápá ìṣeré tí wọ́n ti fẹ́ gbá bọ́ọ̀lù tí ń jà,16,43,2.6875
+correct,Àwọn ikọ̀ Nàìjíríà ti kó igbá wọlé níbí ìdíje ife ẹ̀yẹ àgbáyé,12,39,3.25
+correct,Adérẹ̀mí gbé Arímọrọ̀ lọ jayé ọba lánàá,7,24,3.4285714285714284
+correct,Àrẹ̀mú ti ń lúwẹ̀ẹ́ nínú odò ìfẹ́ Ọmọ́ṣaléwá,8,33,4.125
+correct,Iná ọdẹ náà tàn bí i iná àtùpà tí epo ti fẹ́ tán nínú rẹ̀,15,31,2.066666666666667
+correct,Adéyẹmí kanra bí i ajá elégbọn láti àárọ̀,8,21,2.625
+correct,Adéyẹmí má ń bá àwọn ajá ṣeré,7,19,2.7142857142857144
+correct,Ọmọ ọ̀dọ̀ àgbà ni Adéṣọlá nínú àṣà àti ìṣe ilẹ̀ Yorùbá,11,37,3.3636363636363638
+correct,Ọba orílẹ̀ èdè yìí ti ṣe ohun mánigbàgbé sí ìlú wa,11,30,2.727272727272727
+correct,Iyàwò Rọ̀gbà se oúnjẹ aládùn fún ọkọ rẹ̀,8,28,3.5
+correct,Àdìmúlà ti gbà èkuru jẹ lọ́wọ́ ẹbọra,7,24,3.4285714285714284
+correct,Ilé àwòdamiẹnu ni ilé tí bàbá mi kọ́,8,18,2.25
+correct,Ilé àwòdamiẹnu tí bàbá mi kọ́ ti wó,8,18,2.25
+correct,Ìjọba ti fún arákùnrin náà ní owó tó pọ̀.,9,24,2.6666666666666665
+correct,Àwọn ọ̀rẹ́ mi ti lọ gbẹ̀yìn bẹbo jẹ́ lóri ohun tí a ṣe lánàá,14,39,2.7857142857142856
+correct,Apo ẹ̀pà ẹgbẹ̀rún mẹ́fà ni Mojí yan lálẹ́ àná kin tó sùn,12,31,2.5833333333333335
+correct,Àmọ̀pé rawọ́ ẹ̀bẹ̀ sí Olódùmarè fún gbogbo àwọn tí wọ́n diwọ́ disẹ̀ sínú,13,43,3.3076923076923075
+correct,Bàbá àgbà tẹ́rígbaṣọ lẹ́yìn ìnáwó tí a ṣe lánàá,9,32,3.5555555555555554
+correct,"Lẹ́yìn tí ìjọba mú Àlàkẹ́, kò ri iṣẹ́ gbà mọ",10,31,3.1
+correct,"Bí ọwọ́ Okùnọlá ò bá ṣe, ẹnu rẹ̀ kòlè jẹ",10,29,2.9
+correct,Okùnọlá ń fi iṣẹ́ ọwọ́ rẹ̀ ra oúnjẹ sí ẹnu ara rẹ̀,12,33,2.75
+correct,Mo wo sinimá Aníkúlápó nígbà igba,6,15,2.5
+correct,Sinimá Aníkúlápó tí mo wò kò dùn,7,16,2.2857142857142856
+correct,Ewé nàá pọ́n bí i òdòdó,6,16,2.6666666666666665
+correct,Ewé nàá ti sunko,4,8,2.0
+correct,Rónmú dún bí i àkukọ ní àárọ̀ yìí,8,18,2.25
+correct,Ojú ọbẹ̀ àti ẹ̀bà tí ó sè ń pe àwọn aràn inú mi,13,30,2.3076923076923075
+correct,Ebi ti fẹ́ kó ìfun mi lé mi lọ́wọ́ nígbà tí mo jí,13,25,1.9230769230769231
+correct,Ebi kò pa mí mo ti jẹun yó,8,13,1.625
+correct,Mo fẹ́ràn láti ma bá ajá Tifẹ́ ṣerẹ́,8,21,2.625
+correct,Àwọn irúgbìn oko yìí ń sunkún fún omi,8,22,2.75
+correct,Òjò ti rọ̀ sí orí àwọn irúgbìn oko náà,9,23,2.5555555555555554
+correct,Àwọn ìbejì náà sun ẹ̀jẹ̀ nígbà tí bàbá àgbà kú,10,28,2.8
+correct,Ogún ọdún ni ìyá àgbà lò kọ́ tó wọ bàtà tán,11,25,2.272727272727273
+correct,Àlàmú fọ́ gbogbo ilẹ̀kùn ilé kó tó wọlé,8,22,2.75
+correct,Bàba Ṣẹ́gun ti di báálẹ̀ agboolé Ṣétù,7,20,2.857142857142857
+correct,Ọ̀pọ̀lọpọ̀ àǹfàní ló ti tilẹ̀kùn mọ́,6,27,4.5
+correct,Ètè ràkúnmí tí wọ́n se fún mi jẹ̀ dùn gan,10,23,2.3
+correct,Ẹniafẹ́ fi rẹ́rìn-ín gba owó lọ́wọ bàbá rẹ̀.,8,30,3.75
+correct,Mo fẹ́ lọ gbàdúra níwájú ilé ìjosìn wa,8,22,2.75
+correct,Àwọn ajọ àgbáyé ti fún ààrẹ Bùhárí lóyè tuntun,9,27,3.0
+correct,Tanitolúwa jẹ́ ẹni tó fi gbọ̀ọ̀rọ̀ jẹkà níbi ká ṣètò ìlú,11,37,3.3636363636363638
+correct,Àgbá òfìfo ni orí Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀,9,31,3.4444444444444446
+correct,Gbogbo ará ìlú ti sọ ààrẹ Bùhárí di igbá ìkólẹ̀,10,29,2.9
+correct,Gbogbo ará ìlú nífẹ̀ẹ́ ààrẹ Bùhárí,6,22,3.6666666666666665
+correct,Ilé ẹ̀kọ́ fásitì ti pàṣẹ lọ rọọ́kún sílé fún olùkọ́ wa tó fipá bá akẹ́kọ̀ọ́ lò pọ̀,17,50,2.9411764705882355
+correct,Ilé ẹ̀kọ́ fásitì ti ṣe àfikún sí owó oṣù àwọn olùkọ́ wa,12,35,2.9166666666666665
+correct,Ojú abẹ́ Dérìnọlá dà bí i ti wúndíá,8,18,2.25
+correct,Lọ́jọ́ ìkómọ Àlàó pẹ́pẹ́yẹ kọmọ,5,26,5.2
+correct,Lọ́jọ́ ìkómọ Àlàó dà bí i aṣálẹ̀,7,22,3.142857142857143
+correct,Àdìgún ti lawọ́ láti kékeré,5,13,2.6
+correct,Nígbà tí déédé oòrùn kan àtàrí ni kábíyèsí ránṣẹ́ pè mí,11,28,2.5454545454545454
+correct,Ìmọ̀ Bọ́lájí kò tí ì kún nípa iṣẹ́ igbá fínfín,10,30,3.0
+correct,Omi gàrí tí mo mu lánàá kan bí i omi ògì,11,19,1.7272727272727273
+correct,Délaní mọ ọfà ta bí i àwọn ògbójú ọdẹ tafàtafà,10,31,3.1
+correct,Ọmọ náà ò dé òkè tó ga jùlọ nínú ẹ̀kọ́ rẹ̀,11,30,2.727272727272727
+correct,Àwọn ọmọ tó ń bí ò kì í ṣe aládòó-òfo,10,26,2.6
+correct,Àbẹ̀bí já ṣòròrò jáde lọ gbé ọmọ rẹ̀ tó fẹ́ já sínú kọ̀ǹga,13,36,2.769230769230769
+correct,Ọmọ Àbẹ̀bí ti kú sínú kọ̀ǹga,6,18,3.0
+correct,Ó pọn ọmọ bí i ẹni tí Elédùnmarè ò kọmọ mọ́,11,29,2.6363636363636362
+correct,Ẹ wo bí Jíbíkẹ̀ẹ́ ṣe ń ṣe ìbàdí rẹ̀ fún àwọn ọkùnrin bí i ọmọrí odó tí wọ́n yí kiri,20,57,2.85
+correct,Iyán ti Ṣadé sè ti bàjẹ́,6,15,2.5
+correct,Bọ́lájókòó rú ẹ́bọ ayé rẹ̀ si da,7,21,3.0
+correct,Olùjẹ́jọ́ ti gbọ́mọ ọbà f'ọ́ṣun nígbà tí ó ń ṣàlàyè ọ̀rọ̀ fún adájọ́,13,51,3.923076923076923
+correct,Olùjẹ́jọ́ ti sọ ọ̀rọ̀ àìda sí adájọ́,7,26,3.7142857142857144
+correct,Bàbá Déòtí ti rebi tó ti fẹ́ joyè,8,15,1.875
+correct,Mo ti mu irú ẹmu ògùrọ̀ báyìí ilẹ̀ ta sí i,11,25,2.272727272727273
+correct,Bádégún ṣe ìpàdé ẹgbẹ́ lánàá bí i ẹní ṣe ìnáwó oyè jíjẹ,12,37,3.0833333333333335
+correct,Bádégún ò nífẹ̀ẹ́ sí kí àwọn àgbàgbà wá síbi ìpàdé ẹgbẹ́ rẹ̀,12,39,3.25
+correct,Alájẹ fẹnu pamọ́ ni àwọn tó wá sí ibi ìnáwó wa lánàá,12,29,2.4166666666666665
+correct,Báyọ̀ gbọnwọ́ sáwo lẹ́yìn tó jẹun tan,7,24,3.4285714285714284
+correct,Àwọn èrònjà ta fí ń se èkuru ti di imí eégún lọ́jà,12,28,2.3333333333333335
+correct,Àwọn èrònjà ta fí ń se èkuru ti pọ̀jù lọ́jà,10,27,2.7
+correct,Alóńgẹ́ ti so iró di ọkà tó ń jẹ pẹ̀lú ọbẹ̀ ìṣápá,12,34,2.8333333333333335
+correct,"Àwọn ọlọ́pàá ti ṣe ìlérí pé, ẹni tó bá ja ìjọba lólè yóò gba ẹ̀bà láyé tí yóò lọ gba ọbẹ̀ lọ́run",22,65,2.9545454545454546
+correct,"Àwọn ọlọ́pàá ti ṣe ìlérí pé, ẹni tó bá ja ìjọba lólè yóò gba owó tabua",16,45,2.8125
+correct,Morẹ́nikéjì ti ń jẹsẹ̀ adìyẹ kiri láti àárọ̀,8,26,3.25
+correct,Morẹ́nikéjì ò mọ bí wọn ṣe jẹ ẹṣẹ adìyẹ,9,28,3.111111111111111
+correct,Ọmọ yìí tí ń wọgbọ́ atú lọ láti ìgbà tó tí ń bá àwọn ọ̀rẹ́ burúkú rìn,17,46,2.7058823529411766
+correct,Ọmọ yìí tí ri ọ̀nà àbáyọ láti ìgbà tó tí ń bá àwọn ọ̀rẹ́ tuntun rìn,16,44,2.75
+correct,Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n ya fẹ̀dọ̀ lẹ́rí òróǹró lóri ọ̀rọ̀ yìí,15,54,3.6
+correct,Àwọn ọ̀rẹ́ rẹ̀ mọ ibi tí ó faraṣoko sí,9,22,2.4444444444444446
+correct,Àwọn ọ̀rẹ́ rẹ̀ mọ bí ó ṣe jí iṣu lóko,10,26,2.6
+correct,Dérelé má ń fi ọ̀rọ̀ sábẹ́ ahọ́n fún wa,9,24,2.6666666666666665
+correct,Ajíkòbí jayé bí i ẹni tí kò ní kú mọ́,10,20,2.0
+correct,Wọ́n ti bọ́ṣọ lóju eégún lóri ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin kan,14,50,3.5714285714285716
+correct,Alóńgẹ́ ti sọ ojú abẹ ọ̀rọ̀ náà níkòó,8,25,3.125
+correct,"Wà á bísun, wà á bí ìwàlẹ̀ láṣẹ Èdùnmàrè",9,27,3.0
+correct,"O ò ní bísun, O ò ní bí ìwàlẹ̀ láṣẹ Èdùnmàrè",11,29,2.6363636363636362
+correct,Àlàdé la ọ̀rọ̀ mọ́lẹ̀,4,9,2.25
+correct,Àlàdé fòyà láti la ọ̀rọ̀ náà mọ́lẹ̀,7,17,2.4285714285714284
+correct,Ó kọtí ikún sí ọ̀rọ̀ bàbá rẹ̀,7,13,1.8571428571428572
+correct,Ó tẹ́tí sí ọ̀rọ̀ bàbá rẹ̀,6,12,2.0
+correct,Ó pàpà jayé tó wáyé wá jẹ,7,16,2.2857142857142856
+correct,Àlàbí gbóòórùn ara rẹ̀,4,11,2.75
+correct,Àlàbí ti lọ jayé ọba,5,12,2.4
+correct,Adélaní ń tu pẹ̀lú sùúrù,5,15,3.0
+correct,Àwọn Olúwálé gbaná jẹ,4,14,3.5
+correct,Ó gba ọ̀rọ̀ náà sórí,5,10,2.0
+correct,Olùkọ́ ti dẹni ilẹ̀,4,9,2.25
+correct,Mo ti sún kàngiri,4,7,1.75
+correct,Pamínkú obìnrin ni ọ́,4,9,2.25
+correct,Adé ti tẹtí sí ọ̀rọ̀ náà,6,15,2.5
+correct,Ẹ sá máa fòòró,4,9,2.25
+correct,Ọmọdé náà ò mọ ọwọ́ wẹ̀,6,17,2.8333333333333335
+correct,Òjó ń ṣiṣẹ́ bí ìjàpá,5,16,3.2
+correct,Afúni lóko ìdí ọ̀pẹ ro,5,13,2.6
+correct,Afúni lóko etídò ro,4,9,2.25
+correct,Ó rá an níṣẹ́ dé tòrutòru,6,11,1.8333333333333333
+correct,Táyé máa ń dé àwọn oníbàárà rẹ̀ mọ́lẹ̀,8,21,2.625
+correct,O ó fẹnu fẹ́ra bí abẹ̀bẹ̀,6,12,2.0
+correct,O ó pọ́nnu lá bí ẹni jẹ wàrà,8,17,2.125
+correct,Àjàdí tẹ aṣọ àgbà mọ́lẹ̀,5,14,2.8
+correct,Iṣu ẹni ló ń tọwọ̀ ẹni bọ epo,8,20,2.5
+correct,Olóore,1,3,3.0
+correct,Ayé fàmílétè n tutọ́ ni Àwẹ̀lé ń jẹ,8,18,2.25
+correct,Ajínasẹ̀,1,4,4.0
+correct,Ọlọ́́mọ kan kúrò ní kị lo bí?,7,17,2.4285714285714284
+correct,Àmúwá Ọlọ́run ni ọ̀rọ̀ náà,5,19,3.8
+correct,Jẹgúdúgẹrá ni Àjàní,3,13,4.333333333333333
+correct,Bàbá mi fara ya,4,5,1.25
+correct,A ó ré e lórí,5,6,1.2
+correct,Olúwọlé fárígá,2,8,4.0
+correct,Kábíyèsí fi imú Àlàbí dánrin,5,13,2.6
+correct,Kábíyèsí mórí Àlàbí sre,4,12,3.0
+correct,Awo ìmùlẹ̀ ni Adéọlá,4,14,3.5
+correct,Gbogbo yín ẹ lọ káyà sokè,6,15,2.5
+correct,Ọ̀gá dá sèríà fún ọmọ iṣẹ́ rẹ̀,7,18,2.5714285714285716
+correct,Ọ̀gá dá sèríà fún ọmọ iṣẹ́ lówó tó pọ̀ àti àgbéga lẹ́nu iṣẹ́,13,38,2.923076923076923
+correct,Adéyẹmí kágídíborí bíi fáànù Íbò,5,19,3.8
+correct,Adéyẹmí baralẹ̀ bí omi àfòwúrọ̀ pọ̀,6,22,3.6666666666666665
+correct,Ó fẹsẹ̀ fẹ́ ẹ,4,8,2.0
+correct,Kẹ́hìndé fàáké kórí lórí ọ̀rọ̀ náà,6,17,2.8333333333333335
+correct,Kẹ́hìndé gbà f'Ọ́lọ́run lórí ọ̀rọ̀ náà,6,27,4.5
+correct,Délé júba ehoro nígbà tí ó gbùròó àwọn Ọlọ́pàá,9,27,3.0
+correct,Ó ti kan róro nírù,5,8,1.6
+correct,Ẹ jẹ́ ká ṣe ọ̀rọ̀ náà ní bòńkẹ́lẹ́,8,19,2.375
+correct,Oríre rẹ̀ ti fẹ́ tẹnu bọpo,6,14,2.3333333333333335
+correct,Bàbá Àlàbí fọwọ́rọrí kú ni,5,13,2.6
+correct,Bàbá À̀làbí kúkú oró,4,9,2.25
+correct,Wọ́n fi imú Adéyẹmí fọn fèrè lójúde Ọba,8,22,2.75
+correct,Èéṣe tí o káwọ́ rọ̀?,5,13,2.6
+correct,Fogun ẹ̀yìn jàni,3,9,3.0
+correct,Kókó ń bẹ̀ lẹ́fọ̀ọ́,4,10,2.5
+correct,Àgbàlagbà tó ń ṣe láńgbáláńgbá,5,20,4.0
+correct,Àgbà tí ò jẹ́ kọ́rùn ọmọ ó wọ́,8,23,2.875
+correct,Ó ń pọnmi sí ajádìí apẹ̀rẹ̀,6,15,2.5
+correct,Ó rí kójọ,3,5,1.6666666666666667
+correct,Àwọn ará ìṣàlẹ̀ ń fapá jánú,6,17,2.8333333333333335
+correct,Àwọn ará òkè ń sòdí wùkẹ̀,6,20,3.3333333333333335
+correct,Agẹṣin èèyàn ni Ìṣọ̀lá,4,15,3.75
+correct,Olú na pápá bora,4,6,1.5
+correct,Àrèó lẹ́ṣẹ̀ lọ́rùn,3,15,5.0
+correct,Ó ti diwọ́disẹ̀ sínú,4,8,2.0
+correct,Wọ́n gbẹ̀yìn tẹ́bo rú,4,16,4.0
+correct,Àìná háwọ́,2,6,3.0
+correct,A ó wírèégbè ṣúlẹ̀,4,13,3.25
+correct,Omi ẹ̀fọ́ lọ̀rọ̀ yìí,4,11,2.75
+correct,Tagbè tomi ló ń mí,5,9,1.8
+correct,Ṣeyán bí ọkà?,3,10,3.3333333333333335
+correct,Iṣẹ́ fẹran jẹ̀kọ ni iṣẹ́ yìí,6,17,2.8333333333333335
+correct,Wọ́n ti ṣọkọ fún Adéwùmí,5,15,3.0
+correct,Ìbù̀kún háwọ́,2,10,5.0
+correct,Àyì̀nlá ń mu gaàrí ní Ìlọrin,6,17,2.8333333333333335
+correct,Sàláwá gbórí fún ọ̀gá rẹ̀,5,17,3.4
+correct,Àwọn ohun tí a ní ti wà ní ìlọ́po ìlọ́po,10,25,2.5
+correct,Ẹṣin inú ìwé ni Rọ́pò,5,13,2.6
+correct,"Ẹsin orí ilẹ̀ ni Rọ́pọ̀, ó lè fàdí ya",9,22,2.4444444444444446
+correct,Àdìó fọwọ́ láyin,3,11,3.6666666666666665
+correct,Ọwọ Bímpé ti tẹ ẹ̀kù idà,6,15,2.5
+correct,Èèrà abẹ́ bàtà ni Bímpé,5,12,2.4
+correct,Òkété bórù mọ́ Àdìsá lọ́wọ́,5,15,3.0
+correct,Ó ta tẹ́ru nípàá lánàá,5,11,2.2
+correct,A ti ṣíwèé ẹ̀ṣẹ̀ fún Tọ́pẹ́,6,22,3.6666666666666665
+correct,Má pọ́ mi nífun ò,5,7,1.4
+correct,Má fi gògóńgò mií lẹ̀ o,6,14,2.3333333333333335
+correct,Ẹ jẹ́ pẹ̀rọ̀ síi,4,12,3.0
+correct,Ìtì ọ̀gẹ̀dẹ̀ ni ọ̀rọ̀ yìí,5,17,3.4
+correct,Ológùnná kan ni ìyá Táyé,5,14,2.8
+correct,Gbogbo rẹ̀ polúkúrúmuṣu,3,11,3.6666666666666665
+correct,Gbogbo rẹ̀ ní ojúṣẹ̀ẹ́,4,12,3.0
+correct,Àjádí rí pípọ́n ojú Ayọ̀,5,10,2.0
+correct,Àjá̀dí rí omi àánú Ayọ̀,5,12,2.4
+correct,Òdú ni Àjàlá,3,8,2.6666666666666665
+correct,O ó fọwọ́ páhún,4,9,2.25
+correct,Wúndía ni Àwẹ̀lé,3,9,3.0
+correct,Àdìó forí jálé agbọ́n,4,10,2.5
+correct,Adéwá́lé ti jìfà ọkà ràbàtà,5,19,3.8
+correct,Òkú òru ni a ṣeé,5,12,2.4
+correct,Olú ń panu mọ́ kiri,5,10,2.0
+correct,Màálù ni Àkínsànyà,3,11,3.6666666666666665
+correct,Tọwọ́ ọmọ rẹ baṣọ,4,13,3.25
+correct,Sàngbá fọ́,2,5,2.5
+correct,Abara tíńtín,2,5,2.5
+correct,Ọtábíyìí ti di rírí gbé jó,6,14,2.3333333333333335
+correct,Táyé gbé bàlúù lọ sódò,5,13,2.6
+correct,Àgùntàn ni Bímpé,3,9,3.0
+correct,Adé ń fọ ọ̀rọ̀ bó ti rí gan,8,16,2.0
+correct,Ó dẹtí sílẹ̀ sí àmọ̀ràn mi,6,15,2.5
+correct,Ajíbádé ń yíjú sẹ́yìn fúnmi,5,16,3.2
+correct,Ó sọ̀pàkọ́ sí i,4,8,2.0
+correct,Àdìgún gbaná ojú Ayò,4,11,2.75
+correct,Ò ń tọwọ́ bọ̀ mí lénu,6,12,2.0
+correct,Ọmọ náà yándìí,3,11,3.6666666666666665
+correct,Ọmọlúàbí ni Àdìsá,3,12,4.0
+correct,A kú ìtẹ́nu,3,6,2.0
+correct,Bólú ò rẹ́nìkan wò ṣe,5,15,3.0
+correct,Tàlàbí lu olùkọ́ lọ́gọ ẹnu,5,16,3.2
+correct,Àwòko ni Ayọ̀,3,7,2.3333333333333335
+correct,Agbárí odi ni Ayọ̀,4,9,2.25
+correct,Mo gbe ẹ̀mí lé Olú,5,8,1.6
+correct,Olúbáre ti jẹun sókè,4,11,2.75
+correct,Àṣá ni Dàda,3,7,2.3333333333333335
+correct,Ìdòwù tùuúlẹ̀,2,10,5.0
+correct,Ìdòwù́ wararo,2,8,4.0
+correct,Kẹ́hìndé fàgbà han ìdòwú,4,15,3.75
+correct,Wọ́n gbadà lọ́wọ́ Olú,4,15,3.75
+correct,Ọ̀rá wà lára Ìdòwú,4,14,3.5
+correct,Àdió ti kún wa láyé,5,9,1.8
+correct,Àṣá ni Ìdòwú,3,10,3.3333333333333335
+correct,Bídèmí pàkúta sọ́rọ̀ wa,4,14,3.5
+correct,Àdàbà ni Dọlápọ̀,3,12,4.0
+correct,Ó fẹnu họra,3,6,2.0
+correct,Ejò ni ó ń lé sími,6,10,1.6666666666666667
+correct,Wọ́n ti yọ òkúta lérù olùkọ́,6,19,3.1666666666666665
+correct,Àdìsá ti tọwọ́ bọná,4,12,3.0
+correct,Àkekèé ni Dayọ̀,3,8,2.6666666666666665
+correct,Ó ti kógbó sími lápò,5,10,2.0
+correct,Ewèlè ni Àdùkẹ́,3,10,3.3333333333333335
+correct,Finá sórí òrùlé sùn,4,11,2.75
+correct,Réyín rungi,2,5,2.5
+correct,Dáṣọ ró Ọmọ́yẹ,3,11,3.6666666666666665
+correct,Fọwọ́ wọ́nú,2,7,3.5
+correct,Èmi ni mo tọ̀pá bọhò ọ̀rọ̀ náà,7,17,2.4285714285714284
+correct,È̀mi ni mo bomi paná ẹ̀,6,11,1.8333333333333333
+correct,Ó fẹ́ máa kógbó sí mi lórí,7,13,1.8571428571428572
+correct,Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni wọ́n ti kọjá lọ,8,31,3.875
+correct,Ọ̀pọ̀lọpọ̀ àwọn ènìyàn ni padà bí,6,24,4.0
+correct,Àdàbà ni Àìná,3,9,3.0
+correct,Ọmọ yẹn padà dúró,4,11,2.75
+correct,Ọfọ́n-ọ̀n ni Táyọ̀,3,15,5.0
+correct,Ajá ìṣọ́lé ni Táyọ̀,4,13,3.25
+correct,Tèmítọ́pẹ́ ló gbégbá orókè,4,16,4.0
+correct,Dami síwájú,2,5,2.5
+correct,Ìjẹ̀ erin ni Òjó ń jẹ,6,15,2.5
+correct,Àdìsá láyà tì,3,9,3.0
+correct,Ẹnu mi gbẹ,3,7,2.3333333333333335
+correct,Ẹnu mi tutù,3,6,2.0
+correct,Òun ló kẹ́rẹ̀ yínmi,4,9,2.25
+correct,O ti fi imí tíntín bàdí jẹ́,7,11,1.5714285714285714
+correct,O ti tún ìdí rẹ̀ ṣe,6,13,2.1666666666666665
+correct,Ó ń gbé mi gẹṣin aáyán,6,14,2.3333333333333335
+correct,Àjàdí ló su sáwo,4,8,2.0
+wrong,Òkèlè ẹ̀bà kan ni ọmọ náà jẹ lánàá,8,23,2.875
+wrong,Ó burú bí i ọlọ́kàn rere,6,14,2.3333333333333335
+wrong,Òrùn náà ń fẹyín síta bí i ọmọ jòjòló,9,26,2.888888888888889
+wrong,Ọpọlọ Tàlàbí dọ́ta bí i ọmọ òmùgọ̀ tí wọ́n rán láta tó lo ra Ọsàn,15,42,2.8
+wrong,Ọpọlọ Tàlàbí ṣiṣẹ́ pépé bí i ọmọ tó mọ iṣẹ́ jẹ́,11,34,3.090909090909091
+wrong,Ọmọbìnrin náà rí bí i àkìtàn,6,18,3.0
+wrong,Àwọn ará ìlú ri pé Ẹkùn ni Ṣẹ́gun,8,22,2.75
+wrong,Àwòko ni Àdìgún nínu orin kíkọ,6,16,2.6666666666666665
+wrong,Ìṣọ̀lá má ń tún ilé rẹ̀ ṣe ní gbogbo nìgbà,10,27,2.7
+wrong,Ìyá náà rí bí i ọmọge ọ̀ṣọ́rọ́,7,23,3.2857142857142856
+wrong,Àwọ̀ rẹ rí bí i èédú tí wọ́n fí ń dáná,11,22,2.0
+wrong,Àwọ̀ rẹ rí bí i góòlù tí mọ ṣẹ̀ṣẹ̀ rà láti ilẹ̀ òkèrè,13,35,2.6923076923076925
+wrong,Omí bọ́ lójú ìjàpà nígbà tí Ọba pàṣẹ pé kí wọ́n fi joyè báálẹ̀.,14,37,2.642857142857143
+wrong,Àpò ẹ̀wà méjì ni Bọ́lá jẹ kó tó sùn,9,23,2.5555555555555554
+wrong,Ẹ̀wà ṣíbí kan ni Bọ́lá jẹ kó tó sùn,9,22,2.4444444444444446
+wrong,Ajá ni Àdùkẹ́ jẹ́ fún gbogbo àwọn ọkùnrin àdúgbò,9,31,3.4444444444444446
+wrong,Jẹgúduj́ẹrá ni àwọn olóṣèlú Ẹ̀kó,5,22,4.4
+wrong,"Àkókò ń fà bí i ìgbín, a ò sí lè dúró de ẹnì kankan",14,29,2.0714285714285716
+wrong,Àdìó ń fò bí i ẹ̀fọn níbi ìdíje eré sísá lọ́sẹ̀ tó kọjá,13,36,2.769230769230769
+wrong,Ọkàn Ṣọlápé fẹ́lẹ́ bí i Àmàlà,6,21,3.5
+wrong,Bọ́lájí jẹun bí i ẹni tí kò jẹun fún ọdún mẹ́fà,11,29,2.6363636363636362
+wrong,Bọ́lájí jẹun bí i ẹni tó ti yó,8,17,2.125
+wrong,Gbogbo ìlú ti gbà pé Ìlú mọ̀ọ́ká ni Àrẹ̀mú,9,26,2.888888888888889
+wrong,Ọbẹ̀ tí Àbẹ̀ní sè kurò bí i ewúro,8,20,2.5
+wrong,Gbogbo àwọn ẹni tí ọ̀ ń bá ṣọ̀rẹ́ lawọ́,9,27,3.0
+wrong,Àmọ̀pé ní ìgboyà ó lé dá pa áyán,8,18,2.25
+wrong,Ọba ni Àlàmú nínu ká roko,6,12,2.0
+wrong,Àwọ̀ Bọ́lájí rí bí i ti ááyán,7,17,2.4285714285714284
+wrong,Àwọ̀ Bọ́lájí rí bí i ti eye àdán,8,16,2.0
+wrong,Oró inú àwọn olùkọ́ wa rí bí i ti ejò,10,20,2.0
+wrong,Ewúro ni Óunjẹ tí a jẹ lánàá,7,15,2.142857142857143
+wrong,Àbíkẹ́ ní òye tó dájú nípa iṣẹ́ agbẹ̀bí bí i àwọn dọ́kítà ilẹ̀ òkèrè,14,43,3.0714285714285716
+wrong,Aṣọ àlà tí ó wọ̀ mọ́ ju ẹyín tí mo ṣẹ̀ṣẹl fọ̀ láàárọ̀ yìí lọ,15,40,2.6666666666666665
+wrong,Oní gángàngán ni Òjó gbogbo wa la mọ̀ bẹ́ẹ̀,9,23,2.5555555555555554
+wrong,Inú yàrá ìdánwò nàá rí bí i ọjà Oṣòdì,9,25,2.7777777777777777
+wrong,Gbogbo ara ìyá àgbà kò gan sínú ilé,8,18,2.25
+wrong,Àgbẹ̀ náà ti kó gbogbo ọmọ tí igi nàá bí lánàá,11,25,2.272727272727273
+wrong,Lákíríboto ni arábìnrin tí ọ̀gá ṣẹ̀ṣẹ̀ gbà sí ẹnu iṣẹ́,10,36,3.6
+wrong,Àgàn ni Àṣàbí fún ọgbọ̀n ọdún,6,20,3.3333333333333335
+wrong,Láti kéreké ni Ìdòwú tí ń ṣe iṣẹ́ ọdẹ bí i bàbá rẹ̀,13,33,2.5384615384615383
+wrong,Orí Gbádébọ̀ kò rí bí i orí òkè olúmọ,9,23,2.5555555555555554
+wrong,Ẹsẹ̀ Bólájí gùn bí i ọ̀pá Ọ̀rànmíyàn,7,25,3.5714285714285716
+wrong,Èdè Yorùbá ẹnu rẹ̀ kò dánmọ́rán bí i tàwọn Ẹ̀gùn,10,33,3.3
+wrong,Gàrì náà kan bí i omi ògì,7,14,2.0
+wrong,Gàrì náà korò bí i omi ògì àná,8,17,2.125
+wrong,Eyín rẹ̀ kò funfun bí i ẹyẹ àdàbà,8,20,2.5
+wrong,Adékúnlé ti fọ́ lórí níbi tó ti lọ jà,9,18,2.0
+wrong,Àso erin ni Bọ́látitó,4,11,2.75
+wrong,Ọlọ́yàyà ni Bọ́látíto,3,16,5.333333333333333
+wrong,Paramọ́lẹ̀ ni Àbẹ̀kẹ́,3,15,5.0
+wrong,Ẹlẹ́nu ẹyẹ ni Àgbékẹ́,4,16,4.0
+wrong,Aládúrà ni Àgbékẹ́,3,10,3.3333333333333335
+wrong,"Ọmọ náà gbọ́ Ifá, ó mọ nú ìgbín nínú ìkàrahun bí í abọrẹ̀ agboolé wa",15,40,2.6666666666666665
+wrong,Ọmọ náà kò mọ nǹkankan nípa Ifá,7,18,2.5714285714285716
+wrong,Àkàrà Gbádégẹṣin àti àbúrò rẹ̀ kò tú sépo,8,24,3.0
+wrong,Àbẹ̀ní se onírurú ọbẹ̀ lánàá bí i àwọn tó ń dáná olópò,12,33,2.75
+wrong,Àbẹ̀ní se onírurú ọbẹ̀ tí kò dùn lánàá.,8,24,3.0
+wrong,Ojú ọ̀run náà lóyún omi nǹkan bí i ago mọ́kànlá ló tó bímọ,13,30,2.3076923076923075
+wrong,Ojú ọ̀run náà ò lóyún omi,6,15,2.5
+wrong,Òòrun àná ta ènìyàn lára bí i iná àdògán,9,22,2.4444444444444446
+wrong,Òòrun àná kò ta ènìyàn lára,6,16,2.6666666666666665
+wrong,Ojú Yẹmí le bí i ojú ọ̀daràn kò sí eni tó lè ba sọ̀rọ̀,14,30,2.142857142857143
+wrong,Ojú Yẹmí ni àwọn ọmọge fẹ́ rí,7,19,2.7142857142857144
+wrong,Aṣọ Títílayọ̀ rí bí i aṣọ egbéré,7,17,2.4285714285714284
+wrong,Adé ń pariwo bí i eni tí ajá bùjẹ,9,16,1.7777777777777777
+wrong,Ike omi ọgọ́rùn-ún ni Àdìsá pọn kó tó lọ sí ilé ìwé láàárọ̀ yìí,14,40,2.857142857142857
+wrong,Olùdíje náà sáré bí i atẹ́gùn,6,16,2.6666666666666665
+wrong,Olùdíje náà sáré bí i ìgín,6,14,2.3333333333333335
+wrong,Àpò náà wúwo bí i àpo tó kún fún òkúta ńlá,11,24,2.1818181818181817
+wrong,Àpò náà kò wúwo rárá,5,12,2.4
+wrong,Ètè rẹ̀ dúdú bí i ètè ẹni tó ń fa igbó,11,23,2.090909090909091
+wrong,Fọlárìn jẹun bí i ẹlẹ́dẹ̀,5,18,3.6
+wrong,Fọlárìn ò jẹun bí i ẹlẹ́dẹ̀,6,20,3.3333333333333335
+wrong,"Ayọ̀mídé jẹ abọ́ ẹ̀bà méjìlá, ó wá ń gbẹ́sẹ̀ bí i olóyún tó ń rọbí",15,44,2.933333333333333
+wrong,"Ayọ̀mídé ò lè jẹ abọ́ ẹ̀bà méjìlá, kò sì rìn bí i olóyún",13,36,2.769230769230769
+wrong,Ọlọ́jẹ̀ ni Dáṣọfúnjó,3,15,5.0
+wrong,Igi tí wọ́n fi pa ejó náà rí ràbàtà bí i igi ìrókò,13,28,2.1538461538461537
+wrong,Ìyá Bọ́lájí sọ pé nǹkan ọmọ ọkùnrin bàbá Bọ́lájí rí bí i tọmọ ìkókó,14,43,3.0714285714285716
+wrong,Ọmọ ọdún mẹ́fà náà lu ìlù bí i ẹni tí wọ́n bí sí ìdílé àyàn,15,38,2.533333333333333
+wrong,Ọmọ ọdún mẹ́fà náà gbé ìlù kọ́rùn bí i ẹni tí wọ́n bí sí ìdílé àyàn,16,45,2.8125
+wrong,Ìfẹ́ Adédoyin pamí bí i ọtí,6,16,2.6666666666666665
+wrong,Àbẹ̀ún kó sí́ aṣọ tuntun tó rà,7,15,2.142857142857143
+wrong,Ayé lọ bí i ọ̀pá òrúnmìlà,6,16,2.6666666666666665
+wrong,Àdùnnị ṣẹ̀ṣẹ̀ bẹ̀rẹ̀ sí ní lọ ilé ìwé,8,27,3.375
+wrong,Àmọ̀pé mí gúlegúle bí i ajá tí ẹbí pa,9,20,2.2222222222222223
+wrong,Àṣàkẹ́ jókòó sórí àga bí i ẹni ti ìsó gún nídìí,11,29,2.6363636363636362
+wrong,Ojú Ìgè rí bí i ojú eye àdán,8,14,1.75
+wrong,Ojú Ìgè kún fún ẹ̀rín àti ayọ,7,18,2.5714285714285716
+wrong,Ó taná ojú bí i iná mọ́to ayọ́kẹ́lẹ́,8,22,2.75
+wrong,Ojú Fọlárìn ti tóbi jú,5,12,2.4
+wrong,Ẹsẹ̀ tó ti kán ni Bọ́lájókòó fi ń rin,9,22,2.4444444444444446
+wrong,Iyán náà fẹ́lẹ́ bí i etí,6,15,2.5
+wrong,Iyán náà wúwo bí i òkúta,6,14,2.3333333333333335
+wrong,Ìdí àwọn akẹ́kọ̀ọ́ yọ eruku lala bí i omi gbóná nínú yàrá ìdánwò,13,38,2.923076923076923
+wrong,Adégbètẹ́ bú sẹ́kún nígbà tí ó ń bá ọ̀rẹ́ Mákindé sòrò,11,33,3.0
+wrong,Arákunrìn náà ta téru nípàá níbi ìṣẹ̀lẹ̀ ìjàmbá ọkọ̀,9,35,3.888888888888889
+wrong,Arákunrìn náà ra ọkọ̀ tuntun,5,15,3.0
+wrong,"Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ yóò kẹsẹ̀ bọ sòkòtò kan ná-àn, ọlọ́pàá sì kó wọn",15,54,3.6
+wrong,Èésúọlá àti àwọn ọ̀rẹ́ rẹ̀ yóò aṣọ tó rẹwà tó sì jọra,12,36,3.0
+wrong,Àdìsà kò mu ẹmu rárá ní ilé ẹmu lánàá,9,22,2.4444444444444446
+wrong,Ọdẹ́ṣọlá ò mọ iṣẹ́ tí wọ́n pè ni iṣẹ́ ọdẹ.,10,33,3.3
+wrong,Ení tere èji tere kọ́ ló gba owó rẹ̀ padà,10,20,2.0
+wrong,Agbẹjọ́rò náà ò sọ ẹni tó jẹ̀bi,7,21,3.0
+wrong,Àwọ́n èrò tó wà lọ́jà tí fi ọlọ́pàá gbé bàbá ọjà lánàá,12,36,3.0
+wrong,Inú Fadékẹ́ ti padà yọ́ sí mi bí i òrí lánàá lẹ́yìn gbogbo ìjà wa,15,36,2.4
+wrong,Fadékẹ́ ti padà bí ìbejì lẹ́yìn gbogbo ìjà wa,9,27,3.0
+wrong,Ìka kan ò wọ àwọn ọmọ yìí nídìí mọ́,9,26,2.888888888888889
+wrong,Ẹ wo bí Adénúgà ṣe ń gun igi bí i ọ̀bọ,11,24,2.1818181818181817
+wrong,Ẹnu ni Tifẹ́ladé ni bí i tajakàrà,7,17,2.4285714285714284
+wrong,Tifẹ́ladé kò mọ̀ bi wọ́n ṣe dan ẹnu,8,23,2.875
+wrong,Kí ló dé tí Adéṣínà ṣe máa ń hùwà bí i atọ̀ọ́lé?,12,30,2.5
+wrong,Ẹ wo bí Àlàó ṣe duró bí i omi adágún odò,11,21,1.9090909090909092
+wrong,Àwọn olè náà júbà eworo nígbà tí wọ́n gbúròó àwọn ọlọ́pàá,11,38,3.4545454545454546
+wrong,Àwọn olè náà yin ìbọn nígbà tí wọ́n gbúròó àwọn ̀ọlọ́pàá,11,39,3.5454545454545454
+wrong,Ọ̀sẹ̀ kan rèé tí Wọléọlá ti wà nínú yàrá bí i ẹni tọ́ fi s'ẹ́wọ̀n,15,40,2.6666666666666665
+wrong,Ọdẹ́wùnmí júbà gbogbo àwọn àgbà ọdẹ bí i ẹni tí kò kọ́ṣẹ́ ọdẹ,13,45,3.4615384615384617
+wrong,Ọ̀gbẹ̀rì ni Adénifújà nínú ẹgbẹ́ wa,6,21,3.5
+wrong,Adénifújà kì í ṣe Ọ̀gbẹ̀ri nínú ẹgbẹ́ wa,8,25,3.125
+wrong,Wọ́n gbé oúnjẹ tó dùn fún Bólájí,7,18,2.5714285714285716
+wrong,Arákùnrin náà fẹ́ burẹ́wà,4,15,3.75
+wrong,Ogúnlọ́gọ̀ àwọn ènìyàn ló wà ní pápá ìṣeré tí wọ́n ti fẹ́ gbá bọ́ọ̀lù ikọ̀ Nàìjíríà,16,55,3.4375
+wrong,Àwọn ikọ̀ Nàìjíríà ti fakọyọ níbí ìdíje ife ẹ̀yẹ àgbáyé ju ti àtẹ̀yìn wá lọ,15,50,3.3333333333333335
+wrong,Etí Arínájà rí bí i eté eworo,7,14,2.0
+wrong,Etí Arínájà tí gbọ́ ọ̀rọ̀ dáadáa,6,22,3.6666666666666665
+wrong,Adérẹ̀mí ṣe Arímọrọ̀ bí ọṣẹ́ ṣé ń ṣojú nígbà tí wọ́n ja ìjà ìjàkadi lánàá,15,51,3.4
+wrong,Àrẹ̀mú ò fẹ́ràn láti ma fojú ri Ọmọ́ṣaléwá,8,28,3.5
+wrong,Bàbá Agbájé ń fẹnu fa ọyùn ìyàwò rẹ̀ bí i ọmọ ìkókó tí kò tí ì já lẹ́nu ọyùn,19,52,2.736842105263158
+wrong,Bàbá Agbájé kò fẹnu fa ọyùn ìyàwò rẹ̀,8,26,3.25
+wrong,"Iná ọdẹ náà tàn, ó sì ríran kedere",8,16,2.0
+wrong,Ọmọ Ègùn ni Adéṣọlá kò mọ̀ nípa àṣà ilẹ̀ Yorùbá,10,31,3.1
+wrong,Adésuà fọwọ́ osùn pa ògiri gbígbe lánàá nílé ìwòsàn,9,31,3.4444444444444446
+wrong,Adésuà ti bẹ̀rẹ̀ sí ni ṣe àìsàn lánàá nílé ìwòsàn,10,31,3.1
+wrong,Ọjọ́ tí òbò bá jẹ ọba lorílẹ̀ èdè yìí ni ìlú bàjẹ́,12,34,2.8333333333333335
+wrong,Iyàwò Rọ̀gbà sunkún àìrípọ̀n nílé ọkọ rẹ̀ lẹ́yìn ìgbéyàwó ọdún mọ́kànlá,11,53,4.818181818181818
+wrong,Ajá náà bí akọ àti abo bí i àgùntàn tó bímọ láàrọ́ yìí,13,29,2.230769230769231
+wrong,Ajá náà kò bí akọ àti abo,7,12,1.7142857142857142
+wrong,Àdìmúlà se èkuru fún à̀wọn ẹgbẹ́ rẹ̀,7,22,3.142857142857143
+wrong,Ìjọba yẹgi fún arákùnrin náà tó jí owó ìjọba gbé,10,29,2.9
+wrong,Àwọn ọ̀rẹ́ mi ló ra aṣọ tí mo wọ̀ lánàá,10,24,2.4
+wrong,Ẹ̀pà hóró mẹ́fà ni Mojí yan lálẹ́ àná kin tó sùn,11,26,2.3636363636363638
+wrong,Àmọ̀pé ṣépè fún gbogbo àwọn tí wọ́n diwọ́ disẹ̀ sínú,10,32,3.2
+wrong,Ọ̀kẹ́ ṣiṣẹ́ bí i omi òjò lánàá,7,23,3.2857142857142856
+wrong,Ọ̀kẹ́ ò ṣiṣẹ́ kankan rárá lánàá,6,21,3.5
+wrong,Bàbá àgbà raṣọ àti bàtà lẹ́yìn ìnáwó tí a ṣe lánàá,11,31,2.8181818181818183
+wrong,"Lẹ́yìn iṣẹ́ ìjọba ti Àlàkẹ́ ń ṣe, ó tún wá nǹkan mìíràn fi pawọ́dà",14,45,3.2142857142857144
+wrong,Ìdánwò tí Dúpé ṣe lánàá gbomi gan,7,18,2.5714285714285716
+wrong,Ìdánwò tí Dúpé ṣe lánàá ò gbomi rárá,8,21,2.625
+wrong,Rónmú ti lọ ra àkukọ lọ́ja ní àárọ̀ yìí,9,22,2.4444444444444446
+wrong,Ojú ọbẹ̀ àti ẹ̀bà tí ó sè rí bí i ẹrọ̀fọ̀,11,29,2.6363636363636362
+wrong,"Ajá Tifẹ́ gba bàtà lẹ́sẹ̀ mi, ẹ̀sẹ̀ mi ò balẹ̀",10,30,3.0
+wrong,Lọ́ládé gbé ọ̀rọ̀ náà sórí bí i igbá ọtí,9,25,2.7777777777777777
+wrong,Lọ́ládé ti sọ ọ̀rọ̀ kóríyá fún àwọn akẹ́kọ̀ó,8,31,3.875
+wrong,Àwọn ìbejì náà má ń fi irùngbọ̀n bàbá wọn ṣeré,10,30,3.0
+wrong,ìṣéjú kan ni ìyá àgbà lò láti fi wọ bàtà,10,23,2.3
+wrong,Ó ti rẹ̀mí mo lè sùn fún ọdún mẹ́ta,9,21,2.3333333333333335
+wrong,Ó ti rẹ̀mí mo lè̀ gbé májèlé jẹ,8,17,2.125
+wrong,Àlàmú wọlé bí i òlè lórú lánàá nígbà tí a ti sùn,12,25,2.0833333333333335
+wrong,Irun orí bàba Ṣẹ́gun jájẹ láàárín orí bí i irun orí báálẹ̀ agboolé Ṣétù,14,36,2.5714285714285716
+wrong,Ọ̀pọ̀lọpọ̀ àǹfàní ló ń kan ìlẹ̀kùn ilé rẹ,8,32,4.0
+wrong,Elétè ṣípotì bí i ètè ràkúnmí,6,18,3.0
+wrong,Ẹniafẹ́ rẹ́rìn-ín bí i ẹni tó ní gángàngán,8,24,3.0
+wrong,Mo fẹ́ lọ ṣe ìgbọ̀nsẹ̀ níwájú ilé ìjosìn wa,9,28,3.111111111111111
+wrong,Àwọn ajọ àgbáyé ti júwe ọ̀na ilé fún ààrẹ Bùhárí nítorí àìṣe ìtọ́jú àwọn ará ìlú,16,53,3.3125
+wrong,Tanitolúwa ò lè fi gbọ̀ọ̀rọ̀ jẹkà níbi ká ṣètò ìlú,10,34,3.4
+wrong,Orí Ẹniọlá àti àwọn ọ̀rẹ́ rẹ̀ ti pé jù,9,26,2.888888888888889
+wrong,Ojú abẹ́ Dérìnọlá ti gìn bí i kọ̀ǹga,8,20,2.5
+wrong,"Níbi ìnáwó oyè jíjẹ tí mo lọ, wọ́n filé pọtí, wọ́n fọ̀nà rokà, wọ́n fí gbogbo agbada díran",18,51,2.8333333333333335
+wrong,"Níbi ìnáwó oyè jíjẹ tí mo lọ, mo ò rí nǹkankan fẹnu gbá",13,30,2.3076923076923075
+wrong,Ladé ti kẹ́ran lọ́wọ́ ìjọba,5,18,3.6
+wrong,Ladé ti ń bá ìjọba ṣiṣẹ́,6,17,2.8333333333333335
+wrong,Àdìgún ti ń fẹ́wọ́ láti kékeré,6,18,3.0
+wrong,Nígbà tí àwọn ọmọ náà bẹ̀rẹ̀ sí ní jà ni kábíyèsí ránṣẹ́ pè mí,14,38,2.7142857142857144
+wrong,Ó ń fi ẹ̀sẹ̀ gbá gbogbo ìgboro kiri,8,20,2.5
+wrong,Ó ń fi gègé kọ ìwé owó kiri,8,16,2.0
+wrong,Ojú ọ̀nà náà dí pákópákó bí i ọjú ọ̀nà Ìsọlọ̀ sí Ìjẹgun,12,37,3.0833333333333335
+wrong,Mo ti ra ilé tuntun sí ọjú ọ̀nà Ìsọlọ̀ sí Ìjẹgun,11,29,2.6363636363636362
+wrong,Ìmọ̀ Bọ́lájí kún nípa iṣẹ́ igbá fínfín bí i àwọn ará Ọ̀yọ́,12,39,3.25
+wrong,Omi gàrí tí mo mu lánàá korò bí i àgbo,10,17,1.7
+wrong,Délaní ò mọ ọfà ta bí i àwọn ògbójú ọdẹ,10,27,2.7
+wrong,Mo ma dé òkè tó ga jùlọ nínú ẹ̀kọ́ mi àti nínú iṣẹ́ mi,14,31,2.2142857142857144
+wrong,Aládòó-òfo ni àwọn ọmọ tó ń bí,7,20,2.857142857142857
+wrong,Ó pọn ọmọ bí i ẹni tí Elédùnmarè ò kọmọ mọ́,11,29,2.6363636363636362
+wrong,Ìranù ni Jíbíkẹ̀ẹ́ ṣe pẹ̀lú àwọn ọkùnrin,7,30,4.285714285714286
+wrong,Iyán ti Ṣadé sè ti tutù bí i imú ajá nígbà tí mo fẹ́ jẹun,15,30,2.0
+wrong,Bọ́lájókòó kọtí ọ̀gbọ̀n-in sẹ́bọ lóri ohun tí adájọ́ sọ fun nílé ẹjọ́,12,45,3.75
+wrong,Èmi pàápàá gan ò tí i jẹun yó bátákú bí i ìdun tó ń wọ́ rìn kí ń tó kúro nílé,21,41,1.9523809523809523
+wrong,Èmi pàápàá gan tí i jẹun yó bátákú,8,17,2.125
+wrong,Bàbá Déòtí ti rebi àgbà ń rè ní ìdájí òní,10,22,2.2
+wrong,Irú ẹmu ògùrọ̀ ti mo yìí ò dùn rárá,9,23,2.5555555555555554
+wrong,Alájẹ fẹnu nulẹ̀ bí i adìẹ ni àwọn tó wá sí ibi ìnáwó wa lánàá,15,34,2.2666666666666666
+wrong,Báyọ̀ gbọ̀ndí gbùú lẹ́yìn tó jẹun tan kò gbọnwọ́ nǹkankan sáwo fún ẹni tó ta oúnjẹ fun,17,52,3.0588235294117645
+wrong,Alóńgẹ́ ti so iró nàá di òótọ́ mọ́ wa lọ́wọ́,10,29,2.9
+wrong,Àjẹfẹ̀-fun-fẹ̀yà ni Àdìmúlà jẹ níbi ìgbéyàwó tí a lọ lánàá,10,39,3.9
+wrong,Àdìmúlà jẹ oúnjẹ díẹ̀ níbi ìgbéyàwó tí a lọ lánàá,10,31,3.1
+wrong,Àwọn ọlọ́pàá ti sọ fún ìjọba kí wọ́n pa gbogbo àwọn ẹlẹ́wọn,12,43,3.5833333333333335
+wrong,Dérelé má ń sọ ọ̀ọ́tọ́ ọ̀rọ̀,6,22,3.6666666666666665
+wrong,Ajíkòbí kò jayé tó fi kú,6,12,2.0
+wrong,Wọ́n parọ́ ọ̀rọ̀ tó ṣẹlẹ̀ láàárín àlùfáà àti ọmọbìnrin náà,10,41,4.1
+wrong,Alóńgẹ́ kò sọ ojú abẹ ọ̀rọ̀ náà níkòó,8,26,3.25
+wrong,Àkànní ti rèwàlẹ̀ àsà,4,11,2.75
+wrong,Àkànní ti ra ọkọ̀ tuntun,5,13,2.6
+wrong,Ó pàpà rí yà he,5,8,1.6
+wrong,Adélaní ń tu bí ejò,5,10,2.0
+wrong,Àwọn Olúwálé jẹ ìrẹsì tí wọ́n sè,7,24,3.4285714285714284
+wrong,Ó yin ọ̀rọ̀ náà nù,5,12,2.4
+wrong,Olùkọ́ ti dẹni òkè,4,11,2.75
+wrong,Mo rára gbà á sí,5,8,1.6
+wrong,Obìnrin ni ìwà ire,4,11,2.75
+wrong,Ọlá ń jẹ tinu ẹyin,5,12,2.4
+wrong,Ọlá ń mu gaàrí,4,9,2.25
+wrong,Adé ń lọ́yà mi,4,8,2.0
+wrong,Ẹ ṣá máa mìlíkì,4,10,2.5
+wrong,Ọmọdé tí ó bá mọ ọwọ́ wẹ̀ á bá àgbà jẹun,11,24,2.1818181818181817
+wrong,Òjó ń ṣiṣẹ́ bí eerin,5,13,2.6
+wrong,Ó rá an níṣẹ́ dé ọlà,6,10,1.6666666666666667
+wrong,Ó ń lọọgun tantan,4,9,2.25
+wrong,Ó dákẹ́ sii,3,6,2.0
+wrong,Táyé máa wín àwọn oníbàárà rẹ̀,6,20,3.3333333333333335
+wrong,Ó kárí bọnú,3,5,1.6666666666666667
+wrong,Ó fò kiri,3,4,1.3333333333333333
+wrong,Àwọn àgbà ti ṣàdúrà fún Àjàdí,6,19,3.1666666666666665
+wrong,Àjùmọ̀bí ò kan tàánú,4,13,3.25
+wrong,Àjùmọ̀bí lè ṣe ni láàánú,5,16,3.2
+wrong,"A kì í báni tan, ká fani nítan ya",9,14,1.5555555555555556
+wrong,Oníyangí,1,4,4.0
+wrong,Òjó gbá ṣọṣọ lójú,4,12,3.0
+wrong,Òjó yàgò fún ṣọṣọ,4,14,3.5
+wrong,Igi gogoro má gún mi ojú,6,10,1.6666666666666667
+wrong,Igi gogoro kò lè gún mi ojú,7,13,1.8571428571428572
+wrong,Ayé ìwọ̀ntún ìwọ̀n òsì ni Àwẹ̀lé ń jẹ,8,29,3.625
+wrong,Ají́gbọ́nini,1,7,7.0
+wrong,Ọlọ́mọ kan kò kúrò lágàn,5,12,2.4
+wrong,A kì í sumí rírọ̀ sí tòsí,7,10,1.4285714285714286
+wrong,Ilé là ń tẹ̀kọ rírọ̀ sí,6,15,2.5
+wrong,Ejò lọ́wọ́ nínú ọ̀rọ̀ yìí,5,14,2.8
+wrong,Àjànàkú ni Àjàní,3,10,3.3333333333333335
+wrong,Bàbá mi ti fojú àánú wò mí,7,12,1.7142857142857142
+wrong,Ọjọ́ ti ń rebi àná,5,10,2.0
+wrong,Ọjọ́ kọ̀ tí ì rẹbi àná,6,14,2.3333333333333335
+wrong,Ó pàpà bu omi sùúrù mu,6,12,2.0
+wrong,Ó padà mu omi wàhálà,5,10,2.0
+wrong,A ó tú iṣu dé ìsàlẹ̀ ìkòkò,7,18,2.5714285714285716
+wrong,Olúwọlé baralẹ̀,2,9,4.5
+wrong,Ṣawoṣọ̀gbẹ̀rì ni Àdéọlá,3,14,4.666666666666667
+wrong,Àyìnlá fá Àjàlá lórí,4,12,3.0
+wrong,Àyì̀nlá dá Àjàlá lọ́lá,4,14,3.5
+wrong,Gbogbo yín ẹ lọ si mẹ̀dọ̀,6,13,2.1666666666666665
+wrong,Táíwò ti di abara méjì,5,11,2.2
+wrong,Táíwò ò tí ì bímọ,5,12,2.4
+wrong,Ó gàndí,2,4,2.0
+wrong,Ó ti sọ àwọn òbí rẹ̀ di ẹdun arinlẹ̀,9,19,2.111111111111111
+wrong,O tí sọ àwọn òbí rẹ̀ di onígba aṣọ,9,22,2.4444444444444446
+wrong,Dé́lé dúró wámú nígbà tí ó gbùròó àwọn Ọlọ́pàá,9,27,3.0
+wrong,Ó ti róore lojú olórò,5,9,1.8
+wrong,Ẹ jẹ́ ká kó ọ̀rọ̀ náà síta,7,18,2.5714285714285716
+wrong,Oríre rẹ̀ ti fẹ́ gbìnàyá,5,17,3.4
+wrong,Ẹ jẹ̀bùrẹ́ awo olùgbẹ́bẹ̀,4,15,3.75
+wrong,Ẹ fàbínú yọ awo olúkòso,5,14,2.8
+wrong,Wọ́n fi ojú Adéyẹmí ríre lójúde Ọba,7,20,2.857142857142857
+wrong,Eéṣe tí ò ń fẹ̀mí ṣe?,6,17,2.8333333333333335
+wrong,Jagun síwájú fún mi,4,8,2.0
+wrong,Táyé ń fẹnu ròfọ́ ni,5,13,2.6
+wrong,Wí bẹ́ẹ̀ ṣe bẹ́ẹ̀ ni Táyé,6,19,3.1666666666666665
+wrong,Kò séèrà lójú ọpọ́n,4,13,3.25
+wrong,Lákíríboto ni Ìṣọ̀lá,3,12,4.0
+wrong,Olú dúró kalẹ̀,3,7,2.3333333333333335
+wrong,Àrèó ti wẹ̀ yán kànhìnkàhìn,5,15,3.0
+wrong,Gbádébọ̀ fẹ́ràn kí ó máa ṣàyàngbàǹgbà sí nǹkan,8,25,3.125
+wrong,Gbádébọ̀ fẹ́ràn kí ó máa káríbọnú sí nǹkan,8,20,2.5
+wrong,Ó dọyún dẹ̀jẹ̀ dídì sínú,5,16,3.2
+wrong,Wọ́n ti gbẹ̀yìn bẹbọ jẹ́,5,15,3.0
+wrong,Àì̀ná yawọ́,2,7,3.5
+wrong,A ò ní fọ̀pá pọ̀ọ̀lọ̀pọọlọ pejò,6,18,3.0
+wrong,Gòríà obì ni ọ̀rọ̀ yìí,5,16,3.2
+wrong,"Agbé fọ́, omi sì tún dànù",6,12,2.0
+wrong,Fìka tótọ́símú remú,3,11,3.6666666666666665
+wrong,Àpáàrà ni iṣẹ́ yìí,4,12,3.0
+wrong,Wọ́n ti fòrí pa Adéwùmí,5,14,2.8
+wrong,Ìbùkún lawọ́,2,8,4.0
+wrong,Àyìnlá ń jayé orí ẹ ní Ìlọrin,7,20,2.857142857142857
+wrong,Sàláwá wo ọ̀gá ẹ̀ lójú,5,12,2.4
+wrong,Àwọn ohun tí a ní ti fìdíjálẹ̀,7,15,2.142857142857143
+wrong,Àdìó fọwọ́ fọ̀nná,3,12,4.0
+wrong,Àdìsá ki Òkété lọ́rùn,4,15,3.75
+wrong,O délé ayé lánàá,4,8,2.0
+wrong,A ti fàwé ẹ̀ṣẹ̀ Tọ́pé ya,6,10,1.6666666666666667
+wrong,Ó ti tasẹ̀ àgẹ̀rẹ̀,4,8,2.0
+wrong,O kọsẹ̀ báre,3,8,2.6666666666666665
+wrong,Ẹ jẹ́ ká fúnná mọ́ ọn,6,13,2.1666666666666665
+wrong,Ojú ẹja ni ọ̀rọ̀ yìí,5,15,3.0
+wrong,Ọlọ́mọ bí ẹdá ni ìyá Táyé,6,19,3.1666666666666665
+wrong,Òkòlò Ọ̀yọ́ ni Àjàlá,4,16,4.0
+wrong,O ó fò ṣánlẹ̀,4,10,2.5
+wrong,Mi ò bá Àwẹ̀lé nílé,5,10,2.0
+wrong,Àdìó jálu afárá oyin,4,11,2.75
+wrong,Adéwálé ti tẹ ọká nírú mọ́lẹ̀,6,15,2.5
+wrong,Àdísá ti rugi oyin,4,7,1.75
+wrong,Àdìsá ti róyin pọ́nlá,4,12,3.0
+wrong,Àkàrá tú sépo,3,7,2.3333333333333335
+wrong,Olú ń tẹnubọlẹ̀ kiri,4,11,2.75
+wrong,Ṣẹ̀kẹ̀rẹ̀ tí ò ṣeé fọ̀pá lù ni Akínsànyà,8,30,3.75
+wrong,Fọ́n yẹ̀pẹ̀ sójú àwọn ènìyàn,5,21,4.2
+wrong,Ọ̀tábíyìí ti filẹ̀ ṣaṣọ bora,5,16,3.2
+wrong,Àyọ̀ká ń fẹ́wọ́,3,9,3.0
+wrong,Àyọ̀ká fẹ́ sọ̀rọ̀,3,13,4.333333333333333
+wrong,Táyé gbẹ́ní lọ odò ni,5,11,2.2
+wrong,Ó kómi síta bí ọmọ ọjọ́ mẹ́jọ,7,16,2.2857142857142856
+wrong,Ó pamí mọ́ bí awùsá,5,11,2.2
+wrong,Kòjẹ́ kí n fẹ̀dọ̀ lórí òróòro,6,17,2.8333333333333335
+wrong,Ó jẹ́ kí n fẹ̀dọ̀ lórí òróòro,7,17,2.4285714285714284
+wrong,Ẹkùn ni Bímpé,3,9,3.0
+wrong,Adé ń mú u ùn lẹ̀ fún wa ni,9,15,1.6666666666666667
+wrong,Ó kọtí ikún sí àmọ̀ràn mi,6,12,2.0
+wrong,Ajíbádé ń rẹ́rìn-ín sí mi,5,15,3.0
+wrong,Táyé gbéná wojú Àjàní,4,12,3.0
+wrong,Táyé rọ Àjàní ninú,4,11,2.75
+wrong,Ó wọ́ ọ mọ́dọ̀,4,12,3.0
+wrong,Àdì̀gún tu Ayọ̀ nínú,4,10,2.5
+wrong,Ó ń fọwọ́ bò mí lẹ́nu,6,14,2.3333333333333335
+wrong,Ọmọ náà dídìí,3,10,3.3333333333333335
+wrong,Ọmọ orí títì ni Àdìsá,5,14,2.8
+wrong,A kú ìkúnu,3,6,2.0
+wrong,Bólú ń wo aago aláago sáré,6,11,1.8333333333333333
+wrong,Afọ́fungbémi,1,5,5.0
+wrong,Agbọ́nbí aṣarun,2,10,5.0
+wrong,Tàlàbí sòkò ọ̀rọ̀ lu olùkọ́,5,15,3.0
+wrong,Ayọ̀ ò ṣe fìrètí sí,5,13,2.6
+wrong,Olúbáre ti dẹni ilẹ̀,4,11,2.75
+wrong,Ìgbín ni Dàda,3,8,2.6666666666666665
+wrong,Àdìó kọ̀yìn sími,3,11,3.6666666666666665
+wrong,Àdìó kọjú sími,3,9,3.0
+wrong,Kẹ́hìndé subú sọ́wọ́ Ìdòwú,4,19,4.75
+wrong,Wọ́n dáná yá Olú,4,8,2.0
+wrong,Wọ́n ti já ṣọ́ọ̀bù Ìdòwú,5,17,3.4
+wrong,Àdìó ti wọlẹ̀ sùn,4,11,2.75
+wrong,Mi ò fojú sílẹ̀ fún un,6,10,1.6666666666666667
+wrong,Mo sọra sílẹ̀ fún un,5,10,2.0
+wrong,Ìgbín ni Ìdòwú,3,11,3.6666666666666665
+wrong,Bídèmí wú ọ̀rọ̀ wa síta,5,15,3.0
+wrong,Òyà ni Dọlápọ̀,3,11,3.6666666666666665
+wrong,Ó kọ́gbọ́n rù,3,10,3.3333333333333335
+wrong,Eku ni ó ń lé sími,6,9,1.5
+wrong,Wọ́n ti dòkúta sérù Olùkọ́,5,16,3.2
+wrong,Adéoyè ti dẹni àná,4,11,2.75
+wrong,Adéoyè dẹ́sẹ̀ tẹ ayẹ́,4,16,4.0
+wrong,Àdì̀sá ti tọwọ́ boyin láti lá,6,15,2.5
+wrong,Àdàbà̀ ni Dayọ̀,3,9,3.0
+wrong,Ó ti kó́wó sími lápò,5,10,2.0
+wrong,Àdà̀bà ni Àdùkẹ́,3,12,4.0
+wrong,Àkan ni ọ̀rọ̀ náà fún mi,6,14,2.3333333333333335
+wrong,Ẹja ni ọ̀rọ̀ náà fún mi,6,15,2.5
+wrong,Gbéná kúrò lórùlé,3,9,3.0
+wrong,Bẹ́ igi fún un,4,8,2.0
+wrong,Aṣọ ò bọ́mọ́yẹ mọ́,4,16,4.0
+wrong,Fọwọ́ jọ́ná,2,8,4.0
+wrong,Ó fẹ́ máa kówó sí mi lápò,7,14,2.0
+wrong,Wọ́n ń fòrí pa Rẹ̀mí lórí,6,13,2.1666666666666665
+wrong,Wọ́n ń dáná sí Rẹ̀mí lórí,6,13,2.1666666666666665
+wrong,Ó fẹ́ dáwọ́ tẹlẹ̀,4,13,3.25
+wrong,Ó fẹ́ mọ́wọ́ lọ ẹnu,5,15,3.0
+wrong,Aṣa ni Àìná,3,7,2.3333333333333335
+wrong,Adébáre lulẹ̀,2,8,4.0
+wrong,Adébáre mókè,2,7,3.5
+wrong,Ọmọ yẹn padà sọdá,4,12,3.0
+wrong,Dèjì ni eku ẹdá,4,10,2.5
+wrong,Dè̀jì kò dáhun rí,4,9,2.25
+wrong,Tèmítọ́pẹ́ kò rípò mú,4,14,3.5
+wrong,Mo ti tẹ àwọn ọ̀tá mi rì,7,15,2.142857142857143
+wrong,Mo ti ń bá ọ̀tá sùn,6,12,2.0
+wrong,Dẹ̀gún síwájú,2,7,3.5
+wrong,Ìjẹ ẹ̀lírí ni Òjó ń jẹ,6,17,2.8333333333333335
+wrong,Ta ló m’Òkòlò rẹ l’Ọ́yọ̀ọ́?,5,17,3.4
+wrong,Ìṣáná ẹlẹ́ta ni Òkòlò l’Ọ́yọ̀ọ́,5,23,4.6
+wrong,Òkú tí ẹ sin…,4,8,2.0
+wrong,Òkú tí ẹ wú...,4,9,2.25
+wrong,Àdìsá láyà,2,7,3.5
+wrong,Òun ló kọ́lá bá mi,5,10,2.0
+wrong,Ó ń gbé mi gẹṣin tọ́ba ìlú wa ṣẹ̀ṣẹ̀ rà,10,27,2.7
+wrong,Àjàdí ló fọ áwo,4,9,2.25

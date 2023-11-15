@@ -1,0 +1,601 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Nyawang esemmu sing rupane kaya nyruput ampas kopi,8,15,1.875
+correct,Lakmu mlaku jan kaya diuber maling,6,10,1.6666666666666667
+correct,Lakmu mlaku jan kaya nyeret bata,6,9,1.5
+correct,Dekwingi aku nyang omahmu jan kaya omah demit,8,15,1.875
+correct,"Winginane aku ketemu Mbak Dewi, rupane kaya kuntilanak",8,15,1.875
+correct,"Poh, ambune klambine Bu Nita kaya kebon mlathi",8,16,2.0
+correct,"Poh, ambune klambine Bu Nita kaya peceren",7,13,1.8571428571428572
+correct,Suasanane pasar kliwon jan kaya wong tawuran,7,12,1.7142857142857142
+correct,Suasanane pasar kliwon jan kaya kuburan,6,10,1.6666666666666667
+correct,Lekmu numpak mobil kaya keong,5,8,1.6
+correct,Lungguh ning kursi iku rasane kaya bantal,7,10,1.4285714285714286
+correct,Udane maeng isuk kaya disok,5,9,1.8
+correct,Bar sepedahan tekan nggunung boyok rasane kaya dilindes trek,9,17,1.8888888888888888
+correct,Padange lampu kamarku kaya sokle,5,8,1.6
+correct,Mas Edi lak mlayu jan kaya kancil,7,9,1.2857142857142858
+correct,Mas Edi lak mlayu jan kaya semut,7,9,1.2857142857142858
+correct,Pasuryane Mas Tono kaya Arjuna,5,9,1.8
+correct,Pipine Rida aluse kaya dalan aspalan,6,12,2.0
+correct,Hawane awan iki kaya dolan menyang gurun,7,11,1.5714285714285714
+correct,Nyawang dedege Kartolo kok kaya kendel ngringkel,7,14,2.0
+correct,Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan tangis,12,19,1.5833333333333333
+correct,Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan dhuwit,12,19,1.5833333333333333
+correct,Nek gawe wedang kopi Painem kaya disoki suruh,8,11,1.375
+correct,Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya blaba uda,12,17,1.4166666666666667
+correct,Anggone nyambut gawe Allia kaya banteng ketaton,7,14,2.0
+correct,Nalika sesrawungan Pak Jemani lan Paiman kaya mimi lan mituna,10,16,1.6
+correct,Rambute Selfi wiwit cilik pancen kaya brintik linggis,8,14,1.75
+correct,Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit babat,13,18,1.3846153846153846
+correct,Isih esuk kahanane Mbak Marmi kaya Ulat peteng,8,16,2.0
+correct,Roti donat lek nggawe Narti kaya atose debog,8,12,1.5
+correct,Omahe sing dibangun ambane kaya leng semut,7,10,1.4285714285714286
+correct,"Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental tempe",16,28,1.75
+correct,Sawise mulih saka griya sakit pasuryane Siti isih kaya abang dluwang,11,19,1.7272727272727273
+correct,Lungane Pakdhe menyang Surabaya enggale suwe kaya madu sinaring,9,14,1.5555555555555556
+correct,Rasane pelem kaya gula jawa,5,8,1.6
+correct,Swarane sing nembang kaya knalpot bolong,6,11,1.8333333333333333
+correct,Bathuke Icha nyela cendhani,4,8,2.0
+correct,Yen nyawang mripate Sari kaya ndamar kanginan,7,13,1.8571428571428572
+correct,Banyune kolam renang kaya banyu leri,6,10,1.6666666666666667
+correct,Anggone mlaku bis mini kaya tuma kathok,7,11,1.5714285714285714
+correct,Anggone mlaku bis mini kaya sikatan nyamber lawang,8,14,1.75
+correct,Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong kelor,11,19,1.7272727272727273
+correct,Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong tales,11,18,1.6363636363636365
+correct,Yen lungguh ana nggarep dhewe patrape kaya Dewi Sembadra,9,16,1.7777777777777777
+correct,Yen lungguh ana nggarep dhewe patrape kaya Buta Cakil,9,16,1.7777777777777777
+correct,Pratandha arep udan amarga medhunge kaya ndumuk irung,8,16,2.0
+correct,Pratandha arep udan amarga medhunge kaya nyumet dimar,8,16,2.0
+correct,Regane lombok abang kembang gogrog,5,10,2.0
+correct,Pondhasine omah kaya ting listrik,5,8,1.6
+correct,Rambute polisi kae kaya bathok klapa,6,10,1.6666666666666667
+correct,Rambute polisi kae kaya ulu kucing,6,8,1.3333333333333333
+correct,"Nalika dina Minggu, yen bisa nindakake pakaryan bebek nglangi",9,16,1.7777777777777777
+correct,Uripku karo uripe wis kaya langit,6,9,1.5
+correct,Uripku karo uripe wis kaya bumi,6,9,1.5
+correct,Obahe wis kaya welut,4,6,1.5
+correct,Obahe wis kaya siput,4,6,1.5
+correct,Kutho iki hawane kaya gurun,5,8,1.6
+correct,Urip nang kutho gedhe iku kaya urip nang suarga,9,13,1.4444444444444444
+correct,Urip nang kutho gedhe iku kaya urip nang neraka,9,12,1.3333333333333333
+correct,"Wis suwi ngerantau, rasane wong iku tambah andhap asor",9,16,1.7777777777777777
+correct,"Wis suwi ngerantau, rasane wong iku tambah gumedhe",8,15,1.875
+correct,Mahasiswa iku nduweni julukan otak udang,6,10,1.6666666666666667
+correct,Mahasiswa iku nduweni julukan otak encer,6,10,1.6666666666666667
+correct,Omah iku kaya istana,4,6,1.5
+correct,"Wis ngerti entuk biji elek, Abdi tetep gedhe ati",9,15,1.6666666666666667
+correct,"Wis ngerti entuk biji elek, Abdi tetep cilik ati",9,15,1.6666666666666667
+correct,Awan iku bentukane kaya wedhus putih,6,10,1.6666666666666667
+correct,Persidangan nang film kuwi rasane kaya gedhe sisih,8,12,1.5
+correct,Persidangan nang film kuwi rasane kaya gedhe padha,8,11,1.375
+correct,Wong iku mangane kaya durung mangan 3 dino,8,12,1.5
+correct,Wong iku mangane kaya wong wis wareg,7,9,1.2857142857142858
+correct,Aldo yen nggarap tugas kaya mesin,6,9,1.5
+correct,Aldo yen nggarap tugas kaya siput,6,10,1.6666666666666667
+correct,Prajurit nang film iku ngelakoni perang wis kaya singa,9,14,1.5555555555555556
+correct,Prajurit nang film iku ngelakoni perang wis kaya kura,9,13,1.4444444444444444
+correct,"Didelok saka kelakuane, anake Pak Budi iku kaya putri solo",10,16,1.6
+correct,"Didelok saka kelakuane, anake Pak Budi iku kaya preman",9,16,1.7777777777777777
+correct,Pernikahane pasangan iku kaya Romeo lan Juliet,7,10,1.4285714285714286
+correct,Pernikahane pasangan iku kaya asu lan kucing,7,9,1.2857142857142858
+correct,Adhiku yen ngomong kaya Werkudara,5,9,1.8
+correct,Adhiku yen ngomong kaya Puntadewa,5,9,1.8
+correct,Kesabarane ibu nang anak-anake kaya samudra,6,13,2.1666666666666665
+correct,Kesabarane ibu nang anak-anake kaya godhong kelor,7,15,2.142857142857143
+correct,"Yen lara, awake dewe wis kaya inti bumi",8,12,1.5
+correct,Wajahe mbak e iku kaya srengenge,6,10,1.6666666666666667
+correct,Wajahe mbak e iku kaya mendung,6,9,1.5
+correct,Kulite cah kuwi kaya salju,5,8,1.6
+correct,Lapangan iku bentukane kaya kolam,5,7,1.4
+correct,Mlayune wis kaya kancil,4,7,1.75
+correct,Saben lebaran omah iki kaya pasar,6,9,1.5
+correct,Saben lebaran omah iki kaya kuburan,6,10,1.6666666666666667
+correct,Bangunan iki rasane kaya wit tela,6,7,1.1666666666666667
+correct,Simbah suarane kaya gluduk,4,7,1.75
+correct,Cah iku yen dikandhani kaya watu,6,9,1.5
+correct,Cah iku yen dikandhani kaya banyu,6,10,1.6666666666666667
+correct,"Panganan iki rasane kaya bintang lima, nanging regane kaki lima",10,14,1.4
+correct,"Nardi iki piye carane sikatan, untune wis kaya emas 24 karat",11,18,1.6363636363636365
+correct,Pak Danu yen kena masalah berubah dadi singa,8,10,1.25
+correct,Pak Danu yen kena masalah berubah dadi kucing,8,9,1.125
+correct,Mbak e nduweni awak kaya gitar spanyol,7,10,1.4285714285714286
+correct,"Wis dididik, diajari sampe sukses, bocah kuwi kaya kacang",9,15,1.6666666666666667
+correct,Ibu yen nesu kaya Gunung Merapi,6,7,1.1666666666666667
+correct,Ibu yen nesu kaya segara,5,6,1.2
+correct,Mobil iku ghoib,3,4,1.3333333333333333
+correct,Deni yen wis nari kaya robot,6,8,1.3333333333333333
+correct,Kowe apa wis mangan? Kok polahmu kaya banteng nesu,9,15,1.6666666666666667
+correct,Kowe apa wis mangan? Kok polahmu kaya kucing luwe,9,15,1.6666666666666667
+correct,"Ndek sekolah, Andi iku bintang kelas",6,9,1.5
+correct,Aldi lan Doni iku sahabat sing wis kaya rante,9,12,1.3333333333333333
+correct,Pengawas ujian iku nduweni mata kaya lawa,7,11,1.5714285714285714
+correct,Wong iku kulite kaya kulit bayi,6,7,1.1666666666666667
+correct,Masa depane cah kuwi kaya siang,6,8,1.3333333333333333
+correct,Masa depane cah kuwi kaya malam,6,8,1.3333333333333333
+correct,Sikapmu kaya srengenge,3,7,2.3333333333333335
+correct,Sikapmu kaya es batu,4,6,1.5
+correct,Adike Doni perawakane kaya gajah,5,11,2.2
+correct,Adike Doni perawakane kaya semut,5,11,2.2
+correct,"Yen didelok, Pak Guru iku sikape kaya banyu nang godhong talas",11,17,1.5454545454545454
+correct,Guyune kaya gula jawa,4,6,1.5
+correct,Guyune kaya kopi,3,4,1.3333333333333333
+correct,Pasangan iku yen didelok kaya alas lan udan,8,10,1.25
+correct,Rambute kaya kain sutra,4,5,1.25
+correct,Rambute kaya kain wol,4,5,1.25
+correct,Urip iki kaya mampir ngombe,5,8,1.6
+correct,Urip iki kaya mlaku adoh,5,8,1.6
+correct,Bocah kuwi nemu omah umpama kuthuk marani sunduk,8,15,1.875
+correct,Rasa ombenan alkohol kuwi umpama pait madu,7,11,1.5714285714285714
+correct,Rasa ombenan alkohol kuwi umpama legi racun,7,10,1.4285714285714286
+correct,Bocah kembar iku raine kaya pring diparuh,7,12,1.7142857142857142
+correct,Pancen dadi polisi kuwi kaya cebol nggayuh lintang,8,13,1.625
+correct,Pancen dadi polisi kuwi kaya nemu mas ing omah dewe,10,14,1.4
+correct,Isuk iki Jogja hawane kaya banyu umup,7,11,1.5714285714285714
+correct,Bapak guru ngewenehi tugas kaya arep nggawe candi,8,13,1.625
+correct,Menungso kuwi umur e umpama arca sewu tahun,8,13,1.625
+correct,Menungso kuwi umur e umpama capung sedina,7,12,1.7142857142857142
+correct,Mlayune atlet kuwi kaya keong mlayu,6,10,1.6666666666666667
+correct,Adhiku pengen duwe omah sing kaya pagupon dara,8,13,1.625
+correct,Gani kesohor amarga swarane kaya pithik kluruk,7,13,1.8571428571428572
+correct,Gani kesohor amarga swarane kaya kucing turu,7,11,1.5714285714285714
+correct,Drijine Marni rupane kaya mucuk pring,6,13,2.1666666666666665
+correct,"Jare Dinda, kalebu ing jurusan teknik kuwi kaya cecak nguntal boyo",11,19,1.7272727272727273
+correct,"Senajan sugih, Pak Tomo kerjane kaya diuber utang",8,15,1.875
+correct,"Nek ketemu tonggo, bocah kuwi pancen kaya ngemut inten",9,14,1.5555555555555556
+correct,"Nek ketemu tonggo, bocah kuwi pancen kaya temu dulur",9,13,1.4444444444444444
+correct,Penyanyi iku pancen swarane kaya tembang sinom,7,13,1.8571428571428572
+correct,Penyanyi iku pancen swarane kaya kumbang nyinom,7,13,1.8571428571428572
+correct,Banyu ing Surabaya umpama embun kacampur awu,7,12,1.7142857142857142
+correct,Masakane Bu Mardi rasane kaya dhaharan sultan,7,11,1.5714285714285714
+correct,Masakane Bu Mardi rasane kaya panganan wong lara,8,13,1.625
+correct,Saben dina toko kuwi kaya gula dirubung semut,8,11,1.375
+correct,Saben dina toko kuwi kaya kuburan wayah bengi,8,12,1.5
+correct,"Ning panggung, penari srimpi kae obahe umpama kayu mati",9,16,1.7777777777777777
+correct,"Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya merang sawah",15,24,1.6
+correct,Umar bali sekolah mlakune kaya macan nguber kidang,8,13,1.625
+correct,Lakune bocah kuwi ning keluargane umpama kidang kencana ning tengah alas,11,16,1.4545454545454546
+correct,Mimpi dadi presiden pancen kaya Semar mbangun kayangan,8,13,1.625
+correct,Sinau sejarah ning sekolah umpama ngenteni babon ngendhok,8,15,1.875
+correct,Kerja ning kantor pemerintah kaya numpak gethek ning Bengawan Solo,10,14,1.4
+correct,Ning TV saiki akeh pejabat sing umpama duwe ajining godhong garing,11,17,1.5454545454545454
+correct,Ning TV saiki akeh pejabat sing umpama lelaku ratu adil,10,13,1.3
+correct,"Sejatine, urip ning mancanegara kaya mecahke kendhil isi banyu",9,18,2.0
+correct,Carita kae marai ati rasa kaya disiram banyu kembang,9,16,1.7777777777777777
+correct,Angin ning pantura pancen padha karo banteng playon,8,13,1.625
+correct,Angin ning pantura pancen padha karo umbul-umbul keterak bayu,9,18,2.0
+correct,"Ning kuthaku, wong kang mbangun pabrik kaya ngitung driji tangan siji",11,19,1.7272727272727273
+correct,Dadi anak bontot ning keluarga iki padha kaya nggendong watu sak gunung,12,16,1.3333333333333333
+correct,Dadi anak bontot ning keluarga iki padha kaya nggendong kapas sak genggem,12,19,1.5833333333333333
+correct,Ngelakoni urip dadi santri ana wae ceritane senajan umpama surya wayah sore,12,21,1.75
+correct,Ngelakoni urip dadi santri ana wae ceritane senajan umpama kesasar ning alas roban,13,23,1.7692307692307692
+correct,Bapake yen kerja sampe kaya adol omongan,7,10,1.4285714285714286
+correct,Nuruti dhawuhe wong tuwa dadi umpama nggenggem tembaga wesi,9,18,2.0
+correct,Tenangane wong kuwi kaya ngangkat kebo limo,7,12,1.7142857142857142
+correct,Enteke dhuwit gajiku umpama dipendhem nggo mangsa ketelu,8,17,2.125
+correct,Urip ning perkampungan Jakarta kaya ngorbanake getih,7,14,2.0
+correct,"Nek gawe pegawe kantor iki, keputusan mau isuk kaya gong tinabuh",11,16,1.4545454545454546
+correct,Keputusan sing digawe Bu Dwi wis kaya kayu jati ngadeg-jejeg,10,16,1.6
+correct,Keputusan sing digawe Bu Dwi wis kaya wedi ning pinggir segara,11,13,1.1818181818181819
+correct,Lia lan adhine kaya kopi dibanjur susu,7,9,1.2857142857142858
+correct,Didikan keluargane umpama prajurit Jepang arep tempur,7,12,1.7142857142857142
+correct,Bener jare wong kene yen Bu Lurah tumindake kaya nyiram madu,11,18,1.6363636363636365
+correct,Doni karo Yanti pancen kaya Rama Sinta ing pewayangan,9,15,1.6666666666666667
+correct,Nyawang esemmu rasane kaya angin semilir,6,11,1.8333333333333333
+correct,Nyawang esemmu rasane kaya panase neraka,6,11,1.8333333333333333
+correct,Sepur iku suarane kaya manuk dares,6,10,1.6666666666666667
+correct,Awakmu iku kaya wesi,4,7,1.75
+correct,Awakmu iku kaya kapuk,4,7,1.75
+correct,Kucing kuwi obah kaya sepur,5,8,1.6
+correct,Sinden dangdut suarane kaya manuk kutilang,6,12,2.0
+correct,Kelekmu mambu kaya kembang melati,5,10,2.0
+correct,Manuk dara mabur kaya montor mabur,6,10,1.6666666666666667
+correct,Manuk dara mabur kaya keong,5,8,1.6
+correct,Ngenteni awakmu teka rasane kaya limang detik,7,14,2.0
+correct,Gawe kowe percaya iku kaya malik dlamaan tangan,8,11,1.375
+correct,Gawe kowe percaya iku kaya munggah gunung lawu,8,12,1.5
+correct,Sega warung iku rasane kaya mangan watu,7,11,1.5714285714285714
+correct,Sega warung iku rasane kaya mangan bubur,7,12,1.7142857142857142
+correct,Berita iku ditampa kaya ngeleg idu,6,9,1.5
+correct,Wong iku leh mlaku kaya numpak montor mabur,8,12,1.5
+correct,Rupane wingi kaya srengenge tengah hari,6,10,1.6666666666666667
+correct,Omongane bu guru kaya kethul karet,6,10,1.6666666666666667
+correct,Wayah esuk hawane kaya geni,5,8,1.6
+correct,Omongane isa kaya banyu adem,5,9,1.8
+correct,Apel iku rasane kaya asem,5,7,1.4
+correct,Mangsa ngarep wong iku ibarat padhang esuk,7,12,1.7142857142857142
+correct,Mripatku yen yah mene dinggo ndelok kaya bening kaca,9,16,1.7777777777777777
+correct,Mripatku yen yah mene dinggo ndelok kaya buthek banyu,9,18,2.0
+correct,Werno wulu kucing iku kaya salju,6,9,1.5
+correct,Cah loro iku pisahan kaya padu,6,8,1.3333333333333333
+correct,Fahmi mangan sega kaya ora mangan limang dina,8,14,1.75
+correct,Fahmi mangan sega kaya kewaregen bubar prasmanan,7,15,2.142857142857143
+correct,Keluargaku saben dina mangan telo,5,7,1.4
+correct,Raihan mambune kaya kembang,4,8,2.0
+correct,Omahe Jokowi ambane kaya gang tikus,6,9,1.5
+correct,Kowe takdongakne kaya penyu laut,5,9,1.8
+correct,Ambune awakmu wes kaya kembang melati,6,11,1.8333333333333333
+correct,Tresnaku marang sliramu iku kaya gajah,6,11,1.8333333333333333
+correct,Banyu omah iki rasane kaya banyu es,7,11,1.5714285714285714
+correct,Banyu omah iki rasane kaya wedhang ronde,7,12,1.7142857142857142
+correct,Nyawang esemme mantan rasane kaya tebu,6,10,1.6666666666666667
+correct,Nyawang esemme mantan rasane kaya godhong kates,7,12,1.7142857142857142
+correct,Omah iku kaya digawe saka emas,6,8,1.3333333333333333
+correct,Montor iku digawe seka kayu,5,8,1.6
+correct,Rasane panganan iki kaya iwak pithik,6,10,1.6666666666666667
+correct,Tresnaku marang awakmu seamba laut biru,6,11,1.8333333333333333
+correct,Tresnaku marang awakmu sesempit bolongan dom,6,12,2.0
+correct,Ngenteni Surya adus iku kaya satus tahun,7,10,1.4285714285714286
+correct,Ngenteni Surya adus iku kaya limang menit,7,10,1.4285714285714286
+correct,Febri jajan kaya tanggal nom,5,7,1.4
+correct,Jaka urip ing omah kardus,5,8,1.6
+correct,Adi rewel merga wetenge muni,5,8,1.6
+correct,Adi rewel merga wetenge wareg,5,9,1.8
+correct,Gambar iku kaya langit kebak bintang,6,7,1.1666666666666667
+correct,Wong kaya kowe iku kaya watu akik,7,8,1.1428571428571428
+correct,Polisi iku sifate kaya asu galak,6,8,1.3333333333333333
+correct,Raimu tak sawang-sawang kaya Luna Maya,6,11,1.8333333333333333
+correct,Bapak tuku kacang kaya dompete kandel,6,9,1.5
+correct,Bapak tuku kacang kaya dompete tipis,6,9,1.5
+correct,Meja kerjane bapak digawe saka kayu jati,7,11,1.5714285714285714
+correct,Omahe kancaku kaya keraton,4,8,2.0
+correct,Parkiran omahe paklik kaya lapangan bal-balan,6,11,1.8333333333333333
+correct,Dina iki aku ibarat nemu duit,6,8,1.3333333333333333
+correct,Dina iki aku ibarat kebanan,5,7,1.4
+correct,"Kanggo dheweke, uripe kaya ndeleng pemandangan sing apik",8,14,1.75
+correct,"Kanggo dheweke, uripe kaya ing bar wesi",7,12,1.7142857142857142
+correct,Dheweke nulungi ibune sing wis tuwa kaya mikul beras sepuluh sak,11,18,1.6363636363636365
+correct,Dheweke nulungi ibune sing wis tuwa kaya nggowo kresek isi krupuk,11,20,1.8181818181818181
+correct,Dheweke yen kerjo kaya jaran nalika mlayu,7,11,1.5714285714285714
+correct,Dheweke yen kerjo kaya keong nalika mlayu,7,11,1.5714285714285714
+correct,Nalika turu swarane ngorok kaya knalpot mobil lawas lan lungse,10,17,1.7
+correct,Ujian uripe wong kuwi ibarat udan deres gak mandek-mandek,9,16,1.7777777777777777
+correct,Ujian uripe wong kuwi ibarat sirah botak jarang rambute,9,14,1.5555555555555556
+correct,Ibu nggawa koper gedhene sak omah,6,10,1.6666666666666667
+correct,Ibu nggawa koper gedhene sak kotak petelot,7,12,1.7142857142857142
+correct,Karir artis iku kaya watu dilebokake ing banyu,8,12,1.5
+correct,Omahe kaya kraton raja,4,6,1.5
+correct,Manggon ing omah iki kaya swarga,6,9,1.5
+correct,Manggon ing omah iki kaya neraka,6,8,1.3333333333333333
+correct,Swasana desa iki kaya pasar,5,6,1.2
+correct,Swasana desa iki kaya kuburan,5,7,1.4
+correct,Kulite wong wedok iku kaya kulit bayi,7,9,1.2857142857142858
+correct,Kulite wong wedok iku kaya kulit salak,7,10,1.4285714285714286
+correct,Dina iki hawa ing njaba krasa kaya ana ing gurun wedi,11,15,1.3636363636363635
+correct,Semangate nandhang pacoban urip iku kaya raja singa ing tengah alas,11,18,1.6363636363636365
+correct,Nalika ngrampungake masalah dheweke kaya ombak ing tengah samodra,9,16,1.7777777777777777
+correct,Nalika ngrampungake masalah dheweke kaya gunung,6,11,1.8333333333333333
+correct,Ponakanku yen sekolah kaya kidang sing pinter lan lincah,9,14,1.5555555555555556
+correct,Ponakanku yen sekolah kaya tumpukan kayu,6,10,1.6666666666666667
+correct,Sabare kaya samodra,3,5,1.6666666666666667
+correct,Esemmu koyo rembulan sing madhangi wengi kang peteng ndhedhet,9,18,2.0
+correct,Esemmu koyo jeruk durung mateng nanging wis dipetik,8,16,2.0
+correct,Mbak Siti mbagi wektune kaya bebek sing baris,8,12,1.5
+correct,Mbak Siti mbagi wektune kaya macet kenderaan ing ibu kota,10,14,1.4
+correct,Yen nyuarake panemune kaya nggeroman macan,6,13,2.1666666666666665
+correct,Ukuran awak bocah iku kaya gajah,6,8,1.3333333333333333
+correct,Ukuran awak bocah iku kaya semut,6,8,1.3333333333333333
+correct,Rambute bocah iku kaya kain sutra,6,7,1.1666666666666667
+correct,Kekancan kita ibarat kayu padat sing kerep kena banyu,9,15,1.6666666666666667
+correct,Tresnaku marang sliramu jerone kaya kolam bocah,7,12,1.7142857142857142
+correct,Mlayune kaya keong kebon,4,8,2.0
+correct,Awake kaya bal basket,4,6,1.5
+correct,Anake pasangan kuwi kaya cacahe anggota pemaine sepak bola,9,13,1.4444444444444444
+correct,Anake pasangan kuwi kaya cacahing wiji rambutan,7,12,1.7142857142857142
+correct,Adikku yen ndek omah kaya manuk beo,7,12,1.7142857142857142
+correct,Uripe bocah kuwi kaya manuk sing mabur bebas ing langit,10,13,1.3
+correct,Uripe bocah kuwi kaya manuk ing kandhang,7,11,1.5714285714285714
+correct,Kendaraane mlaku kaya angin,4,7,1.75
+correct,Kendaraane mlaku kaya macan luwe,5,10,2.0
+correct,Wong wedok iku kaya polahe semut,6,9,1.5
+correct,Wong wedok iku kaya polahe kebo,6,9,1.5
+correct,Yen nggawakne oleh-oleh kaya abote watu,6,11,1.8333333333333333
+correct,Yen nggawakne oleh-oleh kaya entheng kapas,6,13,2.1666666666666665
+correct,Hubungan katresnan kita kaya crita Romeo lan Juliet,8,12,1.5
+correct,Raine koncoku kaya aspal dalan gedhe,6,12,2.0
+correct,Hubungan seduluranku karo mbakyuku iku ibarat manungsa karo oksigen,9,15,1.6666666666666667
+correct,Dalan-dalan ing desaku lampune kaya ing warung-warunge cah enom,9,21,2.3333333333333335
+correct,Bapake koncoku iku kaya raden werkudara,6,12,2.0
+correct,Bapak tirine sifate kaya Gatot Kaca,6,9,1.5
+correct,"Nalika ngawasi ujian, pandelenge guru iku kaya bocah cilik ditembangake",10,19,1.9
+correct,Masku nalika ngumbara kaya kebo seng ileng mulih menyang kandhange,10,17,1.7
+correct,Wong kuwi sifate kaya drum kosong menehi swara banter,9,13,1.4444444444444444
+correct,Dheweke nek nari kaya robot diuripake bateraine,7,13,1.8571428571428572
+correct,Dheweke mlumpat kaya kelinci,4,8,2.0
+correct,Awake kaya es batu,4,6,1.5
+correct,Atine ibarat watu sing ora bakal goyah senajan kahalang ombak gedhe,11,18,1.6363636363636365
+correct,Atine ibarat koco,3,6,2.0
+correct,Roke mbak Ayu dowone kaya telung kilan,7,13,1.8571428571428572
+correct,Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban duren,10,21,2.1
+correct,Kamare mas Andi kaya kandang kewan,6,10,1.6666666666666667
+correct,Kamare mas Andi kaya kamar hotel,6,8,1.3333333333333333
+correct,Udan awan ini kaya banyu langsung diguyur soko dhuwur,9,14,1.5555555555555556
+correct,Semangate urip wong kuwi ibarat terus ngibadah ngiro urip muk sampe sesok,12,20,1.6666666666666667
+correct,Semangate urip wong kuwi ibarat enthong mlungker ndek njero godhong gedhang,11,22,2.0
+correct,Wong lanang iku nemui bapake pacare kaya Petruk,8,13,1.625
+correct,Nek gaekne susu nggo anake kaya banyu,7,12,1.7142857142857142
+correct,Nek gaekne susu nggo anake kaya santen soko kambil tuwek,10,17,1.7
+correct,Areke nek gae janji kaya merpati,6,9,1.5
+correct,Bondone wong tuane ibarat pitung turunan gak entek-entek,8,17,2.125
+correct,Nek gae alasan kaya wong kesel mergo sedinoan nyambut gae,10,18,1.8
+correct,Bocah-bocah kuwi polahe kaya wong manten disandingne,7,14,2.0
+correct,Bocah-bocah kuwi polahe kaya wong ndek pasar,7,13,1.8571428571428572
+correct,Banyune jeding kaya sendhang ndek kali,6,11,1.8333333333333333
+correct,Watake masku kaya kulit bayi,5,7,1.4
+correct,Atine Ani seperti ambane segoro,5,8,1.6
+correct,Atine Ani seperti ambane gang,5,7,1.4
+correct,Budheku wonge ibarat blonjo susuk seked ripis mesti dijaluk maneh,10,19,1.9
+correct,Budheku wonge ibarat wong seng ra eman bondho seneng ngekei wong-wong ra nduwe,13,24,1.8461538461538463
+correct,Dalane ngarep omah kaya gulo jowo kenek banyu,8,15,1.875
+correct,Nek nduwe cita-cita sakduwur langit,5,11,2.2
+correct,Lemari neng njero omahe sakgede lapangan bal-balan,7,14,2.0
+correct,Dadi guru saiki iku ibarat mlaku-mlaku santai,7,15,2.142857142857143
+correct,Sakpeduluran iku podo koyo pitik nek dipyuri beras,8,16,2.0
+correct,Sakpeduluran iku podo koyo semut kenek srengenge matahari,8,17,2.125
+correct,Lampu ndek omahe kaya dalanan kuburan,6,11,1.8333333333333333
+correct,Soale ujian dikerjakne ibarat ditingal merem entuk satus,8,17,2.125
+correct,Soale ujian dikerjakne ibarat nglebokne benang wengi-wengi,7,18,2.5714285714285716
+correct,Irunge iso dicenteli panci,4,7,1.75
+correct,Usahane kaya numpak motor kene lampu ijo,7,10,1.4285714285714286
+correct,Warna kulite kaya susu,4,5,1.25
+correct,Awake gedhine sak cagak omah,5,11,2.2
+correct,Bocah kuwi nek enek wong anyar kaya wani maju kenalan dewe,11,16,1.4545454545454546
+correct,Awake kaya gathot koco,4,8,2.0
+correct,Awake kaya wong loro,4,6,1.5
+correct,Warnane rambute kaya kembang jambu,5,9,1.8
+correct,Warnane rambute kaya areng,4,7,1.75
+correct,Bapake kaya pejabat penting,4,5,1.25
+correct,Bapake kaya wong ra nduwe penggawean,6,11,1.8333333333333333
+correct,Kerjane kaya mesin seng gak pernah mati,7,8,1.1428571428571428
+correct,Awake dewe kaya payung lan udan,6,11,1.8333333333333333
+correct,Awake dewe kaya kucing karo asu.,6,10,1.6666666666666667
+correct,Guyunanne kaya ghodhong wes kuning,5,10,2.0
+correct,Pas wonge milih lungo soko uripku rasane kaya kiamat,9,14,1.5555555555555556
+correct,Pas wonge milih lungo soko uripku rasane kaya entuk duwit 100 milyar,12,18,1.5
+correct,Raut wajahe kaya kembang ndek taman seng mekar,8,13,1.625
+correct,Raut wajahe kaya kembang layu,5,9,1.8
+correct,Senyume kaya gula jawa,4,7,1.75
+correct,Suarane pak Budi kaya bocah ngaji,6,8,1.3333333333333333
+correct,Ilmune wong kuwi ibarat banyu sing ombak ora jero,9,14,1.5555555555555556
+correct,Klambine sewangi kembang melati,4,10,2.5
+correct,Jidate kaya lapangan bal-balan,4,7,1.75
+correct,Ganang yen nesu kaya macan ngamuk,6,9,1.5
+correct,Nek ngguyu kaya mak lampir,5,8,1.6
+wrong,Nyawang esemmu sing rupane kaya ngemut glali,7,13,1.8571428571428572
+wrong,Suarane bocahe kuwi kaya sutra,5,7,1.4
+wrong,Suarane bocahe kuwi kaya bledek,5,8,1.6
+wrong,Dekwingi aku nyang omahmu jan kaya pasar malem,8,14,1.75
+wrong,Ngawiti dina senen iku seabot nyunggi batako,7,14,2.0
+wrong,Ngawiti dina senen iku seabot nyunggi kapuk,7,14,2.0
+wrong,"Winginane aku ketemu Mbak Dewi, rupane kaya cak ning",9,15,1.6666666666666667
+wrong,Lekmu numpak mobil kaya alap-alap,5,10,2.0
+wrong,Lungguh ning kursi iku rasane kaya watu,7,9,1.2857142857142858
+wrong,Udane maeng isuk kaya kletik,5,9,1.8
+wrong,Bar sepedahan tekan nggunung boyok rasane kaya dibalsemi sedinaan,9,19,2.111111111111111
+wrong,"Ra umum, duwurmen adike Anas sak wit klapa",8,14,1.75
+wrong,"Ra umum, duwurmen adike Anas sak wit ceplukan",8,14,1.75
+wrong,Padange lampu kamarku kaya ublik,5,8,1.6
+wrong,Untune Dik Sri mbiji timun,5,8,1.6
+wrong,Untune Dik Sri ngungkal gerang,5,9,1.8
+wrong,Polahe bocah cilik kuwi kaya kitiran,6,9,1.5
+wrong,Polahe bocah cilik kuwi kaya kebo,6,9,1.5
+wrong,Pasuryane Mas Tono kaya Rahwana,5,9,1.8
+wrong,Pipine Rida aluse kaya dalan makadhaman,6,12,2.0
+wrong,Hawane awan iki kaya dolan menyang kutub,7,11,1.5714285714285714
+wrong,Nyawang dedege Kartolo kok kaya dhadang ora godak,8,14,1.75
+wrong,Nek gawe wedang kopi Painem kaya disoki juruh,8,12,1.5
+wrong,Baguse Paijo katulung saka irunge sing kaya irunge petruk,9,15,1.6666666666666667
+wrong,Baguse Paijo katulung saka irunge sing kaya irunge semar,9,15,1.6666666666666667
+wrong,Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya cina craki,12,18,1.5
+wrong,Anggone nyambut gawe Allia kaya macan luwe,7,14,2.0
+wrong,Nalika sesrawungan Pak Jemani lan Paiman kaya banyu karo lenga,10,17,1.7
+wrong,Tulisane Sarti jumejer ana papan tulis kaya awangun ketumbar,9,16,1.7777777777777777
+wrong,Tulisane Sarti jumejer ana papan tulis kaya cekere pitik,9,15,1.6666666666666667
+wrong,Rambute Selfi wiwit cilik pancen kaya kembang jagung,8,14,1.75
+wrong,Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit bawang,13,17,1.3076923076923077
+wrong,Isih esuk kahanane Mbak Marmi kaya ulat manis,8,15,1.875
+wrong,Roti donat lek nggawe Narti kaya lemese pikulan,8,12,1.5
+wrong,Omahe sing dibangun ambane kaya pagupon dara,7,10,1.4285714285714286
+wrong,"Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental wesi",16,28,1.75
+wrong,Sawise mulih saka griya sakit pasuryane Siti isih kaya abang godhong katirah,12,20,1.6666666666666667
+wrong,Lungane Pakdhe menyang Surabaya enggale suwe kaya banyu sinaring,9,15,1.6666666666666667
+wrong,Rasane pelem kaya asem jawa,5,9,1.8
+wrong,Swarane sing nembang kaya kutut manggung,6,10,1.6666666666666667
+wrong,Bathuke Icha nonong,3,6,2.0
+wrong,Yen nyawang mripate Sari kaya liyep lindri,7,12,1.7142857142857142
+wrong,Banyune kolam renang kaya banyu aki,6,9,1.5
+wrong,Awake Surya nalika isih sekolah mbiyen kaya kuru semangka,9,14,1.5555555555555556
+wrong,Awake Surya nalika isih sekolah mbiyen kaya lemu kurma,9,15,1.6666666666666667
+wrong,Regane lombok abang sundhul langit,5,8,1.6
+wrong,Pondhasine omah kaya wit tela,5,8,1.6
+wrong,"Nalika dina Minggu, yen bisa nindakake pakaryan ngajari manuk beo nyanyi",11,20,1.8181818181818181
+wrong,Kutho iki hawane kaya kutub,5,8,1.6
+wrong,Omah iku kaya gedheg,4,7,1.75
+wrong,Awan iku bentukane kaya wedhus gembel,6,11,1.8333333333333333
+wrong,"Wis suwi kerja nang negara liya, wong iku nduweni watak kaya watu",12,16,1.3333333333333333
+wrong,"Wis suwi kerja nang negara liya, wong iku nduweni watak kaya tahu",12,16,1.3333333333333333
+wrong,Pak Sutrisno iku tansaya dhuwur pendidikane tambah kaya pari,9,13,1.4444444444444444
+wrong,Pak Sutrisno iku tansaya dhuwur pendidikane tambah kaya tong kosong,10,14,1.4
+wrong,"Yen lara, awake dewe wis kaya kutub",7,12,1.7142857142857142
+wrong,Kulite cah kuwi kaya areng,5,8,1.6
+wrong,Lapangan iku bentukane kaya segara,5,8,1.6
+wrong,Mlayune wis kaya kura,4,6,1.5
+wrong,Bangunan iki rasane kaya wit ringin,6,8,1.3333333333333333
+wrong,Simbah suarane kaya udan,4,7,1.75
+wrong,"Panganan iki rasane kaya bintang lima, nanging regane bintang lima",10,14,1.4
+wrong,"Nardi iki piye carane sikatan, untune wis kaya gamping",9,16,1.7777777777777777
+wrong,Mbak e nduweni awak kaya guci,6,10,1.6666666666666667
+wrong,"Wis dididik, diajari sampe sukses, bocah kuwi kaya penyu",9,15,1.6666666666666667
+wrong,Mobil iku pasaran,3,3,1.0
+wrong,Deni yen wis nari kaya godhong ceblok,7,11,1.5714285714285714
+wrong,Wong yen wis gedhe iku ojo kaya katak ning njero tempurung,11,17,1.5454545454545454
+wrong,Wong yen wis gedhe iku kaya walet,7,9,1.2857142857142858
+wrong,Motor iku yen ditumpaki wis kaya jet,7,10,1.4285714285714286
+wrong,Motor iku yen ditumpaki wis kaya dokar,7,10,1.4285714285714286
+wrong,"Ndek sekolah, Andi iku juru kunci kelas",7,10,1.4285714285714286
+wrong,Aldi lan Doni iku sahabat sing wis kaya senar,9,12,1.3333333333333333
+wrong,Pengawas ujian iku nduweni mata kaya elang,7,11,1.5714285714285714
+wrong,Wong iku kulite kaya kulit boyo,6,8,1.3333333333333333
+wrong,"Yen didelok, Pak Guru iku sikape kaya watu",8,11,1.375
+wrong,Pasangan iku yen didelok kaya banyu lan minyak,8,10,1.25
+wrong,Bocah kuwi nemu omah umpama tumbu oleh tutup,8,13,1.625
+wrong,Bocah kembar iku raine kaya bhumi karo langit,8,12,1.5
+wrong,Dadi anak pak lurah uripe kaya kalungan mas,8,12,1.5
+wrong,Dadi anak pak lurah uripe kaya kalungan wesi,8,13,1.625
+wrong,Isuk iki Jogja hawane kaya es ning gunung,8,10,1.25
+wrong,Bapak guru ngewenehi tugas kaya nandur pari,7,11,1.5714285714285714
+wrong,Mlayune atlet kuwi kaya macan mlaku,6,10,1.6666666666666667
+wrong,Adhiku pengen duwe omah sing kaya alas wit sewu,9,14,1.5555555555555556
+wrong,Drijine Marni rupane kaya mucuk ri,6,12,2.0
+wrong,"Jare Dinda, kalebu ing jurusan teknik kuwi kaya ndulang mas ning tambak",12,19,1.5833333333333333
+wrong,"Senajan sugih, Pak Tomo kerjane kaya duwe inten sekarung",9,18,2.0
+wrong,Banyu ing Surabaya umpama embun ning ndhuwur kaca,8,13,1.625
+wrong,Hendra kuwi omongane kaya abang-abang lambe,6,13,2.1666666666666665
+wrong,Hendra kuwi omongane kaya kacekel tangan sepisan,7,13,1.8571428571428572
+wrong,"Ning panggung, penari srimpi kae obahe umpama kembang kesenggol angin",10,20,2.0
+wrong,"Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya wulan tumuju tanggal sepisan",17,27,1.588235294117647
+wrong,Umar bali sekolah mlakune kaya macan luwe,7,11,1.5714285714285714
+wrong,Lakune bocah kuwi ning keluargane umpama buta kala ning alengka,10,16,1.6
+wrong,Mimpi dadi presiden pancen kaya Petruk arep dadi ratu,9,12,1.3333333333333333
+wrong,Sinau sejarah ning sekolah umpama dolanan ning pasar malem,9,13,1.4444444444444444
+wrong,Kerja ning kantor pemerintah kaya numpak gethek ning Kali Brantas,10,14,1.4
+wrong,"Nalika zaman semono, rega beras kaya tuku emas kang disepuh",10,16,1.6
+wrong,"Nalika zaman semono, rega beras kaya tuku kerikil",8,15,1.875
+wrong,"Sejatine, urip ning mancanegara kaya ngisi banyu ning kendhil",9,17,1.8888888888888888
+wrong,Carita kae marai ati rasa kaya dicacah gaman,8,12,1.5
+wrong,Urip ning jobo kutha san saya umpama udan watu geni,10,15,1.5
+wrong,Urip ning jobo kutha san saya umpama udan banyu,9,15,1.6666666666666667
+wrong,Mimpi sing mau bengi kaya kembang turu,7,9,1.2857142857142858
+wrong,Mimpi sing mau bengi kaya diuber demit,7,10,1.4285714285714286
+wrong,"Ning kuthaku, wong kang mbangun pabrik kaya jamur wayah udan",10,17,1.7
+wrong,Ngelakoni kerja ning pabrik kuwi umpama nguyahi segara,8,13,1.625
+wrong,Ngelakoni kerja ning pabrik kuwi umpama nandur lombok ning tegalan,10,16,1.6
+wrong,Bapake yen kerja sampe kaya adol tangan karo sikil,9,12,1.3333333333333333
+wrong,Nuruti dhawuhe wong tuwa dadi umpama nggenggem bara geni,9,16,1.7777777777777777
+wrong,Tenangane wong kuwi kaya kambrukan wulu,6,11,1.8333333333333333
+wrong,Enteke dhuwit gajiku umpama ngetutke miline banyu,7,15,2.142857142857143
+wrong,Urip ning perkampungan Jakarta kaya tinemu sadulur tunggal getih,9,15,1.6666666666666667
+wrong,"Nek gawe pegawe kantor iki, keputusan mau isuk kaya nabuh kenong",11,16,1.4545454545454546
+wrong,Lia lan adhine kaya lenga karo banyu,7,10,1.4285714285714286
+wrong,Didikan keluargane umpama cul-culane kuthuk,5,12,2.4
+wrong,Bener jare wong kene yen Bu Lurah tumindake kaya pucuk kertas nyeset driji,13,21,1.6153846153846154
+wrong,Doni karo Yanti pancen kaya Rahwana Sinta ing pewayangan,9,16,1.7777777777777777
+wrong,Sepur iku suarane kaya manuk pentet,6,10,1.6666666666666667
+wrong,Kucing kuwi obah kaya becak,5,8,1.6
+wrong,Sinden dangdut suarane kaya bebek,5,9,1.8
+wrong,Kelekmu mambu kaya telek pithik,5,10,2.0
+wrong,Ngenteni awakmu teka rasane kaya sewu tahun,7,13,1.8571428571428572
+wrong,Berita iku ditampa kaya ngeleg obat,6,8,1.3333333333333333
+wrong,Wong iku leh mlaku kaya numpak keong,7,10,1.4285714285714286
+wrong,Rupane wingi kaya peteng wayah bengi,6,11,1.8333333333333333
+wrong,Omongane bu guru kaya landhep pedang,6,11,1.8333333333333333
+wrong,Wayah esuk hawane kaya es,5,8,1.6
+wrong,Banjir sasi wingi duwure kaya tugu monas,7,14,2.0
+wrong,Banjir sasi wingi duwure kaya tungkak,6,12,2.0
+wrong,Omongane isa kaya korek gas,5,8,1.6
+wrong,Temok omah iku dicet werna areng,6,11,1.8333333333333333
+wrong,Temok omah iku dicet werna pupur,6,11,1.8333333333333333
+wrong,Bantal iki rasane kaya kapuk,5,8,1.6
+wrong,Bantal iki rasane kaya watu,5,7,1.4
+wrong,Apel iku rasane kaya tebu,5,7,1.4
+wrong,Mangsa ngarep wong iku ibarat mangsa surup,7,11,1.5714285714285714
+wrong,Werno wulu kucing iku kaya areng,6,9,1.5
+wrong,Cah loro iku kelet kaya tluth,6,10,1.6666666666666667
+wrong,Keluargaku saben dina mangan iwak,5,8,1.6
+wrong,Raihan mambune kaya mayit,4,8,2.0
+wrong,Omahe Jokowi ambane kaya laut kidul,6,9,1.5
+wrong,Kowe takdongakne kaya jengklong,4,11,2.75
+wrong,Ambune awakmu wes kaya wedhus,5,10,2.0
+wrong,Tresnaku marang sliramu iku kaya semut,6,11,1.8333333333333333
+wrong,Omah iku kaya digawe saka kayu,6,8,1.3333333333333333
+wrong,Montor iku digawe seka wesi,5,9,1.8
+wrong,Rasane panganan iki kaya tempe godhog,6,11,1.8333333333333333
+wrong,Febri jajan kaya tanggal tuwa,5,8,1.6
+wrong,Jaka urip ing omah tembok,5,8,1.6
+wrong,Gambar iku kaya langit kemeluk,5,7,1.4
+wrong,Wong kaya kowe iku kaya pasir pantai,7,8,1.1428571428571428
+wrong,Polisi iku sifate kaya anak kucing,6,7,1.1666666666666667
+wrong,Raimu tak sawang-sawang kaya Mak Lampir,6,12,2.0
+wrong,Meja kerjane bapak digawe saka gedebog gedhang,7,12,1.7142857142857142
+wrong,Omahe kancaku kaya kos kosan,5,9,1.8
+wrong,Parkiran omahe paklik kaya teras omah,6,10,1.6666666666666667
+wrong,Nalika turu swarane ngorok kaya maling mlaku,7,12,1.7142857142857142
+wrong,Pikirane kaya rel sepur,4,7,1.75
+wrong,Pikirane kaya slerekane kathok,4,9,2.25
+wrong,Karir artis iku kaya gabus dilebokake ing banyu,8,13,1.625
+wrong,Omahe kaya omah soko karton lan triplek,7,10,1.4285714285714286
+wrong,Pendukunge Pak Rangga dadi bupati kayata busa ing samodra,9,16,1.7777777777777777
+wrong,Pendukunge Pak Rangga dadi bupati kayata jamaah sholat subuh ing masjid,11,19,1.7272727272727273
+wrong,Swarane masku nek nyanyi koyo swarane Didi kempot,8,14,1.75
+wrong,Swarane masku nek nyanyi koyo tutup panci njeblok,8,13,1.625
+wrong,Dina iki hawa ing njaba krasa kaya ing kutub lor,10,14,1.4
+wrong,Semangate nandhang pacoban urip iku kaya kura-kura sing kerep ndhelik ing cangkang,12,24,2.0
+wrong,Sabare kaya bolongan sedotan,4,7,1.75
+wrong,Mentale kaya baja,3,4,1.3333333333333333
+wrong,Mentale kaya tempe,3,5,1.6666666666666667
+wrong,Yen nyuarake panemune kaya buntut tikus sing kecepit ing lawang,10,19,1.9
+wrong,Rambute bocah iku kaya sapu aren,6,8,1.3333333333333333
+wrong,Kekancan kita ibarat rante,4,8,2.0
+wrong,Tresnaku marang sliramu sejeroning samudra Hindia,6,14,2.3333333333333335
+wrong,Mlayune kaya macan tutul nguber mangsane,6,11,1.8333333333333333
+wrong,Awake kaya cagak daya,4,8,2.0
+wrong,Adikku yen ndek omah kaya wong loro untu,8,12,1.5
+wrong,Omongan tanggaku kaya driji kenek peso sing landhep,8,14,1.75
+wrong,Omongan tanggaku kaya teh sing diombe yen udan,8,12,1.5
+wrong,Hubungan katresnan kita kaya asu lan kucing,7,9,1.2857142857142858
+wrong,Raine koncoku kaya dalane deso ora roto akeh krikile,9,16,1.7777777777777777
+wrong,Hubungan seduluranku karo mbakyuku iku ibarat banyu lan lengo,9,16,1.7777777777777777
+wrong,Dalan-dalan ing desaku lampune kaya ing pasar malam,8,14,1.75
+wrong,Bapake koncoku iku kaya buto ijo,6,11,1.8333333333333333
+wrong,Bapak tirine sifate kaya Sengkuni,5,9,1.8
+wrong,"Nalika ngawasi ujian, pandelenge guru iku kaya manuk garudha ngarah mangsane",11,21,1.9090909090909092
+wrong,Masku nalika ngumbara kaya kacang lali karo kulitnya,8,12,1.5
+wrong,Wong kuwi sifate kaya bathok bolu isi madu,8,11,1.375
+wrong,Dheweke nek nari kaya ombak ular-ular.,6,12,2.0
+wrong,Aku lan kowe kaya pinang dibelah loro,7,10,1.4285714285714286
+wrong,Aku lan kowe kaya awan lan wengi,7,9,1.2857142857142858
+wrong,Dheweke mlumpat kaya kangguru,4,8,2.0
+wrong,Awake kaya inti bumi,4,6,1.5
+wrong,Roke mbak Ayu dowone kaya nyapu dalan,7,13,1.8571428571428572
+wrong,Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban ondo,10,20,2.0
+wrong,Udan awan ini kaya sitok-sitok banyune jeblok,7,15,2.142857142857143
+wrong,Wong lanang iku nemui bapake pacare kaya Werkudhara,8,14,1.75
+wrong,Areke nek gae janji kaya ndelok gajah numpak becak,9,16,1.7777777777777777
+wrong,Bondone wong tuane ibarat muk klambi lan kathok ndek awak,10,17,1.7
+wrong,Cah enom mburi omahku kuwi yen ngetokne duwit dipikir kanggone,10,20,2.0
+wrong,Cah enom mburi omahku kuwi ngentek-ngentekne duwit,7,19,2.7142857142857144
+wrong,Nek gae alasan kaya ketemu setan awan-awan,7,12,1.7142857142857142
+wrong,Mbiyen bapakku ngluluhne atine ibukku kaya golek dom ndek tengah jerami,11,21,1.9090909090909092
+wrong,Mbiyen bapakku ngluluhne atine ibukku kaya numpak motor metik ra sah mlebu gigi nek ditumpaki,15,28,1.8666666666666667
+wrong,Mbakyuku nek ngekei klambi kaya buka plastik soko toko,9,14,1.5555555555555556
+wrong,Mbakyuku nek ngekei klambi kaya wes nate digae,8,17,2.125
+wrong,Banyune jeding kaya banyu kopi,5,9,1.8
+wrong,Watake masku kaya parutan,4,7,1.75
+wrong,Dalane ngarep omah kaya koco dilap kain teles,8,13,1.625
+wrong,Nek nduwe cita-cita sakduwur cagak listrik,6,14,2.3333333333333335
+wrong,Lemari neng njero omahe sakgede kerdus mie,7,13,1.8571428571428572
+wrong,Dadi guru saiki iku ibarat mlaku munggah gunung,8,13,1.625
+wrong,Lampu ndek omahe kaya wong nduwe tanggapan,7,12,1.7142857142857142
+wrong,Irunge dicantoli koco moto mlorot terus,6,12,2.0
+wrong,Usahane kaya numpak motor kene lampu abang ndek prapatan,9,13,1.4444444444444444
+wrong,Warna kulite kaya woh juwet,5,7,1.4
+wrong,Awake gedhine sakdrum,3,7,2.3333333333333335
+wrong,Bocah kuwi nek enek wong anyar kaya ndelik ra wani metu,11,15,1.3636363636363635
+wrong,Hawane saiki kaya gae jaket rangkep limo,7,13,1.8571428571428572
+wrong,Hawane saiki kaya dikipasi wong sepuluh,6,11,1.8333333333333333
+wrong,Kerjane kaya jam kentekkan baterai,5,9,1.8
+wrong,Guyunanne kaya badut lagek atraksi,5,10,2.0
+wrong,Senyume kaya pencit,3,6,2.0
+wrong,Suarane pak Budi kaya singo ngaum ndek jero alas,9,14,1.5555555555555556
+wrong,Ilmune wong kuwi ibarat ombone segoro,6,10,1.6666666666666667
+wrong,Klambine sewangi kringet,3,8,2.6666666666666665
+wrong,Keteguhane ngadepi kenyataan kaya watu karang,6,12,2.0
+wrong,Keteguhane ngadepi kenyataan kaya krupuk,5,11,2.2
+wrong,Jidate kaya kulit kacang seng mengkeret,6,9,1.5
+wrong,Ganang yen nesu kaya patung,5,6,1.2
+wrong,Nek ngguyu kaya kebelet,4,8,2.0
+wrong,Wedhange kaya obat loro untu,5,8,1.6
+wrong,Wedhange kaya kolak gedhang,4,8,2.0
+wrong,Nek mangan ngentekne sego sakwakul,5,11,2.2
+wrong,Nek mangan muk pirang pulukan,5,9,1.8
+wrong,Awake kaya gedung duwur,4,7,1.75
+wrong,Awake kaya kripik,3,6,2.0

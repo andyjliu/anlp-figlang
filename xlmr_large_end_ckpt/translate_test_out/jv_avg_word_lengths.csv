@@ -1,0 +1,601 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Look at your smile that looks like you're looking at it,11,13,1.1818181818181819
+correct,Look at your smile that looks like you are sipping coffee grounds,12,14,1.1666666666666667
+correct,The boy's voice was like silk,6,9,1.5
+correct,You walk like dragging a brick,6,8,1.3333333333333333
+correct,Your house is like a night market,7,7,1.0
+correct,Starting Monday is like waiting for a brick,8,10,1.25
+correct,"Yesterday I met Ms. Dewi, she looks like my brother",10,14,1.4
+correct,"Yesterday I met Ms. Dewi, she looks like a witch",10,15,1.5
+correct,"Poh, Mrs. Nita's clothes smell like a jasmine garden",9,17,1.8888888888888888
+correct,"Poh, Mrs. Nita's clothes smell like pee",7,14,2.0
+correct,The atmosphere of the kliwon jan market is like people fighting,11,12,1.0909090909090908
+correct,Lekmu rides the car like a snail,7,10,1.4285714285714286
+correct,Sitting on the chair feels like a pillow,8,11,1.375
+correct,Sitting on the chair felt like a stone,8,10,1.25
+correct,Riding a bike to the mountain feels like riding a track,11,14,1.2727272727272727
+correct,The light in my room is like a lamp,9,9,1.0
+correct,Mr. Edi ran away like an ant,7,8,1.1428571428571428
+correct,Dik Sri's teeth are eating cucumbers,6,12,2.0
+correct,Dik Sri's teeth were bared,5,9,1.8
+correct,Mas Tono's face is like Arjuna,6,10,1.6666666666666667
+correct,Rida's cheeks are as smooth as asphalt road,8,14,1.75
+correct,Rida's cheeks are as soft as the road to the grave,11,15,1.3636363636363635
+correct,"Looking at Kartolo's posture, why is he so bold?",9,16,1.7777777777777777
+correct,"The condition of Pak Sardi's house, which has just received help, is like raining money",15,21,1.4
+correct,"If you make a Painem coffee drink, it's like being drunk",11,16,1.4545454545454546
+correct,"If you make a Painem coffee drink, it's like being told",11,15,1.3636363636363635
+correct,Good thing Paijo was helped by his nose which was like a nose,13,16,1.2307692307692308
+correct,Mr. Hasan's refusal to give a donation is really like Chinese craki,12,17,1.4166666666666667
+correct,Allia works like a bull,5,6,1.2
+correct,"When Mr. Jemani and Paiman interact, it's like mimi and mituna",11,18,1.6363636363636365
+correct,Sarti's writing jumejer has a blackboard like a chicken breast,10,16,1.6
+correct,"Still in the morning, Ms. Marmi's condition is like a dark caterpillar",12,20,1.6666666666666667
+correct,"Still in the morning, Ms. Marmi's condition is like a sweet caterpillar",12,20,1.6666666666666667
+correct,The house he built is as wide as an ant's arm,11,13,1.1818181818181819
+correct,"When participating in the Bujangganong competition, Radit's behavior was flexible, because from the first grade, his mind was like an iron mentality",22,34,1.5454545454545454
+correct,"After coming home from the sick house, Siti's face was still red",12,15,1.25
+correct,Pakdhe's journey to Surabaya was as long as shining water,10,14,1.4
+correct,His singing voice is like a gig,7,8,1.1428571428571428
+correct,His singing voice is like a mesh exhaust,8,10,1.25
+correct,Icha frowned,2,4,2.0
+correct,"If you look at Sari's eyes, it's like a liyep lindri",11,18,1.6363636363636365
+correct,The swimming pool water is like spring water,8,8,1.0
+correct,The land donated for the village field is as wide as a moringa leaf,14,17,1.2142857142857142
+correct,The land donated for the village field is as wide as the width of the leaves of tales,18,21,1.1666666666666667
+correct,"If you sit there looking at yourself, you look like Dewi Sembadra",12,15,1.25
+correct,"If you sit there and work alone, you look like Buta Cakil",12,15,1.25
+correct,The sign is going to rain because the clouds are like blowing your nose,14,17,1.2142857142857142
+correct,It is a sign that it will rain because the clouds are like burning candles,15,18,1.2
+correct,The price of red chili is sky high,8,8,1.0
+correct,The foundation of the house is like electricity,8,9,1.125
+correct,The policeman's hair is like a coconut,7,11,1.5714285714285714
+correct,"On Sundays, if you can do the job of teaching the parrot to sing",14,17,1.2142857142857142
+correct,"On Sundays, if you can do the work of swimming ducks",11,14,1.2727272727272727
+correct,My life with his life has become like the earth,10,10,1.0
+correct,His movements are like those of a snail,8,10,1.25
+correct,Living in the big city is like living in heaven,10,10,1.0
+correct,Living in the big city is like living in hell,10,10,1.0
+correct,"After wandering for a long time, he felt more humble",10,13,1.3
+correct,"After wandering for a long time, he felt more arrogant",10,12,1.2
+correct,The student is nicknamed the shrimp brain,7,10,1.4285714285714286
+correct,The house is like a palace,6,7,1.1666666666666667
+correct,"Knowing that he got a bad grade, Abdi still has a big heart",13,16,1.2307692307692308
+correct,"Knowing that he got bad grades, Abdi remained small-hearted",9,17,1.8888888888888888
+correct,The cloud is shaped like a white sheep,8,10,1.25
+correct,The trial in the movie feels like a big one,10,11,1.1
+correct,That person eats like he hasn't eaten in 3 days,10,15,1.5
+correct,Aldo is working like a machine,6,7,1.1666666666666667
+correct,Aldo works like a snail,5,7,1.4
+correct,The soldiers in the movie are fighting like lions,9,11,1.2222222222222223
+correct,The soldiers in the movie are fighting like turtles,9,12,1.3333333333333333
+correct,"Having worked in other countries for a long time, he has a character like a stone",16,18,1.125
+correct,"Having worked in other countries for a long time, he has a character like tofu",15,17,1.1333333333333333
+correct,"Judging by her behavior, Mr. Budi's daughter is like a solo princess",12,18,1.5
+correct,"Judging by his behavior, Mr. Budi's son is like a thug",11,16,1.4545454545454546
+correct,The couple's marriage is like Romeo and Juliet,8,11,1.375
+correct,A couple's marriage is like a dog and a cat,10,12,1.2
+correct,My sister if you talk like Werkudara,7,9,1.2857142857142858
+correct,A mother's patience with her children is like an ocean,10,12,1.2
+correct,A mother's patience with her children is like a moringa leaf,11,15,1.3636363636363635
+correct,"If you are sick, you are like the core of the earth",12,13,1.0833333333333333
+correct,Her face is like the sun,6,6,1.0
+correct,The girl's skin is like snow,6,8,1.3333333333333333
+correct,The field is shaped like an ocean,7,8,1.1428571428571428
+correct,The field is shaped like a pond,7,9,1.2857142857142858
+correct,He ran like a deer,5,6,1.2
+correct,He ran like a turtle,5,6,1.2
+correct,Every holiday this house is like a market,8,8,1.0
+correct,"Every Eid, this house is like a graveyard",8,10,1.25
+correct,Grandpa's voice was like rain,5,8,1.6
+correct,Grandfather's voice was like thunder,5,10,2.0
+correct,That girl is like a stone,6,7,1.1666666666666667
+correct,That girl is like water,5,5,1.0
+correct,"This food tastes like five stars, but it costs five stars",11,15,1.3636363636363635
+correct,"Nardi how to brush, his teeth are like limestone",9,13,1.4444444444444444
+correct,"Mr. Danu, if he gets into trouble, he turns into a lion",12,18,1.5
+correct,She has a body like a Spanish guitar,8,8,1.0
+correct,Ms. e has a body like a jar,8,9,1.125
+correct,"Having been educated, taught to succeed, the child is like a nut",12,15,1.25
+correct,Mother is angry like Mount Merapi,6,8,1.3333333333333333
+correct,The car is invisible,4,5,1.25
+correct,Cars are the market,4,5,1.25
+correct,Until it dances like a leaf,6,9,1.5
+correct,If you dance like a robot,6,6,1.0
+correct,Have you eaten? Why are you acting like an angry bull?,11,16,1.4545454545454546
+correct,People when they grow up are like swallows,8,10,1.25
+correct,The motorcycle is like a jet,6,8,1.3333333333333333
+correct,The motorcycle is like a dokar if you ride it,10,12,1.2
+correct,"At school, Andi is the star of the class",9,11,1.2222222222222223
+correct,Aldi and Doni are friends who are like a chain,10,12,1.2
+correct,The examiner has eyes like an eagle,7,9,1.2857142857142858
+correct,That person's skin is like a baby's skin,8,12,1.5
+correct,That person's skin is like a man's skin,8,12,1.5
+correct,The girl's future is like daylight,6,9,1.5
+correct,The girl's future is like night,6,8,1.3333333333333333
+correct,Your attitude is like the sun,6,6,1.0
+correct,Your attitude is like an ice cube,7,9,1.2857142857142858
+correct,Doni's younger brother is like an elephant,7,13,1.8571428571428572
+correct,Doni's younger brother is like an ant,7,11,1.5714285714285714
+correct,"If you look at it, Mr. Guru's attitude is like water in a taro leaf",15,21,1.4
+correct,"If you look at it, Mr. Guru's attitude is like a stone",12,17,1.4166666666666667
+correct,His laugh is like Javanese sugar,6,7,1.1666666666666667
+correct,Her hair was like silk,5,6,1.2
+correct,Her hair is like wool,5,6,1.2
+correct,Life is like stopping for a drink,7,8,1.1428571428571428
+correct,The boy found the house like a knife,8,9,1.125
+correct,The taste of alcoholic drinks is like the bitterness of honey,11,14,1.2727272727272727
+correct,The taste of alcohol is like poison,7,8,1.1428571428571428
+correct,The twin boys have a face like split bamboo,9,10,1.1111111111111112
+correct,It's true that being a policeman is like a midget reaching for the stars,14,20,1.4285714285714286
+correct,Being a police officer is like finding gold in your own home,12,13,1.0833333333333333
+correct,"Being the headman's son, his life is like a gold necklace",11,18,1.6363636363636365
+correct,"This morning in Jogja, the weather is like ice in the mountains",12,15,1.25
+correct,Menungo is like a thousand-year-old statue,6,12,2.0
+correct,The athlete runs like a snail,6,8,1.3333333333333333
+correct,The athlete runs like a tiger,6,8,1.3333333333333333
+correct,My sister wants to have a house like a thousand tree forest,12,13,1.0833333333333333
+correct,My sister wants to have a house like a dove house,11,11,1.0
+correct,Gani is famous because he sounds like a sleeping cat,10,11,1.1
+correct,Marni's finger looks like a tip,6,9,1.5
+correct,Marni's fingers look like bamboo shoots,6,12,2.0
+correct,"Dinda said, including in the engineering department is like a lizard swallowing a wife",14,20,1.4285714285714286
+correct,"Dinda said, including in the engineering department is like digging gold in a pond",14,18,1.2857142857142858
+correct,"If you find a tongo, that child is like holding a diamond",12,15,1.25
+correct,The singer really has a voice like a drinking beetle,10,14,1.4
+correct,The water in Surabaya is like dew on the top of the glass,13,14,1.0769230769230769
+correct,The water in Surabaya is like dew mixed with ash,10,13,1.3
+correct,Hendra's speech was like being held by the hand once,10,13,1.3
+correct,Bu Mardi's cooking tastes like sultan's food,7,13,1.8571428571428572
+correct,Mrs. Mardi's cooking tastes like sick people's food,8,15,1.875
+correct,Every day the store is like a graveyard at night,10,11,1.1
+correct,"On stage, srimpi dancers move like flowers in the wind",10,14,1.4
+correct,"On stage, srimpi dancers move like dead wood",8,12,1.5
+correct,"If someone asks where Yuli is, say that the one with eyebrows like the moon is going to the first date",21,27,1.2857142857142858
+correct,"If someone asks where Yuli is, they say that he has eyebrows like a field otter",16,22,1.375
+correct,Umar went back to school like a tiger chasing a deer,11,14,1.2727272727272727
+correct,The child's behavior in his family is like a blind person in the dark,14,16,1.1428571428571428
+correct,The dream of becoming president is like Semar building a paradise,11,13,1.1818181818181819
+correct,Studying history at school is like waiting for a baboon to rest,12,14,1.1666666666666667
+correct,Working in a government office is like riding a donkey in Bengawan Solo,13,17,1.3076923076923077
+correct,"In TV today, many officials are like having the reputation of a dry leaf",14,17,1.2142857142857142
+correct,"On TV today, there are many officials who act like fair queens",12,15,1.25
+correct,"At that time, the price of rice was like buying gilded gold",12,15,1.25
+correct,"At that time, the price of rice was like buying gravel",11,13,1.1818181818181819
+correct,"Actually, living in a foreign country is like breaking a water bottle",12,13,1.0833333333333333
+correct,The story is so heart-wrenching that it feels like a sword,11,17,1.5454545454545454
+correct,The story is so heartwarming it feels like being sprinkled with flower water,13,19,1.4615384615384615
+correct,Life in the city is like raining stones and fire,10,12,1.2
+correct,The dream that night is like a sleeping flower,9,10,1.1111111111111112
+correct,The dream that night was like being chased by a demon,11,12,1.0909090909090908
+correct,"In my city, people who build factories can count on the fingers of one hand",15,18,1.2
+correct,So the children of this family are like carrying a stone on a mountain,14,16,1.1428571428571428
+correct,So the children in this family are like carrying cotton in their hands,13,14,1.0769230769230769
+correct,"Living life as a santri has its own story, even if it's like the sun in the evening",18,22,1.2222222222222223
+correct,"Living life as a santri has its own story, even if it's like getting lost in the jungle",18,23,1.2777777777777777
+correct,"If his father works, it's like selling hands and feet",10,13,1.3
+correct,"His father, if he works, it's like selling words",9,13,1.4444444444444444
+correct,Obeying the parents' orders is like holding iron copper,9,15,1.6666666666666667
+correct,Spending my salary is like following a stream of water,10,12,1.2
+correct,Life in the Jakarta village is like finding a blood brother,11,11,1.0
+correct,Living in the Jakarta village is like sacrificing blood,9,10,1.1111111111111112
+correct,"If you work in this office, the decision is like a gong struck",13,16,1.2307692307692308
+correct,The decision made by Mrs. Dwi is like teak wood standing upright,12,15,1.25
+correct,The decision made by Mrs. Dwi is like being scared by the sea,13,15,1.1538461538461537
+correct,Lia and her sister like coffee with milk,8,8,1.0
+correct,His family's education is like a Japanese soldier going to war,11,14,1.2727272727272727
+correct,His family's upbringing is like a curse,7,12,1.7142857142857142
+correct,It is true that people here say that Bu Lurah's behavior is like pouring honey,15,19,1.2666666666666666
+correct,Doni and Yanti are really like Father Sinta in a puppet show,12,16,1.3333333333333333
+correct,Your body is like iron,5,6,1.2
+correct,Your body is like kapok,5,6,1.2
+correct,The cat moves like a train,6,7,1.1666666666666667
+correct,The cat moves like a rickshaw,6,10,1.6666666666666667
+correct,Sinden dangdut's voice is like a duck,7,13,1.8571428571428572
+correct,Your armpits smell like chicken shit,6,8,1.3333333333333333
+correct,Your armpits smell like jasmine flowers,6,10,1.6666666666666667
+correct,Pigeons fly like airplanes,4,8,2.0
+correct,Pigeons fly like snails,4,7,1.75
+correct,Waiting for your body to come feels like a thousand years,11,13,1.1818181818181819
+correct,Waiting for your body to come feels like five seconds,10,12,1.2
+correct,Make you believe it's like flipping the palm of your hand,11,14,1.2727272727272727
+correct,Make you believe it's like climbing a mountain,8,11,1.375
+correct,The shop rice is like eating a rock,8,8,1.0
+correct,The news was received like a drug,7,7,1.0
+correct,The man walked like he was riding an airplane,9,12,1.3333333333333333
+correct,That person walks like a snail,6,8,1.3333333333333333
+correct,It looks like it was dark last night,8,8,1.0
+correct,It looked like the noon sun yesterday,7,7,1.0
+correct,The teacher's words are like a sharp sword,8,11,1.375
+correct,In the morning the air was like ice,8,9,1.125
+correct,In the morning the air was like fire,8,8,1.0
+correct,Last month's flood was as tall as a monas monument,10,13,1.3
+correct,His words are like cold water,6,6,1.0
+correct,The roof of the house is painted charcoal,8,11,1.375
+correct,The roof of the house is painted the color of pupur,11,13,1.1818181818181819
+correct,This pillow feels like a rock,6,8,1.3333333333333333
+correct,The apple tastes like sour,5,7,1.4
+correct,The apple tastes like sugar cane,6,8,1.3333333333333333
+correct,The future of a person is like the light of the morning,12,12,1.0
+correct,My eyes are like clear glass,6,6,1.0
+correct,My eyes look like a puddle of water,8,10,1.25
+correct,The color of the cat's fur is like charcoal,9,13,1.4444444444444444
+correct,The two boys were separated as if they were fighting,10,11,1.1
+correct,Fahmi ate rice like he hadn't eaten in five days,10,17,1.7
+correct,Fahmi ate rice as if he was satisfied after finishing the buffet,12,16,1.3333333333333333
+correct,My family eats three meals a day,7,9,1.2857142857142858
+correct,Raihan smells like flowers,4,6,1.5
+correct,Raihan smells like a dead body,6,8,1.3333333333333333
+correct,Jokowi's house is as wide as the south sea,9,11,1.2222222222222223
+correct,Jokowi's house is as wide as a rat's alley,9,14,1.5555555555555556
+correct,You're like kneeling,3,7,2.3333333333333335
+correct,Your body smells like sheep,5,7,1.4
+correct,Your body smells like jasmine flowers,6,9,1.5
+correct,My love for you is like an elephant,8,10,1.25
+correct,My love for you is like an ant,8,8,1.0
+correct,The water in this house tastes like ice water,9,11,1.2222222222222223
+correct,The water of this house tastes like ronde drink,9,10,1.1111111111111112
+correct,Looking at his ex's smile felt like sugar cane,9,12,1.3333333333333333
+correct,The house seems to be made of gold,8,8,1.0
+correct,The house seems to be made of wood,8,8,1.0
+correct,The car is made of iron,6,7,1.1666666666666667
+correct,The car is made of wood,6,6,1.0
+correct,The taste of this food is like boiled tempeh,9,12,1.3333333333333333
+correct,My love for you is like the blue sea,9,9,1.0
+correct,My love for you is as narrow as a dom hole,11,12,1.0909090909090908
+correct,Waiting for Surya to bathe is like a hundred years,10,12,1.2
+correct,Waiting for Surya to take a bath was like five minutes,11,12,1.0909090909090908
+correct,Cake fever is like an old date,7,9,1.2857142857142858
+correct,Jaka lives in a walled house,6,8,1.3333333333333333
+correct,Jake lives in a cardboard house,6,8,1.3333333333333333
+correct,Adi is fussy because her stomach rumbles,7,9,1.2857142857142858
+correct,The picture is like a sky full of stars,9,10,1.1111111111111112
+correct,People like you are like sand on the beach,9,9,1.0
+correct,People like you are like agate,6,7,1.1666666666666667
+correct,The police are like wild dogs,6,7,1.1666666666666667
+correct,The police are like kittens,5,7,1.4
+correct,Your face looks like Luna Maya,6,6,1.0
+correct,Your face doesn't look like Mak Lampir,7,10,1.4285714285714286
+correct,Dad bought peanuts like his wallet was thick,8,12,1.5
+correct,Dad bought peanuts as his wallet was thin,8,12,1.5
+correct,My father's desk is made of teak wood,8,12,1.5
+correct,My father's desk is made of banana peels,8,12,1.5
+correct,My friend's house is like a boarding school,8,11,1.375
+correct,The parking lot of my uncle's house is like a football field,12,15,1.25
+correct,Today I feel like I got money,7,7,1.0
+correct,Today I am like a burden,6,7,1.1666666666666667
+correct,"For him, his life was like seeing a beautiful sight",10,11,1.1
+correct,"For him, his life was like an iron bar",9,11,1.2222222222222223
+correct,He helped his old mother like carrying ten sacks of rice,11,13,1.1818181818181819
+correct,He works like a horse when he runs,8,8,1.0
+correct,He works like a snail when he runs,8,9,1.125
+correct,When he sleeps his snoring sound is like the exhaust of an old and worn out car,17,21,1.2352941176470589
+correct,The test of a person's life is like heavy rain that does not stop,14,16,1.1428571428571428
+correct,The test of a person's life is like a bald head with sparse hair,14,17,1.2142857142857142
+correct,Mom carries a large suitcase around the house,8,10,1.25
+correct,His mind is like a panty slip,7,8,1.1428571428571428
+correct,An artist's career is like a stone placed in water,10,13,1.3
+correct,His house is like a king's palace,7,10,1.4285714285714286
+correct,His house is like a cardboard and plywood house,9,12,1.3333333333333333
+correct,Living in this house is like heaven,7,7,1.0
+correct,Living in this house is like hell,7,7,1.0
+correct,The atmosphere of this village is like a market,9,9,1.0
+correct,His voice when he sings is like Didi's voice,9,13,1.4444444444444444
+correct,The voice of my mask when I sing is like the lid of a pot is stuck,17,17,1.0
+correct,A woman's skin is like a baby's skin,8,12,1.5
+correct,His spirit to face the trials of life is like a lion king in the middle of the forest,19,22,1.1578947368421053
+correct,His spirit to endure the trials of life is like a turtle that often hides in its shell,18,23,1.2777777777777777
+correct,When solving problems he is like a wave in the middle of the ocean,14,16,1.1428571428571428
+correct,My nephew is like a smart and agile deer at school,11,14,1.2727272727272727
+correct,My nephew that school is like a pile of wood,10,11,1.1
+correct,His patience is like the ocean,6,6,1.0
+correct,His patience is like a hole in a straw,9,10,1.1111111111111112
+correct,His mentality is like steel,5,6,1.2
+correct,Mentally like tempeh,3,5,1.6666666666666667
+correct,Your smile is like the moon that lights up the dark night,12,14,1.1666666666666667
+correct,Ms. Siti divides her time like a traffic jam in the capital city,13,15,1.1538461538461537
+correct,Voicing your opinion is like roaring a tiger,8,11,1.375
+correct,If you voice your opinion it's like a rat's tail caught in the door,14,19,1.3571428571428572
+correct,The size of the child's body is like an elephant,10,14,1.4
+correct,The size of the child's body is like an ant,10,12,1.2
+correct,The boy's hair was like silk,6,9,1.5
+correct,Our friendship is like a chain,6,6,1.0
+correct,Our friendship is like solid wood that is often touched by water,12,13,1.0833333333333333
+correct,My love for you is deep in the Indian Ocean,10,10,1.0
+correct,My love for you is as deep as a child's pool,11,13,1.1818181818181819
+correct,He ran like a leopard chasing his prey,8,10,1.25
+correct,It runs like a garden snail,6,7,1.1666666666666667
+correct,His body is like a basketball,6,7,1.1666666666666667
+correct,The couple's children are like the number of football players,10,12,1.2
+correct,The couple's children are like the number of rambutan seeds,10,15,1.5
+correct,My brother is like a man with two teeth when he comes home,13,14,1.0769230769230769
+correct,The child's life is like a bird flying freely in the sky,12,17,1.4166666666666667
+correct,The child's life is like a bird in a cage,10,14,1.4
+correct,My neighbor's words are like a finger hit by a sharp knife,12,15,1.25
+correct,My neighbor's speech is like the tea he drinks when it rains,12,16,1.3333333333333333
+correct,His vehicle moves like the wind,6,7,1.1666666666666667
+correct,"If you bring a gift, it is as heavy as a stone",12,14,1.1666666666666667
+correct,If you bring gifts like light cotton,7,8,1.1428571428571428
+correct,Our love affair is like the story of Romeo and Juliet,11,12,1.0909090909090908
+correct,Our love relationship is like a dog and a cat,10,10,1.0
+correct,My friend's face is like the asphalt of the highway,10,15,1.5
+correct,My sibling relationship with my sister is like a human being with oxygen,13,14,1.0769230769230769
+correct,The streets in my village are lit up like a night market,12,13,1.0833333333333333
+correct,My friend's father is like a raden werkudara,8,13,1.625
+correct,My friend's father is like a green buto,8,11,1.375
+correct,His stepfather is like Sengkuni,5,9,1.8
+correct,"When monitoring the exam, the teacher's gaze is like an eagle looking for its prey",15,20,1.3333333333333333
+correct,Masku when he wanders like a nut forgets his skin,10,13,1.3
+correct,That person's nature is like a sponge filled with honey,10,13,1.3
+correct,Such a person is like an empty drum giving a loud sound,12,13,1.0833333333333333
+correct,He danced like a robot when the battery was turned on,11,12,1.0909090909090908
+correct,He jumped like a kangaroo,5,8,1.6
+correct,He jumped like a rabbit,5,7,1.4
+correct,His body is like the core of the earth,9,9,1.0
+correct,His body is like an ice cube,7,9,1.2857142857142858
+correct,His heart is like a rock that will not be shaken even if it is hit by a big wave,20,22,1.1
+correct,Miss Ayu's skirt is like sweeping the road,8,12,1.5
+correct,The feeling of a man being married to his wife is like being married,14,14,1.0
+correct,Andi's room is like an animal cage,7,11,1.5714285714285714
+correct,Andi's room is like a hotel room,7,10,1.4285714285714286
+correct,This cloud rain is like the water splashes,8,10,1.25
+correct,People's passion for life is like continuing to pray until tomorrow,11,15,1.3636363636363635
+correct,People's spirit of life is like a flower inside a banana leaf,12,16,1.3333333333333333
+correct,"If you give milk to your child, it's like coconut milk",11,15,1.3636363636363635
+correct,It's like seeing an elephant riding a rickshaw,8,16,2.0
+correct,The bond of his parents is like seven generations that never run out,13,14,1.0769230769230769
+correct,The young man behind my house is thinking about it,10,10,1.0
+correct,"If you don't have a reason, it's like meeting a cloud demon",12,17,1.4166666666666667
+correct,The reason is that people are tired because they are working all day,13,13,1.0
+correct,The children behaved like the bridegroom next to them,9,13,1.4444444444444444
+correct,"Back then, my father broke my mother's heart like looking for a dom in the middle of straw",18,23,1.2777777777777777
+correct,The water is clear like coffee water,7,7,1.0
+correct,The character of the mask is like a grater,9,10,1.1111111111111112
+correct,The character of the mask is like the skin of a baby,12,12,1.0
+correct,Ani's heart is as wide as the sky,8,10,1.25
+correct,Ani's heart is like the width of an alley,9,13,1.4444444444444444
+correct,My brother is like a blondo who needs to be asked again,12,13,1.0833333333333333
+correct,The road in front of the house looks like it was wiped with a wet cloth,16,18,1.125
+correct,If you have dreams above the sky,7,8,1.1428571428571428
+correct,The closet inside the house is the size of a football field,12,13,1.0833333333333333
+correct,The closet inside the house is as big as a noodle box,12,14,1.1666666666666667
+correct,Being a teacher today is like taking a leisurely walk,10,13,1.3
+correct,It's like being a chicken when you cook it with rice,11,13,1.1818181818181819
+correct,The lights in the house seem to have a response,10,11,1.1
+correct,The lights near the house are like a graveyard,9,11,1.2222222222222223
+correct,Exams are done like threading threads at night,8,11,1.375
+correct,It's like riding a motorcycle at a red light at an intersection,12,18,1.5
+correct,It's like riding a motorcycle with a green light,9,13,1.4444444444444444
+correct,The color of her skin is like milk,8,8,1.0
+correct,The whole body is like a drum,7,7,1.0
+correct,The boy likes to meet new people as if he dares to introduce himself,14,16,1.1428571428571428
+correct,The boy is afraid to come out when he meets a new person,13,14,1.0769230769230769
+correct,His body is like a cocoon,6,7,1.1666666666666667
+correct,The air was now as if it was being fanned by ten people,13,14,1.0769230769230769
+correct,Her hair is the color of guava flowers,8,9,1.125
+correct,His hair is the color of charcoal,7,9,1.2857142857142858
+correct,His father was like an important official,7,7,1.0
+correct,It works like a machine that never dies,8,8,1.0
+correct,It works like a clock running out of battery,9,10,1.1111111111111112
+correct,We are like umbrellas and rain,6,9,1.5
+correct,We are like cats and dogs.,6,9,1.5
+correct,"When someone chooses to go somewhere, my life feels like the apocalypse",12,18,1.5
+correct,"When someone chooses to go somewhere in my life, I feel like I got 100 billion money",17,19,1.1176470588235294
+correct,His face looks like a flower in a blooming garden,10,13,1.3
+correct,His face looked like a withered flower,7,10,1.4285714285714286
+correct,His smile is like Javanese sugar,6,7,1.1666666666666667
+correct,His smile was like a mouse,6,6,1.0
+correct,Mr. Budi's voice is like a lion roaring deep in the forest,12,18,1.5
+correct,Mr. Budi's voice is like a child reciting,8,12,1.5
+correct,People's knowledge is like shallow water,6,9,1.5
+correct,The knowledge of such a person is like the size of a tree,13,13,1.0
+correct,Her clothes smell like jasmine flowers,6,8,1.3333333333333333
+correct,His clothes smelled of sweat,5,6,1.2
+correct,His steadfastness in the face of reality is like a rock,11,14,1.2727272727272727
+correct,Jidate is like a football field,6,7,1.1666666666666667
+correct,It's like a peanut shell,5,9,1.8
+correct,If you are angry like a raging tiger,8,11,1.375
+correct,"If you laugh, it's like a mother attached",8,11,1.375
+correct,His mouth is like a medicine for two teeth,9,10,1.1111111111111112
+correct,Its taste is like banana compote,6,8,1.3333333333333333
+correct,"If you want to eat, spend a whole bag of rice",11,12,1.0909090909090908
+correct,His body is like a tall building,7,7,1.0
+correct,His body is like chips,5,5,1.0
+wrong,The boy's voice was like lightning,6,9,1.5
+wrong,You walk like you're being chased by a thief,9,13,1.4444444444444444
+wrong,I think your house is like a demon's house,9,11,1.2222222222222223
+wrong,Starting on Monday is like waiting for kakap,8,10,1.25
+wrong,The atmosphere of the kliwon market is like a cemetery,10,13,1.3
+wrong,Lekmu rides the car like a fool,7,9,1.2857142857142858
+wrong,It rained this morning like yesterday,6,7,1.1666666666666667
+wrong,It rained in the morning like it was raining,9,11,1.2222222222222223
+wrong,The bike ride to Boyok Mountain feels like it has been embalmed for a day,15,19,1.2666666666666666
+wrong,"In general, Anas' younger brother said to the coconut tree",10,15,1.5
+wrong,"In general, said Anas's brother from the palm tree",9,13,1.4444444444444444
+wrong,The light in my room is like a lamp,9,9,1.0
+wrong,Mr. Edi ran away like a deer,7,9,1.2857142857142858
+wrong,The behavior of the little boy is like a kitiran,10,11,1.1
+wrong,The behavior of the little boy is like a buffalo,10,12,1.2
+wrong,Mas Tono's face is like Ravana,6,10,1.6666666666666667
+wrong,The weather this afternoon is like a trip to the desert,11,11,1.0
+wrong,The weather this afternoon is like a trip to the poles,11,12,1.0909090909090908
+wrong,Look at Kartolo's posture,4,8,2.0
+wrong,"The condition of Mr. Sardi's house, which has just received help, is like rain",14,20,1.4285714285714286
+wrong,Good thing Paijo was saved from his nose like a firecracker,11,16,1.4545454545454546
+wrong,Mr. Hasan's refusal to give a donation is like a blaba uda,12,17,1.4166666666666667
+wrong,Allia worked like a hungry tiger,6,9,1.5
+wrong,When Mr. Jemani and Paiman's relationship is like water and oil,11,16,1.4545454545454546
+wrong,Sarti's writing jumejer has a blackboard like a cloud of coriander,11,19,1.7272727272727273
+wrong,Selfi's hair from childhood is really like brintik crowbar,9,16,1.7777777777777777
+wrong,Selfi's hair from childhood is really like cornflowers,8,14,1.75
+wrong,The batik fabric that I bought when I went to Klewer market was as thick as onion skin,18,21,1.1666666666666667
+wrong,The batik fabric that I bought when I went to the Klewer market was as thick as tripe skin,19,22,1.1578947368421053
+wrong,Donut bread makes Narti look like it's hard to debog,10,15,1.5
+wrong,Bread donuts make Narti feel like a lazy person,9,14,1.5555555555555556
+wrong,The house that was built is as wide as a dove cage,12,13,1.0833333333333333
+wrong,"When participating in the Bujangganong competition, Radit's behavior was flexible, because from the first grade, his mind was like tempeh",20,31,1.55
+wrong,"After coming home from the sick house, Siti's face was still as red as a leaf",16,20,1.25
+wrong,Pakdhe's trip to Surabaya was like shining honey,8,12,1.5
+wrong,Mango tastes like tamarind,4,6,1.5
+wrong,The taste of mango is like java sugar,8,10,1.25
+wrong,Icha frowned,2,4,2.0
+wrong,"If you look at Sari's eyes, it's like you're dying",10,18,1.8
+wrong,The swimming pool water is like battery water,8,8,1.0
+wrong,The way the mini bus runs is like a pair of panties,12,13,1.0833333333333333
+wrong,The way the mini bus runs is like a brush hitting the door,13,14,1.0769230769230769
+wrong,Surya's body when he was still in school was like a skinny watermelon,13,18,1.3846153846153846
+wrong,Surya's body when he was still in school was like a fat date,13,15,1.1538461538461537
+wrong,The price of red chili peppers,6,7,1.1666666666666667
+wrong,The foundation of the house is like a tela tree,10,10,1.0
+wrong,The policeman's hair is like a cat's hair,8,13,1.625
+wrong,My life with his life is like the sky,9,9,1.0
+wrong,His movements are like eels,5,7,1.4
+wrong,The weather here is like a pole,7,7,1.0
+wrong,The air here is like a desert,7,7,1.0
+wrong,The student has the nickname of thin brain,8,10,1.25
+wrong,The house is like a house,6,6,1.0
+wrong,The cloud is shaped like a ram,7,8,1.1428571428571428
+wrong,The trial in the movie feels like a big side,10,11,1.1
+wrong,He ate as if he was full,7,8,1.1428571428571428
+wrong,Mr. Sutrisno's education is growing like rice,7,12,1.7142857142857142
+wrong,Mr. Sutrisno's education is getting higher and higher like an empty barrel,12,18,1.5
+wrong,My brother if he talks like Puntadewa,7,10,1.4285714285714286
+wrong,"If you are sick, you are like a pole",9,10,1.1111111111111112
+wrong,Her face is like a cloud,6,6,1.0
+wrong,The girl's skin is like charcoal,6,10,1.6666666666666667
+wrong,This building feels like a light tree,7,8,1.1428571428571428
+wrong,This building feels like a tela tree,7,8,1.1428571428571428
+wrong,"This food tastes like five stars, but it costs five feet",11,14,1.2727272727272727
+wrong,"Nardi how to brush, his teeth are like 24 karat gold",11,15,1.3636363636363635
+wrong,"Mr. Danu, if he gets into trouble, he turns into a cat",12,17,1.4166666666666667
+wrong,"Having been educated, taught to succeed, the child is like a turtle",12,16,1.3333333333333333
+wrong,Mother if you are angry like the sea,8,9,1.125
+wrong,Have you eaten? Why are you acting like a hungry cat?,11,16,1.4545454545454546
+wrong,"When you grow up, you are not like a frog in a shell",13,16,1.2307692307692308
+wrong,"At school, Andi is the class keeper",7,10,1.4285714285714286
+wrong,Aldi and Doni are close friends,6,8,1.3333333333333333
+wrong,The examiner has eyes like a lion,7,9,1.2857142857142858
+wrong,His laugh is like coffee,5,5,1.0
+wrong,The couple is like water and oil,7,7,1.0
+wrong,The couple is like a forest and rain,8,9,1.125
+wrong,Life is like walking away,5,5,1.0
+wrong,The boy found the house as if it was closed,10,10,1.0
+wrong,The twin boys have a face like the earth and the sky,12,12,1.0
+wrong,"Being the son of the headman, his life is like an iron necklace",13,19,1.4615384615384615
+wrong,"This morning, the weather in Jogja is like water",9,10,1.1111111111111112
+wrong,The teacher gave me a task like building a temple,10,10,1.0
+wrong,The teacher gave me a task like planting rice,9,10,1.1111111111111112
+wrong,Human life is like a dragonfly,6,8,1.3333333333333333
+wrong,Gani is famous for his voice like a crowing chicken,10,12,1.2
+wrong,"Even though he is rich, Mr. Tomo works as if he is being chased by debt",16,20,1.25
+wrong,"Even though he is rich, Mr. Tomo works like he has a bag of diamonds",15,20,1.3333333333333333
+wrong,"If you meet a tongo, that child is like meeting a brother",12,14,1.1666666666666667
+wrong,The singer really has a voice like a Chinese song,10,11,1.1
+wrong,Hendra's words are like red lips,6,9,1.5
+wrong,Every day the store is like sugar covered by ants,10,11,1.1
+wrong,Umar came back to school walking like a hungry tiger,10,12,1.2
+wrong,The child's behavior in his family is like a deer in the middle of the forest,16,20,1.25
+wrong,Dreaming of becoming president is like Petruk's dream of becoming a queen,12,17,1.4166666666666667
+wrong,Studying history at school is like playing at the night market,11,12,1.0909090909090908
+wrong,Working in a government office is like riding a raft on the Brantas River,14,18,1.2857142857142858
+wrong,"Actually, living in a foreign country is like filling a bucket with water",13,16,1.2307692307692308
+wrong,Life in the city is like rain,7,7,1.0
+wrong,The wind in pantura is really the same as the playon bull,12,14,1.1666666666666667
+wrong,The wind in the pantura is really the same as the flags blowing in the wind,16,19,1.1875
+wrong,"In my city, people who build factories are like mushrooms when it rains",13,18,1.3846153846153846
+wrong,Working in a factory is like swimming in the sea,10,12,1.2
+wrong,Working in a factory is like planting chilies in a farm,11,15,1.3636363636363635
+wrong,Following the parents' orders is like holding a ember of fire,11,14,1.2727272727272727
+wrong,The man's calmness is like lifting a buffalo,8,14,1.75
+wrong,The man's calmness is like a feather,7,12,1.7142857142857142
+wrong,It's like spending my salary for the third season,9,12,1.3333333333333333
+wrong,"If you work in this office, the decision is like hitting your head",13,15,1.1538461538461537
+wrong,Lia and her sister are like oil and water,9,9,1.0
+wrong,It is true that people here say that Mrs. Lurah's actions are like the tip of a piece of paper,20,24,1.2
+wrong,Doni and Yanti are really like Ravana Sinta in a puppet show,12,17,1.4166666666666667
+wrong,Looking at your smile feels like a breeze,8,10,1.25
+wrong,Looking at your smile feels like the heat of hell,10,11,1.1
+wrong,The train sounded like a humming bird,7,10,1.4285714285714286
+wrong,The train sounds like a bird of prey,8,10,1.25
+wrong,Sinden dangdut's voice is like a warbler,7,13,1.8571428571428572
+wrong,Coffee shop rice is like eating porridge,7,8,1.1428571428571428
+wrong,The news was received like saliva,6,7,1.1666666666666667
+wrong,The teacher's words are like blunt rubber,7,11,1.5714285714285714
+wrong,Last month's flood was as high as an ankle,9,12,1.3333333333333333
+wrong,His speech is like a gas lighter,7,8,1.1428571428571428
+wrong,This pillow feels like kapok,5,8,1.6
+wrong,People's future is like sunset,5,8,1.6
+wrong,The color of the cat's fur is like snow,9,11,1.2222222222222223
+wrong,The two boys stick together like tluth,7,9,1.2857142857142858
+wrong,My family eats fish every day,6,7,1.1666666666666667
+wrong,You pray like a sea turtle,6,8,1.3333333333333333
+wrong,Looking at his ex's smile felt like a leaf,9,12,1.3333333333333333
+wrong,The taste of this food is like chicken,8,8,1.0
+wrong,Cake fever is like a young date,7,9,1.2857142857142858
+wrong,Adi is fussy because his stomach is full,8,9,1.125
+wrong,The picture is like the sky,6,6,1.0
+wrong,My friend's house is like a palace,7,10,1.4285714285714286
+wrong,The parking lot of your uncle's house is like a terrace,11,15,1.3636363636363635
+wrong,He helped his old mother like a cracker,8,9,1.125
+wrong,"When he sleeps, he snores like a walking thief",9,13,1.4444444444444444
+wrong,Mom brought a large suitcase with a box of petel,10,12,1.2
+wrong,The mind is like a train track,7,7,1.0
+wrong,An artist's career is like putting a cork in water,10,13,1.3
+wrong,Mr. Rangga's supporters became regents like foam in the ocean,10,17,1.7
+wrong,Mr. Rangga's supporters are regents such as the morning prayer congregation in the mosque,14,22,1.5714285714285714
+wrong,The atmosphere of this village is like a graveyard,9,10,1.1111111111111112
+wrong,The skin of the girl is like the skin of salak,11,12,1.0909090909090908
+wrong,Today the weather outside feels like the north pole,9,10,1.1111111111111112
+wrong,Today the air outside feels like being in a desert of fear,12,13,1.0833333333333333
+wrong,When solving problems he is like a mountain,8,9,1.125
+wrong,"Your smile is like an unripe orange, but it has been picked",12,16,1.3333333333333333
+wrong,Ms. Siti divides her time like ducks in a row,10,14,1.4
+wrong,The boy's hair was like a palm broom,8,11,1.375
+wrong,His body is like a power pole,7,7,1.0
+wrong,My sister is like a parrot when she comes home,10,11,1.1
+wrong,The vehicle runs like a hungry tiger,7,9,1.2857142857142858
+wrong,The girl is like an ant,6,6,1.0
+wrong,The girl is like a buffalo,6,8,1.3333333333333333
+wrong,My friend's face is like a country road without many pebbles,11,15,1.3636363636363635
+wrong,My sibling relationship with my sister is like water and oil,11,12,1.0909090909090908
+wrong,The streets of my village are lit up like the shops of young girls,14,16,1.1428571428571428
+wrong,His stepfather is like Gatot Kaca,6,9,1.5
+wrong,"While monitoring the exam, the teacher's eyes were like a child being sung to",14,17,1.2142857142857142
+wrong,Masku wanders like a buffalo that goes back to its cage,11,16,1.4545454545454546
+wrong,He danced like a wave of snakes.,7,11,1.5714285714285714
+wrong,You and I are like betel nuts split in two,10,12,1.2
+wrong,You and I are like day and night,8,8,1.0
+wrong,His heart is like cocoa,5,6,1.2
+wrong,Ms. Ayu's skirt is as long as three kilos,9,13,1.4444444444444444
+wrong,The man's feeling is that he is married to himself,10,12,1.2
+wrong,This cloud rain is like water directly poured from something high,11,12,1.0909090909090908
+wrong,The man met his girlfriend's father as Werkudhara,8,12,1.5
+wrong,The man met his girlfriend's father as Petruk,8,11,1.375
+wrong,Milk is like water for a child,7,7,1.0
+wrong,Do not make promises like pigeons,6,8,1.3333333333333333
+wrong,Parents' clothes are like clothes and panties,7,10,1.4285714285714286
+wrong,The young man behind my house is spending his money,10,10,1.0
+wrong,The children behave like people who go to the market,10,11,1.1
+wrong,"Back then, my father used to break my mother's heart like riding a motorbike, it would hurt my teeth when I rode it",23,30,1.3043478260869565
+wrong,"When my sister wears a dress, it's like opening a plastic bag in a store",15,19,1.2666666666666666
+wrong,My sister wears a dress like she has never seen before,11,12,1.0909090909090908
+wrong,The water is as clear as a lake,8,8,1.0
+wrong,My brother is like a person who likes to be with others,12,13,1.0833333333333333
+wrong,The road in front of the house is like a mess when it hits the water,16,18,1.125
+wrong,If you have a dream above an electric pole,9,9,1.0
+wrong,Being a teacher today is like walking up a mountain,10,11,1.1
+wrong,Friendship is like an ant hitting the sun,8,10,1.25
+wrong,Doing the exam is like trying to get a hundred marks,11,13,1.1818181818181819
+wrong,The nose can be stuck in a pot,8,9,1.125
+wrong,His nose was pinched as the fire continued,8,10,1.25
+wrong,The color of the skin is like juwet fruit,9,10,1.1111111111111112
+wrong,The whole body is like a pole of the house,10,10,1.0
+wrong,His body is like two people,6,6,1.0
+wrong,The weather is like a limo jacket,7,9,1.2857142857142858
+wrong,His father seems to have a job,7,7,1.0
+wrong,His jokes are like clowns,5,8,1.6
+wrong,His laugh is like a yellow leaf,7,8,1.1428571428571428
+wrong,His steadfastness in the face of reality is like crackers,10,14,1.4
+wrong,"If you are angry, you are like a statue",9,12,1.3333333333333333
+wrong,"If you laugh, it's like a mistake",7,10,1.4285714285714286
+wrong,If you eat a lot of food,7,7,1.0

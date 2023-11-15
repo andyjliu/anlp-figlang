@@ -1,0 +1,1099 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Tabasamu lake lilijaa  vitisho  kama shomoro mdogo aliyeshika shoka,11,18,1.6363636363636365
+correct,Nipo katika dimbwi la furaha,5,8,1.6
+correct,Ninazama katika bahari ya huzuni,5,9,1.8
+correct,Wali huu unaladha kama umepikwa bwenini,6,12,2.0
+correct,Mtihani ulikuwa kama kipande cha keki,6,11,1.8333333333333333
+correct,Vijana ndio taifa la kesho,5,6,1.2
+correct,Sauti yako ni muziki masikioni mwangu,6,8,1.3333333333333333
+correct,Mapenzi ni kikohozi,3,7,2.3333333333333335
+correct,Ujana ni moshi,3,5,1.6666666666666667
+correct,Ujana ni safari ndefu,4,7,1.75
+correct,Maisha ni kama uji,4,4,1.0
+correct,Awamu hii kutakua na michuano ya kukata na shoka,9,15,1.6666666666666667
+correct,"Sandra, wewe ndio nuru ya macho yangu",7,9,1.2857142857142858
+correct,"Tofauti na dhana iliyokuwepo, mama ndiye nguzo  ya familia",10,15,1.5
+correct,Ndoa zitakua hadimu siku za usoni,6,12,2.0
+correct,Kutakua na ndoa kama siafu siku za usoni,8,12,1.5
+correct,Mapenzi ni vita,3,4,1.3333333333333333
+correct,Mapenzi ni keki,3,5,1.6666666666666667
+correct,Bahati ya mwenzio ilalie mlango wazi,6,12,2.0
+correct,Kijana huyu ana roho ya dhahabu,6,10,1.6666666666666667
+correct,Kijana huyo ana roho ya kutu,6,8,1.3333333333333333
+correct,Maisha yake ni kama kuku akiyekatwa kichwa,7,11,1.5714285714285714
+correct,Mwendo wake ni mithili ya twiga,6,10,1.6666666666666667
+correct,Mwendo wake ni wa bata,5,6,1.2
+correct,Wema ni hazina,3,5,1.6666666666666667
+correct,Alihisi ngoma kifuani kwake,4,9,2.25
+correct,Alihisi kifua chake kimeganda kama barafu,6,13,2.1666666666666665
+correct,Alipora mkoba wangu na kutimua vumbi,6,12,2.0
+correct,Walibishana hadi wakashikana mashati,4,9,2.25
+correct,Jasho humtoka mwenye mwili,4,6,1.5
+correct,"Aisha, funga bakuli lako!",4,9,2.25
+correct,Hassani hufanya mambo yake kama kobe,6,9,1.5
+correct,Tatizo lako unapenda sana kutafuniwa,5,10,2.0
+correct,Tatizo lako unapenda kufa mwenyewe,5,8,1.6
+correct,Mtihani ulikua mgumu hadi kichwa kikaanza kuchemka,7,17,2.4285714285714284
+correct,Harufu ya miguu yake ilitosha kuua mbu,7,13,1.8571428571428572
+correct,Harufu ya miguu yake ingefaa kutengenezea manukato,7,15,2.142857142857143
+correct,Maneno yake yalitosha kujaza bahari,5,12,2.4
+correct,Maneno yake hayakuchukua hata sekunde,5,9,1.8
+correct,Babu yangu alikua ni mtu wa miraba minne,8,10,1.25
+correct,Babu yangu alikua kama punje ya haradali,7,11,1.5714285714285714
+correct,Wao hupenda kuweka mambo yao gizani,6,9,1.5
+correct,Maisha yake yote ni kama mkate na chai.,8,11,1.375
+correct,Muda sio rafiki.,3,4,1.3333333333333333
+correct,Muda ni rafiki.,3,4,1.3333333333333333
+correct,Harusi yao ilipamba moto,4,7,1.75
+correct,Maneno yake yalimtokea puani,4,8,2.0
+correct,Nilienda kumdai fedha zangu lakini bado aliendelea kuniletea siasa,9,16,1.7777777777777777
+correct,Nilienda kumdai fedha zangu na hakunilitea siasa,7,13,1.8571428571428572
+correct,Utavuna ulichopanda,2,6,3.0
+correct,Neno la Mungu ni nuru tosha,6,9,1.5
+correct,Mvua ilimiminika kwa fujo,4,10,2.5
+correct,Alitokwa na machozi ya damu baada ya kujulishwa kuhusu kifo cha mama yake,13,19,1.4615384615384615
+correct,Habari za kifo cha mama yake zilikua kama wimbo wa gitaa kwake,12,14,1.1666666666666667
+correct,Msanii ni kioo cha jamii,5,7,1.4
+correct,Msanii ni kioo cha chumbani kwake,6,10,1.6666666666666667
+correct,George Foreman alikua na ngumi ya kike,7,11,1.5714285714285714
+correct,Alionekana yupo tofauti na wengine kama kuku mgeni,8,11,1.375
+correct,Alionekana yupo sawa na wengine kama pundamilia.,7,12,1.7142857142857142
+correct,Upepo ulipita ukimnong’oneza,3,12,4.0
+correct,Upepo ulipita ukifoka,3,8,2.6666666666666665
+correct,Mama yao ana maneno mazuri kama biblia,7,8,1.1428571428571428
+correct,Penda kua vuguvugu,3,8,2.6666666666666665
+correct,Aliahidi kuwa atachangia na akawa mzungu,6,11,1.8333333333333333
+correct,Yule hana kifua.,3,7,2.3333333333333335
+correct,Nywele zake nyingi kama nyasi za uwanja wa mpira.,9,13,1.4444444444444444
+correct,Kukopa ni harusi,3,5,1.6666666666666667
+correct,Kijana ana roho nzuri kama mwalimu.,6,11,1.8333333333333333
+correct,Binadamu ni kama kinyonga,4,8,2.0
+correct,Binadamu wanatabirika kama macho ya mwizi.,6,13,2.1666666666666665
+correct,Anafanya kazi kama jongoo,4,6,1.5
+correct,Taa inatoa mwanga kama moto mkubwa  usiku wa manane,10,14,1.4
+correct,Suti ilikua kubwa kama bomu la Nyuklia,7,12,1.7142857142857142
+correct,Sauti ilikua ndogo kama wimbo wa taratibu.,7,10,1.4285714285714286
+correct,Silaha ilikua dhaifu kama plastiki.,5,10,2.0
+correct,Sahani ilipasuka na kuonekena kama nusu mwezi wa angani,9,16,1.7777777777777777
+correct,Yeye anavutia kama mungu wa kigiriki,6,12,2.0
+correct,Filamu hii ina kina cha ziwa Tanganyika,7,9,1.2857142857142858
+correct,Chumba kina nafasi ndogo iliyobaki kama jiji.,7,11,1.5714285714285714
+correct,Pombe ilimfanya ajisikie kama kifo,5,9,1.8
+correct,Muziki ulikua mzuri na laini kama Unyoya.,7,14,2.0
+correct,Muziki ulikua mbaya na mgumu kama mkate wa juzi.,9,16,1.7777777777777777
+correct,"Kwake, Kutengeneza pesa ilikuwa kama Oksijeni",6,11,1.8333333333333333
+correct,"Kwake, Kutengeneza pesa ilikua kama kujipiga kitanzi.",7,14,2.0
+correct,Kijana alikua kimya kama mtoto mdogo,6,9,1.5
+correct,Kijana alipiga kelele kama garimoshi,5,10,2.0
+correct,Pesa ni sabuni ya roho.,5,9,1.8
+correct,Pesa ni muuaji.,3,6,2.0
+correct,Inanukia vizuri kama juisi ya embe lililotoka mtini,8,14,1.75
+correct,Inanukia vibaya kama tairi linaloungua,5,11,2.2
+correct,Alikuwa na utajiri wa mfalme suleiman,6,12,2.0
+correct,Kuna baridi kali kama vile tumetupwa Antaktika,7,13,1.8571428571428572
+correct,Kiuno chake kina upana wa mbuyu.,6,10,1.6666666666666667
+correct,Aliruka juu kama Panzi,4,7,1.75
+correct,Tatizo lilikuwa dogo kama panya,5,9,1.8
+correct,Tatizo lilikuwa kubwa kama tembo,5,8,1.6
+correct,kazi ilikuwa rahisi kama kumsukuma mlevi.,6,10,1.6666666666666667
+correct,Kazi ilikuwa ngumu kama kusukuma ukuta,6,10,1.6666666666666667
+correct,Amani ni kama mwanadamu kupaa,5,9,1.8
+correct,Amani ni kama mwanadanu kutembea,5,9,1.8
+correct,Aliibeba kama mama aliyembeba mtoto wake,6,10,1.6666666666666667
+correct,Aliibeba kama kinyesi,3,7,2.3333333333333335
+correct,Sina njaa kama Chatu aliyemeza windo lake.,7,14,2.0
+correct,Matarajio yao yaliyeyuka kama barafu.,5,12,2.4
+correct,Mawazo yake yalikuwa imara kama Zege,6,11,1.8333333333333333
+correct,Mawazo yakeyalikuwa dhaifu kama glasi.,5,12,2.4
+correct,Maisha yake ni kama bajeti ya nchi,7,7,1.0
+correct,Upendo ni dunia.,3,5,1.6666666666666667
+correct,Siku ya mashindano alikimbia kama chui,6,9,1.5
+correct,Siku ya mashindano alikimbia kama kinyonga,6,10,1.6666666666666667
+correct,Furaha ni dawa,3,4,1.3333333333333333
+correct,Wafanyakazi wanafanya kazi kibinafsi kama duma,6,11,1.8333333333333333
+correct,Elimu ni mto,3,4,1.3333333333333333
+correct,Rafiki angu ni ua jekundu,5,9,1.8
+correct,Maongezi yalikua mafupi kama kipande cha sigara,7,13,1.8571428571428572
+correct,Maongezi yalikuwa marefu kama kesi ya mbowe.,7,13,1.8571428571428572
+correct,Kijana anapenda dini kama mchungaji,5,9,1.8
+correct,Mchezaji yule ana mapafu ya mbwa,6,11,1.8333333333333333
+correct,Rafiki yangu ana kumbukumbu kama  maktaba.,7,9,1.2857142857142858
+correct,Rafiki yangu ana ubongo wa mende.,6,9,1.5
+correct,Kijana ni maji kwenye mtungi,5,7,1.4
+correct,Mwalimu alipanda mbegu ya hekima,5,8,1.6
+correct,Mwalimu hakupanda mbegu ya hekima,5,8,1.6
+correct,Maisha nimeyapiga bao,3,5,1.6666666666666667
+correct,Gari hili ni roketi,4,6,1.5
+correct,Watu wamefurika katika sherehe,4,6,1.5
+correct,Alikuja na jeshi la watoto,5,6,1.2
+correct,Nimevunja minyororo ya deni,4,9,2.25
+correct,Bado nipo katika kifungo cha deni,6,11,1.8333333333333333
+correct,Kichwa chake kipo mawinguni,4,8,2.0
+correct,Nyumbani kwangu ni kama oveni,5,9,1.8
+correct,Maneno yake yanafariji moyo wangu,5,8,1.6
+correct,Yeye ni kiazi,3,5,1.6666666666666667
+correct,Mama ni kitanda,3,4,1.3333333333333333
+correct,Mama si kitanda,3,4,1.3333333333333333
+correct,Alfred alienda kupima lakini hakukutwa na umeme,7,11,1.5714285714285714
+correct,Jamaa alitoka baruti,3,6,2.0
+correct,Jamaa alisimama kama mlingoti alivyokutana na vibaka,7,14,2.0
+correct,Maisha yamekua pasua kichwa,4,7,1.75
+correct,Kulipa uovu ni kujipalia makaa ya moto,7,12,1.7142857142857142
+correct,Rafiki yake anapenda sana njia za panya,7,10,1.4285714285714286
+correct,Rafiki yake amekunywa maji ya bendera,6,9,1.5
+correct,Wanachuo wanapenda kupiga maji,4,7,1.75
+correct,Wanachuo hawapendi kupiga maji,4,7,1.75
+correct,Hupenda kuweka mambo yake kwenye mstari,6,8,1.3333333333333333
+correct,Hupenda kupindisha mambo yake,4,7,1.75
+correct,Ukame ulitanda mgongoni mwake wakati wa mazoezi,7,13,1.8571428571428572
+correct,Hawapendi kuambatana kama siafu,4,8,2.0
+correct,Hii kesi tumeivalia njuga,4,7,1.75
+correct,Akili zako kama mbweha,4,7,1.75
+correct,"Hawezi kuolewa, bado ni kifaranga",5,10,2.0
+correct,"Anaweza kuolewa, ameshakuwa msupu",4,10,2.5
+correct,Mwanafunzi huyu ana kichwa chepesi,5,8,1.6
+correct,Haya mambo nimeyanawia mikono,4,7,1.75
+correct,Nguo zake kila siku ni matambara,6,8,1.3333333333333333
+correct,Hali yangu ni kama natembea juu ya miiba,8,10,1.25
+correct,Abuu ni mwanangu,3,5,1.6666666666666667
+correct,Abuu sio mwanangu,3,5,1.6666666666666667
+correct,Jamaa ni fisi,3,4,1.3333333333333333
+correct,Jamaa sio fisi,3,4,1.3333333333333333
+correct,"Ukimkuta kwenye uwanja wa mbio, kama farasi",7,13,1.8571428571428572
+correct,Yeye ni unyoya,3,6,2.0
+correct,Yeye ni jabali,3,5,1.6666666666666667
+correct,Alinisukuma kama kimbunga,3,8,2.6666666666666665
+correct,Yeye ni chui,3,5,1.6666666666666667
+correct,Hatukupiga shoka mali,3,6,2.0
+correct,Mke wake ni mkaa,4,6,1.5
+correct,Kaka yangu si nyumbu,4,5,1.25
+correct,Rafiki yangu ni popo,4,5,1.25
+correct,Ilikuwa na spidi ya maji ya mtaro,7,10,1.4285714285714286
+correct,Ilikuwa na spidi ya risasi,5,8,1.6
+correct,Juma ana sikio la mbuzi,5,7,1.4
+correct,Maji ya bombani ni kaburi la baniani,7,10,1.4285714285714286
+correct,Mapenzi ni asali,3,5,1.6666666666666667
+correct,Yeye ni mnyama,3,6,2.0
+correct,Yeye ni malaika,3,5,1.6666666666666667
+correct,Msichana alikuwa kipepeo,3,7,2.3333333333333335
+correct,Kenya ni paradiso,3,4,1.3333333333333333
+correct,Kenya ni jehanamu,3,5,1.6666666666666667
+correct,Moyo wake ni mkubwa,4,5,1.25
+correct,Moyo wake ni mdogo,4,5,1.25
+correct,Kazi yangu ni shida,4,4,1.0
+correct,Kazi yangu ni raha,4,4,1.0
+correct,Nina wazimu juu yake,4,5,1.25
+correct,Mradi huo ni mkongwe,4,7,1.75
+correct,Wewe ni nyota yangu,4,6,1.5
+correct,Kukopa arusi,2,4,2.0
+correct,Mgeni ni kuku mweupe,4,7,1.75
+correct,Mgeni ni kuku mweusi,4,7,1.75
+correct,Rafiki yake ni sungura,4,6,1.5
+correct,Yeye ni mrefu kama twiga,5,7,1.4
+correct,Yeye ni mfupi kama mbilikimo,5,8,1.6
+correct,Aliwachwa mataani na yule ndugu,5,9,1.8
+correct,Alipatana naye hadharani,3,7,2.3333333333333335
+correct,kuna pamba kati yetu,4,5,1.25
+correct,Kununa ni sumu,3,4,1.3333333333333333
+correct,Hiki chumba ni jela,4,7,1.75
+correct,Ali ana roho ya dhahabu,5,8,1.6
+correct,Ali ana roho ya fisi,5,6,1.2
+correct,mapenzi yetu ni mepesi kama kamasi,6,8,1.3333333333333333
+correct,Brenda alitembea kama kuku,4,5,1.25
+correct,Naweza kula farasi,3,5,1.6666666666666667
+correct,kuna joto kama kwa shetani,5,7,1.4
+correct,ametulia kama maji mtungini,4,7,1.75
+correct,ana mambo mengi kama sungura,5,6,1.2
+correct,bwana ni jabali langu,4,7,1.75
+correct,mama wa kambo amekuwa mkali kama mamba,7,11,1.5714285714285714
+correct,mama wa kambo amekuwa mwepesi kama karatasi,7,12,1.7142857142857142
+correct,Masomo yamekuwa mawe,3,7,2.3333333333333335
+correct,anga ilikuwa wazi,3,4,1.3333333333333333
+correct,Tuliskia manunguniko ya mto,4,10,2.5
+correct,Tuliskia utulivu wa mto,4,9,2.25
+correct,Yuko buhari wa afya,4,6,1.5
+correct,alionja asali kwenye mdomo wake,5,9,1.8
+correct,hakuonja asali kwenye mdomo wake,5,9,1.8
+correct,mito ya furaha ilimtirika,4,7,1.75
+correct,ndovu za mwili wake hazikuvutia,5,10,2.0
+correct,zumaridi mbili zilingaa machoni pake,5,10,2.0
+correct,zumaridi mbili hazikungaa machoni mwake,5,12,2.4
+correct,macho yake yalikuwa visima vya bluu,6,9,1.5
+correct,macho yake hayakuwa visima vya bluu,6,9,1.5
+correct,kinywa chake kilikuwa tunda jipya,5,10,2.0
+correct,upendo ni jeuri,3,5,1.6666666666666667
+correct,sauti yako ni muziki maskioni mwangu,6,10,1.6666666666666667
+correct,mikono yake ni bandari salama,5,7,1.4
+correct,wanafunzi wake ni shina la mizeituni,6,9,1.5
+correct,ngozi yako ni hariri,4,6,1.5
+correct,sauti yake ni zeri,4,6,1.5
+correct,alikuwa na mishipa ya chuma,5,7,1.4
+correct,mwezi wa fedha uliangaza angani,5,8,1.6
+correct,ili jiji ni kimbunga cha machafuko,6,11,1.8333333333333333
+correct,Taa yangu imechoka,3,6,2.0
+correct,kwa kinu cha mapenzi,4,5,1.25
+correct,kwa mapenzi madogo,3,4,1.3333333333333333
+correct,mwili wake una milima mieupe,5,7,1.4
+correct,macho yako ni nchi ya umeme na machozi,8,9,1.125
+correct,macho yako ni nchi kavu,5,6,1.2
+correct,mapigo hayo ni makombo,4,6,1.5
+correct,mikono yako ni kisikitio changu,5,8,1.6
+correct,yeye si maziwa ya kuku,5,6,1.2
+correct,anampenda kama chanda na pete,5,9,1.8
+correct,Ali ni sindano,3,4,1.3333333333333333
+correct,Ali ni kifaru,3,5,1.6666666666666667
+correct,yeye ni makaa,3,4,1.3333333333333333
+correct,baba yake amekuwa mtulivu,4,7,1.75
+correct,dadake amekuwa kipara,3,6,2.0
+correct,Mwelusi ni mtumwa,3,7,2.3333333333333335
+correct,yeye si fisi,3,3,1.0
+correct,mpenzi wangu ni njiwa,4,7,1.75
+correct,Fundi yule ni mchwa,4,7,1.75
+correct,fundi yule ni kinyonga,4,7,1.75
+correct,mwaniki ni kifaru,3,6,2.0
+correct,yeye ni kupe,3,4,1.3333333333333333
+correct,yeye si kupe,3,4,1.3333333333333333
+correct,rafiki yake ni abunuasi,4,6,1.5
+correct,yule mama ni chiriku,4,7,1.75
+correct,chumba kile kimekuwa klabu,4,7,1.75
+correct,jaji yule aliweka mambo wazi mchana,6,10,1.6666666666666667
+correct,amekuwa tasa baada ya kupata mtoto,6,7,1.1666666666666667
+correct,amekuwa mkizi baada ya kufeli mtihani,6,11,1.8333333333333333
+correct,hajakuwa mtende,2,4,2.0
+correct,mapenzi yao yamelowa maji,4,6,1.5
+correct,chakula kile ni ruhani,4,6,1.5
+correct,chakula kinaonja maganda,3,5,1.6666666666666667
+correct,dawa ile ya tumbo ni shubri,6,8,1.3333333333333333
+correct,dawa ile ya tumbo ni asali,6,8,1.3333333333333333
+correct,gunia lile la makaa ni nanga,6,10,1.6666666666666667
+correct,meli ile ni uwanja wa ahera,6,7,1.1666666666666667
+correct,gari lile ni tundu la sindano,6,9,1.5
+correct,baada ya kufeli mtihani amekuwa filauni,6,10,1.6666666666666667
+correct,baada ya kupita mtihani amekuwa mvuvi,6,9,1.5
+correct,msanii yule si kasuku,4,6,1.5
+correct,wakulima wamekuwa bundi,3,4,1.3333333333333333
+correct,aliangua kicheko kama radi,4,7,1.75
+correct,hakuangua kicheko kama radi,4,8,2.0
+correct,siku hizi rafiki yangu ni mtumwa,6,8,1.3333333333333333
+correct,bibi yake amekuwa malaika,4,7,1.75
+correct,adui yake amekuwa tembo,4,7,1.75
+correct,yule kijakazi amekuwa mbwa koko,5,10,2.0
+correct,yule kijakazi hajakuwa mbwa koko,5,10,2.0
+correct,askari yule amekuwa kiriba,4,7,1.75
+correct,askari yule hajakuwa kiriba,4,7,1.75
+correct,mkewe amekuwa ndege wa mapema,5,8,1.6
+correct,maisha ni barabara kuu,4,4,1.0
+correct,alikuwa mbwa mwenye mfupa,4,7,1.75
+correct,bwana yule ni mchungaji mwema,5,10,2.0
+correct,askari wetu walikuwa simba vitani,5,7,1.4
+correct,Picha hii ni nyota.,4,6,1.5
+correct,Filamu hii ni kitabu wazi.,5,8,1.6
+correct,Msichana huyo ni malaika anapoimba.,5,11,2.2
+correct,Mradi huu ni kama mvua iliyosubiriwa kwa muda mrefu.,9,14,1.5555555555555556
+correct,Mradi huu ni kama jinamizi.,5,8,1.6
+correct,Nduguye ni msamaria mwema.,4,9,2.25
+correct,Nduguye ni mbweha.,3,7,2.3333333333333335
+correct,Mgeni huyo ni kama ajali.,5,8,1.6
+correct,Mwalimu wangu ana moyo wa dhahabu.,6,9,1.5
+correct,Nyumbani kwetu ni ndege aliye huru.,6,10,1.6666666666666667
+correct,Maneno yake huwa asali kila anapozungumza.,6,11,1.8333333333333333
+correct,Wimbo huu ni kama umaskini.,5,9,1.8
+correct,Wimbo huu ni kama waradi ya samawati,7,10,1.4285714285714286
+correct,Chakula kilikuwa barafu.,3,7,2.3333333333333335
+correct,Mchezaji huyo ni nyundo.,4,9,2.25
+correct,Jana alikuwa mfalme.,3,6,2.0
+correct,Jana alikuwa mboni ya macho ya huzuni nyuma ya sanda.,10,15,1.5
+correct,Safari ilikuwa ni matembezi katika hifadhi.,6,10,1.6666666666666667
+correct,Yule ni mkweli kama injili.,5,10,2.0
+correct,Wimbo huu ni kama kuangalia rangi ikikauka.,7,12,1.7142857142857142
+correct,Mtoto wake ni Musa.,4,7,1.75
+correct,Ana moyo wa kuku.,4,5,1.25
+correct,Rafiki yangu ni mfalme Solomoni.,5,10,2.0
+correct,Swali ya hesabu katika mtihani ilikuwa mboga.,7,11,1.5714285714285714
+correct,Panga hii ni wembe.,4,6,1.5
+correct,Upendo wao ulikuwa divai nzuri.,5,9,1.8
+correct,Upendo wao ulikuwa uwanja wa vita.,6,9,1.5
+correct,Pesa ni sabuni ya roho.,5,9,1.8
+correct,Pesa ni adui mkubwa.,4,7,1.75
+correct,Mtoto huyo ni kama kijana aliyenaswa akitoroka nje ya nyumba.,10,18,1.8
+correct,Mvulana huyo alikuwa sungura.,4,8,2.0
+correct,Mvulana huyo alikuwa kondoo.,4,8,2.0
+correct,Mama yake ni mwana-kondoo.,4,8,2.0
+correct,Jirani yangu ni malaika.,4,7,1.75
+correct,Jirani yangu ni shetani.,4,7,1.75
+correct,Mwenzake ni chura chini ya kisima.,6,11,1.8333333333333333
+correct,Somo la hesabu ni usiku wa giza.,7,10,1.4285714285714286
+correct,Kijana yule ni mtoto mchanga aliye na njaa.,8,14,1.75
+correct,Nguo zake ni kama marashi ya karafuu.,7,12,1.7142857142857142
+correct,Yule ni sumu.,3,5,1.6666666666666667
+correct,Kitabu hiki ni kipya kama mwanzo wa siku.,8,11,1.375
+correct,Urafiki wao ni kama wa mbwa na paka.,8,13,1.625
+correct,Yeye ni nguruwe.,3,7,2.3333333333333335
+correct,Mama wa kambo amekuwa mamba.,5,9,1.8
+correct,Mambo yake ni kioo.,4,6,1.5
+correct,Siku ya leo ni kama chemichemi.,6,10,1.6666666666666667
+correct,Mwajiriwa yule ni mtume.,4,9,2.25
+correct,Chai hii ni baridi kama kifo.,6,9,1.5
+correct,Chai hii baridi kama volkano.,5,9,1.8
+correct,Mjomba amefurahi kama ndege katika chemchemi.,6,13,2.1666666666666665
+correct,Mjomba amekasirika kama fahali mwenye kitambaa usoni.,7,16,2.2857142857142856
+correct,Uhusiano wao ni kama mapema ya majira ya joto.,9,14,1.5555555555555556
+correct,Kalamu hizi ni kama majira ya baridi na majira ya joto.,11,17,1.5454545454545454
+correct,Maisha ni sherehe.,3,4,1.3333333333333333
+correct,Maisha ni uwanja wa vita.,5,6,1.2
+correct,Wao ni mbwa.,3,6,2.0
+correct,Viatu vya baba ni manukato.,5,9,1.8
+correct,Usiku wa leo anga ni blanketi la nyota.,8,13,1.625
+correct,Msichana yule ni mwiba kati ya waridi.,7,13,1.8571428571428572
+correct,Kiti hiki ni mtoto wa paka.,6,9,1.5
+correct,Sherehe hiyo ilikuwa mbuga ya wanyama.,6,11,1.8333333333333333
+correct,Mtihani ulikuwa upepo.,3,9,3.0
+correct,Hadithi hiyo ni kama kilio cha mtoto kuzaliwa.,8,12,1.5
+correct,Hadithi hiyo ni kama kifo.,5,7,1.4
+correct,Miti hii ni kama jua.,5,8,1.6
+correct,Miti hii ni kama mvua ya msimu wa baridi.,9,13,1.4444444444444444
+correct,Kijana yule ni fisi.,4,7,1.75
+correct,Mtoto huyu ni sahani.,4,8,2.0
+correct,Mtoto huyu ni nyoka kwenye nyasi.,6,11,1.8333333333333333
+correct,Yule msichana ni mtulivi kama mashamba ya Mbinguni.,8,17,2.125
+correct,Yule msichana ni malkia wa drama.,6,11,1.8333333333333333
+correct,Nyumba hii ni kama dunia.,5,7,1.4
+correct,Nyumba hii ni kama mawimbi ya bahari.,7,12,1.7142857142857142
+correct,Mtu huyu ni kama kama harusi bila bwana harusi.,9,14,1.5555555555555556
+correct,Yeye ni sauti ya mama.,5,8,1.6
+correct,Mwanafunzi huyu ni nta.,4,7,1.75
+correct,Mwanafunzi huyu ni dubu.,4,7,1.75
+correct,Kijiti hiki ni kama nyota ya risasi.,7,12,1.7142857142857142
+correct,Mtu huyo alikuwa gorila.,4,7,1.75
+correct,Kitoto chake ni kama pini mpya.,6,9,1.5
+correct,Kitoto chake ni kama nguruwe.,5,9,1.8
+correct,Mayai haya ni asali.,4,7,1.75
+correct,Alikuwa kama dubu.,3,6,2.0
+correct,Alikuwa kama meli iliyoachwa.,4,8,2.0
+correct,Alikuwa kama tamthilia ya filamu.,5,9,1.8
+correct,Mlango ulikuwa kama mshipi wa chuma.,6,12,2.0
+correct,Mlango ulikuwa kama ghuba.,4,9,2.25
+correct,Meza ilikuwa kama yungiyungi.,4,8,2.0
+correct,Meza ilikuwa kama gome la mwaloni.,6,10,1.6666666666666667
+correct,Wazazi wangu ni kama ndovu.,5,9,1.8
+correct,Mazao ya wakulima ni kama mwanga wa jua.,8,12,1.5
+correct,Mazao ya wakulima ni kama manyoya kwenye samaki.,8,12,1.5
+correct,Yeye alikuwa mahali kama jela.,5,8,1.6
+correct,Mahali aliwekwa palikuwa peponi.,4,9,2.25
+correct,Mahali aliwekwa palikuwa kuzimu.,4,9,2.25
+correct,Maneno yake yalikuwa kama samaki aliyetolewa kwa maji.,8,13,1.625
+correct,Walishuhudia uhuru kama ndege angani.,5,8,1.6
+correct,Walishuhudia utumwa kama Waisraeli.,4,10,2.5
+correct,Yeye ni njiwa,3,6,2.0
+correct,Maneno yake yalikuwa mvua kwa mkulima.,6,12,2.0
+correct,Maneno yake yalikuwa mkizi.,4,9,2.25
+correct,Filamu hiyo ilikuwa kama dawa kwa mgonjwa.,7,11,1.5714285714285714
+correct,Filamu hiyo ilikuwa kama dawa za kulevya.,7,9,1.2857142857142858
+correct,Binti huyu ni Musa.,4,6,1.5
+correct,Alikuwa kama kigogo.,3,7,2.3333333333333335
+correct,Mazungumuzo yake yalikuwa kama senti.,5,10,2.0
+correct,Alitoka hospitalini kama mfalme.,4,9,2.25
+correct,Alitoka hospitalini kama Nyati aliyedungwa na miba.,7,14,2.0
+correct,Busu lake lilikuwa kama la mama kwa mwanawe.,8,12,1.5
+correct,Sehemu la kupalilia lilikuwa bahari.,5,10,2.0
+correct,Sehemu la kupalilia lilkuwa tundu la sindano.,7,14,2.0
+correct,Barabara hii ni tembo.,4,7,1.75
+correct,Nguo ya kasisi ni theluji.,5,10,2.0
+correct,Nguo ya kasisi ni makaa.,5,9,1.8
+correct,Alikuwa kama fedha ya haraka ya kusema uongo.,8,11,1.375
+correct,Filamu hii ni kama kuwasha.,5,8,1.6
+correct,Ardhi ilikuwa kama mvua ya msimu ya baridi.,8,12,1.5
+correct,Miche ilikuwa kama konokono akitoka kwenye ganda lake.,8,13,1.625
+correct,Alikuwa simba.,2,5,2.5
+correct,Alikuwa mjakazi.,2,6,3.0
+correct,Chumba kilikuwa kama mwali.,4,8,2.0
+correct,Chumba kilikuwa kama kaburi.,4,8,2.0
+correct,Samani hii ni kama nyota.,5,8,1.6
+correct,Mwanafunzi alikuwa kama kupasuka kwa volkano.,6,10,1.6666666666666667
+correct,Upepo ulikuwa kama jicho likitazama jua.,6,13,2.1666666666666665
+correct,Alikuwa kama malaika mlezi.,4,8,2.0
+correct,Alikuwa kama mbegu iliyoanguka kwenye mawe.,6,12,2.0
+correct,Shati lake ni chumvi.,4,8,2.0
+correct,Wao ni kama kengele na mlio wake.,7,11,1.5714285714285714
+correct,Wao ni kama moto na maji.,6,8,1.3333333333333333
+correct,Uchaguzi huu ni nadhiri za bikira.,6,9,1.5
+correct,Mchezaji alikuwa kama viatu vya jumapili.,6,12,2.0
+correct,Polisi walikuwa kama heshima sawa.,5,6,1.2
+correct,Polisi walikuwa kama waamuzi wa historia ya mipaka kwanza humunyonga mfungwa na kisha kumjaribu.,14,23,1.6428571428571428
+correct,Mbwa huyu ni simba.,4,7,1.75
+correct,Alikuwa kama asubuhi ya mei.,5,7,1.4
+correct,Alikuwa kama ini la bukini linalokusudiwa kulwa.,7,14,2.0
+correct,Eneo la benki ni kama nyota kwenye usiku tupu.,9,14,1.5555555555555556
+correct,Majengo yale ni safu ya mwanga.,6,12,2.0
+correct,Majengo yale ni umri wa jiwe.,6,11,1.8333333333333333
+correct,Dereva alikuwa kama hakimu.,4,7,1.75
+correct,Dereva alikuwa kama Lutu wa bibilia.,6,11,1.8333333333333333
+correct,Ilikuwa kama ndoto ya mama ya mtoto wake.,8,12,1.5
+correct,Ilikuwa kama ngozi.,3,6,2.0
+correct,Msichana yule ni Daudi.,4,9,2.25
+correct,Hali ya hewa ni kama mito ya kina kirefu.,9,12,1.3333333333333333
+correct,Alipewa faraja kama mtoto mchanga.,5,9,1.8
+correct,Alipewa majonzi kama mafuriko yalioinuliwa kwenye vijito vidogo na mvua ya ghafla.,12,24,2.0
+correct,Nyumba hii ni pamba.,4,7,1.75
+correct,Nyumba hii ni dampo.,4,7,1.75
+correct,Barua yake ilikuwa kama mama na mwanawe.,7,10,1.4285714285714286
+correct,Barua ilikuwa kama pambano lililogandishwa.,5,11,2.2
+correct,Safari ilikuwa kama jogoo ndani ya bwawa.,7,10,1.4285714285714286
+correct,Kijana huyu ni kama nyumbu wa serikali.,7,10,1.4285714285714286
+correct,Alikuwa kama paka.,3,6,2.0
+correct,Chumba kilikuwa kama upepo.,4,9,2.25
+correct,Kijana alikuwa kama panzi.,4,7,1.75
+correct,Sauti yake ilikuwa kama ndoto ya usiku ya bubu aliyeshiba wimbo.,11,18,1.6363636363636365
+correct,Yeye ni mlinzi mzuri wa nyumba.,6,9,1.5
+correct,Yeye ni upepo.,3,7,2.3333333333333335
+correct,Alikuwa kama Abrahamu.,3,6,2.0
+correct,Alikuwa kama nzige.,3,7,2.3333333333333335
+correct,Wao walikuwa makapi mbele ya upepo.,6,11,1.8333333333333333
+correct,Aliketi kama kiongozi wa ngamia.,5,9,1.8
+correct,Jamii ilikuwa kama saa.,4,5,1.25
+correct,Mlinzi alikuwa bahari inayotikiswa na tufani kuu.,7,14,2.0
+correct,Mlinzi alikuwa ndoto kaburini.,4,11,2.75
+correct,Kaka yangu alikuwa kama kasuku kwa mpiga filimbi.,8,12,1.5
+correct,Yule ni ukweli mtakatifu.,4,7,1.75
+correct,Yule ni bahari iliyochafuka.,4,10,2.5
+correct,Walikimbia kama nyasi mbele ya komeo.,6,11,1.8333333333333333
+correct,Chumba hiki ni sauti ya dalali.,6,10,1.6666666666666667
+correct,Nyumba hii ni kama upepo.,5,9,1.8
+correct,Mifugo wote wako hai kama maono ya maisha kuwa.,9,13,1.4444444444444444
+correct,Yeye ni Samsoni.,3,6,2.0
+correct,Kimani ana roho ya chuma,5,7,1.4
+correct,Ninampenda Maria kama mboni ya jicho langu,7,12,1.7142857142857142
+correct,Ninampenda Maria kama paka apendavyo maji,6,11,1.8333333333333333
+correct,Mtoto wa Jirani ni Tumbo Karai,6,11,1.8333333333333333
+correct,Mtoto wa Jirani anapenda chakula kama mgonjwa aliyepoteza hamu,9,17,1.8888888888888888
+correct,Makena alikuwa ameng'aa kama mbuzi wa kuzurura,7,15,2.142857142857143
+correct,Jane ni mkono mgumu kwa pesa,6,7,1.1666666666666667
+correct,Mtoto wa Maria anang'aa kama jua darasani,7,15,2.142857142857143
+correct,Tulikula chakula kitamu kama asali kwa Otieno,7,12,1.7142857142857142
+correct,Alikua mrefu kama mlingoti,4,7,1.75
+correct,Alikua mfupi kama nyundo,4,7,1.75
+correct,Gari lake ni dhahabu,4,7,1.75
+correct,Gari lake li la thamani kama nguo za mitumba,9,12,1.3333333333333333
+correct,Kipchoge ni risasi,3,6,2.0
+correct,Alikua akanenepa kama nguruwe,4,9,2.25
+correct,"Hakukula, ni mwembamba kama sindano",5,10,2.0
+correct,Alikua na bahati kama ya mtende kupata udhamini wa kusomea ulaya,11,19,1.7272727272727273
+correct,Alikuwa na bahati kama ya mwizi ambaye arobaini zake zimewadia,10,17,1.7
+correct,Maria aliruka juu kama Masai,5,8,1.6
+correct,Alikuwa na meno yenye weupe wa maziwa,7,10,1.4285714285714286
+correct,Alikuwa na meno meupe kama giza,6,8,1.3333333333333333
+correct,Nyumba yake ilikuwa baridi kama barafu tulipoingia,7,12,1.7142857142857142
+correct,Nyumba yake ilikuwa na joto kama pasi tulipoingia,8,12,1.5
+correct,Angelina alituangalia kwa macho ya vikombe,6,10,1.6666666666666667
+correct,Angelina alitangalia kwa macho ya chura,6,9,1.5
+correct,Dawa za hospitali ya Nairobi ni chungu kama shubiri,9,12,1.3333333333333333
+correct,Dawa za hospitali ya Nairobi ni chungu kama sukari,9,12,1.3333333333333333
+correct,Sinema za Nairobi zina bei ghali kama dhahabu,8,11,1.375
+correct,Milango ya benki jijini ni ndogo kama tundu la sindano,10,14,1.4
+correct,Milango ya benki jijini ni Pana kama uwanja wa kandanda,10,14,1.4
+correct,"Ukiwa Nakuru, Kitengela ni mbali kama Ng'ambo kwa baiskeli",9,18,2.0
+correct,Vijana wa soka huwa pumbavu kama kondoo kwa masomo,9,11,1.2222222222222223
+correct,Vijana wa soka huwa pumbavu kama nyani kwa masomo,9,11,1.2222222222222223
+correct,Bahari ya Hindi inameremeta kama Tausi msimu huu wa Krismasi,10,15,1.5
+correct,Nilifura kama andazi nilipolazimishwa kuenda kwenda Naivasha,7,16,2.2857142857142856
+correct,Unafaa kuwa bendera kwa malekezo ya wazazi wako,8,11,1.375
+correct,Wakaazi wa dandora ni wazembe kama kupe,7,12,1.7142857142857142
+correct,Wakaazi wa dandora wana bidii kama ya mchwa,8,12,1.5
+correct,Somo la Kemia huwa tulivu kama mtungi wa maji,9,13,1.4444444444444444
+correct,Hell's Gate imefichika kama siri katika bonde la ufa,9,16,1.7777777777777777
+correct,Hell's Gate ni sehemu iliyo wazi Kama mchana katika bonde la ufa,12,17,1.4166666666666667
+correct,Kipchoge aling'aa kama anga katika mbio za dunia,8,16,2.0
+correct,Ikulu ya rais ni manukato usiku na mchana,8,11,1.375
+correct,Ikulu ya rais inanuka kama kidonda usiku na mchana,9,14,1.5555555555555556
+correct,Wanawkwaya wale wana sauti mbaya kama chura,7,12,1.7142857142857142
+correct,Ninamdhamini mke wangu kama moyo,5,9,1.8
+correct,Ninamdhamini mke wangu kama taka,5,9,1.8
+correct,"Ifikapo kwa maria, bernard alikuwa mwenye macho kama jongoo",9,16,1.7777777777777777
+correct,Bernard alikuwa na macho ya Tai kwa maovu ya Maria,10,11,1.1
+correct,Jirani yangu ni shetani,4,6,1.5
+correct,Jirani yangu ana roho nzuri kama malaika,7,10,1.4285714285714286
+correct,Mjomba wa Lois anakula kama fisi,6,9,1.5
+correct,Mjomba wa Lois anakula kama mgonjwa mahututi,7,14,2.0
+correct,Visima vya maji kule Marsabit na Moyale vimekauka kama janga,10,18,1.8
+correct,Wanafunzi husimama imara kama uti wa mgondo bendera inapopandishwa,9,17,1.8888888888888888
+correct,Wanafunzi huyumba kama mawimbi bendera inapopandishwa,6,12,2.0
+correct,Mkutano wa walimu ulikuwa miaka na mikaka,7,9,1.2857142857142858
+correct,Wangari alikataa kuyafuata maelezo yetu kama sikio la kufa,9,15,1.6666666666666667
+correct,Wangari aliyatii maelezo yetu kama kijakazi wa mfalme,8,15,1.875
+correct,Nilimpenda Jeptoo lakini tulitorokana kama jua na mwezi,8,16,2.0
+correct,Uwepo wake ni mtulivu  kama manukato kwangu,8,14,1.75
+correct,Uwepo wake ni mtulivu kama tawi kwenye dhoruba,8,15,1.875
+correct,Baba ya Alice ni pilipili,5,6,1.2
+correct,Chokoraa wa Nairobi wamezurura kama Mbwakoko,6,12,2.0
+correct,Chokoraa wa Nairobi wametulia leo kama mtoto aliyelala,8,13,1.625
+correct,Muziki wa Kenya ulikuwa wa huruma kama aliyefiwa,8,13,1.625
+correct,Muziki wa Kenya ulikuwa wa huruma kama aliyeshinda Lotto,9,13,1.4444444444444444
+correct,Dennis hutembea haraka kama anayefwatwa gizani akienda shuleni,8,15,1.875
+correct,Dennis hutembea taratibu kama Bi harusi akienda shuleni,8,12,1.5
+correct,Nyumba yake ilikuwa na joto kama jokofu,7,10,1.4285714285714286
+correct,Dada yake ni mkubwa kama tembo,6,8,1.3333333333333333
+correct,Imani yake ilikuwa na nguvu kama chuma,7,8,1.1428571428571428
+correct,Macho ya kijana huyo yalikuwa mekundu kama damu,8,13,1.625
+correct,Eneo hilo lilikuwa na kelele kama mtoto aliyeachwa,8,13,1.625
+correct,Eneo hilo lilikuwa na kelele kama mtungi wa maji,9,13,1.4444444444444444
+correct,Walikuwa pamoja kama nywele kwa nyingine,6,9,1.5
+correct,Alikuwa mwerevu kama samaki,4,8,2.0
+correct,Kwake kulikuwa na joto kama jehanamu,6,11,1.8333333333333333
+correct,Mtoto aliyejifungua alikuwa nanga,4,9,2.25
+correct,Mtoto aliyejifungua alikuwa mabawa,4,9,2.25
+correct,Sebule yake ilikuwa telezi kama siagi,6,9,1.5
+correct,Alinipendeza kama mtoto asieacha kulia,5,10,2.0
+correct,Hakutuchelewesha kwa kuwa na  miguu kama ya swara,9,14,1.5555555555555556
+correct,"Mtihani ulipokaribia, Otieno alibadilika mchwa",5,15,3.0
+correct,"Mtihani ulipokaribia, Otieno alisalia kuwa mchwa",6,17,2.8333333333333335
+correct,Matumaini yake yalipanda kama ndege alipopata habari,7,12,1.7142857142857142
+correct,Mama Otis alipenda busu la mumewe kama asali,8,14,1.75
+correct,Mama Otis alipenda busu la mumewe kama Mungu apendavyo dhambi,10,18,1.8
+correct,Sandra alituandalia chakula kitamu kama ndimu,6,11,1.8333333333333333
+correct,Beatrice alimtumainini mumewe kama mja aliyehukumiwa kifo,7,16,2.2857142857142856
+correct,Wafula alitembea gizani akuwa shupavu kama kondoo anayeingizwa kichinjioni,9,22,2.4444444444444446
+correct,Maria aliingia kwangu akinukia manukato kama binti ya malkia,9,15,1.6666666666666667
+correct,Maria aliingia kwangu akinuka kama kondoo aliyenyeshewa,7,14,2.0
+correct,Dennis alikuwa na haraka kama risasi,6,7,1.1666666666666667
+correct,Polisi hukushuku ukiwa na wasiwasi kama mwizi,7,11,1.5714285714285714
+correct,Polisi hawawezi kukushuku ukiwa mtulivu kama bahari,7,14,2.0
+correct,Garissa kumejaa upepo kama ufuo wa bahari,7,15,2.142857142857143
+correct,Wabunge ni fisadi kama polisi,5,6,1.2
+correct,Lesly ni kigeugeu kama Kinyonga,5,11,2.2
+correct,Lesly ni kigeugeu kama mwanasiasa,5,11,2.2
+correct,Beatrice alikaidi masharti kama mbuzi anayechezewa kinanda,7,15,2.142857142857143
+correct,Beatrice alikaidi masharti kama mlinzi wa malkia,7,12,1.7142857142857142
+correct,Umemaliza shule ukakuwa maarufu kama rais wa nchi,8,11,1.375
+correct,Umemaliza shule ukakuwa maarufu kama mtoto wa kati,8,11,1.375
+correct,Roho yake ilikuwa kufuli lililofungwa,5,8,1.6
+correct,Roho yake ilikuwa mchana wa jua,6,9,1.5
+correct,Anette ana Mikono laini kama mto,6,10,1.6666666666666667
+correct,Anette ana mikono laini kama changarawe,6,10,1.6666666666666667
+correct,Ala! Benjamin una haraka kama ambulensi iliyo na mgonjwa mahututi,10,17,1.7
+correct,"Ala! Benjamin, Una haraka kama siafu aliyebeba kitoweo",8,14,1.75
+correct,Muangalie anavyong'aa nyusoni kama nyota,5,15,3.0
+correct,Khalid hutoa tabasamu ya dhahabu anapomuona Michelle,7,15,2.142857142857143
+correct,Mkora alikuwa na werevu kama kondoo alipojaribu kutuibia,8,14,1.75
+correct,Tony ana Miguu mikubwa kama Nyani,6,10,1.6666666666666667
+correct,Tony ana Miguu ndogo kama siafu,6,8,1.3333333333333333
+correct,Maria alikuwa na wasiwasi kama mtoto aliyepoteza pesa za mamaye,10,12,1.2
+correct,Tunashauriwa kuwa waangalifu kama daktari tunapovuka barabara,7,14,2.0
+correct,Alikuwa jiwe alipojaribu kuongea naye,5,9,1.8
+correct,Bi Arusi alitembea kama mlevi,5,8,1.6
+correct,Safari yake ilikuwa mlima Kilimanjaro,5,6,1.2
+correct,Mwizi aliposhikwa aligongwa kama mtoto agongwavyo alale,7,15,2.142857142857143
+correct,Polisi wana roho ya shetani,5,7,1.4
+correct,Jane ana sura nyororo kama ngano,6,10,1.6666666666666667
+correct,Jane ana sura ngumu kama chura,6,9,1.5
+correct,Kaka ya Tom ana uwezo wa kunusia kama mbwa,9,11,1.2222222222222223
+correct,Mutuku amesimama kama bendera ya chifu,6,10,1.6666666666666667
+correct,Boma la kina Antony ni uwanja wa ndege,8,10,1.25
+correct,"Maria hana msimamo, ni bendera",5,6,1.2
+correct,Antony alilelewa akuwe imara kama simba,6,12,2.0
+correct,Jana nilikuwa nimeshikamaa kama guluu,5,9,1.8
+correct,"Janice alipofika nyumbani, alikula kama mgonjwa aliyepoteza hamu",8,16,2.0
+correct,Wafungwa wengi hufanyishwa kazi kama paka wa nyumbani,8,13,1.625
+correct,Wafisadi serekalini wanabebeshwa mbio kama kreti la mayai,8,18,2.25
+correct,Henry ana miguu mirefu kama mbuni,6,9,1.5
+correct,ALipotushuku alituangalia kwa macho kali kama tai,7,13,1.8571428571428572
+correct,Alikuwa na macho kali jama jongoo tulipoingia,7,12,1.7142857142857142
+correct,Gerad alisoma akajua mengi kama mtandao,6,9,1.5
+correct,Roho ya imani ni jua la mchana,7,10,1.4285714285714286
+correct,Kimani alimdekeza mpenzi wake kama yai,6,11,1.8333333333333333
+correct,Alipata ukumbi umejaa kama laini ya kupiga kura,8,12,1.5
+correct,Rossie alikuwa mjeuri kama mtundu aliyeitiwa chakula,7,13,1.8571428571428572
+correct,Alivalia rinda jeupe kama makaa siku yake ya kubatizwa,9,16,1.7777777777777777
+correct,Bibi ya John alirauka mapema kama jimbi kuenda kazini,9,14,1.5555555555555556
+correct,Leah ana viatu maridadi kama makaa,6,11,1.8333333333333333
+correct,"Mke wake hapendi kelele, anapenda kubembelezwa kama mtoto",8,15,1.875
+correct,"Mke wake hapendi kelele, anapenda kubembelezwa kama mfungwa",8,16,2.0
+correct,Walimvamia mwizi kama mvua Gikomba alipokamatwa,6,14,2.3333333333333335
+correct,Aliumia kama mwizi aliyepigwa na umati,6,11,1.8333333333333333
+correct,Aliumia kama mja aliyeumwa na mbu,6,12,2.0
+correct,Mume wa Sofia ni Katili kama muasi,7,10,1.4285714285714286
+correct,Mume wa sofia ni Katili kama jongoo,7,11,1.5714285714285714
+correct,Alituletea mtoto msumbufu kama nyani,5,10,2.0
+correct,Nikiwa mtoto nilipenda kuzurura kama mbwakoko,6,12,2.0
+correct,"Alipojifungua, alianza kuwajibika kama mwanafunzi anayekalia mtihani wa kitaifa",9,18,2.0
+correct,"Alipogonjeka, alianza kuwa mdhaifu kama barafu iliyowekwa kwa jua",9,20,2.2222222222222223
+correct,Janet ni ua la waridi,5,8,1.6
+correct,Janet ni kiganja cha moto,5,7,1.4
+correct,Ujumbe wa kifo chake ulienea kama upepo,7,13,1.8571428571428572
+correct,Nyumbani kwa seneta ni kuzuri kama binguni,7,14,2.0
+correct,Nyumbani kwa seneta ni kubaya kama jehanamu,7,13,1.8571428571428572
+correct,Jamal ni mwepesi wa kushawishi kama upepo,7,12,1.7142857142857142
+correct,Maskini wa Kenya huvaa matambara kama chokoraa,7,12,1.7142857142857142
+correct,Leo nje kuna kelele kama tingtinga,6,8,1.3333333333333333
+correct,Mtoto wa Jane ni mwepesi kama nanga,7,12,1.7142857142857142
+correct,Watoto wa shule za Nairobi ni Kondoo,7,8,1.1428571428571428
+correct,Tumbo la Maria lilinenepa kama sayari alipopata ujauzito,8,16,2.0
+correct,Akikasirika anakuwa na mioto kama barafu,6,11,1.8333333333333333
+correct,Sebule ya James ni nyekundu kama damu,7,10,1.4285714285714286
+correct,Unafaa uwe macho kama mlinzi wa usiku usiibiwe Nairobi,9,14,1.5555555555555556
+correct,Unafaa uwe macho kama jongoo usiibiwe Nairobi,7,12,1.7142857142857142
+correct,Sherehe za wazungu huwa na vinywaji kali kama ndimu,9,16,1.7777777777777777
+correct,Jirani yatu ana akili tupu kama pipa,7,12,1.7142857142857142
+correct,Jirani yetu ana akili tupu kama bahari,7,11,1.5714285714285714
+correct,Mapenzi yanafaa kuwa na amani kama jua la jioni,9,13,1.4444444444444444
+correct,Mbwa wa polisi ni hatari kama umeme,7,8,1.1428571428571428
+correct,Siku za Krismasi zimekaribia kama jino kwa lingine,8,13,1.625
+wrong,Watoto ni malaika,3,4,1.3333333333333333
+wrong,Yeye ni mnyama.,3,7,2.3333333333333335
+wrong,Maneno yake ni kama kisu,5,7,1.4
+wrong,Maneno yake ni kama kinanda,5,7,1.4
+wrong,Tabasamu lake huangaza chumba kizima,5,11,2.2
+wrong,"Penzi lao limepamba moto""",4,9,2.25
+wrong,"Penzi lao ni kama moto wa kibatari kwenye upepo""",9,16,1.7777777777777777
+wrong,Wali huu una ladha kama umepikwa  hotelini,8,11,1.375
+wrong,Mtihani ulikuwa kama ugali wa jela,6,11,1.8333333333333333
+wrong,Mzamiru alitoa pasi rula,4,8,2.0
+wrong,Feisal alitoa pasi mkaa,4,8,2.0
+wrong,Vijana wataozesha taifa,3,5,1.6666666666666667
+wrong,Sauti yako ni kama chiriku,5,8,1.6
+wrong,Mapenzi ni kama punje ya unga kwenye mchele,8,12,1.5
+wrong,"Maisha sio mchezo, ni vita",5,6,1.2
+wrong,Kauli yake ilinikata maini,4,8,2.0
+wrong,Kauli yake ilikua kama maji baridi kooni,7,11,1.5714285714285714
+wrong,Awamu hii kutakua na michuano lelemama,6,12,2.0
+wrong,"Sandra, wewe ni kama shubiri kinywani mwangu",7,12,1.7142857142857142
+wrong,"Tofauti na dhana iliyokuwepo, mama ndiye kunguni wa familia",9,15,1.6666666666666667
+wrong,Bahati ya mwenzio usiilalie mlango wazi,6,12,2.0
+wrong,Maisha yake ni kama dira,5,5,1.0
+wrong,Wema sio kitenesi,3,5,1.6666666666666667
+wrong,Macho yake yalikua kama mto wkati wa masika.,8,15,1.875
+wrong,Macho yake yalikua kama mto wkati wa kiangazi.,8,16,2.0
+wrong,Alipora mkoba wangu na kutembea kama konokono,7,13,1.8571428571428572
+wrong,Walibishana kitakatifu,2,5,2.5
+wrong,Upele humuota asiye na kucha,5,9,1.8
+wrong,"Aisha, endelea tu kupiga mdomo",5,9,1.8
+wrong,Hakuna marefu yasiyokuwa na ncha,5,9,1.8
+wrong,Zimwi likujualo halikuli likakwisha,4,11,2.75
+wrong,Hassani hufanya mambo yake kama anakimbizwa,6,11,1.8333333333333333
+wrong,Hata kama ulikua umejaza matope kichwani ungeweza kufanya mtihani ule,10,19,1.9
+wrong,Wanapenda kumwaga mchele kwenye kuku wengi,6,10,1.6666666666666667
+wrong,Mchumia juani hulia kivulini,4,10,2.5
+wrong,Mchumia juani hulia juani,4,9,2.25
+wrong,Maisha yake yote ni kama miiba.,6,8,1.3333333333333333
+wrong,Harusi yao ilikua kama msiba,5,8,1.6
+wrong,Unaweza panda nazi ukavuna koroma,5,10,2.0
+wrong,Neno la Mungu ni gari bila mafuta,7,8,1.1428571428571428
+wrong,Mvua ilikonyeza tu,3,7,2.3333333333333335
+wrong,Ujana maji ya moto,4,5,1.25
+wrong,Ujana ni kama maji,4,5,1.25
+wrong,George Foreman alikua na ngumi ya chuma,7,10,1.4285714285714286
+wrong,Mama yao ana mdomo mchafu sana,6,9,1.5
+wrong,Usipende kua vuguvugu,3,9,3.0
+wrong,Aliahidi kuwa atachangia kisha akaingia mitini.,6,11,1.8333333333333333
+wrong,Yeye ana kifua.,3,7,2.3333333333333335
+wrong,Ana upara kama jagwa la Sahara,6,8,1.3333333333333333
+wrong,Kulipa ni matanga,3,5,1.6666666666666667
+wrong,Yule ana damu nyeusi,4,7,1.75
+wrong,Ali ni sungura,3,4,1.3333333333333333
+wrong,Ali mpole kama kondoo.,4,7,1.75
+wrong,Anafanya kazi kama nyuki,4,6,1.5
+wrong,Taa inatoa mwanga kama tobo kubwa jeusi katikati ya vakyumu.,10,20,2.0
+wrong,Silaha ilikua ngumu kama chuma,5,8,1.6
+wrong,Mdoli unatunzwa vizuri kama mtoto,5,8,1.6
+wrong,Mdoli unatunzwa vibaya kama takataka,5,10,2.0
+wrong,Kioo kilipasuka na kuonekena kama utandu wa buibui,8,16,2.0
+wrong,Yeye anaonekana kama jokeri,4,7,1.75
+wrong,Filamu hii ina kina cha dimbwi.,6,10,1.6666666666666667
+wrong,Chumba kina nafasi kubwa kama shamba,6,8,1.3333333333333333
+wrong,Pombe ilimfanya ajisikie kama amelamba asali,6,13,2.1666666666666665
+wrong,Alikuwa na utajiri wa Kibarua,5,9,1.8
+wrong,Hali ya hewa ni kama vile tumemwagiwa Lava,8,11,1.375
+wrong,Kiuno chake kina upana wa kijiti,6,10,1.6666666666666667
+wrong,Aliruka juu kama kobe,4,7,1.75
+wrong,Filamu ilikuwa inatisha kama kinyago.,5,11,2.2
+wrong,Filamu ilikuwa inatisha kama mdoli mzuri.,6,12,2.0
+wrong,Nina njaa kali kama Simba,5,7,1.4
+wrong,Matarajio yao yalipitiliza kama saa ya mshale.,7,14,2.0
+wrong,Maisha yake ni kama peni isiyo na wino,8,11,1.375
+wrong,Upendo ni kama kumwaga maji baharini,6,9,1.5
+wrong,Furaha si dawa,3,4,1.3333333333333333
+wrong,Wafanyakazi wanafanya kazi kama mchwa,5,7,1.4
+wrong,Elimu ni bahari,3,4,1.3333333333333333
+wrong,Rafiki angu ni ua jeusi,5,9,1.8
+wrong,Kijana hapendi dini kama hetani,5,8,1.6
+wrong,Mchezaji yule hana mapafu ya mbwa,6,11,1.8333333333333333
+wrong,Kijana ni kama amepakwa upupu,5,9,1.8
+wrong,Maisha yamenipiga chenga,3,6,2.0
+wrong,Gari hili ni konokono,4,7,1.75
+wrong,Watu wamepelea katika sherehe,4,6,1.5
+wrong,Alikuja na kikundi cha watoto,5,7,1.4
+wrong,Ahadi ni deni,3,5,1.6666666666666667
+wrong,Ahadi ni zawadi,3,6,2.0
+wrong,Yeye ni mkia wa mbuzi,5,8,1.6
+wrong,Nyumbani kwangu ni kama friji,5,9,1.8
+wrong,Maneno yake yanachoma moyo wangu,5,8,1.6
+wrong,Sisi hatupikiki chungu kimoja,4,10,2.5
+wrong,Mimi na mdogo wangu ni pete na kidole,8,11,1.375
+wrong,Yeye ni kichwa,3,5,1.6666666666666667
+wrong,Rafiki yangu ananipaka wanja,4,8,2.0
+wrong,Rafiki yangu ananipaka pilipili,4,8,2.0
+wrong,Alfred alienda kupima akakutwa na umeme,6,10,1.6666666666666667
+wrong,Yule mbunge ni bendera hufuata upepo,6,10,1.6666666666666667
+wrong,Yule mbunge ana msimamo wa shaba,6,8,1.3333333333333333
+wrong,Maisha yamekua malaini,3,5,1.6666666666666667
+wrong,Kulipa uovu ni kujipalilia matunda,5,10,2.0
+wrong,Wanafiki watakupaka mafuta,3,6,2.0
+wrong,Wanafiki hawatakupaka mafuta,3,7,2.3333333333333335
+wrong,Mvua ilinyesha mgongoni mwake wakati wa mazoezi,7,14,2.0
+wrong,Wanapenda kuambatana utadhani siafu,4,10,2.5
+wrong,Hii kesi tumeivulia shati,4,7,1.75
+wrong,Akili zako nawe kama mbogo,5,9,1.8
+wrong,Mwanafunzi huyu ana kichwa kigumu,5,8,1.6
+wrong,Haya mambo nimeyafungia mkanda,4,10,2.5
+wrong,Nguo zake kila siku ni pamba kali,7,9,1.2857142857142858
+wrong,Hali yangu ni mtelezo tu,5,7,1.4
+wrong,Aliingiwa na ubaridi baada ya kushtuka kuwa yuko mwenyewe barabarani,10,17,1.7
+wrong,Hakuingiwa na ubaridi hata aliposhtuka kuwa yuko mwenyewe barabarani,9,17,1.8888888888888888
+wrong,"Ukimkuta kwenye uwanja wa mbio, kama kobe",7,13,1.8571428571428572
+wrong,Alinivuta kama sumaku,3,7,2.3333333333333335
+wrong,Yeye ni kuku,3,4,1.3333333333333333
+wrong,Tulipiga shoka mali zote,4,6,1.5
+wrong,Mke wake ni theluji,4,7,1.75
+wrong,Sauti yake ni hariri,4,6,1.5
+wrong,Sauti yake ni kama chura,5,7,1.4
+wrong,Kaka yangu ni nyumbu,4,5,1.25
+wrong,Rafiki yangu ni bundi,4,6,1.5
+wrong,Sisi ni kama ardhi na mbingu,6,8,1.3333333333333333
+wrong,Sisi ni kama chupi na tako,6,8,1.3333333333333333
+wrong,Juma ana sikio la tembo,5,7,1.4
+wrong,Maji ya bombani ni kaburi la baniani,7,10,1.4285714285714286
+wrong,Mapenzi ni shubiri,3,5,1.6666666666666667
+wrong,Msichana alikuwa kienyeji,3,7,2.3333333333333335
+wrong,Nina kijicho juu yake,4,6,1.5
+wrong,Mradi huo ni mchanga,4,6,1.5
+wrong,Ana roho ya simba,4,6,1.5
+wrong,Ni mpole kama kobe,4,6,1.5
+wrong,Wewe ni giza yangu,4,5,1.25
+wrong,kulipa matanga,2,3,1.5
+wrong,Rafiki yake ni kondoo,4,6,1.5
+wrong,Yeye ni chui,3,5,1.6666666666666667
+wrong,yeye ni kobe,3,4,1.3333333333333333
+wrong,Kuna panya kati yetu,4,5,1.25
+wrong,Kicheko ni dawa,3,5,1.6666666666666667
+wrong,Hiki chumba ni paradiso,4,7,1.75
+wrong,maneno yako yanakata kama kisu,5,7,1.4
+wrong,maneno yako ni nyororo kama pamba,6,9,1.5
+wrong,mapenzi yetu ni mazuri kama maua,6,7,1.1666666666666667
+wrong,Brenda alitembea kama tausi,4,6,1.5
+wrong,Ntakula kinyonga,2,6,3.0
+wrong,kuna baridi kama maji ya jokofu,6,8,1.3333333333333333
+wrong,bwana si jabali langu,4,7,1.75
+wrong,Anita ndiye nuru ya familia yao,6,7,1.1666666666666667
+wrong,Anita ndiye giza ya familia yao,6,6,1.0
+wrong,masomo yamekuwa karatasi,3,5,1.6666666666666667
+wrong,anga ilikuwa na makaa meupe,5,8,1.6
+wrong,aliota ndoto ya milele,4,8,2.0
+wrong,ana maua ya uzima,4,5,1.25
+wrong,hana maua ya uzima,4,5,1.25
+wrong,zaidi ya dunia ni bluu tu,6,7,1.1666666666666667
+wrong,zaidi ya dunia ni kijani kibichi,6,9,1.5
+wrong,mito ya uchungu ilimtirirka,4,8,2.0
+wrong,ndovu za mwili wake zilimtongoza,5,10,2.0
+wrong,alihisi ngoma kifuani,3,8,2.6666666666666665
+wrong,hakuhisi ngoma kifuani,3,8,2.6666666666666665
+wrong,kinywa chake kilikuwa kinyamavu,4,9,2.25
+wrong,upendo si jeuri,3,5,1.6666666666666667
+wrong,sauti yako si muziki maskioni mwangu,6,10,1.6666666666666667
+wrong,macho yake ni yakuti samawi,5,8,1.6
+wrong,macho yake si makuti samawi,5,7,1.4
+wrong,mikono yake si ya bandari salama,6,8,1.3333333333333333
+wrong,mawazo yangu ni kama mama mwenda wazimu,7,9,1.2857142857142858
+wrong,mawazo yangu si kama mama mwenda wazimu,7,9,1.2857142857142858
+wrong,wanafunzi wake ni mchwa,4,5,1.25
+wrong,ngozi yake si hariri,4,6,1.5
+wrong,sauti yake si zeri,4,6,1.5
+wrong,alikuwa na mishipa miepesi,4,7,1.75
+wrong,mwezi wa fedha haukuangaza angani,5,9,1.8
+wrong,ili jiji si kimbunga cha machafuko,6,11,1.8333333333333333
+wrong,taa yangu inangara,3,6,2.0
+wrong,mwili wake hauna milima mieupe,5,8,1.6
+wrong,mapigo hayo ni duni,4,6,1.5
+wrong,mikono yako ni kibembelezi changu,5,9,1.8
+wrong,yeye ni maziwa ya kuku,5,6,1.2
+wrong,anamchukia kama mwizi,3,7,2.3333333333333335
+wrong,yeye ni theluji,3,5,1.6666666666666667
+wrong,baba yake amekuwa jeshi,4,5,1.25
+wrong,dadake amekuwa singa,3,6,2.0
+wrong,mtoto wako amekuwa tumbili,4,6,1.5
+wrong,mtoto wako amekuwa njiwa,4,7,1.75
+wrong,Mwelusi si mtumwa,3,7,2.3333333333333335
+wrong,Yeye amekuwa fisi,3,5,1.6666666666666667
+wrong,mpenzi wangu si njiwa,4,7,1.75
+wrong,mwaniki si kifaru,3,6,2.0
+wrong,rafiki yake si abunuasi,4,6,1.5
+wrong,yule mama si chiriku,4,7,1.75
+wrong,chumba kile kimekuwa kaburi,4,8,2.0
+wrong,jaji yule amekuwa giza,4,7,1.75
+wrong,amekuwa mtende baada ya kupata hela,6,8,1.3333333333333333
+wrong,mapenzi yao yamekuwa gundi,4,6,1.5
+wrong,chakula kile ni taka,4,5,1.25
+wrong,chakula kinaonja asali,3,6,2.0
+wrong,gunia lile ni unyoya,4,8,2.0
+wrong,msanii yule ni kasuku,4,6,1.5
+wrong,wakulima wamekuwa tai baada ya kupalilia,6,8,1.3333333333333333
+wrong,siku hizi rafiki yangu amekuwa kinyonga,6,9,1.5
+wrong,mama wa kambo amekuwa joka la mdimu,7,11,1.5714285714285714
+wrong,mama wa kambo amekuwa maua,5,8,1.6
+wrong,watoto wake wamekuwa kumbikumbi,4,6,1.5
+wrong,watoto wake hawajakuwa kumbikumbi,4,8,2.0
+wrong,ndungu yake amekuwa nyati,4,8,2.0
+wrong,ndugu yake hajakuwa nyati,4,6,1.5
+wrong,msanii yule ni nyota,4,6,1.5
+wrong,msanii yule si nyota,4,6,1.5
+wrong,mkewe hajakuwa ndege wa mapema,5,8,1.6
+wrong,maisha si barabara kuu,4,4,1.0
+wrong,hakuwa mbwa mwenye mfupa,4,8,2.0
+wrong,bwana yule si mchungaji mwema,5,10,2.0
+wrong,askari wetu walikuwa kunguru vitani,5,7,1.4
+wrong,Picha hii ni ndoto.,4,7,1.75
+wrong,Filamu hii ni msitu mkubwa.,5,8,1.6
+wrong,Msichana huyo ni treni inayotoka kwenye reli anapoimba.,8,15,1.875
+wrong,Maneno yake ni dawa.,4,6,1.5
+wrong,Maneno yake ni sumu.,4,6,1.5
+wrong,Rafiki yangu ni chiruki.,4,8,2.0
+wrong,Rafiki yangu ni maji mtungini.,5,9,1.8
+wrong,Mgeni huyo ni kama jua la kutua.,7,11,1.5714285714285714
+wrong,Mwalimu wangu ana moyo wa jiwe.,6,8,1.3333333333333333
+wrong,Nyumbani kwetu ni jela.,4,9,2.25
+wrong,Maneno yake huwa shubiri kila anapozungumza.,6,11,1.8333333333333333
+wrong,Sauti yake ni kama kunong'ona.,5,10,2.0
+wrong,Sauti yake ni kama dhoruba ya radi.,7,11,1.5714285714285714
+wrong,Mwanariadha yule ni duma.,4,9,2.25
+wrong,Mwanariadha yule ni kobe,4,8,2.0
+wrong,Chakula kilikuwa kuzimu.,3,7,2.3333333333333335
+wrong,Mchezaji huyu ni twiga.,4,8,2.0
+wrong,Safari ilikuwa ni uzito kwenye mabega yangu.,7,10,1.4285714285714286
+wrong,Yule ni mkweli kama mwanasiasa wakati wa kampeni.,8,14,1.75
+wrong,Wimbo huu ni mwanga wa jua.,6,10,1.6666666666666667
+wrong,Mtoto wake ni Adamu na Eva.,6,10,1.6666666666666667
+wrong,Ana moyo wa simba.,4,6,1.5
+wrong,Kitabu hiki ni dhahabu.,4,8,2.0
+wrong,Kitabu hiki ni yai bovu.,5,9,1.8
+wrong,Rafiki yangu ni panya wa kanisa.,6,10,1.6666666666666667
+wrong,Swali ya hesabu katika mtihani ilikuwa mawe.,7,11,1.5714285714285714
+wrong,Panga hii ni sehemu ya nyuma ya kisu.,8,10,1.25
+wrong,Mtoto huyo ni tausi.,4,8,2.0
+wrong,Mama yake ni simba.,4,6,1.5
+wrong,Mwenzake ni mchwa.,3,7,2.3333333333333335
+wrong,Somo la hesabu ni mchana wa mwanga.,7,12,1.7142857142857142
+wrong,Kijana yule ni mtumwa.,4,9,2.25
+wrong,Nguo zake ni kama kidonda.,5,9,1.8
+wrong,Yule ni mboni ya jicho langu.,6,11,1.8333333333333333
+wrong,Mwanasoka yule ni nyota.,4,9,2.25
+wrong,Mwanasoka yule ni mwezi mpevu.,5,11,2.2
+wrong,Kitabu hiki ni kipya kama milima.,6,10,1.6666666666666667
+wrong,Urafiki wao ni kama wa chanda na pete.,8,13,1.625
+wrong,Yeye ni filimbi.,3,6,2.0
+wrong,Mama wa kambo amekuwa njiwa.,5,10,2.0
+wrong,Mambo yake ni giza.,4,5,1.25
+wrong,Mtoto yule ni bahari.,4,9,2.25
+wrong,Mtoto yule ni mkizi.,4,10,2.5
+wrong,Siku ya leo ni kama Kalahari.,6,8,1.3333333333333333
+wrong,Mwajiriwa yule ni Yuda Iskariote.,5,12,2.4
+wrong,Maumivu ni shoka linalokata moyo wangu.,6,11,1.8333333333333333
+wrong,Maumivu ni muziki mzuri kwa roho yangu.,7,11,1.5714285714285714
+wrong,Uhusiano wao ni kama kimbunga.,5,10,2.0
+wrong,Kalamu hizi ni kama mbaazi mbili kwenye ganda.,8,11,1.375
+wrong,Wao ni panya.,3,6,2.0
+wrong,Viatu vya baba ni takataka.,5,8,1.6
+wrong,Usiku wa leo anga ni kanisa siku ya juma.,9,14,1.5555555555555556
+wrong,Msichani yule ni waridi kati ya miiba.,7,13,1.8571428571428572
+wrong,Kiti hiki ni mwamba katika dhoruba.,6,11,1.8333333333333333
+wrong,Sherehe hiyo ilikuwa wimbo uliosahaulika.,5,11,2.2
+wrong,Mtihani ulikuwa gunia tupu kusimama wima.,6,15,2.5
+wrong,Kijana yule ni panya.,4,8,2.0
+wrong,Simu hii ni kama ng’ombe.,5,9,1.8
+wrong,Simu hii ni kama bunduki bila kichochezi.,7,13,1.8571428571428572
+wrong,Mtu huyu ni kama jua na mwezi.,7,10,1.4285714285714286
+wrong,Yeye ni kifo.,3,5,1.6666666666666667
+wrong,Kijiti hiki ni kama mitaa ya Boston.,7,11,1.5714285714285714
+wrong,Mtu huyo alikuwa yai.,4,7,1.75
+wrong,Mzigo hii ni kama manyoya.,5,9,1.8
+wrong,Mzigo hii ni kama nanga.,5,9,1.8
+wrong,Mayai haya ni ndimu.,4,7,1.75
+wrong,Alikuwa kama nta.,3,6,2.0
+wrong,Hao ni ulimi na meno.,5,8,1.6
+wrong,Hao ni maji na mafuta.,5,7,1.4
+wrong,Mtoto yule ni kibogoyo aliyeota Meno.,6,15,2.5
+wrong,Mtoto yule ni mfiwa.,4,10,2.5
+wrong,Ngozi yake ni hariri.,4,7,1.75
+wrong,Ngozi yake ni mawe,4,6,1.5
+wrong,Wazazi wangu ni kama bibi kizee.,6,11,1.8333333333333333
+wrong,Yeye alikuwa mahali kama kasri la mfalme.,7,12,1.7142857142857142
+wrong,Maneno yake yalikuwa kama rula.,5,9,1.8
+wrong,Yeye ni jongoo.,3,6,2.0
+wrong,Binti huyu ni Firauni.,4,7,1.75
+wrong,Alikuwa kama kumbikumbi.,3,7,2.3333333333333335
+wrong,Mazungumuzo yake yalikuwa kama bunda la noti.,7,13,1.8571428571428572
+wrong,Busu lake lilikuwa kama la Yuda Iskarioti kwa Yesu.,9,15,1.6666666666666667
+wrong,Barabara hii ni uzi.,4,6,1.5
+wrong,Maneno yake yalikuwa kama tabasamu.,5,10,2.0
+wrong,Maneno yake yalikuwa kama fumbo.,5,9,1.8
+wrong,Mwanariadha huyu ni duma.,4,8,2.0
+wrong,Mwanariadha huyu ni kobe.,4,8,2.0
+wrong,Alikuwa kama mtego wa dubu.,5,9,1.8
+wrong,Filamu hii ni kama waridi.,5,8,1.6
+wrong,Ardhi ilikuwa kama jua.,4,7,1.75
+wrong,Miche ilikuwa kama magugu kwenye kaburi lililopuuzwa.,7,13,1.8571428571428572
+wrong,Samani hii ni kama saa.,5,7,1.4
+wrong,Mwanafunzi alikuwa kama pumzi za upepo mdogo.,7,12,1.7142857142857142
+wrong,Upepo ulikuwa kama nguzo.,4,9,2.25
+wrong,Shati lake ni shimo la makaa ya mawe.,8,13,1.625
+wrong,Sakafu hii ni kama nyoka.,5,8,1.6
+wrong,Sakafu hii ni kama ukweli wa kisukuku.,7,11,1.5714285714285714
+wrong,Uchaguzi huu ni kumpa hakimu hekima kwa sababu tu amevalia tofauti na wanaume wengine.,14,19,1.3571428571428572
+wrong,Mchezaji alikuwa kama dhahabu safi kwa mzunguko.,7,15,2.142857142857143
+wrong,Mbwa huyu ni kunguru.,4,7,1.75
+wrong,Yeye ni mti mtukufu ambao umejeruhiwa wakati unatoa zeri.,9,18,2.0
+wrong,Yeye ni kaisari.,3,6,2.0
+wrong,Eneo la benki ni kama mkuu katika ngome lake.,9,13,1.4444444444444444
+wrong,Msichana yule ni hekalu takatifu lenye limeibiwa.,7,16,2.2857142857142856
+wrong,Hali ya hewa ni kama kimbunga kamili.,7,11,1.5714285714285714
+wrong,Alihama kama sekunde moja hadi nyingine.,6,9,1.5
+wrong,Alihama kama wema ulivyo juu ya ubaya.,7,12,1.7142857142857142
+wrong,Safari ilikuwa kama jua baada ya mvua.,7,10,1.4285714285714286
+wrong,Kijana huyu ni kama kitu cha hatia.,7,10,1.4285714285714286
+wrong,Alikuwa kama jua katika chemchemi.,5,11,2.2
+wrong,Chumba kilikuwa kama kupe.,4,8,2.0
+wrong,Kijana alikuwa kama mpiga grenadi.,5,9,1.8
+wrong,Sauti yake ilikuwa kama mvua inavyoshuka kwenye paa.,8,14,1.75
+wrong,Wao walikuwa mchwa.,3,6,2.0
+wrong,Aliketi kama kitabu cha kiebrania.,5,11,2.2
+wrong,Jamii ilikuwa kama uumbaji.,4,7,1.75
+wrong,Kaka yangu alikuwa kama mtoto anayechapwa.,6,9,1.5
+wrong,Walikimbia kama moshi ya tanuru.,5,10,2.0
+wrong,Chumba hiki ni sanamu.,4,7,1.75
+wrong,Baba ni nyuki.,3,5,1.6666666666666667
+wrong,Baba ni saa sita mchana.,5,7,1.4
+wrong,Mahali hapa ni kama makaburi.,5,8,1.6
+wrong,Mahali hapa ni kama sokoni.,5,8,1.6
+wrong,Mifugo wote wako hai kama jana.,6,9,1.5
+wrong,Yeye ni mwanzi.,3,6,2.0
+wrong,Kimani ana roho kama ya Kuku,6,9,1.5
+wrong,Makena alikuwa ameng'aa kama malaika,5,11,2.2
+wrong,Jane ni Yesu kwa pesa,5,5,1.0
+wrong,Mtoto wa Maria ni Kichwa Maji darasani,7,11,1.5714285714285714
+wrong,Tulikula chakula kitamu kama ndimu kwa  Otieno,8,12,1.5
+wrong,Onyango amekua maziwa ya kuku,5,9,1.8
+wrong,Onyango amekuwa kama mawingu angani,5,11,2.2
+wrong,Kipchoge ni konokono,3,7,2.3333333333333335
+wrong,Maria aliruka juu kama kobe,5,8,1.6
+wrong,Sinema za Nairobi zina bei ghali kama nguo za mitumba,10,13,1.3
+wrong,"Ukiwa Nakuru, Kitengela ni mbali kama nafasi kati ya macho",10,15,1.5
+wrong,Sofia na Fred walikuwa chanda na pete,7,9,1.2857142857142858
+wrong,Sofia na Fred walikuwa mafuta na maji,7,7,1.0
+wrong,Bahari ya hindi inameremeta kama shimo la taka msimu huu wa Krismasi,12,17,1.4166666666666667
+wrong,Qatar imeng'aa kama anga kwa kombe la dunia,8,13,1.625
+wrong,Qatar imeng'aa kama soko la Gikomba kwa ajili ya kombe la dunia,12,18,1.5
+wrong,Nilihuzunika kama kibogoyo aliyepata meno nilipoenda Naivasha,7,18,2.5714285714285716
+wrong,Usikue mkia wa mbuzi kwa maelekezo ya wazazi wako,9,13,1.4444444444444444
+wrong,Wanafunzi huwa na Kelele kama Chiriku wakati wa somo la Kemia,11,16,1.4545454545454546
+wrong,Kipchoge aling'aa kama mawe katika mbio za dunia,8,16,2.0
+wrong,Wanakwaya wale wana sauti kama kinanda,6,10,1.6666666666666667
+wrong,Jirani yetu ana watoto wengi kama siafu,7,9,1.2857142857142858
+wrong,Jirani yetu ana watoto adimu kama maziwa ya kuku,9,12,1.3333333333333333
+wrong,Visima vya maji kule Marsabit na Moyale vina maji kama ziwa Victoria,12,17,1.4166666666666667
+wrong,Mkutano wa walimu ulikawia kama mngurumo wa radi,8,13,1.625
+wrong,Watoto wake hufuatana kama siafu,5,8,1.6
+wrong,Watoto wake ni kama jua na mwezi,7,8,1.1428571428571428
+wrong,Maria ni tabibu wa moyo wangu,6,7,1.1666666666666667
+wrong,Maria ni chuma cha moto kwa moyo wangu,8,8,1.0
+wrong,"Nilimpenda Jeptoo, nikawa kivuli chake",5,13,2.6
+wrong,Baba ya Alice ni mkali kama nzi,7,9,1.2857142857142858
+wrong,Nyumba yake ilikuwa na joto kama jiko,7,10,1.4285714285714286
+wrong,Dada yake ni mkubwa kama tundu la sindano,8,11,1.375
+wrong,Imani yake ilikuwa na nguvu kama kijiti kilichoshikilia ndovu,9,16,1.7777777777777777
+wrong,Maswali hayo yalikuwa mboga,4,7,1.75
+wrong,Maswali hayo yalikuwa mawe,4,7,1.75
+wrong,Macho ya kijana huyo yalikuwa mekundu kama maziwa,8,13,1.625
+wrong,Alipenda kula chakula na pilipili kama mhindi,7,10,1.4285714285714286
+wrong,Alipenda kula chakula na pilipili kama mtoto,7,9,1.2857142857142858
+wrong,Walikuwa pamoja kama Marekani na Kenya,6,7,1.1666666666666667
+wrong,Alikuwa mwerevu kama sungura,4,8,2.0
+wrong,Kwake kulikuwa na joto kama chini ya bahari,8,12,1.5
+wrong,Sebule yake ilikuwa telezi kama kokoto,6,9,1.5
+wrong,Alinipendeza kama sharubati,3,8,2.6666666666666665
+wrong,Alituchelewesha kwa kuwa na miguu ya kobe,7,13,1.8571428571428572
+wrong,Alichomwa na jua kama mpasua-mawe siku nzima,7,16,2.2857142857142856
+wrong,Alichomwa na jua kama mgonjwa aliye kwenye wodi,8,15,1.875
+wrong,Matumaini yake yalipanda kama changarawe alipopata habari,7,14,2.0
+wrong,Mama Aziza na dada yake walikuwa shilingi kwa nyingine,9,10,1.1111111111111112
+wrong,Mama Aziza na dada yake walikuwa usiku na mchana,9,11,1.2222222222222223
+wrong,Sandra alituandalia chakula kitamu kama asali,6,11,1.8333333333333333
+wrong,Beatrice alimtumainin mumewe kama tasa anayetafuta mtoto,7,13,1.8571428571428572
+wrong,Wafula alikuwa shupavu kama mwanajeshi akitembea gizani,7,15,2.142857142857143
+wrong,Dennis alikuwa na haraka kama ndumakuwili,6,9,1.5
+wrong,Garissa kumejaa upepo kama ndani ya kisima,7,13,1.8571428571428572
+wrong,Wananchi walijaa kama mchanga kumskiza rais,6,11,1.8333333333333333
+wrong,Wananchi walijitokeza kwa wingi kama mayai ya Ng'ombe kumskiza rais,10,17,1.7
+wrong,Wabunge ni fisadi kama kasisi,5,7,1.4
+wrong,Muangalie anavyong'aa nyusoni kama chokoraa,5,16,3.2
+wrong,Olentuku alipoibiwa mshale alijihurumia kama mtoto yatima,7,16,2.2857142857142856
+wrong,Olentuku alipoibiwa mshale alijihurumia kama mtoto wa mfalme,8,18,2.25
+wrong,Khalid hutoa tabasamu ya kibogoyo anapomuona Michelle,7,16,2.2857142857142856
+wrong,Mkora alikuwa na werevu kama nyani alipotuibia,7,12,1.7142857142857142
+wrong,Maria alikuwa na wasiwasi kama Ng'ombe aliyeshiba alipoitwa ofisini mwa mwalimu mkuu,12,20,1.6666666666666667
+wrong,Wao huwa waangalifu kama walevi wanapovuka barabara,7,13,1.8571428571428572
+wrong,Alitega sikio kama mama wa mboga sokoni,7,11,1.5714285714285714
+wrong,Bibi Arusi alitembea kama tausi,5,8,1.6
+wrong,Safari yake ilikuwa ndefu kama unywele,6,10,1.6666666666666667
+wrong,Mwizi aliposhikwa aligongwa kama kandanda,5,12,2.4
+wrong,Polisi wana roho ya mtoto,5,6,1.2
+wrong,Kaka ya Tom ana uwezo wa kunusia kama samaki,9,11,1.2222222222222223
+wrong,Mutuku amesimama wima kama sukuma wiki siku ya upepo,9,16,1.7777777777777777
+wrong,Boma la kina Antony ni kibanda,6,9,1.5
+wrong,"Maria huwa na msimamo, ni uti wa mgongo",8,11,1.375
+wrong,Mchuuzi huwa kasuku anapowasili,4,9,2.25
+wrong,Mchuuzi huwa usiku wa manane anapowasili,6,11,1.8333333333333333
+wrong,Antony alilelewa akuwe kupe kwa wengine,6,11,1.8333333333333333
+wrong,Jana nilikuwa nimeshikamana kama changarawe,5,10,2.0
+wrong,"Janice alipofika nyumbani, alikula kama nguruwe",6,12,2.0
+wrong,Wafungwa wengi hufanyishwa kazi kama punda kama adhabu,8,13,1.625
+wrong,Wafisadi serekalini watabebeshwa mbio kama gari la miraa,8,17,2.125
+wrong,Usifanye kazi nyingi kisha ulale kama paka,7,11,1.5714285714285714
+wrong,Alikuwa amechoka akalala kama Mamba,5,10,2.0
+wrong,henry ana miguu mirefu kama jongoo,6,10,1.6666666666666667
+wrong,Omar alioa binti mwenye umbo zuri kama chupa,8,13,1.625
+wrong,Omar alioa binti mwenye umbo zuri kama nambari nane,9,15,1.6666666666666667
+wrong,Gerad alisoma na akajua mengi kama mtoto mchanga,8,12,1.5
+wrong,Roho ya imani ni msitu,5,7,1.4
+wrong,Onyango ni kipaza sauti,4,8,2.0
+wrong,Onyango ni mtungi wa maji,5,8,1.6
+wrong,Kimani alimdekeza mpenzi wake kama punda,6,11,1.8333333333333333
+wrong,Alipata ukumbi umejaa kama jangwa,5,9,1.8
+wrong,Rossie alikuwa mjeuri kama mtoto aliyekataa kula,7,12,1.7142857142857142
+wrong,Alivalia rinda jeupe kama mawingu siku yake ya kubatizwa,9,17,1.8888888888888888
+wrong,Bibi ya John alirauka mapema kama kuku mgonjwa kuenda kazini,10,16,1.6
+wrong,Leah ana viatu maridadi kama almasi,6,11,1.8333333333333333
+wrong,Ombi lake la kazi lilichukuwa muda kama ahadi za serikali,10,14,1.4
+wrong,Ombi lake la kazi lilichukuwa muda kama mngurumo wa radi,10,16,1.6
+wrong,Walimvamia mwizi kama vipepeo walipomshika,5,13,2.6
+wrong,Alituletea mtoto msumbufu kama maiti,5,10,2.0
+wrong,Nikiwa mtoto nilipenda kuzurura kama milima,6,11,1.8333333333333333
+wrong,"Alipojifungua, alianza kuwajibika kama chokoraa mapipani",6,17,2.8333333333333335
+wrong,"Alipongojeka, alianza kuwa mdhaifu kama almasi",6,14,2.3333333333333335
+wrong,Alitarajia kuishi maisha marefu kama  mabonde na mito,9,12,1.3333333333333333
+wrong,Alitarajia kuishi maifa marefu kama nzi,6,11,1.8333333333333333
+wrong,Ujumbe wa kifo chake ulienea kama upepo,7,13,1.8571428571428572
+wrong,Jamal ni jiwe ukijaribu kumshawishi,5,8,1.6
+wrong,Ivan ni mrefu kama twiga,5,6,1.2
+wrong,Ivan ni mrefu kama kucha,5,6,1.2
+wrong,Maskini wa Kenya huvaa matambara kama mfalme,7,12,1.7142857142857142
+wrong,Leo nje kuna kelele kama bubu,6,8,1.3333333333333333
+wrong,Mtoto wa Jane ni Mwepesi kama karatasi,7,12,1.7142857142857142
+wrong,Watoto wa shule za Nairobi ni wembe,7,8,1.1428571428571428
+wrong,Tumbo la Maria lilinenepa kama mbegu ya pera alipopata ujauzito,10,19,1.9
+wrong,Mshindi wa Lotto ni tajiri kama rais,7,9,1.2857142857142858
+wrong,Mshindi wa Lotto ashakuwa tajiri kama fundi wa viatu,9,14,1.5555555555555556
+wrong,Mlango wa uwanja wa Kasarani ni pana kama bahari,9,13,1.4444444444444444
+wrong,Mlango wa uwanja wa Kasarani ni pana kama tundu la sindano,11,16,1.4545454545454546
+wrong,Akikasirika anakuwa na mioto kama mvuke,6,11,1.8333333333333333
+wrong,Sebule ya James ni nyekundu kama maziwa,7,10,1.4285714285714286
+wrong,Sherehe za wazungu huwa na vinywaji kali kama asali,9,16,1.7777777777777777
+wrong,Mapenzi yanafaa kuwa na amani kama kilabu,7,10,1.4285714285714286
+wrong,Mbwa wa polisi ni hatari kama sungura,7,9,1.2857142857142858
+wrong,Siku za Krismasi zimekaribia kama jua na mwezi,8,12,1.5

@@ -1,0 +1,999 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Friendship is a fruitful tree.,5,8,1.6
+correct,Friendship is a poisonous tree.,5,9,1.8
+correct,Kalidas is the Shakespeare of India.,6,8,1.3333333333333333
+correct,This news brought the fragrance of flowers in his heart.,10,13,1.3
+correct,This news pierced his heart like an arrow.,8,11,1.375
+correct,Uday Singh is the stigma of the family.,8,10,1.25
+correct,Uday Singh is the star of the family.,8,10,1.25
+correct,Life is a fact.,4,5,1.25
+correct,life is a Dream.,4,5,1.25
+correct,life is not a bed of roses.,7,9,1.2857142857142858
+correct,Revenge is a kind of civilized justice.,7,10,1.4285714285714286
+correct,Childhood is the darkness of life.,6,9,1.5
+correct,Childhood is the dawn of life.,6,9,1.5
+correct,He is busy in inspiration these days.,7,8,1.1428571428571428
+correct,He is busy in idleness these days.,7,10,1.4285714285714286
+correct,It is an open book.,5,6,1.2
+correct,It is a hidden secret.,5,6,1.2
+correct,His anger is like a block of ice.,8,11,1.375
+correct,His anger is like the edge of a knife.,9,12,1.3333333333333333
+correct,The boy is thin as a stick.,7,9,1.2857142857142858
+correct,The boy is as round as a football.,8,9,1.125
+correct,Rohan's love is like sweet berries.,6,11,1.8333333333333333
+correct,Rohan's love is like a bitter brinjal.,7,12,1.7142857142857142
+correct,He is the rat of his group.,7,8,1.1428571428571428
+correct,He is the elephant of his group.,7,10,1.4285714285714286
+correct,He is as straight as a jalebi.,7,10,1.4285714285714286
+correct,Life is a village street.,5,6,1.2
+correct,Life is a national highway.,5,7,1.4
+correct,His eyes were of stone.,5,7,1.4
+correct,His eyes were of diamonds.,5,8,1.6
+correct,He is a falling star.,5,7,1.4
+correct,He is a shining star.,5,7,1.4
+correct,His skirt is like a black blanket.,7,9,1.2857142857142858
+correct,His eyes are like those of a bird.,8,10,1.25
+correct,His eyes are like eagles.,5,8,1.6
+correct,He is as docile as a goat.,7,10,1.4285714285714286
+correct,He roars like a lion.,5,8,1.6
+correct,His physique is like a mountain.,6,7,1.1666666666666667
+correct,Strong like a bull.,4,5,1.25
+correct,The man was behaving like boiled water.,7,12,1.7142857142857142
+correct,Precious as an angel.,4,6,1.5
+correct,Ramdin's face is like coal.,5,10,2.0
+correct,Ramdin's face is like a pearl.,6,12,2.0
+correct,His mind was as cold as sand.,7,8,1.1428571428571428
+correct,Virat is agile like a leopard.,6,9,1.5
+correct,Mahesh runs the shop like a fox.,7,10,1.4285714285714286
+correct,The expression on his face was like that of the moon.,11,13,1.1818181818181819
+correct,My wife is busy as a snail in the mornings.,10,13,1.3
+correct,My wife is as busy as a bee in the mornings.,11,14,1.2727272727272727
+correct,The maid has cleaned the hall with white sheets.,9,13,1.4444444444444444
+correct,The maid has cleaned the hall like a black sheet.,10,13,1.3
+correct,Your coat is like grass.,5,8,1.6
+correct,Your coat is like velvet.,5,8,1.6
+correct,Rakesh's mind is as sharp as a razor.,8,13,1.625
+correct,His voice is like a torn bamboo.,7,9,1.2857142857142858
+correct,"As soon as he got the job, his face became as white as light.",14,16,1.1428571428571428
+correct,His face turned ghostly white as soon as he got the job.,12,15,1.25
+correct,Hearty is as fresh as the rising moon.,8,12,1.5
+correct,He stood like a board while taking lectures.,8,10,1.25
+correct,"Hearing the news of posting, he started dancing like a peacock.",11,16,1.4545454545454546
+correct,The encouragement he gave was like a bulldozer.,8,12,1.5
+correct,The encouragement he gave was like a gust of wind.,10,12,1.2
+correct,A teenager is like a lamb.,6,8,1.3333333333333333
+correct,Kishore is like a wolf.,5,7,1.4
+correct,She looks bright like a fire!,6,7,1.1666666666666667
+correct,She shines bright like a diamond!,6,9,1.5
+correct,He is as strong as the boxer Bhima.,8,11,1.375
+correct,My life is like heaven.,5,6,1.2
+correct,My life is like hell.,5,6,1.2
+correct,The moneylender's heart is like the skin of a crocodile.,10,16,1.6
+correct,Getting Radha is as easy as plucking a guava.,9,13,1.4444444444444444
+correct,She is as happy as a woman who has just become a bride.,13,15,1.1538461538461537
+correct,She is as happy as a woman who has just become a widow.,13,15,1.1538461538461537
+correct,Raj is as straight as a snake.,7,9,1.2857142857142858
+correct,Raj is as straight as a pencil.,7,9,1.2857142857142858
+correct,The play is as deep as a well.,8,9,1.125
+correct,There is an abyss in the play.,7,10,1.4285714285714286
+correct,Gentle as an eagle is wise.,6,10,1.6666666666666667
+correct,The water of the river is as clear as mud.,10,11,1.1
+correct,The water of the river is as clear as crystal.,10,11,1.1
+correct,His voice is as soft as a sackcloth.,8,12,1.5
+correct,His voice is as soft as silk.,7,9,1.2857142857142858
+correct,There is strength like titanium in his words.,8,10,1.25
+correct,Their kiss is as passionate as the marriage of lovers.,10,15,1.5
+correct,Their kiss is as passionate as a loveless marriage.,9,14,1.5555555555555556
+correct,This winter is as cold as my mother-in-law is towards me.,11,16,1.4545454545454546
+correct,The dog was as angry as an old man.,9,11,1.2222222222222223
+correct,The journey was as long as a lifetime.,8,10,1.25
+correct,The journey was as long as the blink of an eye.,11,12,1.0909090909090908
+correct,He has the property of a king.,7,8,1.1428571428571428
+correct,He has the property of a beggar.,7,9,1.2857142857142858
+correct,The cool smell of the river bank is coming from it.,11,12,1.0909090909090908
+correct,"Due to this, there is a foul smell coming from the drain.",12,17,1.4166666666666667
+correct,Conversation is like a bank vault.,6,10,1.6666666666666667
+correct,Conversation is like a freebie coupon.,6,11,1.8333333333333333
+correct,Rohan made Sanjay's face look like a watermelon.,8,14,1.75
+correct,Rohan turned Sanjay's face like a griddle.,7,13,1.8571428571428572
+correct,More money is like a friend.,6,7,1.1666666666666667
+correct,Too much money is like an enemy.,7,10,1.4285714285714286
+correct,Conversation with him was like Ramayana.,6,10,1.6666666666666667
+correct,The last sea voyage turned out like butter.,8,9,1.125
+correct,The last sea voyage turned out to be a hilly road.,11,13,1.1818181818181819
+correct,The schoolboy helped like medicine.,5,7,1.4
+correct,The relationship between these two is like the cold ice of Kashmir.,12,14,1.1666666666666667
+correct,Traveling in the journey will be like walking in fire.,10,12,1.2
+correct,Traveling in the journey will be like walking in flowers.,10,12,1.2
+correct,For him making money was oxygen.,6,7,1.1666666666666667
+correct,For him earning money was a noose around his neck.,10,14,1.4
+correct,The speaker was speaking like a storm.,7,8,1.1428571428571428
+correct,Komal's cheeks lit up like fire.,6,11,1.8333333333333333
+correct,Komal's cheeks blossomed like roses.,5,13,2.6
+correct,That trip planner was a fraud.,6,8,1.3333333333333333
+correct,He was a trip planner wizard.,6,10,1.6666666666666667
+correct,The dancer danced like a butterfly.,6,10,1.6666666666666667
+correct,The dancer danced like an elephant.,6,11,1.8333333333333333
+correct,The burger tastes like mother's hands.,6,10,1.6666666666666667
+correct,The burger tastes like the hands of a washerman.,9,13,1.4444444444444444
+correct,There was a desire for life in the picture.,9,10,1.1111111111111112
+correct,There was a death wish in the picture.,8,9,1.125
+correct,The child was religious like a priest.,7,9,1.2857142857142858
+correct,The lady was as kind as a teacher.,8,9,1.125
+correct,The woman was as kind as a prisoner.,8,10,1.25
+correct,The test was as easy as making tea.,8,9,1.125
+correct,Players should be like diamonds.,5,9,1.8
+correct,Masterji teaches like sweet water.,5,8,1.6
+correct,Masterji teaches like bitter water.,5,8,1.6
+correct,The hotel bed was like cotton.,6,7,1.1666666666666667
+correct,The hotel bed was like a rag.,7,8,1.1428571428571428
+correct,Life flows like the waters of a calm lake.,9,12,1.3333333333333333
+correct,The actors of the drama were like mice playing cat.,10,13,1.3
+correct,It was as if the actors of the drama were weaving a dream.,13,17,1.3076923076923077
+correct,The girl's personality was as sweet as Gulab Jamun,9,14,1.5555555555555556
+correct,The film had the teachings of the Guru.,8,10,1.25
+correct,The film had the teachings of the devil.,8,11,1.375
+correct,The sound of the flute was as smooth as silk.,10,13,1.3
+correct,The intoxication made him feel death.,6,9,1.5
+correct,The intoxication made him feel alive.,6,10,1.6666666666666667
+correct,His heart was as big as a football field.,9,10,1.1111111111111112
+correct,Was sent from the horse at his feet.,8,9,1.125
+correct,He was as quick as a donkey.,7,9,1.2857142857142858
+correct,The street light was brighter than the sun.,8,10,1.25
+correct,The street light was brighter than a candle.,8,11,1.375
+correct,There was a place like a man's purse in the hotel.,11,15,1.3636363636363635
+correct,The sound of breaking glass bottles in the room was like an atomic bomb.,14,17,1.2142857142857142
+correct,The doctor has asked to eat dinner like a rat.,10,11,1.1
+correct,The armor was as hard as iron.,7,10,1.4285714285714286
+correct,He takes care of his toys like a wild lion.,10,13,1.3
+correct,He takes care of his toy like a pet dog.,10,11,1.1
+correct,The lawyer talked about the settlement like bargaining with a woman's shopkeeper.,12,20,1.6666666666666667
+correct,The glass jug broke and scattered like a spider's web.,10,18,1.8
+correct,The glass jug broke and shattered like a half moon.,10,15,1.5
+correct,The new building of the city was like the peak of Everest.,12,14,1.1666666666666667
+correct,The new building of the city was like a bird's nest.,11,15,1.3636363636363635
+correct,Roshan had the qualities of a deity.,7,11,1.5714285714285714
+correct,Roshan had the characteristics of a demon.,7,11,1.5714285714285714
+correct,Rishabh was clever like a fox.,6,11,1.8333333333333333
+correct,Rishabh was clever like a goat.,6,11,1.8333333333333333
+correct,There is humor like a cremation ground in that film.,10,12,1.2
+correct,There is humor like a zoo in that movie.,9,10,1.1111111111111112
+correct,That man is as stubborn as a mule.,8,12,1.5
+correct,"Seeing his friends silent like a silent movie, he understood that something was wrong.",14,17,1.2142857142857142
+correct,This shawl is as light as a sack.,8,11,1.375
+correct,"You can count on him, he's straight as an arrow.",10,15,1.5
+correct,She ran like a tortoise in the race.,8,10,1.25
+correct,She ran like lightning in the race.,7,9,1.2857142857142858
+correct,He looks like a fish out of water.,8,9,1.125
+correct,This carpet was as soft as the skin of a crocodile.,11,14,1.2727272727272727
+correct,The carpet was as soft as the skin of a rabbit.,11,13,1.1818181818181819
+correct,Swimming can be learned like a village trail.,8,10,1.25
+correct,The dirt of his mind came out like sugar through a sieve.,12,15,1.25
+correct,It cuts like leather.,4,7,1.75
+correct,It cuts like butter.,4,6,1.5
+correct,The shark's teeth were like spoons.,6,12,2.0
+correct,Shark teeth were like razors.,5,9,1.8
+correct,The police inspector was as gentle as a wolf.,9,12,1.3333333333333333
+correct,The questions of the news reporter were as fast as a rickshaw.,12,16,1.3333333333333333
+correct,The questions of the news reporter were as sharp as a whip.,12,14,1.1666666666666667
+correct,The bank manager is sleeping like a dog.,8,9,1.125
+correct,The moneylender's heart is like an ant in spending money.,10,14,1.4
+correct,His wife now stings Rahim like an old boot.,9,11,1.2222222222222223
+correct,Raju is as good as iron.,6,9,1.5
+correct,Raju is good as gold.,5,7,1.4
+correct,Her thinking is like that of an old woman.,9,10,1.1111111111111112
+correct,The car is as clear as tap water.,8,9,1.125
+correct,Painting is like watching a romantic movie.,7,9,1.2857142857142858
+correct,Looks like Sharma ji is as busy as the Prime Minister.,11,13,1.1818181818181819
+correct,Shankar is driving the car like Rajdhani.,7,9,1.2857142857142858
+correct,Savita is looking like a ball of fire in this movie.,11,13,1.1818181818181819
+correct,Savita is looking like a snow ball in this movie.,10,12,1.2
+correct,Sheela comes to school with green chillies in her mouth.,10,13,1.3
+correct,Sheela comes to school with curd in her mouth.,9,12,1.3333333333333333
+correct,"Seeing the officer, Shamlal hides in the hole like a rat.",11,16,1.4545454545454546
+correct,They buzz like a bee on seeing a female officer.,10,13,1.3
+correct,Studying is like eating cake.,5,7,1.4
+correct,Studying is like climbing a mountain.,6,9,1.5
+correct,The box is as light as a large tree.,9,10,1.1111111111111112
+correct,The box is as light as a dry leaf.,9,11,1.2222222222222223
+correct,His speech is like a pearl.,6,9,1.5
+correct,His speech is like a snake.,6,8,1.3333333333333333
+correct,Riding a bicycle is as easy as fighting an elephant.,10,15,1.5
+correct,Cycling is as simple as ABC's.,6,11,1.8333333333333333
+correct,He keeps his room as clean as a bird.,9,12,1.3333333333333333
+correct,He keeps his room as clean as a pig.,9,11,1.2222222222222223
+correct,"Seeing the result of the examination, he became a singer like Himesh.",12,18,1.5
+correct,"Seeing the result of the examination, he became silent like a grave.",12,16,1.3333333333333333
+correct,The floor was like a bear skin.,7,8,1.1428571428571428
+correct,The fabric was soft to the old man's hands.,9,12,1.3333333333333333
+correct,The fabric was soft to the baby's hands.,8,11,1.375
+correct,The atmosphere of the school was as calm as a garden.,11,12,1.0909090909090908
+correct,We are standing on a solid ground like an earthen pot.,11,13,1.1818181818181819
+correct,We stand on ground as solid as diamonds.,8,11,1.375
+correct,The juice is sour like vinegar.,6,9,1.5
+correct,Teacher's cane is as hard as a board.,8,12,1.5
+correct,His shot goes as far as a gun.,8,9,1.125
+correct,His shot goes as far as a slingshot.,8,11,1.375
+correct,The wind was as soft as a butterfly.,8,10,1.25
+correct,She started dancing like a peacock.,6,9,1.5
+correct,His colored sheet got stained.,5,8,1.6
+correct,His white sheet got stained.,5,7,1.4
+correct,Your hands are as cold as the arctic.,8,10,1.25
+correct,His mind is like a rural bank.,7,8,1.1428571428571428
+correct,His mind is like a world bank.,7,8,1.1428571428571428
+correct,Asha ji's singing is worth a penny.,7,12,1.7142857142857142
+correct,His eyes are as sharp as those of a bird.,10,12,1.2
+correct,His eyes are sharp like an eagle.,7,9,1.2857142857142858
+correct,It was moist like the morning dew.,7,10,1.4285714285714286
+correct,He was lost like a sheep.,6,8,1.3333333333333333
+correct,He has worked hard like a thief to build his house.,11,13,1.1818181818181819
+correct,Rashi used to treat her friend like a rose.,9,11,1.2222222222222223
+correct,Rashi used to behave like a cactus with her friend.,10,14,1.4
+correct,"Seeing the lollipop, Rohan wags his tail like a lion.",10,19,1.9
+correct,The children were as happy as a mouse to get fresh soil in the playground.,15,18,1.2
+correct,The thief was looking like a clown in his dress.,10,13,1.3
+correct,She was looking like Sambhar.,5,7,1.4
+correct,She was looking like Rasmalai.,5,7,1.4
+correct,She was looking like the moon.,6,8,1.3333333333333333
+correct,She was looking like a griddle.,6,9,1.5
+correct,His teeth were as white as pearls.,7,11,1.5714285714285714
+correct,She moved forward with the gait of a lion.,9,12,1.3333333333333333
+correct,She broke like leaves from a tree in a windstorm.,10,14,1.4
+correct,Rakesh is innocent like a lamb.,6,9,1.5
+correct,Mother's heart is as hard as nails.,7,11,1.5714285714285714
+correct,His shop was shining like new iron.,7,10,1.4285714285714286
+correct,Kishore's voice is as sweet as sugar.,7,10,1.4285714285714286
+correct,Looks like a pond,4,6,1.5
+correct,Looks like mud,3,4,1.3333333333333333
+correct,His neck is as long as a giraffe.,8,11,1.375
+correct,Homework is as light as paper.,6,8,1.3333333333333333
+correct,Shankar is as cute as a baby bat.,8,9,1.125
+correct,Shankar is as cute as a kitten.,7,9,1.2857142857142858
+correct,Doctor is as precious as sandalwood.,6,9,1.5
+correct,Rahul wants to be Abdul Kalam.,6,7,1.1666666666666667
+correct,His tongue is as black as a pearl.,8,12,1.5
+correct,His tongue is as black as coal.,7,10,1.4285714285714286
+correct,Rohan is as helpless as an old man.,8,11,1.375
+correct,"For business, the shorter the day, the better.",8,12,1.5
+correct,"The longer the day, the better it is for business.",10,12,1.2
+correct,Ramu became red like coals in anger.,7,11,1.5714285714285714
+correct,The beggar was hungry like a bear.,7,10,1.4285714285714286
+correct,His soul was as cheap as pearls.,7,10,1.4285714285714286
+correct,His soul was as cheap as dirt.,7,9,1.2857142857142858
+correct,His mind is as clear as the water of a river.,11,12,1.0909090909090908
+correct,His mind is as clear as the water of a drain.,11,13,1.1818181818181819
+correct,He sleeps like a thief.,5,8,1.6
+correct,The engineer was like an apple.,6,7,1.1666666666666667
+correct,The engineer was like a nut.,6,7,1.1666666666666667
+correct,He goes everywhere like garbage.,5,8,1.6
+correct,It merges everywhere like flowing water.,6,9,1.5
+correct,Cool as a cucumber.,4,7,1.75
+correct,He is cool as pepper.,5,6,1.2
+correct,He is as blind as Dhritrashta.,6,10,1.6666666666666667
+correct,The nurse kept burning like an iron rod.,8,11,1.375
+correct,The nurse kept burning like the iron of a lamp.,10,13,1.3
+correct,His scolding works like a charm.,6,9,1.5
+correct,His smile works like a charm.,6,7,1.1666666666666667
+correct,This house is as old as a diamond.,8,10,1.25
+correct,Its image is beautiful like a picture.,7,9,1.2857142857142858
+correct,He is in pain like being hit by the devil.,10,12,1.2
+correct,Its vision is as sharp as that of Arjuna.,9,12,1.3333333333333333
+correct,They are fighting like women.,5,6,1.2
+correct,The army fought like jackals in the battle.,8,12,1.5
+correct,The army fought like lions in the battle.,8,12,1.5
+correct,Sneha was looking just like a cabbage leaf.,8,13,1.625
+correct,Sneha was looking just like a rose petal.,8,11,1.375
+correct,Mahesh is as dull as a doorknob in his work.,10,15,1.5
+correct,Rahul is the lamp of his house.,7,8,1.1428571428571428
+correct,Vidya shines like the sun in studies.,7,10,1.4285714285714286
+correct,Scientists are as smart as a whip.,7,11,1.5714285714285714
+correct,The football coach is crazy like a bomb.,8,9,1.125
+correct,Grandpa talks like an old fort.,6,9,1.5
+correct,The workers work at the speed of a rocket.,9,11,1.2222222222222223
+correct,Truth was sweet on his tongue.,6,8,1.3333333333333333
+correct,"After the attack, all the people of the village became like foxes.",12,15,1.25
+correct,Shankar talks to his customers like they are his boss.,10,12,1.2
+correct,Shankar talks to his clients as if they are tax officials.,11,14,1.2727272727272727
+correct,The magician's spell was like a balloon without gas.,9,14,1.5555555555555556
+correct,My mother's kitchen is like a battlefield.,7,11,1.5714285714285714
+correct,My mother's kitchen is like a worship house.,8,11,1.375
+correct,The bottle rolled off the table like an earthquake.,9,13,1.4444444444444444
+correct,The bottle rolled off the table like a drop of tears.,11,14,1.2727272727272727
+correct,Shaking hands with that stranger felt like a warm blanket.,10,14,1.4
+correct,Shaking hands with that stranger felt like hot sand.,9,12,1.3333333333333333
+correct,He spoke like the rising sun.,6,8,1.3333333333333333
+correct,He spoke like a withered flower.,6,10,1.6666666666666667
+correct,Arguing with him is like playing football.,7,10,1.4285714285714286
+correct,The classroom was as quiet as a boxing ring.,9,11,1.2222222222222223
+correct,The classroom was as quiet as a library.,8,10,1.25
+correct,Sukumar praises his wife like a master of history praises the Taj Mahal.,13,17,1.3076923076923077
+correct,The clouds were like ghost castles in the sky.,9,13,1.4444444444444444
+correct,The clouds were like ice cream castles in the sky.,10,14,1.4
+correct,"With the gusts of the storm, the roof of the hut stood firm like a player full of confidence.",19,23,1.2105263157894737
+correct,The roof of the hut started trembling like scared children due to the gusts of the wind.,17,22,1.2941176470588236
+correct,"When he reached the top of the hill, he felt as strong as an iron gate.",16,19,1.1875
+correct,"When the branch of the tree broke, Amit fell like a peacock's feather.",13,22,1.6923076923076923
+correct,"When the branch of the tree broke, Amit fell like a sack of wet sand.",15,20,1.3333333333333333
+correct,Those children ran like a farmer's plough.,7,11,1.5714285714285714
+correct,Shikha talked like a player for promotion.,7,10,1.4285714285714286
+correct,Shikha talked like a beggar for promotion.,7,11,1.5714285714285714
+correct,Every single person was like a magic wand in this project.,11,13,1.1818181818181819
+correct,He held my hand like a warm blanket.,8,10,1.25
+correct,He held my hand like a winter blanket.,8,10,1.25
+correct,The sculptor's hands were flailing like a drowning man.,9,17,1.8888888888888888
+correct,The hands of the sculptor were fluttering like the wings of birds.,12,17,1.4166666666666667
+correct,I am as wonderful as a flying ship.,8,10,1.25
+correct,His words had the force of a blacksmith's hammer.,9,14,1.5555555555555556
+correct,There is a policeman's magic in his voice.,8,12,1.5
+correct,He acts like pond water.,5,8,1.6
+correct,He acts like a stream of a river.,8,10,1.25
+correct,Blood started coming out of the wound like a fountain.,10,14,1.4
+correct,Rohan walks to school like it's a picnic spot.,9,15,1.6666666666666667
+correct,Rohan walks into school like it's a minefield.,8,14,1.75
+correct,He looked at me like I was singing the national anthem.,11,14,1.2727272727272727
+correct,He looked at me as if I was giving orders for battle.,12,14,1.1666666666666667
+correct,The city square was buzzing like a rose garden.,9,12,1.3333333333333333
+correct,The town square was buzzing like a beehive.,8,13,1.625
+correct,Sham took care of her work like a mother takes care of her child.,14,15,1.0714285714285714
+correct,Sohan wrote in the exam as if someone had made ants go away.,13,16,1.2307692307692308
+correct,Today Rajesh is as fat as baby mice.,8,11,1.375
+correct,His thinking has the teachings of the saints.,8,11,1.375
+correct,The music looks like a dangal fight.,7,9,1.2857142857142858
+correct,Music seems to have the effect of a doctor's medicine.,10,13,1.3
+correct,Your fashion is like the smile of a new bride.,10,12,1.2
+correct,Your fashion is as sad as an old building.,9,10,1.1111111111111112
+correct,I am flying like a kite.,6,8,1.3333333333333333
+correct,The flowers were as tender as a divorced couple.,9,11,1.2222222222222223
+correct,The flowers were as tender as a newly married couple.,10,12,1.2
+correct,Your smile looks like the stars.,6,8,1.3333333333333333
+correct,"Seeing him, my heart becomes like an executioner.",8,14,1.75
+correct,"Seeing him, my heart becomes like a child.",8,12,1.5
+correct,Radheshyam mixed like salt in tea in our family.,9,13,1.4444444444444444
+correct,His words were as cold as pieces of colored glass.,10,12,1.2
+correct,This child is the apple of my eye.,8,9,1.125
+correct,This child is a thorn in my eye.,8,10,1.25
+correct,His child's cry was as sweet as butterflies.,8,13,1.625
+correct,His child's cry was as sweet as black flies.,9,13,1.4444444444444444
+correct,walls have ears .,4,7,1.75
+correct,I am exhausted from walking four kilometers in the May sun.,11,14,1.2727272727272727
+correct,I am full of enthusiasm because of walking four kilometers in the May sun.,14,19,1.3571428571428572
+correct,Embers of fire seem to be raining in the afternoon of June.,12,15,1.25
+correct,Fountains of water seem to rain in the afternoon of June.,11,14,1.2727272727272727
+correct,"On the battlefield, our soldiers won by stepping on flowers.",10,15,1.5
+correct,Don't put paper on your head in vain by quarreling with him.,12,17,1.4166666666666667
+correct,"When asked to return the loan, he cheated.",8,11,1.375
+correct,Kausalya's every part did not swell after listening to Ram's consecration.,11,20,1.8181818181818181
+correct,Kausalya's every limb started drying up after listening to Ram's consecration.,11,21,1.9090909090909092
+correct,"Among the Navratnas of Akbar, Birbal was like a jewel in a ring.",13,20,1.5384615384615385
+correct,"Among the Navratnas of Akbar, Birbal was like a pebble on the way.",13,20,1.5384615384615385
+correct,"Why did Lokendra get the job of a clerk, as if the hands of the blind got electrocuted.",18,24,1.3333333333333333
+correct,Duryodhana used to go to graze in the school.,9,13,1.4444444444444444
+correct,Duryodhana used to go to school.,6,9,1.5
+correct,"You yourself go after your intellect with a stick, how can we help you?",14,18,1.2857142857142858
+correct,The government is watching black marketing with closed eyes.,9,10,1.1111111111111112
+correct,The government is watching black marketing with open eyes.,9,10,1.1111111111111112
+correct,Ramesh is the son of his parents.,7,9,1.2857142857142858
+correct,"By throwing dust in Ram's eyes, someone gave him a fake note.",12,18,1.5
+correct,Your language is as clear as pearls.,7,10,1.4285714285714286
+correct,Your language is as clear as a drain.,8,10,1.25
+correct,Mohan was talking like a parrot.,6,8,1.3333333333333333
+correct,Roshan broke down after seeing the result of his examination.,10,14,1.4
+correct,Roshan was overjoyed to see the result of his examination.,10,15,1.5
+correct,Pradeep sat like a snake on Ramlal's house.,8,14,1.75
+correct,"Since becoming a teacher, you have become the sun of the day.",12,14,1.1666666666666667
+correct,Ramesh keeps his wife on his fingers.,7,11,1.5714285714285714
+correct,Ramesh keeps his wife on his eyes.,7,10,1.4285714285714286
+correct,"So that even God turns away, how can anyone help him?",11,14,1.2727272727272727
+correct,How can anyone help someone with whom even God can have heart.,12,13,1.0833333333333333
+correct,Giving two rotis to Mohan is like giving cumin in the mouth of a camel.,15,20,1.3333333333333333
+correct,People garlanded the minister on his victory.,7,11,1.5714285714285714
+correct,The true ruler is the one who sees everyone as gold.,11,14,1.2727272727272727
+correct,The true ruler is the one who sees everyone as a stone.,12,16,1.3333333333333333
+correct,Books are like temples for me.,6,8,1.3333333333333333
+correct,Mithali is as agile as the morning.,7,10,1.4285714285714286
+correct,Chauri in Gupta ji's car is like getting wet flour in a pauper.,13,18,1.3846153846153846
+correct,The shop is running horse.,5,6,1.2
+correct,The shop is running at a snail's pace.,8,12,1.5
+correct,The lamp shone like the rising sun.,7,10,1.4285714285714286
+correct,Mohan and Ramesh have a dog-cat love.,7,11,1.5714285714285714
+correct,Mohan and Ramesh's love is like Ram-Sham.,7,14,2.0
+correct,"Meeting Rachna, my heart has become light like air.",9,12,1.3333333333333333
+correct,Radha's tears started flowing from the leaves of the flowers.,10,17,1.7
+correct,Radha's tears started flowing from the mountains.,7,14,2.0
+correct,The evening hat is the symbol of his being the king.,11,12,1.0909090909090908
+correct,The evening cap is symbolic of his being a beggar.,10,13,1.3
+correct,You are famous for the rotten fruits of that tree.,10,12,1.2
+correct,They had settled in the cities like wild grass.,9,12,1.3333333333333333
+correct,Like father had sent snakes in the letter.,8,10,1.25
+correct,I want to fly like a bird,7,8,1.1428571428571428
+correct,The hearts of your people are as vast as the ocean.,11,13,1.1818181818181819
+correct,The heart of your people is as big as a pot.,11,12,1.0909090909090908
+correct,Bullets are being fired everywhere in the world.,8,11,1.375
+correct,Songs are playing like everywhere in the world.,8,9,1.125
+correct,Kali danced as if possessed by a demon.,8,11,1.375
+correct,Kali danced as if Govinda had come inside her.,9,13,1.4444444444444444
+correct,She was as thirsty as a fish in the desert.,10,13,1.3
+correct,The ornaments around her neck seemed to have been brought from a princely state.,14,18,1.2857142857142858
+correct,I knew this city like the rooms in my house.,10,11,1.1
+correct,He was a trader of nights.,6,8,1.3333333333333333
+correct,It is bitter like poison.,5,7,1.4
+correct,This answer is as clear as mud.,7,8,1.1428571428571428
+correct,This answer is as clear as a lake.,8,9,1.125
+correct,Grandfather's memory has become like a sieve.,7,13,1.8571428571428572
+correct,Grandfather's memory has become like a wallet.,7,13,1.8571428571428572
+correct,The rat is stuck like glue.,6,8,1.3333333333333333
+correct,Education is like a fruitful tree.,6,8,1.3333333333333333
+correct,Roshni was as fickle as an elephant.,7,12,1.7142857142857142
+correct,Sharma ji talks like a flower.,6,9,1.5
+correct,My house is like a bird's egg.,7,11,1.5714285714285714
+correct,The journey of life is like a ball.,8,9,1.125
+correct,The journey of life is like the universe.,8,10,1.25
+correct,Your mind is as clear as glass.,7,8,1.1428571428571428
+correct,Your thoughts are as clear as ashes.,7,9,1.2857142857142858
+correct,Motilal's childhood is like a rain of flowers.,8,14,1.75
+correct,Motilal's childhood was like a raging storm.,7,14,2.0
+correct,It is as strong as a paper boat.,8,9,1.125
+correct,It is as strong as a huge ship.,8,9,1.125
+correct,Knowledgeable like books.,3,5,1.6666666666666667
+correct,Calm mind like a monk.,5,8,1.6
+correct,Calm mind like a robber.,5,8,1.6
+correct,It is as fast as a car.,7,8,1.1428571428571428
+correct,Shamlal's cow used to give milk like the moon.,9,15,1.6666666666666667
+correct,His reading is like the eyes of Sardas.,8,10,1.25
+correct,In that group is the sweetness of Rasgulla.,8,12,1.5
+correct,They fight like animals.,4,5,1.25
+correct,His calculations are like arrows in the air.,8,12,1.5
+correct,He is staring at that girl like a hunter.,9,12,1.3333333333333333
+correct,Irrigated the fields with his blood.,6,10,1.6666666666666667
+correct,"In the examination, he forgot as if sand had slipped from his hand.",13,18,1.3846153846153846
+correct,His anger is like a volcano.,6,9,1.5
+correct,His anger is like a cold drink.,7,9,1.2857142857142858
+correct,He has become a clown due to head injury.,9,11,1.2222222222222223
+correct,His friends toss him like a ball in the air.,10,13,1.3
+correct,His friends make him sit on the chair.,8,9,1.125
+correct,I want to become a pilot.,6,7,1.1666666666666667
+correct,That house is as expensive as gold and silver.,9,10,1.1111111111111112
+correct,That house is as expensive as lentils and bread.,9,11,1.2222222222222223
+correct,Shambhu's stomach is like a rat donation.,7,11,1.5714285714285714
+correct,It fell like dusk.,4,6,1.5
+correct,His TV was like a cricket ball in a football ground.,11,13,1.1818181818181819
+correct,Rohit is like Mogambo.,4,7,1.75
+correct,Rohit is like Shaktimaan.,4,8,2.0
+correct,There was sadness on his face.,6,8,1.3333333333333333
+correct,My wife looked like a radish.,6,8,1.3333333333333333
+correct,The servant had brought salt in the tea.,8,9,1.125
+correct,It was as if the servant had put honey in the tea.,12,13,1.0833333333333333
+correct,The buttons of the coat looked like grains of rice.,10,14,1.4
+correct,Mahender's mind was as sharp as Chacha Chaudhary's.,8,17,2.125
+correct,Raju's voice is like a magic wand.,7,12,1.7142857142857142
+correct,Raju's voice is like straw of a broom.,8,14,1.75
+correct,Neha showed speed like an eagle.,6,9,1.5
+correct,He stood on the stage like a radio.,8,9,1.125
+correct,Ram hit his hand like a hammer in the evening.,10,12,1.2
+correct,Ram hit his hand like a pakora in the evening.,10,12,1.2
+correct,He gave Ram's arrow to Disha.,6,11,1.8333333333333333
+correct,Ramlal's laddoos are like sugar candy balls.,7,16,2.2857142857142856
+correct,Ramlal's laddoos are like chili balls.,6,14,2.3333333333333335
+correct,The gardener planted lotus flowers.,5,9,1.8
+correct,Ramesh's mind is as fast as a computer.,8,12,1.5
+correct,Raj's mind is as sharp as garbage.,7,12,1.7142857142857142
+correct,The bankers demanded tax like a mountain.,7,10,1.4285714285714286
+correct,Don't talk like Delhi's cold.,5,10,2.0
+correct,It's as hard as a banana chip.,7,10,1.4285714285714286
+correct,He is as hard as an iron rod.,8,10,1.25
+correct,They have love like a laughing couple.,7,9,1.2857142857142858
+correct,Hero in the film looked like Superman.,7,8,1.1428571428571428
+correct,His actions are like monkeys.,5,8,1.6
+correct,His actions are like those of saints.,7,9,1.2857142857142858
+correct,Tina and Ravi's love is like the first rain.,9,12,1.3333333333333333
+correct,Sangeeta's heart has become like a desert.,7,12,1.7142857142857142
+correct,Sangeeta's heart has become like Manali.,6,12,2.0
+correct,Dark clouds are hovering over his family.,7,11,1.5714285714285714
+correct,She blossomed like a bud as soon as she went to college.,12,15,1.25
+correct,The lion was howling like a bilji.,7,11,1.5714285714285714
+correct,The lion was flowing like water.,6,9,1.5
+correct,This journey looks like drops of decoction.,7,11,1.5714285714285714
+correct,His dreams became of autumn leaves.,6,11,1.8333333333333333
+correct,The smell of spring is coming from this shop.,9,10,1.1111111111111112
+correct,The smell of burning corpse is coming from this shopkeeper.,10,14,1.4
+correct,There is blood on him.,5,6,1.2
+correct,Amrit is riding on it.,5,8,1.6
+correct,"With patience, he is building a beautiful house.",8,10,1.25
+correct,Shankar talks as if he is God.,7,9,1.2857142857142858
+correct,Shankar talks as if he is a devil.,8,11,1.375
+correct,"Don't eat my vegetable, go from here.",7,12,1.7142857142857142
+correct,Shaukat was the necklace around Harish's neck.,7,15,2.142857142857143
+correct,Shaukat was a noose around Harish's neck.,7,14,2.0
+correct,"What happened happened, now what is the use of digging up the dead?",13,16,1.2307692307692308
+correct,"What happened happened, now what is the use of uprooting trees?",11,16,1.4545454545454546
+correct,Munshi made all the accounts of Seth a football-like mess.,10,17,1.7
+correct,The scribe straightened the scale of all Seth's accounts.,9,17,1.8888888888888888
+correct,Money is dirt on the hands.,6,8,1.3333333333333333
+correct,Money is the line of the hand.,7,8,1.1428571428571428
+correct,He explained like a teacher.,5,6,1.2
+correct,Shantiprasad works like a diamond.,5,10,2.0
+correct,"At his wedding, the baraati came from a herd of elephants.",11,17,1.5454545454545454
+correct,There was halwa-like joy in the fair.,7,11,1.5714285714285714
+correct,Parantha is like a pizza.,5,7,1.4
+correct,Parantha is like dal.,4,6,1.5
+correct,There was honey-like joy in his picture.,7,10,1.4285714285714286
+correct,The children performed like a waterfall.,6,9,1.5
+correct,The children acted like animals.,5,7,1.4
+correct,Radhika is the school angel.,5,8,1.6
+correct,That question was like climbing the Himalayas.,7,10,1.4285714285714286
+correct,That man sheds money like water.,6,8,1.3333333333333333
+correct,That man flows money like Ganges water.,7,10,1.4285714285714286
+correct,Aditi lights ghee lamps after winning the race.,8,14,1.75
+correct,Hotel food was like chocolate.,5,6,1.2
+correct,He did the work of fishing in the sea.,9,11,1.2222222222222223
+correct,He acted like catching a bird in a pond.,9,14,1.5555555555555556
+correct,Rajesh made the country famous by winning.,7,10,1.4285714285714286
+correct,The girl's legs were like wood.,6,10,1.6666666666666667
+correct,The legs of the girl were like elephants.,8,12,1.5
+correct,He has more power than Rod.,6,7,1.1666666666666667
+correct,"In the era of Shri Krishna, rivers of ghee and milk used to flow in our country.",17,21,1.2352941176470589
+correct,Panditji's son is like darkness under a lamp.,8,14,1.75
+correct,Panditji's son is like morning under a lamp.,8,13,1.625
+correct,His hands are very rough.,5,6,1.2
+correct,Sanju gave up punches so quickly in wrestling.,8,13,1.625
+correct,You are from an earthen pot.,6,8,1.3333333333333333
+correct,You are from the steel pot.,6,7,1.1666666666666667
+correct,The patient gave sweets to the doctor.,7,9,1.2857142857142858
+correct,The patient beat up the doctor.,6,7,1.1666666666666667
+correct,There was a library-like silence in the room.,8,12,1.5
+correct,She is as cute as a pig.,7,8,1.1428571428571428
+correct,Radha is the dust on the forehead of the evening.,10,15,1.5
+correct,Find his toys with the lamp.,6,8,1.3333333333333333
+correct,The judge sentenced the thief to the water of the river.,11,14,1.2727272727272727
+correct,Clear mind like water.,4,5,1.25
+correct,He is as generous as Lakshmi.,6,8,1.3333333333333333
+correct,He is as generous as a beggar.,7,10,1.4285714285714286
+correct,Mohit made the enemy chew iron gram.,7,13,1.8571428571428572
+correct,His smile is like a devil.,6,8,1.3333333333333333
+correct,His smile is like a joker.,6,8,1.3333333333333333
+correct,Great players like Kapil Dev.,5,7,1.4
+correct,His sister is as dear to him as his country.,10,12,1.2
+correct,His sister is dear to him like his enemy.,9,13,1.4444444444444444
+correct,His bag is as heavy as a stone.,8,10,1.25
+correct,He caught the catch like an eagle.,7,9,1.2857142857142858
+correct,His artwork was like a temple idol.,7,9,1.2857142857142858
+correct,His artwork was as if the roads were broken.,9,12,1.3333333333333333
+correct,She sings like Saraswati.,4,8,2.0
+correct,She sings like a torn drum.,6,8,1.3333333333333333
+correct,His salary is like a silver spoon.,7,10,1.4285714285714286
+correct,His shop is as long as a knicker.,8,11,1.375
+correct,"For Ashwini, competition is as sweet as guava.",8,12,1.5
+correct,"In business, the combination of these two is like a marriage.",11,13,1.1818181818181819
+correct,The combination of these two in business is like a divorce.,11,12,1.0909090909090908
+correct,Life is like chocolate.,4,5,1.25
+correct,Shivaji's daggers were of iron.,5,11,2.2
+correct,Shivaji's daggers were made of wood.,6,11,1.8333333333333333
+correct,This office is as clean as the courtyard of the house.,11,13,1.1818181818181819
+correct,Raman is a devotee like Hanuman.,6,11,1.8333333333333333
+correct,He is as big as a whale.,7,9,1.2857142857142858
+correct,The police inspector was as gentle as a wolf.,9,12,1.3333333333333333
+correct,Small children are gentler than rose petals.,7,10,1.4285714285714286
+correct,There is not even that much money in the bank.,10,11,1.1
+correct,"In Rajneesh's house, the music plays like a discotheque.",9,18,2.0
+correct,The government imposed tax as if it was a poor man's house.,12,16,1.3333333333333333
+correct,The painter made the whole house shine like a palace.,10,13,1.3
+correct,The painter made the whole house shine like a hut.,10,13,1.3
+correct,Rehan went around the whole city in a taxi.,9,11,1.2222222222222223
+correct,He plays like an old man.,6,8,1.3333333333333333
+correct,The horn of the truck is ringing like a torn bamboo.,11,15,1.3636363636363635
+correct,Truck horn blaring like a radio.,6,9,1.5
+correct,My friend is as sweet as a father's love.,9,12,1.3333333333333333
+correct,Today turned out to be a Sunday.,7,8,1.1428571428571428
+correct,Today turned out to be a Monday.,7,8,1.1428571428571428
+correct,You are talking like you are on an aeroplane.,9,12,1.3333333333333333
+correct,The sound of the veena was ringing in his ear.,10,13,1.3
+correct,Kamla slept like a horse seller in the office.,9,13,1.4444444444444444
+correct,Horns grew on Kashi's head.,5,11,2.2
+correct,Ajay spread like a sofa in the house.,8,10,1.25
+correct,"To learn music, he chewed iron gram.",7,11,1.5714285714285714
+correct,The servant's daughter came first.,5,8,1.6
+correct,The principal's daughter came first.,5,8,1.6
+correct,He is as thin as a novel.,7,9,1.2857142857142858
+correct,His arms are as strong as those of a rhinoceros.,10,14,1.4
+correct,His voice is like Ambitabh Bachchan.,6,10,1.6666666666666667
+correct,He was talking like some comic poetry convention.,8,10,1.25
+correct,He was as famous as the potato.,7,9,1.2857142857142858
+correct,Sharmila was feeding the dogs like a jailer.,8,13,1.625
+correct,The singer was singing like a ring master.,8,11,1.375
+correct,The singer was singing like an angel from heaven.,9,12,1.3333333333333333
+correct,His heart broke like a paper boat.,7,9,1.2857142857142858
+correct,It smelled like a garden.,5,7,1.4
+correct,He guided his friend like Krishna.,6,8,1.3333333333333333
+correct,His dreams were to live in the sky.,8,10,1.25
+correct,His dreams were to live on earth.,7,9,1.2857142857142858
+correct,Kusum had to exert a lot of effort to open the door.,12,15,1.25
+correct,He came out like a lion.,6,8,1.3333333333333333
+correct,He came out like a giddar.,6,8,1.3333333333333333
+correct,His hair didn't turn white just like that.,8,11,1.375
+correct,His kinship is as strong as iron.,7,10,1.4285714285714286
+correct,Lata Mangeshkar's pain in her voice.,6,9,1.5
+correct,Ritesh's plan is like building an air fort.,8,12,1.5
+correct,Ritesh's plan is like building a house.,7,11,1.5714285714285714
+correct,Shamsher's house was always open like Guru's langar.,8,15,1.875
+correct,Shamsher's house was always open like a bank vault.,9,14,1.5555555555555556
+correct,His sister is the headmaster of the school.,8,10,1.25
+correct,His sister is a school peon.,6,8,1.3333333333333333
+correct,He also sucks the fly that has fallen in the tea.,11,13,1.1818181818181819
+correct,Mehak took the form of Radha.,6,9,1.5
+correct,Gangu fought for the ring.,5,8,1.6
+correct,Sanjeev had the enthusiasm of a wrestler.,7,15,2.142857142857143
+correct,He entered his house like a thief.,7,10,1.4285714285714286
+correct,He entered his house like an emperor.,7,11,1.5714285714285714
+correct,She is crying in loneliness.,5,10,2.0
+correct,His mind is working like a toilet.,7,8,1.1428571428571428
+correct,His mind is working like Ambani.,6,8,1.3333333333333333
+correct,Raunak supports Sach.,3,6,2.0
+correct,Raunak supports the lie.,4,7,1.75
+correct,Everyone understands it like a bell.,6,8,1.3333333333333333
+correct,Everyone thinks of him as an inspector.,7,9,1.2857142857142858
+correct,Father's scolding is like ice.,5,11,2.2
+correct,Father's scolding is like fire.,5,10,2.0
+correct,The landlord was as fat as a bear.,8,11,1.375
+correct,His arrival was like a sip of tea.,8,11,1.375
+correct,It feels like syrup.,4,7,1.75
+correct,Its feel like cow dung.,5,8,1.6
+correct,That palace is as big as the capital of India.,10,12,1.2
+correct,Your company makes fake medicines.,5,7,1.4
+correct,Your company makes real medicines.,5,7,1.4
+correct,His words are like electric shocks.,6,8,1.3333333333333333
+correct,His words are like the swings of a swing.,9,11,1.2222222222222223
+correct,His vegetables are sold with the speed of an engine.,10,11,1.1
+correct,His earnings evaporated like gas.,5,9,1.8
+correct,His work spread like grass.,5,7,1.4
+correct,His work spread like dust.,5,7,1.4
+correct,Rohan's article will be remembered like space.,7,12,1.7142857142857142
+correct,Panag became a victim of Manoj's enmity.,7,14,2.0
+correct,Panag became a victim of Manoj's friendship.,7,12,1.7142857142857142
+correct,That ground became smooth like oil.,6,7,1.1666666666666667
+correct,That land became smooth like sandpaper.,6,8,1.3333333333333333
+correct,He shouted as if he had won the match.,9,12,1.3333333333333333
+correct,He shouted as if a burglar had entered the house.,10,15,1.5
+correct,Your house is worth lakhs.,5,8,1.6
+correct,Your house is worth pennies.,5,7,1.4
+correct,The machine he made is a symbol of the modern era.,11,12,1.0909090909090908
+correct,Your poverty is driving me to pieces.,7,8,1.1428571428571428
+correct,There are potholes in this pitch.,6,9,1.5
+correct,He wears plain clothes.,4,6,1.5
+correct,Kamlesh is currently living.,4,7,1.75
+correct,Kamlesh lives in the past.,5,8,1.6
+correct,He was our saviour.,4,6,1.5
+correct,He was our eater.,4,6,1.5
+correct,That man keeps ringing my hands.,6,9,1.5
+correct,He speaks in my favor.,5,7,1.4
+correct,He speaks against me.,4,6,1.5
+correct,His hard work is like a stream.,7,8,1.1428571428571428
+wrong,Kalidas is Shekhchili of India.,5,10,2.0
+wrong,Life is not a hedge of thorns.,7,11,1.5714285714285714
+wrong,Revenge is a kind of wild justice.,7,9,1.2857142857142858
+wrong,Life is a sweet bitter gourd.,6,8,1.3333333333333333
+wrong,Life is sweet Gulkand.,4,7,1.75
+wrong,It is as straight as a scale.,7,8,1.1428571428571428
+wrong,His skirt is like a white sheet.,7,8,1.1428571428571428
+wrong,His physique is like a field.,6,7,1.1666666666666667
+wrong,Strong like a cow.,4,6,1.5
+wrong,The man was behaving like ice cold.,7,11,1.5714285714285714
+wrong,Precious as a witch.,4,7,1.75
+wrong,His mind was as cold as ice.,7,9,1.2857142857142858
+wrong,Virat is agile like a tortoise.,6,10,1.6666666666666667
+wrong,Mahesh runs the shop like a goat.,7,10,1.4285714285714286
+wrong,The expression on his face was like the sun.,9,10,1.1111111111111112
+wrong,Rakesh's mind is as sharp as a stone.,8,13,1.625
+wrong,His voice is like that of a cuckoo.,8,11,1.375
+wrong,Hearty is as fresh as the rising sun.,8,11,1.375
+wrong,He stood like a rubber while taking lectures.,8,11,1.375
+wrong,"Hearing the news of posting, he started dancing like a mad bull.",12,16,1.3333333333333333
+wrong,He's as strong as a boxer kid.,7,12,1.7142857142857142
+wrong,The moneylender's heart is like the skin of a rabbit.,10,15,1.5
+wrong,Getting Radha is as easy as breaking the moon.,9,12,1.3333333333333333
+wrong,As wise as the gentle owl.,6,10,1.6666666666666667
+wrong,His words have the power of glass.,7,8,1.1428571428571428
+wrong,This winter is as cold as my afternoon bunk.,9,11,1.2222222222222223
+wrong,The dog was as angry as a nursery teacher.,9,12,1.3333333333333333
+wrong,Conversation with him was like Mahabharata.,6,11,1.8333333333333333
+wrong,School student helped like wine.,5,6,1.2
+wrong,The relationship between these two is like the hot sand of the desert.,13,14,1.0769230769230769
+wrong,That speaker was speaking like running water.,7,8,1.1428571428571428
+wrong,The child was religious like a demon.,7,8,1.1428571428571428
+wrong,The test was as easy as building a rocket.,9,11,1.2222222222222223
+wrong,Players should be like gold.,5,7,1.4
+wrong,Life flows like ocean waves.,5,8,1.6
+wrong,The girl's personality was as sweet as grapes.,8,13,1.625
+wrong,The sound of the flute was as smooth as the road.,11,13,1.1818181818181819
+wrong,His heart was as big as the houses in the cities.,11,13,1.1818181818181819
+wrong,There was a place like a woman's purse in the hotel.,11,15,1.3636363636363635
+wrong,The doctor looks at his patient like Ram.,8,9,1.125
+wrong,The doctor looks at his patient like Ravana.,8,10,1.25
+wrong,The sound of a glass bottle breaking in the room was like a twine bomb.,15,17,1.1333333333333333
+wrong,The doctor has asked to eat dinner like an elephant.,10,13,1.3
+wrong,The armor was as hard as glass.,7,9,1.2857142857142858
+wrong,The lawyer talked about the settlement like a man bargaining with a shopkeeper.,13,19,1.4615384615384615
+wrong,That man is stubborn like wax.,6,9,1.5
+wrong,"Seeing his friends as silent as graves, he understood that something was wrong.",13,16,1.2307692307692308
+wrong,This shawl is light as a feather.,7,11,1.5714285714285714
+wrong,His grandmother's love story was as old as the mobile.,10,15,1.5
+wrong,Her grandmother's love story was as old as the hills.,10,16,1.6
+wrong,"You can trust him, he's as straight as a wheel.",10,14,1.4
+wrong,She eats like a bird.,5,8,1.6
+wrong,She eats like a pig.,5,7,1.4
+wrong,He looks like a lion in the jungle.,8,11,1.375
+wrong,Radha fell asleep like a bubbly baby.,7,12,1.7142857142857142
+wrong,Radha fell asleep like a log.,6,9,1.5
+wrong,Swimming can be learned like a wild trail.,8,10,1.25
+wrong,The filth of his mind was removed from the sieve like soil.,12,16,1.3333333333333333
+wrong,The airplane flew like a bird.,6,11,1.8333333333333333
+wrong,The airplane flew like an eagle.,6,11,1.8333333333333333
+wrong,The police inspector was as gentle as a cow.,9,12,1.3333333333333333
+wrong,The bank manager is sleeping like a snake.,8,10,1.25
+wrong,Rahul's TV was as big as a mouse.,8,11,1.375
+wrong,Rahul's TV was as big as an elephant.,8,13,1.625
+wrong,The moneylender's heart is like a tree in spending money.,10,14,1.4
+wrong,The teacher is hard as a coconut.,7,9,1.2857142857142858
+wrong,The teacher is strict as usual.,6,7,1.1666666666666667
+wrong,His wife stings Rahim like an old sheet.,8,10,1.25
+wrong,His thinking is like that of a young boy.,9,10,1.1111111111111112
+wrong,The car is as clear as spring water.,8,9,1.125
+wrong,Painting is like watching an art film.,7,9,1.2857142857142858
+wrong,Looks like Sharma ji is as busy as the gatekeeper of a museum.,13,16,1.2307692307692308
+wrong,Shankar is driving the car like a goods train.,9,11,1.2222222222222223
+wrong,Radha became like a cat in debate.,7,9,1.2857142857142858
+wrong,Radha became like a pillar in the debate.,8,11,1.375
+wrong,The floor was like a fish skin.,7,8,1.1428571428571428
+wrong,There was a delicious dish like brinjal.,7,12,1.7142857142857142
+wrong,The dish was as delicious as jaggery.,7,13,1.8571428571428572
+wrong,The atmosphere of the school was as calm as a forest.,11,13,1.1818181818181819
+wrong,The juice is sour like mango.,6,9,1.5
+wrong,The teacher's cane is as hard as a mattress.,9,14,1.5555555555555556
+wrong,The wind was as soft as a frog.,8,10,1.25
+wrong,She started dancing like a lion.,6,9,1.5
+wrong,Your hands are as cold as Rajasthan.,7,8,1.1428571428571428
+wrong,Asha ji's singing is worth crores of rupees.,8,14,1.75
+wrong,It was moist like the morning sun.,7,9,1.2857142857142858
+wrong,He was lost like a panther.,6,8,1.3333333333333333
+wrong,He has worked hard like an ant to build his house.,11,12,1.0909090909090908
+wrong,Rohan wagged his tail like a puppy seeing the lollipop.,10,16,1.6
+wrong,The children were as happy as pigs to get fresh soil in the playground.,14,18,1.2857142857142858
+wrong,The thief was looking like a phantom in his dress.,10,14,1.4
+wrong,His teeth were as white as gold.,7,9,1.2857142857142858
+wrong,She moved ahead with the gait of a peacock.,9,12,1.3333333333333333
+wrong,She broke like a huge branch from a tree in a windstorm.,12,16,1.3333333333333333
+wrong,Rakesh is innocent like a vulture.,6,9,1.5
+wrong,Mother's heart is as tough as fingers.,7,11,1.5714285714285714
+wrong,His shop was shining like new gold.,7,9,1.2857142857142858
+wrong,Kishore's voice is as sweet as an orange.,8,12,1.5
+wrong,His neck is long like a pigeon.,7,10,1.4285714285714286
+wrong,Homework is as light as the bus.,7,9,1.2857142857142858
+wrong,Doctor is as precious as brass.,6,9,1.5
+wrong,Rahul wants to be Natwarlal.,5,8,1.6
+wrong,A doctor is a form of the devil.,8,10,1.25
+wrong,Doctor is the form of God.,6,7,1.1666666666666667
+wrong,Rohan is as helpless as a youth.,7,10,1.4285714285714286
+wrong,Angry Ramu turned red like a tomato.,7,10,1.4285714285714286
+wrong,The beggar was hungry like a bird.,7,11,1.5714285714285714
+wrong,He sleeps like Kumbkaran.,4,8,2.0
+wrong,He is as blind as a bat.,7,8,1.1428571428571428
+wrong,This house is as old as palaces.,7,9,1.2857142857142858
+wrong,Its image is as beautiful as an old mansion.,9,12,1.3333333333333333
+wrong,He is in pain like his mother's beating.,8,12,1.5
+wrong,Its vision is as sharp as that of Ravana.,9,12,1.3333333333333333
+wrong,He is fighting like a child.,6,7,1.1666666666666667
+wrong,Mahesh is as slothful as a tortoise in his work.,10,15,1.5
+wrong,Rahul is the watchdog of his house.,7,9,1.2857142857142858
+wrong,Vidya shines like the moon in studies.,7,11,1.5714285714285714
+wrong,Scientists are as smart as trees.,6,10,1.6666666666666667
+wrong,The football coach is as mad as a river.,9,10,1.1111111111111112
+wrong,Grandpa talks like an old museum.,6,9,1.5
+wrong,The laborers work like clock ticking.,6,10,1.6666666666666667
+wrong,The truth was like wine on his tongue.,8,10,1.25
+wrong,"After the attack, all the people of the village became like wax statues.",13,16,1.2307692307692308
+wrong,The magician's magic was like an atom bomb.,8,12,1.5
+wrong,Arguing with him is like throwing off a hand grenade.,10,15,1.5
+wrong,Sukumar praises his wife like a master of history praises the Kauravas of Mahabharata.,14,22,1.5714285714285714
+wrong,"When he reached the top of the hill, he felt as strong as a water balloon.",16,19,1.1875
+wrong,She swims in the water like a lion.,8,11,1.375
+wrong,She swims like a fish in water.,7,9,1.2857142857142858
+wrong,Those children ran like waves in the water.,8,10,1.25
+wrong,His hair was like a dense forest.,7,10,1.4285714285714286
+wrong,His hair was like a spider's web.,7,11,1.5714285714285714
+wrong,Every penny was like a magic wand in this project.,10,13,1.3
+wrong,I am as awesome as a flying giraffe.,8,11,1.375
+wrong,My house is like the palaces of the Mughals.,9,13,1.4444444444444444
+wrong,My house is like a bird's nest.,7,11,1.5714285714285714
+wrong,His words had the force of a goldsmith's hammer.,9,14,1.5555555555555556
+wrong,Getting a job was like climbing a flight of stairs.,10,13,1.3
+wrong,Getting a job was like touching the stars.,8,11,1.375
+wrong,There is magic of Lata Mangeshkar in her voice.,9,10,1.1111111111111112
+wrong,Blood started coming out of the wound like money from a moneylender's safe.,13,18,1.3846153846153846
+wrong,Sham took care of her work like a stepmother taking care of her child.,14,17,1.2142857142857142
+wrong,Sohan wrote in the exam as if someone had scattered pearls.,11,18,1.6363636363636365
+wrong,Today Rajesh is as fat as a baby elephant.,9,13,1.4444444444444444
+wrong,There is a lesson of a leader in his thinking.,10,12,1.2
+wrong,I'm flying like smoke,4,8,2.0
+wrong,Your smile looks like the full moon.,7,9,1.2857142857142858
+wrong,Radheshyam mixed like sugar in tea in our family.,9,13,1.4444444444444444
+wrong,His words were as cool as dew drops.,8,11,1.375
+wrong,Even walls have eyes.,4,6,1.5
+wrong,It seems that my point will be understood only when the shoes will be worn.,15,18,1.2
+wrong,"It seems that when the flowers fall, then only my point will be understood.",14,16,1.1428571428571428
+wrong,"On the battlefield, our soldiers won by stepping on hot coals.",11,17,1.5454545454545454
+wrong,Don't put a stone on his head in vain after quarreling with him.,13,19,1.4615384615384615
+wrong,Stop thumb sucking at work sometime?,6,10,1.6666666666666667
+wrong,At least once in work open the closed door?,9,10,1.1111111111111112
+wrong,"When asked to return the loan, he folded hands.",9,12,1.3333333333333333
+wrong,"This hill is not the foot of Angad, which cannot be removed and the railway track can be laid.",19,25,1.3157894736842106
+wrong,"This hill is not a coriander plant, by removing which the railway track cannot be laid.",16,24,1.5
+wrong,"How did Lokendra get the job of a clerk, as if a quail got caught in the hands of a blind man.",22,27,1.2272727272727273
+wrong,"You yourself go around with a rosary behind your intellect, how can we help you?",15,20,1.3333333333333333
+wrong,There is no one here who will keep an eye on you.,12,13,1.0833333333333333
+wrong,There is no one here who will sit with thorns for you.,12,15,1.25
+wrong,Ramesh is the son of his parents.,7,9,1.2857142857142858
+wrong,"By instilling dreams in Ram's eyes, someone gave him a fake note.",12,18,1.5
+wrong,Mohan was being spoken like Khote.,6,9,1.5
+wrong,Pradeep sat like a snake on Ramlal's house.,8,14,1.75
+wrong,Some people talk like owls.,5,8,1.6
+wrong,Some people talk like a cuckoo.,6,9,1.5
+wrong,"Since becoming a teacher, you have become the moon of Eid.",11,14,1.2727272727272727
+wrong,Giving two rotis to Mohan is like giving a watermelon in the mouth of a camel.,16,22,1.375
+wrong,People garlanded the minister on his victory.,7,11,1.5714285714285714
+wrong,Books are like a tavern to me.,7,9,1.2857142857142858
+wrong,Mitali is as agile as the evening.,7,10,1.4285714285714286
+wrong,Chauri in Gupta ji's car is like getting wet in the sea in a pauper.,15,19,1.2666666666666666
+wrong,The lamp shone like the rising moon.,7,11,1.5714285714285714
+wrong,"Meeting Rachna, my heart has become lighter like a storm.",10,14,1.4
+wrong,You are famous for the shady leaves of that tree.,10,13,1.3
+wrong,They had settled in the cities like running water.,9,11,1.2222222222222223
+wrong,"As in the letter, father had sent laddoos.",8,13,1.625
+wrong,I want to fly like a tree,7,7,1.0
+wrong,Your tongue is not like poison.,6,9,1.5
+wrong,Your tongue is not like honey.,6,8,1.3333333333333333
+wrong,She was thirsty like a fish in water.,8,11,1.375
+wrong,The ornaments around her neck seemed to have been brought from a museum.,13,16,1.2307692307692308
+wrong,I knew this city like my geography book.,8,10,1.25
+wrong,He was a day trader.,5,6,1.2
+wrong,He is as bitter as Safi.,6,8,1.3333333333333333
+wrong,The rat is stuck like scum.,6,8,1.3333333333333333
+wrong,Education is like a cactus plant.,6,8,1.3333333333333333
+wrong,The light was as playful as a deer.,8,11,1.375
+wrong,Sharma ji talks like thorns.,5,9,1.8
+wrong,My house is like a dinosaur egg.,7,8,1.1428571428571428
+wrong,Rise high like the clouds,5,7,1.4
+wrong,Rise high like a kite,5,6,1.2
+wrong,He is knowledgeable like a cook.,6,8,1.3333333333333333
+wrong,It is as fast as a bicycle.,7,9,1.2857142857142858
+wrong,Shamlal's cow used to give milk like brass.,8,14,1.75
+wrong,How to read that couplets of Kalidas.,7,10,1.4285714285714286
+wrong,In that group is the sweetness of chilies.,8,11,1.375
+wrong,They fight like waves.,4,6,1.5
+wrong,His account is like a line on a stone.,9,11,1.2222222222222223
+wrong,He is staring at that girl like a beggar.,9,12,1.3333333333333333
+wrong,Irrigated the fields with his water.,6,10,1.6666666666666667
+wrong,"In the examination, he forgot like a fruit has fallen from a tree.",13,17,1.3076923076923077
+wrong,He has become a doctor because of a head injury.,10,11,1.1
+wrong,I want to be a driver.,6,7,1.1666666666666667
+wrong,It was as hot as a samosa.,7,9,1.2857142857142858
+wrong,It was hot as hell.,5,6,1.2
+wrong,Shambhu's stomach is like a godown.,6,11,1.8333333333333333
+wrong,He went down like the sun.,6,7,1.1666666666666667
+wrong,His TV was like a football in a cricket ground.,10,12,1.2
+wrong,There was selfish sadness on his face.,7,10,1.4285714285714286
+wrong,My wife looked like a tomato.,6,7,1.1666666666666667
+wrong,The buttons on the coat looked like grapes.,8,12,1.5
+wrong,Mahender's mind was as sharp as Sabu's.,7,14,2.0
+wrong,His job was like catching a firefly.,7,10,1.4285714285714286
+wrong,His work was like catching a bee.,7,10,1.4285714285714286
+wrong,Neha showed speed like a bird.,6,9,1.5
+wrong,He stood like a statue on the stage.,8,10,1.25
+wrong,He gave Disha an arrow like Ravana.,7,11,1.5714285714285714
+wrong,He has become like a washerman's donkey.,7,13,1.8571428571428572
+wrong,He has become like a race horse.,7,8,1.1428571428571428
+wrong,The gardener planted potato flowers.,5,9,1.8
+wrong,The bankers demanded tax like a dry tree.,8,11,1.375
+wrong,Don't talk like the heat of Jaipur.,7,10,1.4285714285714286
+wrong,They have love like a pair of crocodiles.,8,11,1.375
+wrong,Hero in the film looked like Charlie Chaplin.,8,10,1.25
+wrong,Tina and Ravi's love is like seasonal rain.,8,12,1.5
+wrong,White clouds are hovering over his family.,7,11,1.5714285714285714
+wrong,She blossomed like a flower as soon as she went to college.,12,16,1.3333333333333333
+wrong,Your face looks like the moon of fourteenth.,8,12,1.5
+wrong,Your face looks like the new moon.,7,9,1.2857142857142858
+wrong,This journey looks like drops of dew.,7,10,1.4285714285714286
+wrong,His dreams became like sawan leaves.,6,10,1.6666666666666667
+wrong,That scoundrel is biting everyone like a cucumber.,8,14,1.75
+wrong,That scoundrel is cutting everyone like diamonds and gold.,9,15,1.6666666666666667
+wrong,Dheeraj is making imaginary bridges with his work.,8,14,1.75
+wrong,"Don't eat my skull, get out of here.",8,12,1.5
+wrong,He explained like a confectioner.,5,8,1.6
+wrong,Shantiprasad acts like a soap.,5,11,2.2
+wrong,"At his wedding, the baraati came from a swarm of bees.",11,16,1.4545454545454546
+wrong,There was joy like noodles in the fair.,8,10,1.25
+wrong,His pictures were as blissful as a jungle.,8,13,1.625
+wrong,Radhika is the witch of the school.,7,11,1.5714285714285714
+wrong,That question was like climbing the steps of a temple.,10,12,1.2
+wrong,"After winning the race, Aditi lit the lamps of Ghaslet.",10,17,1.7
+wrong,Hotel food was like tamarind.,5,7,1.4
+wrong,Rajesh stole the name of the country.,7,9,1.2857142857142858
+wrong,Life has the taste of kalakand.,6,9,1.5
+wrong,Life has the taste of mangoes.,6,9,1.5
+wrong,It has more power than bamboo.,6,8,1.3333333333333333
+wrong,"In the era of Shri Krishna, rivers of liquor used to flow in our country.",15,20,1.3333333333333333
+wrong,His ears are very raw.,5,7,1.4
+wrong,Sanju succumbed to wrestling so quickly.,6,12,2.0
+wrong,There was stadium-like silence in the room.,7,10,1.4285714285714286
+wrong,She is as beautiful as a squirrel.,7,11,1.5714285714285714
+wrong,Radha is the dust of Sham's feet.,7,12,1.7142857142857142
+wrong,Find his toys with Suraj.,5,8,1.6
+wrong,The judge sentenced the thief to a glass of water.,10,13,1.3
+wrong,Clear mind from mud.,4,5,1.25
+wrong,Mohit made the enemy chew pulses.,6,12,2.0
+wrong,Kashi was as big as Bhima.,6,9,1.5
+wrong,Kashi was as big as Nakula.,6,9,1.5
+wrong,Great player like Bengali.,4,5,1.25
+wrong,His bag is as heavy as his eyelids.,8,11,1.375
+wrong,He took a Surdas-like catch.,5,9,1.8
+wrong,His salary is like a brass spoon.,7,11,1.5714285714285714
+wrong,His shop is as long as his pants.,8,10,1.25
+wrong,"For Ashwini, the competition is like sour grapes.",8,13,1.625
+wrong,Life is like powder.,4,5,1.25
+wrong,This office is as clean as the terrace of the house.,11,13,1.1818181818181819
+wrong,Raman is a devotee like Jaichand.,6,12,2.0
+wrong,He is as big as Pipiphos.,6,9,1.5
+wrong,The police inspector was as gentle as a cow.,9,12,1.3333333333333333
+wrong,Small children are softer than the thorns of a rose.,10,14,1.4
+wrong,I don't have a handful of money in the bank.,10,14,1.4
+wrong,"In Rajneesh's house, music plays like Shantistupa.",7,17,2.4285714285714284
+wrong,The government taxed like Ambani's house.,6,11,1.8333333333333333
+wrong,Rehan roamed the whole city on foot.,7,10,1.4285714285714286
+wrong,Mother's anger is like cold buttermilk.,6,12,2.0
+wrong,Mother's anger is like hot milk.,6,10,1.6666666666666667
+wrong,He plays like a child.,5,7,1.4
+wrong,My friend is as sweet as brother's love.,8,11,1.375
+wrong,You are talking about train journey.,6,7,1.1666666666666667
+wrong,The sound of drums was ringing in his ears.,9,13,1.4444444444444444
+wrong,Kamla slept like a snake while sleeping in the office.,10,14,1.4
+wrong,Apples grew on Kashi's head.,5,11,2.2
+wrong,Ajay spread like a chair in the house.,8,10,1.25
+wrong,"To learn music, he chewed horse gram.",7,10,1.4285714285714286
+wrong,The bridge fell like a house of cards.,8,10,1.25
+wrong,The bridge fell like Qutub Minar.,6,10,1.6666666666666667
+wrong,It is as thin as a pocket book.,8,10,1.25
+wrong,His arms are as strong as those of a dove.,10,11,1.1
+wrong,His voice is like Sachin Tendulkar.,6,10,1.6666666666666667
+wrong,He was talking like a suspense thriller.,7,9,1.2857142857142858
+wrong,He was famous like capsicum.,5,8,1.6
+wrong,Sharmila was feeding the dogs like a circus clown.,9,15,1.6666666666666667
+wrong,His heart broke like a glass bottle.,7,9,1.2857142857142858
+wrong,He smelled like perfume.,4,6,1.5
+wrong,He guided his friend like Sanjay.,6,8,1.3333333333333333
+wrong,Kusum had to force the bird to open the door.,10,13,1.3
+wrong,His hair didn't turn red for no reason.,8,11,1.375
+wrong,His kinship is as strong as glass.,7,9,1.2857142857142858
+wrong,He has the mind of a monkey.,7,9,1.2857142857142858
+wrong,He has the mind of a chameleon.,7,10,1.4285714285714286
+wrong,Mungeri Lal's pain is in his voice.,7,12,1.7142857142857142
+wrong,He also sucks the cardamom that fell in the tea.,10,14,1.4
+wrong,Mehak took the form of Chandi.,6,9,1.5
+wrong,Gangu fights for the ice cream.,6,10,1.6666666666666667
+wrong,What enthusiasm was there in Sanjeev.,6,12,2.0
+wrong,He gave everyone clothes like idli.,6,8,1.3333333333333333
+wrong,He gave clothes like vada to everyone.,7,8,1.1428571428571428
+wrong,She is crying in the group.,6,8,1.3333333333333333
+wrong,His art is like a rainbow.,6,8,1.3333333333333333
+wrong,His art is like that of insects.,7,9,1.2857142857142858
+wrong,The landlord was as fat as a rat.,8,11,1.375
+wrong,His arrival was like a sip of wine.,8,11,1.375
+wrong,That palace is as big as the streets of India.,10,13,1.3
+wrong,His head is shining like eggs.,6,9,1.5
+wrong,His head is shining like cabbage.,6,10,1.6666666666666667
+wrong,His vegetables are sold at the speed of a bullock cart.,11,13,1.1818181818181819
+wrong,His earnings flew away like a lamp.,7,10,1.4285714285714286
+wrong,Rohan's article will be remembered like history.,7,12,1.7142857142857142
+wrong,The machine made by him is the symbol of the mythological era.,12,15,1.25
+wrong,Your richness is running on my crumbs.,7,11,1.5714285714285714
+wrong,There are cracks in this pitch.,6,8,1.3333333333333333
+wrong,He wears colorful clothes.,4,7,1.75
+wrong,That man is the shoe of my feet again and again.,11,13,1.1818181818181819
+wrong,His hard work is like a pond.,7,9,1.2857142857142858

@@ -1,0 +1,731 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,The child ate more than twenty-five cups of coffee yesterday,10,15,1.5
+correct,The child ate a banana yesterday,6,7,1.1666666666666667
+correct,She is as bad as a witch,7,8,1.1428571428571428
+correct,He was as bad as he was good-hearted,8,11,1.375
+correct,The neck is breathing like a baby,7,9,1.2857142857142858
+correct,The neck does not light up at all,8,9,1.125
+correct,The brain of Talabi dota is like a stupid child who was sent to buy Osan,16,19,1.1875
+correct,Tálabi's brain works perfectly like a child who knows how to work,12,16,1.3333333333333333
+correct,Binrin's son then gave birth to a bird of prey,10,15,1.5
+correct,Binrin's daughter gave birth to a child,7,10,1.4285714285714286
+correct,The people of the city saw that the tiger was defeated,11,14,1.2727272727272727
+correct,Adigún is a model in singing,6,8,1.3333333333333333
+correct,Adigun is a hard-working criminal in poetry,7,11,1.5714285714285714
+correct,The baby was born yesterday,5,5,1.0
+correct,The child was born without legs yesterday,7,8,1.1428571428571428
+correct,The mother saw the punishment as the rock of Olumu,10,13,1.3
+correct,The mother saw him as a wealthy bride,8,10,1.25
+correct,Your skin looks like burning coal,6,8,1.3333333333333333
+correct,Water fell from the turtle's face when the King ordered them to go bald.,14,19,1.3571428571428572
+correct,Water fell from the turtle when the King ordered that they be given the title of chief.,17,20,1.1764705882352942
+correct,Akekeele angrily sent his friend Okete to the dance hall,10,15,1.5
+correct,Aduke is a dog for all the men in the community,11,12,1.0909090909090908
+correct,The tiger was tall and black like a monkey,9,11,1.2222222222222223
+correct,The orange leaves do not leave one eye on the tree,11,13,1.1818181818181819
+correct,The chicken was running like a dog at the running game last week,13,13,1.0
+correct,The chicken was flying like a mosquito at the running game last week,13,16,1.2307692307692308
+correct,Bolaji ate like a drunk,5,8,1.6
+correct,Fadek's hand has touched the bottom of the bag like that of my brother who sells cocoa,17,23,1.3529411764705883
+correct,All the cities have agreed that Aremu is the only city,11,12,1.0909090909090908
+correct,The soup that Abeni cooks off covers i euro,9,12,1.3333333333333333
+correct,"It's raining, but it can't stop the thirst",8,15,1.875
+correct,"However, he was brave enough to die",7,9,1.2857142857142858
+correct,There is a fire in Álamú's heart,7,11,1.5714285714285714
+correct,Álamú is the king in our family,7,9,1.2857142857142858
+correct,Bolaji's color is like that of a heart,8,11,1.375
+correct,Bolaji's color looks like that of a bat,8,11,1.375
+correct,Honey is the food we ate yesterday,7,8,1.1428571428571428
+correct,Abike has a clear understanding of midwifery and foreign doctors,10,15,1.5
+correct,Abike has a brief understanding of midwifery and foreign doctors,10,15,1.5
+correct,Inside the exam room was a dead silence,8,8,1.0
+correct,Inside the test room was the Osodi market,8,9,1.125
+correct,All the grandmother's body was inside the house like a dead body in the snow,15,19,1.2666666666666666
+correct,It is the farmer who has all the children born from the tree,13,13,1.0
+correct,The farmer killed all the children that the tree gave birth to yesterday,13,13,1.0
+correct,Lakiriboto is the sister whom the boss has just hired,10,13,1.3
+correct,The sister that the boss has just hired is a child,11,12,1.0909090909090908
+correct,"From a young age, Idodowu was a hunter like his father",11,16,1.4545454545454546
+correct,His Yoruba language is similar to that of the people of Oyo,12,14,1.1666666666666667
+correct,His Yoruba language is not as good as that of Egun,11,12,1.0909090909090908
+correct,The saddle is as bitter as yesterday's water,8,11,1.375
+correct,His teeth were as white as a dove's,8,11,1.375
+correct,His teeth are not as white as a dove's,9,12,1.3333333333333333
+correct,Adékunlé has broken his head where he went to fight,10,13,1.3
+correct,The killer is not a heavenly person,7,9,1.2857142857142858
+correct,A cage is a bird's mouth,6,10,1.6666666666666667
+correct,"My son listens to Giá, he learns how to use a shell as he opens our door.",17,23,1.3529411764705883
+correct,The child does not know anything about Ifá,8,9,1.125
+correct,Akara Gbadegeghin and his younger brother are separated like their father who is in prison,15,22,1.4666666666666666
+correct,Abeni made a variety of soups yesterday as well as those who are cooking,14,16,1.1428571428571428
+correct,He made a variety of soup that was not tasty yesterday.,11,13,1.1818181818181819
+correct,The sky is not pregnant with water,7,7,1.0
+correct,Yesterday's sun did not hurt people,6,10,1.6666666666666667
+correct,Yemi's eyes are what brides want to see,8,12,1.5
+correct,Titilayo's clothing is like a playsuit,6,11,1.8333333333333333
+correct,A leper is not a leper,6,8,1.3333333333333333
+correct,Adé screamed like a dog bitten man,7,11,1.5714285714285714
+correct,Adé is screaming like a lion who is about to leave,11,15,1.3636363636363635
+correct,Adisa drank a hundred bottles of water before going to school this morning,13,15,1.1538461538461537
+correct,Adisa drank only one glass of water before going to school this morning,13,14,1.0769230769230769
+correct,The bag was as heavy as a bag full of large stones,12,13,1.0833333333333333
+correct,The bag is not heavy at all,7,7,1.0
+correct,Folarin does not eat like a pig,7,8,1.1428571428571428
+correct,"Ayomide was twelve years old, and she was walking like a pregnant woman giving birth.",15,20,1.3333333333333333
+correct,"Ayomide can't handle two hundred pages, and he doesn't know what to do",13,20,1.5384615384615385
+correct,Dásofunjó is a dancer,4,8,2.0
+correct,Bolaj's mother said that Bolaj's father's son looked like a baby,11,19,1.7272727272727273
+correct,Dress me in knowledge like a wise man Enter Shoyinka,10,13,1.3
+correct,The six-year-old boy was born into a privileged family,9,14,1.5555555555555556
+correct,Adédoyin's love is not like wine,6,11,1.8333333333333333
+correct,Happiness has just begun to climb the ladder of your happiness,11,15,1.3636363636363635
+correct,"After that, I got stuck in the final exam",9,10,1.1111111111111112
+correct,It caught fire like a car fire,7,7,1.0
+correct,Folarin's eyes widened,3,7,2.3333333333333335
+correct,Bolabaythin used to walk with three feet like the giants,10,13,1.3
+correct,The fever was heavy like a stone,7,9,1.2857142857142858
+correct,Students sleep soundly in the exam room,7,9,1.2857142857142858
+correct,Adébetet spat loudly while arguing with Mande's friend,8,17,2.125
+correct,"The palace he never saw was King Ooni's palace, the house of love",13,19,1.4615384615384615
+correct,The palace he built has collapsed,6,9,1.5
+correct,His age is older than the age of a tortoise,10,11,1.1
+correct,His age is less than the age of a tortoise,10,11,1.1
+correct,Adisa drank 30 bottles of wine at the wine house yesterday,11,13,1.1818181818181819
+correct,Adisa did not drink wine at all at the wine house yesterday,12,13,1.0833333333333333
+correct,Odeshola does not know what they call hunting.,8,12,1.5
+correct,He who has good ears gets his money back like the sinners,12,14,1.1666666666666667
+correct,The lawyer did not say who was guilty,8,8,1.0
+correct,The idea that was in the market was full of excitement yesterday,12,12,1.0
+correct,Fadék's heart has returned to me like yesterday after all our fights,12,16,1.3333333333333333
+correct,A finger does not touch these children anymore,8,8,1.0
+correct,Look at how Adénuga climbs trees like a monkey,9,14,1.5555555555555556
+correct,Adénuga loves how monkeys climb trees,6,12,2.0
+correct,The thieves surrendered when they called the police,8,12,1.5
+correct,These thieves are the ones who killed the policemen,9,12,1.3333333333333333
+correct,The hunter obeys all the elders of the hunter like him who is not trained as a hunter,18,24,1.3333333333333333
+correct,Odewanmi cursed all the old hunters who were sitting,9,14,1.5555555555555556
+correct,Boláji was beaten as soon as he was the thief,10,14,1.4
+correct,They brought delicious food for Bolaji,6,9,1.5
+correct,There were 200 people in the stadium who wanted to play the Nigerian football team.,15,17,1.1333333333333333
+correct,Nigeria's ambassadors are stronger than ever at the World Cup,10,15,1.5
+correct,The ear of the merchant is like the ear of an owl,12,14,1.1666666666666667
+correct,The marketer's ears are well-heard,5,12,2.4
+correct,Aderemi made Arimom like a soap when they fought a fight yesterday,12,17,1.4166666666666667
+correct,Aderemi took Arimo to the king yesterday,7,10,1.4285714285714286
+correct,Aremu is swimming in the river of God's love,9,12,1.3333333333333333
+correct,Baba Agbajé is kissing his wife's womb like an unborn baby,11,18,1.6363636363636365
+correct,Baba Agbajé did not want to cause the fetus of his wife,12,15,1.25
+correct,The gold glowed like a burning furnace that has run out of oil,13,17,1.3076923076923077
+correct,Adéyami Kranra gave birth to a dog in the morning,10,15,1.5
+correct,Chickens do not play with dogs,6,8,1.3333333333333333
+correct,Adéşola is the son of an elder in Yoruba customs and practices,12,19,1.5833333333333333
+correct,"The son of Egun, Adéşola does not know about Yoruba culture",11,16,1.4545454545454546
+correct,Adesua started getting sick yesterday at the hospital,8,9,1.125
+correct,"The day a fool is king on this land, the city will be destroyed",14,16,1.1428571428571428
+correct,The king of this country has done something unforgettable to our city,12,15,1.25
+correct,The dog gave birth to a male and a female to the sheep that gave birth this morning,18,19,1.0555555555555556
+correct,The dog is neither male nor female,7,8,1.1428571428571428
+correct,Adimula has eaten the dust from the sacrifice,8,11,1.375
+correct,The blue house is the house that my father built,10,10,1.0
+correct,The blue house that my father built has been demolished,10,12,1.2
+correct,The government punished the brother who stole government money,9,11,1.2222222222222223
+correct,My friends bought the clothes I wore yesterday,8,9,1.125
+correct,Moji baked a bag of six thousand peanuts last night before going to bed,14,18,1.2857142857142858
+correct,But pray for all those who are prevented from entering,10,13,1.3
+correct,Thousands worked like rainwater yesterday,5,8,1.6
+correct,Oke did not work at all yesterday,7,8,1.1428571428571428
+correct,Grandfather sewed clothes and shoes after the money we made yesterday,11,14,1.2727272727272727
+correct,"After Alake's government work, he looked for something else",9,13,1.4444444444444444
+correct,"After he was arrested, he did not find a job anymore",11,13,1.1818181818181819
+correct,The test that Dupé did yesterday was not successful at all,11,12,1.0909090909090908
+correct,I used to watch Aníkúlápó movies,6,10,1.6666666666666667
+correct,The Aníkúlápó movie I watched was not fun,8,12,1.5
+correct,The leaf ripens like a flower,6,9,1.5
+correct,That leaf has shrunk,4,6,1.5
+correct,Rónmu went to buy a rooster this morning,8,12,1.5
+correct,The surface of the soup and the cooked beans are like washing machines,13,16,1.2307692307692308
+correct,"Aja Tifhe took the shoes off my feet, my feet were restless",12,15,1.25
+correct,Lolade took the matter to heart like a drink,9,10,1.1111111111111112
+correct,It has rained on the crops,6,8,1.3333333333333333
+correct,The twins do not play with their father's beard,9,13,1.4444444444444444
+correct,It took my grandmother 20 years to wear a pair of shoes,12,14,1.1666666666666667
+correct,I have been able to sleep for three years,9,9,1.0
+correct,I can breathe poison,4,6,1.5
+correct,Alamu broke all the doors of the house before entering,10,14,1.4
+correct,There are many opportunities knocking at your door,8,9,1.125
+correct,The sound they made me was very happy,8,8,1.0
+correct,The lover took money from his father with a smile.,10,11,1.1
+correct,I want to go to the toilet in front of our house of worship,14,14,1.0
+correct,Tanitoluwa is the one who listens and reads when we plan the city,13,17,1.3076923076923077
+correct,God can't talk about how to organize a city,9,12,1.3333333333333333
+correct,Derinola's face is as long as a diamond,8,13,1.625
+correct,On the day of Alao's birthday,6,9,1.5
+correct,The day Alao was born was like a desert,9,10,1.1111111111111112
+correct,"At the restaurant I went to, they put the pot, they opened the table, they put all the dishes together.",20,25,1.25
+correct,"When I went to the grocery store, I didn't see anything",11,16,1.4545454545454546
+correct,Ladé has heard from the government,6,7,1.1666666666666667
+correct,Adigung has been dreaming since childhood,6,9,1.5
+correct,He was writing a book of money,7,7,1.0
+correct,Bolaji's knowledge is full of the art of weaving like the people of Oyo,14,20,1.4285714285714286
+correct,Bolaji's knowledge is not yet full about the work of weaving,11,16,1.4545454545454546
+correct,The glass of water I drank yesterday was like a bottle of water,13,13,1.0
+correct,The water I drank yesterday was bitter like a weed,10,11,1.1
+correct,Delaní knows the arrow taboo of the expert hunters,9,13,1.4444444444444444
+correct,Delaní does not know whose arrow is better than the hunters,11,14,1.2727272727272727
+correct,I always reach the highest level in my education and in my work,13,13,1.0
+correct,The child did not reach the highest level in his education,11,11,1.0
+correct,Abebi's son died in the sinkhole,6,12,2.0
+correct,He gave birth to a son whom Elédunmarê did not know,11,15,1.3636363636363635
+correct,Look at how Jibikeke makes her hips for men like the river that they go around,16,19,1.1875
+correct,The food that Şadeh cooked was as cold as a dog's nose when I wanted to eat it,18,24,1.3333333333333333
+correct,The 20-year-old was shocked by what the judge told him in court.,12,17,1.4166666666666667
+correct,"Even I, who eat, get drunk",6,9,1.5
+correct,Déoti's father has given up on his position,8,11,1.375
+correct,I have made a fool of the earth,8,8,1.0
+correct,Badé Dún does not like elders to come to his group meetings,12,16,1.3333333333333333
+correct,Those who came to our financial center yesterday were the ones who kissed the ground like chickens,17,19,1.1176470588235294
+correct,Those who came to our financial center yesterday were full of greed,12,13,1.0833333333333333
+correct,The ingredients used to make the dust have become cursed in the market,13,15,1.1538461538461537
+correct,Alonge has made noise into grain that he eats with effort soup,12,15,1.25
+correct,Alonge has confirmed the rumor in our hands,8,10,1.25
+correct,The police have promised that the person who robs the government will be punished in the world and will receive a knife in heaven,24,29,1.2083333333333333
+correct,The police have promised that the person who robs the government will receive tabua money,15,18,1.2
+correct,Adimulah ate some food at the wedding we attended yesterday,10,14,1.4
+correct,Morenikeji has been walking around since morning,7,9,1.2857142857142858
+correct,Morenikeji does not know how to eat chickens,8,11,1.375
+correct,The police have told the government to kill all the prisoners,11,12,1.0909090909090908
+correct,Don't tell the truth,4,6,1.5
+correct,Ajikobi gave birth to the one who will never die again,11,13,1.1818181818181819
+correct,They lied about what happened between the priest and the girl,11,12,1.0909090909090908
+correct,Alonghe has already discussed the issue,6,9,1.5
+correct,Alonghe never said the bottom line of the matter,9,11,1.2222222222222223
+correct,The channel has been released,5,5,1.0
+correct,The prince opened his mouth,5,5,1.0
+correct,The prince was afraid to open the matter,8,8,1.0
+correct,He listened to the words and was saddened,8,11,1.375
+correct,It's really amazing,3,5,1.6666666666666667
+correct,Or the smell of his body,6,6,1.0
+correct,Adelani is shedding like a snake,6,9,1.5
+correct,Goalkeepers are hot,3,6,2.0
+correct,He memorized the words,4,5,1.25
+correct,I don't accept it,4,6,1.5
+correct,Pamínkú you are a woman,5,7,1.4
+correct,Honor is made of eggs,5,6,1.2
+correct,Keep going,2,2,1.0
+correct,Run away,2,2,1.0
+correct,Rain works like an elephant,5,7,1.4
+correct,Always reach out to your customers,6,6,1.0
+correct,He was very sorry,4,4,1.0
+correct,Ajumobi is not just pitiful,5,8,1.6
+correct,It is the person who washes the oil,8,9,1.125
+correct,Ojo's face was covered with rain,6,9,1.5
+correct,Awele is living on the left side of the world,10,11,1.1
+correct,Intercessor,1,3,3.0
+correct,A god left you to use it?,7,8,1.1428571428571428
+correct,We don't breathe soft close,5,8,1.6
+correct,Ajanaku is Ajani,3,6,2.0
+correct,My father has taken pity on me,7,8,1.1428571428571428
+correct,It was a long day yesterday,6,6,1.0
+correct,He returned to take trouble,5,5,1.0
+correct,Goodbye Álibi sre,3,7,2.3333333333333335
+correct,Aignla shaves Ajála's head,4,11,2.75
+correct,All of you hurry up,5,6,1.2
+correct,The master created a series for his servant,8,8,1.0
+correct,Táího has become two months,5,7,1.4
+correct,He did not give birth to me,7,7,1.0
+correct,He immediately married her,4,4,1.0
+correct,He has made his parents emotional,6,6,1.0
+correct,You have turned your parents into clothiers,7,9,1.2857142857142858
+correct,Kheinde Faaké picked up on the matter,7,11,1.5714285714285714
+correct,Let's talk about it quietly,5,8,1.6
+correct,Let's get the word out,5,7,1.4
+correct,Forgive the beggar's plate,4,8,2.0
+correct,Álibi's father helped him die,5,8,1.6
+correct,Father Álibi is rather poor,5,6,1.2
+correct,They used Adéyami's nose to blow the flute in the presence of the King,14,21,1.5
+correct,Why are you flexible?,4,5,1.25
+correct,Fight back,2,2,1.0
+correct,They are kissing each other,5,6,1.2
+correct,The point is there,4,4,1.0
+correct,It is not easy to see,6,6,1.0
+correct,It is not a child's voice,6,8,1.3333333333333333
+correct,The capital covered the field,5,5,1.0
+correct,The capital stood down,4,4,1.0
+correct,Areó has chosen a book,5,7,1.4
+correct,Areó is guilty,3,4,1.3333333333333333
+correct,Gbadelob likes to take things for granted,7,12,1.7142857142857142
+correct,Come and love him and be kind to him,9,9,1.0
+correct,They have finally started eating,5,5,1.0
+correct,The fire stopped,3,3,1.0
+correct,We will not be silent,5,5,1.0
+correct,He was breathing heavily,4,7,1.75
+correct,Fingers that are too tight,5,6,1.2
+correct,This job is like learning,5,5,1.0
+correct,They have married Adewumi,4,6,1.5
+correct,They have killed Adewimi,4,6,1.5
+correct,The fire is burning in Ilorin,6,8,1.3333333333333333
+correct,Salawa praises his master,4,6,1.5
+correct,The things we have have become difficult,7,7,1.0
+correct,"Ropo is an earthly religion, it can be rooted out",10,14,1.4
+correct,Okété carried Adisa's hand,4,8,2.0
+correct,He left the world yesterday,5,5,1.0
+correct,We have forgiven the sin of Tope,7,9,1.2857142857142858
+correct,Sin has been planned for Palm Sunday,7,7,1.0
+correct,Don't stick it in my throat,6,10,1.6666666666666667
+correct,He has stepped on the table,6,7,1.1666666666666667
+correct,You stumble,2,3,1.5
+correct,This word is a banana peel,6,7,1.1666666666666667
+correct,This word is a fish eye,6,6,1.0
+correct,Táyé's mother is a magician,5,10,2.0
+correct,It's all in vain,4,6,1.5
+correct,All have responsibilities,3,4,1.3333333333333333
+correct,Odu is Ajála,3,5,1.6666666666666667
+correct,Okolo Oyo is Ajala,4,7,1.75
+correct,Adéwale has stolen the corn,5,8,1.6
+correct,A fruit of honey,4,4,1.0
+correct,Break the bread,3,3,1.0
+correct,Dress your child properly,4,4,1.0
+correct,Run away,2,2,1.0
+correct,Ayka is kissing,3,5,1.6666666666666667
+correct,Táyé took the ball to the south,7,9,1.2857142857142858
+correct,It makes me want to cum on oil,8,8,1.0
+correct,The region is Bimpé,4,6,1.5
+correct,Bimpé is a sheep,4,7,1.75
+correct,He listened to my advice,5,6,1.2
+correct,Ajibáde is turning his back on me,7,10,1.4285714285714286
+correct,Ajibáde is laughing at me,5,9,1.8
+correct,There was a curse in Ajani,6,8,1.3333333333333333
+correct,He nodded to her,4,5,1.25
+correct,Adigung consoled Ayoy,3,6,2.0
+correct,It's coming to my mouth,5,7,1.4
+correct,Ádísá is a close-headed child,5,10,2.0
+correct,Bolú watches the clock ticking,5,9,1.8
+correct,Breathless,1,2,2.0
+correct,Talabi hit the teacher in the mouth,7,8,1.1428571428571428
+correct,I put my life on the President,7,7,1.0
+correct,Joy is not expected,4,4,1.0
+correct,The customer has reached the ground,6,6,1.0
+correct,The chicken looked away,4,4,1.0
+correct,They have broken the Idowhu shop,6,8,1.3333333333333333
+correct,The chicken has gone to sleep,6,6,1.0
+correct,I bow down to him,5,6,1.2
+correct,Bidemi pakuta spoke to us,5,7,1.4
+correct,My breath blew my mind,5,6,1.2
+correct,It is dangerous,3,3,1.0
+correct,It is a snake that breathes,6,8,1.3333333333333333
+correct,He was chasing a rat,5,6,1.2
+correct,They have thrown stones at the teacher,7,9,1.2857142857142858
+correct,Adéoye arrived yesterday,3,6,2.0
+correct,Adisa has already warmed up,5,7,1.4
+correct,He was out of breath,5,5,1.0
+correct,He has taken a breather,5,6,1.2
+correct,Aduque is a smallpox,4,8,2.0
+correct,Sleep on the roof,4,4,1.0
+correct,Get off the roof,4,4,1.0
+correct,Dress up the Bird,4,4,1.0
+correct,Touch them,2,2,1.0
+correct,I was the one who followed the word,8,8,1.0
+correct,I am the one who watered it,7,8,1.1428571428571428
+correct,He wants to take my place,6,6,1.0
+correct,They are bowing down to Him,6,7,1.1666666666666667
+correct,They are burning on Him,5,6,1.2
+correct,He wanted to quit already,5,6,1.2
+correct,He wanted to go hand in hand,7,7,1.0
+correct,Dove is Fire,3,3,1.0
+correct,Lie down,2,2,1.0
+correct,Deji is a rat creature,5,6,1.2
+correct,It was Temitope who hit the top,7,9,1.2857142857142858
+correct,Temitophe did not move,4,6,1.5
+correct,I have drowned my enemies,5,8,1.6
+correct,I have been sleeping with the enemy,7,9,1.2857142857142858
+correct,Ojo is a witness,4,5,1.25
+correct,Who took your money in Oyo?,6,8,1.3333333333333333
+correct,The dead you love...,4,5,1.25
+correct,Adisa is tired,3,4,1.3333333333333333
+correct,My mouth is cold,4,4,1.0
+correct,He is the one who taught you,7,7,1.0
+correct,You have spoiled your breath,5,7,1.4
+wrong,The people of the city saw that Igbin was victorious,10,13,1.3
+wrong,Ishola is a pig in his house,7,8,1.1428571428571428
+wrong,Honor does not repair his house all the time,9,9,1.0
+wrong,His skin looks like the value he has just bought from the ocher land,14,15,1.0714285714285714
+wrong,Akekeele sent his friend Okete to heaven with his anger,10,14,1.4
+wrong,Bola ate two bags of beans before going to bed,10,12,1.2
+wrong,Bola had a spoonful of beauty before going to sleep,10,12,1.2
+wrong,Aduke is beautiful to all the men in the area,10,11,1.1
+wrong,Ekko's politicians are crooks,4,9,2.25
+wrong,Eco politicians are compassionate,4,7,1.75
+wrong,The tiger was tall and black as a bird,9,11,1.2222222222222223
+wrong,The child swam like a fish yesterday.,7,9,1.2857142857142858
+wrong,The child was born yesterday and went home.,8,9,1.125
+wrong,The orange leaves danced on the tree,7,10,1.4285714285714286
+wrong,"Time is running fast, and we can't wait for anyone",10,13,1.3
+wrong,"Time is running like a snail, and we can't wait for anyone",12,16,1.3333333333333333
+wrong,The heart of Xalápé is stone,6,9,1.5
+wrong,Çalápe's heart loves Amala,4,10,2.5
+wrong,Bolaji ate like a person who had not eaten for six years,12,15,1.25
+wrong,Fadeke's hands are as small as those of my brother who sells Cocoa,13,18,1.3846153846153846
+wrong,All cities do not agree that Aremu is a single city,11,12,1.0909090909090908
+wrong,The soup that Abeni cooks is like douyin,8,12,1.5
+wrong,Everyone you associate with is a liar,7,9,1.2857142857142858
+wrong,All the people you are friends with are free,9,9,1.0
+wrong,The venom of our teachers is like that of a snake,11,13,1.1818181818181819
+wrong,Our teachers have no problems,5,5,1.0
+wrong,What is the food we ate yesterday?,7,9,1.2857142857142858
+wrong,The clothes he wears are as old as the person who put them in the washing machine,17,19,1.1176470588235294
+wrong,There are no clothes that are cleaner than the ones I just washed this morning.,15,18,1.2
+wrong,"Today is Ojo, we all know that",7,9,1.2857142857142858
+wrong,We all know that Ojo is a fisherman,8,11,1.375
+wrong,All the grandmother's body is not really in the house,10,14,1.4
+wrong,Alamu saw the sea singing when he was coming home from work,12,14,1.1666666666666667
+wrong,Alamu saw the burning sea when he was coming home from work,12,14,1.1666666666666667
+wrong,Ashabi was barren for 30 years,6,8,1.3333333333333333
+wrong,Ashabi was a mother for 30 years,7,8,1.1428571428571428
+wrong,"Since childhood, Idowwu has not been interested in hunting",9,14,1.5555555555555556
+wrong,The head of Gbádébo was born on the top of the hill,12,15,1.25
+wrong,Ori Gbádébo has never seen the top of a mountain,10,13,1.3
+wrong,Bolaji's feet were as long as Oranmiyan's staff,8,16,2.0
+wrong,Bolaji's feet are as beautiful as those of a child,10,13,1.3
+wrong,The saddle was full of water,6,7,1.1666666666666667
+wrong,Adékunle was like a lizard,5,10,2.0
+wrong,The bolatitó is an elephant's coat,6,13,2.1666666666666665
+wrong,Bolatito is kind,3,5,1.6666666666666667
+wrong,Ajani is a heavenly person,5,7,1.4
+wrong,Abeke is a paramole,4,7,1.75
+wrong,Abeke is not Paramole,4,7,1.75
+wrong,Agbekek is a prayerful person,5,8,1.6
+wrong,Akara Gbadégeşin and his younger brother did not get along,10,16,1.6
+wrong,The sky was pregnant with about eleven cups of water before giving birth,13,14,1.0769230769230769
+wrong,Yesterday's sun hurt people like a fire,7,11,1.5714285714285714
+wrong,"Yemi's eyes can be like the eyes of a criminal, no one can talk to him",16,20,1.25
+wrong,Titilayo's clothes are like the clothes of the king of the house of love,14,18,1.2857142857142858
+wrong,Adolabi is a leper,4,7,1.75
+wrong,The contestant ran like the wind,6,7,1.1666666666666667
+wrong,The contestant ran like fire,5,6,1.2
+wrong,His lips were black like the lips of a weeder,10,11,1.1
+wrong,His lips are not black like the lips of one who pulls a forest,14,16,1.1428571428571428
+wrong,Folarin eats like a pig,5,7,1.4
+wrong,Dasofunjo is rich,3,6,2.0
+wrong,The tree with which the snake was killed turned into a weed tree,13,15,1.1538461538461537
+wrong,The tree with which the snake was killed spoke,9,10,1.1111111111111112
+wrong,Bolaj's mother said that Bolaj's father's son is doing well,10,18,1.8
+wrong,My father is Professor Walole Shoyinka,6,9,1.5
+wrong,The six-year-old boy was born to a chosen family,9,14,1.5555555555555556
+wrong,My Adédoyin love,3,6,2.0
+wrong,Underneath he puts on clothes like a person who has a cold,12,15,1.25
+wrong,He put on the new clothes he bought,8,8,1.0
+wrong,The world does not go away like a gun,9,9,1.0
+wrong,The world is like a star,6,6,1.0
+wrong,Your use has just started to get better,8,8,1.0
+wrong,He later failed the final exam,6,6,1.0
+wrong,"However, I fell asleep because the dog was killed by the family",12,14,1.1666666666666667
+wrong,But he didn't know.,4,7,1.75
+wrong,Ashake sat on the chair as if he had been stabbed,11,13,1.1818181818181819
+wrong,Ashaka broke the chair he had just bought,8,10,1.25
+wrong,The blade's eyes are like the eyes of a bat,10,12,1.2
+wrong,Oju Igè was full of laughter and joy,8,11,1.375
+wrong,He blinked and saw nothing,5,6,1.2
+wrong,Folarin's eyes are too big,5,8,1.6
+wrong,Bolabaithin is walking with his broken feet,7,9,1.2857142857142858
+wrong,The fever was almost deafening,5,9,1.8
+wrong,The reason for the students to remove the dust is like the hot water in the exam room,18,19,1.0555555555555556
+wrong,Adégbette burst into tears while arguing with Makinde's friend,9,18,2.0
+wrong,The driver died at the scene of the car accident,10,11,1.1
+wrong,The traveler bought a new car,6,7,1.1666666666666667
+wrong,Simisola's brother saw the birth of Adigun who did not leave the ground,13,17,1.3076923076923077
+wrong,Simisola's older brother has married Adigun's beautiful younger sister,9,16,1.7777777777777777
+wrong,"Eesuola and his friends will immediately take a bag, and the police will take them",15,18,1.2
+wrong,Eesula and her friends will dress beautifully and alike,9,12,1.3333333333333333
+wrong,A hunter who knows how to hunt is as good as a hunter,13,16,1.2307692307692308
+wrong,He who has a good ear does not get his money back,12,12,1.0
+wrong,The lawyer has been exposed to the curse of the matter in court,13,15,1.1538461538461537
+wrong,The people who were in the market used the police to take the father of the market yesterday,18,18,1.0
+wrong,Fadek has returned as a twin after all our fights,10,12,1.2
+wrong,These children have gone to the banana plantation,8,9,1.125
+wrong,He was sentenced to 11 years in prison on the charges against him.,13,15,1.1538461538461537
+wrong,After eleven years in prison he was released,8,8,1.0
+wrong,It was Tiféladé's mouth that gave birth to him,9,14,1.5555555555555556
+wrong,Tifalade did not know how they were flattered,8,12,1.5
+wrong,Why does Adesina act like a fool?,7,9,1.2857142857142858
+wrong,Why did Adésina buy a new house?,7,10,1.4285714285714286
+wrong,Look how Álaó stands still like the water of a river lake,12,15,1.25
+wrong,Look how Álaó stands like a King,7,10,1.4285714285714286
+wrong,It's been a week since Woléola has been in prison,10,14,1.4
+wrong,It has only been a week since His Highness went to the king's city,14,17,1.2142857142857142
+wrong,Adenifuja is the oldest in our group,7,11,1.5714285714285714
+wrong,Adenifuja is not an Ogreri in our group,8,13,1.625
+wrong,The brother wanted to leave and kill the King of Aláfin,11,13,1.1818181818181819
+wrong,The brother wanted to be beautiful,6,6,1.0
+wrong,People in the stadium who are about to play football,10,10,1.0
+wrong,The Nigerian ambassadors have won the World Cup,8,11,1.375
+wrong,Aremu doesn't like not to see God,7,10,1.4285714285714286
+wrong,"The hunter's fire shone, and he saw clearly",8,13,1.625
+wrong,Adesua hit the wall yesterday at the hospital,8,9,1.125
+wrong,Robba's wife cries uncontrollably at her husband's house after 11 years of marriage,13,22,1.6923076923076923
+wrong,Robba's wife cooked delicious food for her husband,8,14,1.75
+wrong,Adimula made dust for his teams,6,8,1.3333333333333333
+wrong,The government has given the brother a lot of money.,10,11,1.1
+wrong,My friends have finally gone to complain about what we did yesterday,12,12,1.0
+wrong,Moji baked six peanuts last night before going to bed,10,14,1.4
+wrong,"However, appeal to the Almighty for all those who are prevented from entering",13,18,1.3846153846153846
+wrong,Grandfather bowed after the money we made yesterday,8,11,1.375
+wrong,"If Okunola's hand doesn't do it, his mouth is full of anger",12,20,1.6666666666666667
+wrong,Okunola uses his handiwork to buy food for himself,9,13,1.4444444444444444
+wrong,The test that Dupé did yesterday was very difficult,9,10,1.1111111111111112
+wrong,Rónmu sounds like a rooster this morning,7,11,1.5714285714285714
+wrong,The blade of the blade that pierced my insides,9,11,1.2222222222222223
+wrong,I was hungry when I woke up,7,9,1.2857142857142858
+wrong,"I'm not hungry, I've eaten enough",6,13,2.1666666666666665
+wrong,I prefer not to play with Tife's dog,8,11,1.375
+wrong,Lolade gave a motivational speech to the students,8,10,1.25
+wrong,The crops of this farm are crying for water,9,11,1.2222222222222223
+wrong,The twins were devastated when their grandfather died,8,13,1.625
+wrong,The grandmother used a minute to put on the shoes,10,12,1.2
+wrong,Álamú came in like a thief last night while we were sleeping,12,15,1.25
+wrong,Segun's father's hair was cut in the middle of his head like Sethu's hair,14,22,1.5714285714285714
+wrong,Segun's father has become the governor of Sethu,8,13,1.625
+wrong,Many opportunities have opened up,5,5,1.0
+wrong,A camel's lip is like a camel's lip,8,14,1.75
+wrong,The beloved laughs like the one who has the right,10,12,1.2
+wrong,I want to go and pray in front of our church,11,12,1.0909090909090908
+wrong,International organizations have pointed the way to President Buhari for not taking care of the citizens,16,19,1.1875
+wrong,International organizations have given President Buhari a new mandate,9,11,1.2222222222222223
+wrong,The head of the Honorable One and his friends was empty,11,12,1.0909090909090908
+wrong,His Highness and his friends are too full,8,9,1.125
+wrong,All the people of the city have turned the Buhari president into a slap in the face,17,17,1.0
+wrong,All citizens love President Buhari,5,6,1.2
+wrong,The university has sent home the teacher who raped the student,11,12,1.0909090909090908
+wrong,The university has contributed to the salaries of our teachers,10,12,1.2
+wrong,Derinola's face is like that of a virgin,8,12,1.5
+wrong,Ladé has been working with the government,7,8,1.1428571428571428
+wrong,Adigung has been generous since childhood,6,9,1.5
+wrong,"When the sun passed away, a messenger called me",9,10,1.1111111111111112
+wrong,"When the children started fighting, the governor sent for me",10,12,1.2
+wrong,He was walking all over the street,7,7,1.0
+wrong,The road reached a plateau like Isola's road to Igegun,10,16,1.6
+wrong,I have bought a new house on Isola to Igegun road,11,14,1.2727272727272727
+wrong,The children that are born are empty,7,7,1.0
+wrong,Children who give birth are not empty-handed,7,10,1.4285714285714286
+wrong,The mother went out with difficulty and took her child who was about to fall into the cave,18,19,1.0555555555555556
+wrong,He gave birth to a son whom Elédunmarê did not know,11,15,1.3636363636363635
+wrong,Jibikee is cruel to men,5,7,1.4
+wrong,The food that Şadeh cooked was spoiled,7,12,1.7142857142857142
+wrong,Bolabadin made his life's sacrifice,5,9,1.8
+wrong,"I didn't even eat, I was so hungry that I was walking before I left the house.",17,22,1.2941176470588236
+wrong,Accused accused of murder while explaining to judge,8,11,1.375
+wrong,The defendant made a statement to the judge,8,9,1.125
+wrong,Déotí's father is dying today at noon,7,12,1.7142857142857142
+wrong,It's a dirty bottle that I don't use anymore,9,14,1.5555555555555556
+wrong,Bádégún held a group meeting yesterday to discuss the cost of living,12,14,1.1666666666666667
+wrong,"If a person eats food, he does not leave anything to the person who sold the food to him.",19,22,1.1578947368421053
+wrong,He happily shook hands after eating,6,9,1.5
+wrong,There are too many dusting ingredients in the market,9,10,1.1111111111111112
+wrong,It was a feast for the bride and groom at the wedding we went to yesterday,16,19,1.1875
+wrong,This child who is lying atus goes from the ig ba to walking with bad friends,16,19,1.1875
+wrong,This child has found a way out since he was walking with new friends,14,14,1.0
+wrong,The police have told the government to crack down on the matter.,12,13,1.0833333333333333
+wrong,His friends know where he is hiding,7,8,1.1428571428571428
+wrong,His friends know how he steals yams,7,9,1.2857142857142858
+wrong,Derelé does not put words under our tongues,8,10,1.25
+wrong,Ajikobi did not know how he died,7,10,1.4285714285714286
+wrong,They have put a curse on the matter that happened between a priest and a girl,16,18,1.125
+wrong,"Let's blame him, let's be like the law of Èdunmâre",10,20,2.0
+wrong,"You will not be angry, You will not be rude to Èdunmâre",12,18,1.5
+wrong,The channel has bought a new car,7,7,1.0
+wrong,CÓ has not come close to talking to him,9,10,1.1111111111111112
+wrong,It is very important to come and eat,8,8,1.0
+wrong,Álibi has become king,4,5,1.25
+wrong,Adelani was patiently waiting,4,6,1.5
+wrong,Olulawale eat boiled rice,4,8,2.0
+wrong,He dismissed the matter,4,6,1.5
+wrong,The teacher has reached the ground,6,6,1.0
+wrong,The teacher has reached the top,6,6,1.0
+wrong,I have moved the kangari,5,6,1.2
+wrong,A woman is good,4,4,1.0
+wrong,Honor is sweet,3,3,1.0
+wrong,The crown scares me,4,6,1.5
+wrong,The crown has listened to the matter,7,9,1.2857142857142858
+wrong,"If the son of Bé knows how to eat, he will eat it",13,14,1.0769230769230769
+wrong,The son of Dé does not know his hand,9,9,1.0
+wrong,Ojo works like a turtle,5,7,1.4
+wrong,Giving instead of giving thanks,5,6,1.2
+wrong,Afuni over the river thought,5,6,1.2
+wrong,He kept him busy until midnight,6,7,1.1666666666666667
+wrong,He hired him until tomorrow,5,6,1.2
+wrong,He is getting stronger,4,5,1.25
+wrong,He became quieter,3,4,1.3333333333333333
+wrong,He used to lend to his customers,7,8,1.1428571428571428
+wrong,He flew around,3,4,1.3333333333333333
+wrong,You will kiss like a knife,6,8,1.3333333333333333
+wrong,You will drink like a milk drinker,7,8,1.1428571428571428
+wrong,Ajadi pressed the old clothes,5,7,1.4
+wrong,The elders have prayed for Ajadí,6,10,1.6666666666666667
+wrong,A foreigner can do it unfortunately,6,9,1.5
+wrong,"We do not lie, we are interested in the story",10,11,1.1
+wrong,A barrister,2,3,1.5
+wrong,Goodness,1,2,2.0
+wrong,Ojó refrains from dressing,4,7,1.75
+wrong,Don't let the tall tree pierce my face,8,11,1.375
+wrong,A tall tree cannot pierce my face,7,8,1.1428571428571428
+wrong,Awele eats spitting earth,4,7,1.75
+wrong,Shepherd,1,3,3.0
+wrong,A god does not leave empty-handed,6,9,1.5
+wrong,Our house is going soft,5,5,1.0
+wrong,A snake is involved in this matter,7,8,1.1428571428571428
+wrong,Seeking God is the word,5,6,1.2
+wrong,Jegúdúgerá is Ajaní,3,8,2.6666666666666665
+wrong,My father was shocked,4,5,1.25
+wrong,The day is not the same as yesterday,8,8,1.0
+wrong,He was very impatient to drink water,7,8,1.1428571428571428
+wrong,We will pour the yam to the bottom of the pot,11,12,1.0909090909090908
+wrong,We will beat him,4,4,1.0
+wrong,The entrant is exhausted,4,6,1.5
+wrong,The visitor is calm,4,5,1.25
+wrong,Kábíyési licked Álibi's nose,4,12,3.0
+wrong,Wedding in Adeola,3,4,1.3333333333333333
+wrong,Adeola is a flat plate,5,6,1.2
+wrong,Ayinla created Ajala tomorrow,4,7,1.75
+wrong,All of you go to three,6,6,1.0
+wrong,The boss gave the employee a lot of money and a promotion,12,12,1.0
+wrong,Adéyami kágidímí like a phoenix Ibo,6,16,2.6666666666666665
+wrong,The bird is as calm as the morning water,9,10,1.1111111111111112
+wrong,He is worthy,3,4,1.3333333333333333
+wrong,Kheinde agreed with God on the matter,7,9,1.2857142857142858
+wrong,Dél lost the euro when he complained to the police,10,11,1.1
+wrong,Délé stood still when he called the police,8,9,1.125
+wrong,It has been a pain in the ass,8,8,1.0
+wrong,He has been kind to the rich,7,7,1.0
+wrong,His luck was about to be overstated,7,9,1.2857142857142858
+wrong,His luck is short,4,4,1.0
+wrong,Please remove the potter's plate,5,8,1.6
+wrong,They put Adeyemi's face in front of the King,9,13,1.4444444444444444
+wrong,Why are you breathing?,4,6,1.5
+wrong,Fight forward for me,4,4,1.0
+wrong,Say so and do so in Táyé,7,9,1.2857142857142858
+wrong,An elderly person who works hard,6,8,1.3333333333333333
+wrong,It is pouring into the bottom of the basket,9,10,1.1111111111111112
+wrong,He saw it,3,3,1.0
+wrong,The people from the bottom are getting angry,8,9,1.125
+wrong,The people of the mountains are having fun,8,9,1.125
+wrong,Lakariboto is Oshola,3,8,2.6666666666666665
+wrong,Ishola is a human horse,5,6,1.2
+wrong,He had stepped inside,4,5,1.25
+wrong,He was bleeding inside,4,6,1.5
+wrong,They finally gave up,4,4,1.0
+wrong,The fire stopped,3,3,1.0
+wrong,We will talk down,4,4,1.0
+wrong,This word is watery,4,5,1.25
+wrong,This word is a parent's pride,6,8,1.3333333333333333
+wrong,"The bucket broke, and the water spilled again",8,12,1.5
+wrong,Is it like grain?,4,5,1.25
+wrong,This work is direct,4,4,1.0
+wrong,A generous blessing,3,5,1.6666666666666667
+wrong,Blessings,1,3,3.0
+wrong,Aintlá is coming over you in Ílorin,7,11,1.5714285714285714
+wrong,Salawa looked his boss in the eye,7,8,1.1428571428571428
+wrong,What we have has been multiplied,6,7,1.1666666666666667
+wrong,The horse in the book is Roppo,7,8,1.1428571428571428
+wrong,The chicken chows down,4,5,1.25
+wrong,The chickens are touching each other,6,8,1.3333333333333333
+wrong,Bimpé's hand pressed the hilt of the sword,8,15,1.875
+wrong,Bimpé is an ant under a shoe,7,10,1.4285714285714286
+wrong,Addisá greeted Okété,3,7,2.3333333333333335
+wrong,He was shot by the police yesterday,7,7,1.0
+wrong,Don't give me too much,5,7,1.4
+wrong,Let's get excited about it,5,7,1.4
+wrong,Be more flexible,3,3,1.0
+wrong,The Mother of the Universe is God,7,7,1.0
+wrong,Ajadi saw Ayoy's eyes widening,5,10,2.0
+wrong,Ajadi saw the water of Ayoy's mercy,7,12,1.7142857142857142
+wrong,You will touch it,4,4,1.0
+wrong,You will fly down,4,4,1.0
+wrong,I did not meet Awele at home,7,8,1.1428571428571428
+wrong,Awële is a virgin,4,6,1.5
+wrong,The chicken jumped out of the basket,7,8,1.1428571428571428
+wrong,The chicken crossed the honey bridge,6,8,1.3333333333333333
+wrong,Adéwale has crushed the corn,5,8,1.6
+wrong,The wheat has yielded abundantly,5,10,2.0
+wrong,The dead of night is possible,6,6,1.0
+wrong,The capital is emphasizing,4,6,1.5
+wrong,Capital is hiding,3,4,1.3333333333333333
+wrong,Akinsanya is a cow,4,7,1.75
+wrong,Akinsanya is the unstoppable one,5,9,1.8
+wrong,Say thank you to people,5,5,1.0
+wrong,The first customer,3,3,1.0
+wrong,Otabiyi has stopped wearing a veil,6,9,1.5
+wrong,Otabiyi has become a living dance,6,8,1.3333333333333333
+wrong,Ayka wanted to speak,4,5,1.25
+wrong,It used to be dug to the river,8,8,1.0
+wrong,He came out as an eight-day-old child,7,11,1.5714285714285714
+wrong,He was silent as a man,6,6,1.0
+wrong,Don't let me cum on the oil,7,9,1.2857142857142858
+wrong,The crown makes it hard for us,7,8,1.1428571428571428
+wrong,The crown is washing words as it really is,9,11,1.2222222222222223
+wrong,He listened to my advice,5,6,1.2
+wrong,There was a flash in the face of Ajani,9,10,1.1111111111111112
+wrong,He wears you,3,4,1.3333333333333333
+wrong,Adigun burned Ayo's face,4,8,2.0
+wrong,He was touching me,4,5,1.25
+wrong,The child was born,4,4,1.0
+wrong,The child froze,3,4,1.3333333333333333
+wrong,Ádísá is an ordinary person,5,8,1.6
+wrong,We die satisfied,3,3,1.0
+wrong,We died of hunger,4,6,1.5
+wrong,No one cares,3,4,1.3333333333333333
+wrong,Heavenly Father,2,3,1.5
+wrong,The teacher was speechless,4,5,1.25
+wrong,Joy is a model,4,4,1.0
+wrong,Joy is a negative skull,5,5,1.0
+wrong,The client has eaten up,5,6,1.2
+wrong,Plant in Dada,3,4,1.3333333333333333
+wrong,Asha is Dada,3,4,1.3333333333333333
+wrong,The chicken breathed its last,5,6,1.2
+wrong,It's a simple matter,4,6,1.5
+wrong,Darkness,1,2,2.0
+wrong,She grew up to be a teenager,7,8,1.1428571428571428
+wrong,Kheinde fell into the hands of Idowwu,7,11,1.5714285714285714
+wrong,They burned down the capital,5,6,1.2
+wrong,They were rescued from the President,6,8,1.3333333333333333
+wrong,There is fat in the yolk,6,7,1.1666666666666667
+wrong,Goodbye has filled us in the world,7,9,1.2857142857142858
+wrong,I did not ignore him,5,5,1.0
+wrong,It's a dream,3,5,1.6666666666666667
+wrong,Planting in Idowû,3,6,2.0
+wrong,Dollars are wages,3,5,1.6666666666666667
+wrong,A dove is a dollar,5,5,1.0
+wrong,It is wise to carry,5,6,1.2
+wrong,They have killed the teacher,5,5,1.0
+wrong,Adeoye always clicked on the page,6,9,1.5
+wrong,Adisa is too old to dream,6,7,1.1666666666666667
+wrong,Dayo is a lizard,4,7,1.75
+wrong,Dayo is a dove,4,5,1.25
+wrong,A dove is a dove,5,5,1.0
+wrong,The word is a cancer for me,7,7,1.0
+wrong,Fish is the word for me,6,6,1.0
+wrong,Cut a tree for him,5,6,1.2
+wrong,You smell,2,2,1.0
+wrong,Clothes don't fit anymore,4,8,2.0
+wrong,Touch it,2,2,1.0
+wrong,He wants to be on top of me,8,8,1.0
+wrong,Many people have passed away,5,5,1.0
+wrong,Many people are born again,5,5,1.0
+wrong,Culture is Fire,3,3,1.0
+wrong,Raise your head,3,4,1.3333333333333333
+wrong,That child returned to the cross,6,6,1.0
+wrong,That child stood back,4,4,1.0
+wrong,Deji never answered,3,4,1.3333333333333333
+wrong,Tayo is a mouthful,4,6,1.5
+wrong,Tayo is a guard dog,5,6,1.2
+wrong,Stop forward,2,2,1.0
+wrong,Lean forward,2,2,1.0
+wrong,Ojo eats elephant food,4,8,2.0
+wrong,Okolo l'Oyo is the third party,6,10,1.6666666666666667
+wrong,The dead you buried...,4,6,1.5
+wrong,Addisá laya,2,4,2.0
+wrong,My mouth is dry,4,4,1.0
+wrong,He was the one who hugged me,7,8,1.1428571428571428
+wrong,You have made up your mind,6,6,1.0
+wrong,He is driving me crazy,5,5,1.0
+wrong,He was taking me to the town we just bought,10,10,1.0
+wrong,Ájádí is the one who is tired,7,9,1.2857142857142858
+wrong,Ajadí washed the dishes,4,7,1.75

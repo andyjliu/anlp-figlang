@@ -1,0 +1,1100 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Children are angels,3,4,1.3333333333333333
+correct,He is an animal.,4,5,1.25
+correct,His words are like a knife,6,7,1.1666666666666667
+correct,His words are like a piano,6,6,1.0
+correct,His smile lights up the whole room,7,8,1.1428571428571428
+correct,His smile was full of menace like a small sparrow holding an axe,13,15,1.1538461538461537
+correct,I am in a pool of happiness,7,7,1.0
+correct,I am drowning in a sea of ​​sorrow,8,11,1.375
+correct,"Their love is on fire""",5,7,1.4
+correct,"Their love is like fire in the wind""",8,10,1.25
+correct,This rice tastes like it was cooked in a hotel,10,12,1.2
+correct,The exam was like a piece of cake,8,8,1.0
+correct,The test was like a prison sentence,7,7,1.0
+correct,Mzamiru passed the ruler,4,7,1.75
+correct,Feisal passed the charcoal,4,8,2.0
+correct,Youth is the nation of tomorrow,6,6,1.0
+correct,Your voice is music to my ears,7,8,1.1428571428571428
+correct,Love is like a grain of flour in rice,9,10,1.1111111111111112
+correct,Youth is smoke,3,4,1.3333333333333333
+correct,Youth is a long journey,5,5,1.0
+correct,His statement cut me off,5,5,1.0
+correct,This phase will have an ax cutting championship,8,11,1.375
+correct,This phase will have a handicap championship,7,8,1.1428571428571428
+correct,"Sandra, you are the light of my eyes",8,9,1.125
+correct,"Unlike the existing concept, the mother is the pillar of the family",12,15,1.25
+correct,Marriages will become rare in the near future,8,10,1.25
+correct,There will be marriage in the near future,8,8,1.0
+correct,Love is war,3,3,1.0
+correct,Love is cake,3,3,1.0
+correct,The luck of the partner should sleep with the door open,11,11,1.0
+correct,This young man has a soul of gold,8,8,1.0
+correct,The young man has a rusty soul,7,8,1.1428571428571428
+correct,His life is like a compass,6,7,1.1666666666666667
+correct,His life is like a chicken with its head cut off,11,11,1.0
+correct,His movement is like a giraffe,6,7,1.1666666666666667
+correct,His gait is that of a duck,7,9,1.2857142857142858
+correct,Kindness is a treasure,4,5,1.25
+correct,His eyes grew like a river in summer.,8,10,1.25
+correct,He felt a drumming in his chest,7,9,1.2857142857142858
+correct,He felt his chest freeze like ice,7,10,1.4285714285714286
+correct,He looted my purse and walked like a snail,9,12,1.3333333333333333
+correct,They argued until they grabbed each other's shirts,8,13,1.625
+correct,Scabies dreams of someone without nails,6,10,1.6666666666666667
+correct,The body sweats,3,4,1.3333333333333333
+correct,"Aisha, close your bowl!",4,7,1.75
+correct,"Aisha, just keep on mouthing",5,8,1.6
+correct,The ogre knew that it was not eaten,8,10,1.25
+correct,Hassani does his thing like a turtle,7,9,1.2857142857142858
+correct,Hassani does his things like he is being rushed,9,11,1.2222222222222223
+correct,Your problem is you like to die yourself,8,8,1.0
+correct,The test became difficult until the head began to boil,10,11,1.1
+correct,"Even if you grew up full of mud in your head, you could take the test",16,18,1.125
+correct,The smell of his feet was enough to kill mosquitoes,10,13,1.3
+correct,His words were enough to fill the ocean,8,8,1.0
+correct,His words didn't even last a second,7,9,1.2857142857142858
+correct,My grandfather grew like a mustard seed,7,12,1.7142857142857142
+correct,They like to keep their affairs in the dark,9,10,1.1111111111111112
+correct,They like to pour rice on a lot of chicken,10,10,1.0
+correct,An economist in the sun cries in the sun,9,11,1.2222222222222223
+correct,His whole life is like thorns.,6,9,1.5
+correct,His whole life is like bread and tea.,8,9,1.125
+correct,Time is a friend.,4,5,1.25
+correct,Their wedding was in full swing,6,7,1.1666666666666667
+correct,Their wedding turned out to be a disaster,8,10,1.25
+correct,I went to demand my money from him but he still continued to bring me politics,16,17,1.0625
+correct,I went to demand my money from him and he did not talk about politics,15,16,1.0666666666666667
+correct,You will reap what you sow,6,8,1.3333333333333333
+correct,You can plant a coconut and harvest a snot,9,12,1.3333333333333333
+correct,God's word is sufficient light,5,8,1.6
+correct,The rain poured down furiously,5,7,1.4
+correct,The rain just winked,4,5,1.25
+correct,Youth is like water,4,4,1.0
+correct,She shed tears of blood after being informed of her mother's death,12,17,1.4166666666666667
+correct,The news of his mother's death became like a guitar song for him,13,15,1.1538461538461537
+correct,An artist is a mirror of society,7,7,1.0
+correct,An artist is a mirror in his room,8,8,1.0
+correct,George Foreman grew up with an iron fist,8,12,1.5
+correct,He seemed different from others like a foreign chicken,9,9,1.0
+correct,He seemed to be on par with others like a zebra.,11,12,1.0909090909090908
+correct,The wind howled,3,4,1.3333333333333333
+correct,Their mother has a very foul mouth,7,9,1.2857142857142858
+correct,Their mother has good words like the bible,8,10,1.25
+correct,Don't be lukewarm,3,6,2.0
+correct,He promised that he would contribute and became white,9,10,1.1111111111111112
+correct,He is as bald as a Sahara desert,8,8,1.0
+correct,Borrowing is a wedding,4,6,1.5
+correct,He has black blood,4,4,1.0
+correct,The young man has a good spirit as a teacher.,10,11,1.1
+correct,Ali is a rabbit,4,5,1.25
+correct,He was as gentle as a sheep.,7,10,1.4285714285714286
+correct,Humans are like chameleons,4,7,1.75
+correct,He works like a bee,5,6,1.2
+correct,The lamp gives light like a big fire in the middle of the night,14,14,1.0
+correct,The lamp emits light as a large black hole in the center of the vacuum.,15,17,1.1333333333333333
+correct,The suit grew as big as a Nuclear bomb,9,11,1.2222222222222223
+correct,The voice grew smaller like a slow song.,8,10,1.25
+correct,The armor became as hard as steel,7,8,1.1428571428571428
+correct,The armor became as flimsy as plastic.,7,11,1.5714285714285714
+correct,The doll is well cared for like a child,9,11,1.2222222222222223
+correct,The doll is poorly cared for like trash,8,12,1.5
+correct,The plate cracked and appeared like a half moon in the sky,12,14,1.1666666666666667
+correct,He is as attractive as a Greek god,8,8,1.0
+correct,This film has the depth of Lake Tanganyika,8,9,1.125
+correct,The room has as little space left as the city.,10,11,1.1
+correct,Alcohol made him feel like death,6,8,1.3333333333333333
+correct,The alcohol made him feel like he had licked honey,10,11,1.1
+correct,The music grew beautiful and soft as a Feather.,9,13,1.4444444444444444
+correct,The music grew rough and tough like yesterday's bread.,9,13,1.4444444444444444
+correct,"To him, Making money was like Oxygen",7,11,1.5714285714285714
+correct,"For him, making money became like a noose.",8,11,1.375
+correct,The boy grew up as quiet as a small child,10,11,1.1
+correct,The boy screamed like a train,6,8,1.3333333333333333
+correct,Money is the soap of the soul.,7,9,1.2857142857142858
+correct,Money is a killer.,4,6,1.5
+correct,It smells good like mango juice from the fig tree,10,13,1.3
+correct,It smells like a burning tire,6,8,1.3333333333333333
+correct,He had the wealth of King Suleiman,7,9,1.2857142857142858
+correct,It's so cold it's like we've been dumped in Antarctica,10,19,1.9
+correct,The weather is like we've been showered with Lava,9,12,1.3333333333333333
+correct,His waist is the width of a stick,8,10,1.25
+correct,His waist is the width of a baobab.,8,12,1.5
+correct,He flew up like a Grasshopper,6,9,1.5
+correct,He jumped up like a turtle,6,8,1.3333333333333333
+correct,The movie was scary as a clown.,7,10,1.4285714285714286
+correct,The movie was as scary as a good doll.,9,12,1.3333333333333333
+correct,The problem was as small as a mouse,8,8,1.0
+correct,The problem was as big as an elephant,8,10,1.25
+correct,the job was as easy as pushing a drunkard.,9,13,1.4444444444444444
+correct,The work was as hard as pushing a wall,9,10,1.1111111111111112
+correct,Peace is like a human walking,6,6,1.0
+correct,He carried it like a mother carrying her child,9,10,1.1111111111111112
+correct,I'm as hungry as a Lion,6,9,1.5
+correct,I am not as hungry as the Python who swallowed his prey.,12,17,1.4166666666666667
+correct,Their expectations melted like ice.,5,9,1.8
+correct,Their expectations ran high like clockwork.,6,10,1.6666666666666667
+correct,His thoughts were as solid as Concrete,7,8,1.1428571428571428
+correct,His thoughts were as fragile as glass.,7,9,1.2857142857142858
+correct,His life is like a pen without ink,8,9,1.125
+correct,His life is like the country's budget,7,9,1.2857142857142858
+correct,Love is the world.,4,5,1.25
+correct,On the day of the competition he ran like a tiger,11,12,1.0909090909090908
+correct,Happiness is medicine,3,5,1.6666666666666667
+correct,Happiness is not a medicine,5,7,1.4
+correct,Education is the ocean,4,4,1.0
+correct,My friend is a red flower,6,7,1.1666666666666667
+correct,My friend is a black flower,6,7,1.1666666666666667
+correct,The conversation became as short as a cigarette,8,8,1.0
+correct,The conversation was as long as a case of baboon.,10,12,1.2
+correct,The young man loves religion as a pastor,8,9,1.125
+correct,The young man does not like religion like a heathen,10,11,1.1
+correct,That player doesn't have the lungs of a dog,9,12,1.3333333333333333
+correct,My friend has a memory like a library.,8,10,1.25
+correct,My friend has the brain of a bug.,8,9,1.125
+correct,A boy is water in a jar,7,7,1.0
+correct,The boy is like he has been smeared,8,10,1.25
+correct,The teacher planted the seed of wisdom,7,9,1.2857142857142858
+correct,The teacher did not plant the seed of wisdom,9,10,1.1111111111111112
+correct,This car is a rocket,5,6,1.2
+correct,This car is a snail,5,6,1.2
+correct,People are overflowing with celebrations,5,8,1.6
+correct,He came with an army of children,7,8,1.1428571428571428
+correct,He came with a group of children,7,7,1.0
+correct,A promise is a debt,5,5,1.0
+correct,I have broken the chains of debt,7,8,1.1428571428571428
+correct,I am still in debt,5,5,1.0
+correct,His head is in the clouds,6,7,1.1666666666666667
+correct,He is a goat's tail,5,9,1.8
+correct,My house is like an oven,6,6,1.0
+correct,His words comfort my heart,5,5,1.0
+correct,We do not cook the same pot,7,7,1.0
+correct,Me and my little brother are a ring and a finger,11,11,1.0
+correct,He is a potato,4,5,1.25
+correct,He is the head,4,4,1.0
+correct,My friend is painting me a lawn,7,8,1.1428571428571428
+correct,My friend is peppering me,5,6,1.2
+correct,Mother is a bed,4,4,1.0
+correct,Alfred went to test and was found to be electrocuted,10,12,1.2
+correct,Alfred went to test but no electricity was found,9,10,1.1111111111111112
+correct,The MP is a flag that follows the wind,9,10,1.1111111111111112
+correct,The member of parliament has a bronze position,8,11,1.375
+correct,Life has become a headache,5,6,1.2
+correct,Life has become soft,4,4,1.0
+correct,Paying for evil is burning coals,6,10,1.6666666666666667
+correct,His friend is very fond of mouse paths,8,9,1.125
+correct,College students don't like to hit the water,8,10,1.25
+correct,Hypocrites will anoint you,4,7,1.75
+correct,He likes to keep his affairs in line,8,10,1.25
+correct,He likes to twist his things,6,7,1.1666666666666667
+correct,Rain fell on his back during practice,7,7,1.0
+correct,"They like to accompany you, you will think sorry",9,11,1.2222222222222223
+correct,They don't like to stick together like siafu,8,11,1.375
+correct,In this case we have taken off the shirt,9,10,1.1111111111111112
+correct,Your mind is like a vegetable,6,7,1.1666666666666667
+correct,"She can't get married, she's still a chick",8,14,1.75
+correct,"He can get married, he's already married",7,10,1.4285714285714286
+correct,This student is stubborn,4,6,1.5
+correct,This student has a light head,6,6,1.0
+correct,I have washed my hands of these things,8,9,1.125
+correct,These things I have sealed,5,6,1.2
+correct,His clothes every day are strong cotton,7,7,1.0
+correct,His clothes are rags every day,6,7,1.1666666666666667
+correct,My condition is like walking on thorns,7,9,1.2857142857142858
+correct,Abu is my son,4,4,1.0
+correct,Abu is not my son,5,5,1.0
+correct,He became cold after being shocked that he was alone on the road,13,14,1.0769230769230769
+correct,He didn't get cold even when he was shocked that he was alone on the road,16,19,1.1875
+correct,Relatives are hyenas,3,6,2.0
+correct,"If you meet him on the racetrack, like a horse",10,12,1.2
+correct,"If you find him on the racetrack, like a turtle",10,13,1.3
+correct,He is a feather,4,6,1.5
+correct,He is a rock,4,4,1.0
+correct,He drew me like a magnet,6,6,1.0
+correct,He pushed me like a hurricane,6,9,1.5
+correct,He is a chicken,4,4,1.0
+correct,He is a leopard,4,4,1.0
+correct,We did not ax property,5,6,1.2
+correct,His wife is charcoal,4,6,1.5
+correct,His voice is silky,4,5,1.25
+correct,His voice is like a frog,6,7,1.1666666666666667
+correct,My brother is a mule,5,6,1.2
+correct,My friend is an owl,5,6,1.2
+correct,It had the speed of the water of the tunnel,10,10,1.0
+correct,It had bullet speed,4,5,1.25
+correct,Juma has a goat's ear,5,8,1.6
+correct,Tap water is the banyan's grave,6,9,1.5
+correct,Love is honey,3,3,1.0
+correct,Love is a sermon,4,5,1.25
+correct,He is an animal,4,4,1.0
+correct,He is an angel,4,4,1.0
+correct,The girl was a butterfly,5,6,1.2
+correct,Kenya is paradise,3,4,1.3333333333333333
+correct,Kenya is hell,3,3,1.0
+correct,His heart is big,4,4,1.0
+correct,His heart is small,4,4,1.0
+correct,My work is a problem,5,5,1.0
+correct,My work is pleasure,4,4,1.0
+correct,I'm crazy about it,4,6,1.5
+correct,The project is young,4,4,1.0
+correct,The project is a veteran,5,5,1.0
+correct,He has the spirit of a lion,7,8,1.1428571428571428
+correct,He is gentle as a turtle,6,8,1.3333333333333333
+correct,You are my star,4,4,1.0
+correct,You are my darkness,4,5,1.25
+correct,pay the sails,3,4,1.3333333333333333
+correct,The stranger is a black chicken,6,7,1.1666666666666667
+correct,His friend is a sheep,5,6,1.2
+correct,He is as tall as a giraffe,7,8,1.1428571428571428
+correct,He is as short as a gnome,7,8,1.1428571428571428
+correct,He was left in the streets by the brother,9,10,1.1111111111111112
+correct,He reconciled with her in public,6,8,1.3333333333333333
+correct,He is a leopard,4,4,1.0
+correct,he is a turtle,4,5,1.25
+correct,There are rats among us,5,6,1.2
+correct,there is cotton among us,5,5,1.0
+correct,Laughter is medicine,3,5,1.6666666666666667
+correct,Resentment is poison,3,6,2.0
+correct,This room is a prison,5,5,1.0
+correct,This room is paradise,4,5,1.25
+correct,Ali has a soul of gold,6,6,1.0
+correct,Ali has the spirit of a hyena,7,8,1.1428571428571428
+correct,your words cut like a knife,6,7,1.1666666666666667
+correct,your words are soft as cotton,6,6,1.0
+correct,our love is as light as mucus,7,8,1.1428571428571428
+correct,Brenda walked like a peacock,5,6,1.2
+correct,Brenda walked like a chicken,5,5,1.0
+correct,I can eat horses,4,5,1.25
+correct,it's as cold as refrigerator water,6,9,1.5
+correct,it's hot as hell,4,6,1.5
+correct,he is as calm as water in a jar,9,9,1.0
+correct,The Lord is my rock,5,5,1.0
+correct,the lord is not my rock,6,7,1.1666666666666667
+correct,the stepmother has been fierce as a crocodile,8,13,1.625
+correct,stepmother has been light as paper,6,8,1.3333333333333333
+correct,Anita is the light of their family,7,7,1.0
+correct,Anita is the darkness of their family,7,8,1.1428571428571428
+correct,Lessons have become rocks,4,6,1.5
+correct,the sky was clear,4,4,1.0
+correct,We heard the murmur of the river,7,8,1.1428571428571428
+correct,We heard the calmness of the river,7,8,1.1428571428571428
+correct,He is in good health,5,5,1.0
+correct,he has the flowers of life,6,6,1.0
+correct,he has no flowers of life,6,6,1.0
+correct,most of the world is just blue,7,7,1.0
+correct,he tasted honey in his mouth,6,7,1.1666666666666667
+correct,he did not taste honey in his mouth,8,8,1.0
+correct,rivers of pain flowed through him,6,8,1.3333333333333333
+correct,rivers of joy flowed through him,6,8,1.3333333333333333
+correct,the elephants of his body seduced him,7,11,1.5714285714285714
+correct,The elephants on his body were not attractive,8,10,1.25
+correct,he felt a drum in his chest,7,8,1.1428571428571428
+correct,he did not feel the drum in his chest,9,10,1.1111111111111112
+correct,two emeralds shone in his eyes,6,9,1.5
+correct,two emeralds did not shine in his eyes,8,10,1.25
+correct,his eyes were blue wells,5,6,1.2
+correct,his eyes were not blue wells,6,7,1.1666666666666667
+correct,his mouth was silent,4,4,1.0
+correct,love is violence,3,3,1.0
+correct,your voice is music to my ears,7,8,1.1428571428571428
+correct,your voice is not music to my ears,8,9,1.125
+correct,his eyes are sapphire blue,5,7,1.4
+correct,his eyes are not blue,5,5,1.0
+correct,His arms are a safe harbor,6,7,1.1666666666666667
+correct,his hands are not safe harbors,6,8,1.3333333333333333
+correct,my thoughts are like a crazy mother,7,7,1.0
+correct,my thoughts are not like a crazy mother,8,8,1.0
+correct,his disciples are olive branches,5,8,1.6
+correct,your skin is silk,4,5,1.25
+correct,his skin is not silk,5,6,1.2
+correct,his voice is not sweet,5,5,1.0
+correct,he had nerves of steel,5,6,1.2
+correct,he had light nerves,4,5,1.25
+correct,the silver moon shone in the sky,7,9,1.2857142857142858
+correct,the silver moon did not shine in the sky,9,10,1.1111111111111112
+correct,so that the city is a whirlwind of chaos,9,12,1.3333333333333333
+correct,so that the city is not a whirlwind of chaos,10,13,1.3
+correct,My lamp is tired,4,4,1.0
+correct,my light shines,3,4,1.3333333333333333
+correct,to the mill of love,5,5,1.0
+correct,for little love,3,3,1.0
+correct,his body has white mountains,5,6,1.2
+correct,your eyes are dry land,5,5,1.0
+correct,those pulses are poor,4,5,1.25
+correct,your hands are my comforter,5,6,1.2
+correct,your hands are my sorrow,5,6,1.2
+correct,he loves her like a necklace and a ring,9,12,1.3333333333333333
+correct,he hates him as a thief,6,8,1.3333333333333333
+correct,Ali is a rhinoceros,4,7,1.75
+correct,he is coal,3,4,1.3333333333333333
+correct,his father has been in the army,7,8,1.1428571428571428
+correct,his father has been quiet,5,5,1.0
+correct,his sister has become bald,5,5,1.0
+correct,your child has become a pigeon,6,7,1.1666666666666667
+correct,Mwelusi is a slave,4,6,1.5
+correct,Mwelusi is not a slave,5,7,1.4
+correct,He has become a hyena,5,6,1.2
+correct,my love is not a pigeon,6,7,1.1666666666666667
+correct,the man is a rhinoceros,5,8,1.6
+correct,a man is not a rhinoceros,6,9,1.5
+correct,he is a tick,4,5,1.25
+correct,he is not a tick,5,6,1.2
+correct,his friend is not abunuasi,5,7,1.4
+correct,the mother is chiriku,4,6,1.5
+correct,the mother is not chiriku,5,7,1.4
+correct,The judge made things clear in the afternoon,8,8,1.0
+correct,the judge has become dark,5,5,1.0
+correct,He has become bitter after failing the exam,8,9,1.125
+correct,he has become a palm tree after getting the money,10,10,1.0
+correct,he has not been a palm tree,7,7,1.0
+correct,that food is spiritual,4,4,1.0
+correct,that food is waste,4,5,1.25
+correct,the food tastes like honey,5,6,1.2
+correct,the food tastes like husks,5,7,1.4
+correct,the stomach medicine is honey,5,5,1.0
+correct,that sack of coal is an anchor,7,10,1.4285714285714286
+correct,the sack is a feather,5,8,1.6
+correct,that ship is the field of hell,7,7,1.0
+correct,that car is the eye of a needle,8,9,1.125
+correct,after passing the exam he has become a fisherman,9,12,1.3333333333333333
+correct,the artist is not a parrot,6,7,1.1666666666666667
+correct,farmers have become owls,4,7,1.75
+correct,he burst out laughing like thunder,6,9,1.5
+correct,he did not burst into laughter like thunder,8,11,1.375
+correct,The stepmother has been a long time dragon,8,11,1.375
+correct,stepmother has become a flower,5,8,1.6
+correct,his children have been at home,6,6,1.0
+correct,his children have not been at home,7,7,1.0
+correct,His grandmother has become an angel,6,8,1.3333333333333333
+correct,his enemy has become an elephant,6,10,1.6666666666666667
+correct,the maid has become a dog,6,7,1.1666666666666667
+correct,the soldier has become a coward,6,8,1.3333333333333333
+correct,that artist is a star,5,5,1.0
+correct,the artist is not a star,6,6,1.0
+correct,his wife has been an early bird,7,8,1.1428571428571428
+correct,his wife was not an early bird,7,8,1.1428571428571428
+correct,life is a highway,4,5,1.25
+correct,life is not a highway,5,6,1.2
+correct,he was a dog with a bone,7,7,1.0
+correct,that gentleman is a good shepherd,6,8,1.3333333333333333
+correct,that gentleman is not a good shepherd,7,9,1.2857142857142858
+correct,our soldiers were lions in battle,6,8,1.3333333333333333
+correct,our soldiers were crows in war,6,8,1.3333333333333333
+correct,This picture is a star.,5,6,1.2
+correct,This picture is a dream.,5,6,1.2
+correct,This movie is a big forest.,6,8,1.3333333333333333
+correct,This movie is an open book.,6,7,1.1666666666666667
+correct,That girl is an angel when she sings.,8,10,1.25
+correct,The girl is a train coming off the tracks as she sings.,12,15,1.25
+correct,This project is like a long awaited rain.,8,12,1.5
+correct,This project is like a nightmare.,6,8,1.3333333333333333
+correct,His words are medicine.,4,5,1.25
+correct,His words are poison.,4,6,1.5
+correct,My friend is chiruki.,4,7,1.75
+correct,My friend is water in a jar.,7,8,1.1428571428571428
+correct,The brother is a good Samaritan.,6,8,1.3333333333333333
+correct,His brother is a fox.,5,7,1.4
+correct,The stranger is like the setting sun.,7,9,1.2857142857142858
+correct,The stranger is like an accident.,6,8,1.3333333333333333
+correct,My teacher has a heart of gold.,7,8,1.1428571428571428
+correct,My teacher has a heart of stone.,7,9,1.2857142857142858
+correct,Our home is a free bird.,6,8,1.3333333333333333
+correct,Our home is a prison.,5,6,1.2
+correct,His words are honey whenever he speaks.,7,9,1.2857142857142858
+correct,His voice is like a whisper.,6,9,1.5
+correct,His voice is like a thunder storm.,7,9,1.2857142857142858
+correct,The athlete is a cheetah.,5,9,1.8
+correct,The athlete is a turtle,5,7,1.4
+correct,The food was ice cold.,5,7,1.4
+correct,This player is a giraffe.,5,7,1.4
+correct,Jana was a king.,4,5,1.25
+correct,Jana was the apple of sad eyes behind the veil.,10,12,1.2
+correct,The trip was a walk in the park.,8,9,1.125
+correct,The journey was a weight on my shoulders.,8,10,1.25
+correct,He is as true as the gospel.,7,9,1.2857142857142858
+correct,This song is sunshine.,4,7,1.75
+correct,This song is like watching paint dry.,7,8,1.1428571428571428
+correct,His son is Musa.,4,5,1.25
+correct,He has the heart of a lion.,7,9,1.2857142857142858
+correct,He has the heart of a chicken.,7,8,1.1428571428571428
+correct,This book is gold.,4,5,1.25
+correct,This book is a bad egg.,6,7,1.1666666666666667
+correct,My friend is king Solomon.,5,6,1.2
+correct,My friend is a church mouse.,6,7,1.1666666666666667
+correct,The math question in the exam was vegetables.,8,9,1.125
+correct,The math question in the exam was rocky.,8,10,1.25
+correct,This sword is a razor.,5,8,1.6
+correct,Their love was fine wine.,5,7,1.4
+correct,Their love was a battlefield.,5,8,1.6
+correct,Money is the soap of the soul.,7,9,1.2857142857142858
+correct,Money is a great enemy.,5,8,1.6
+correct,That child is a peacock.,5,7,1.4
+correct,That child is like a young man caught running away from home.,12,13,1.0833333333333333
+correct,The boy was a sheep.,5,7,1.4
+correct,His mother is a lioness.,5,8,1.6
+correct,His mother is a lamb.,5,7,1.4
+correct,My neighbor is an angel.,5,6,1.2
+correct,My neighbor is the devil.,5,7,1.4
+correct,His companion is the frog at the bottom of the well.,11,13,1.1818181818181819
+correct,Maths is a bright afternoon.,5,7,1.4
+correct,The subject of mathematics is a dark night.,8,11,1.375
+correct,The boy is a hungry baby.,6,8,1.3333333333333333
+correct,His clothes are like clove ointment.,6,10,1.6666666666666667
+correct,His clothes are like a sore.,6,7,1.1666666666666667
+correct,That is the apple of my eye.,7,8,1.1428571428571428
+correct,That one is poison.,4,6,1.5
+correct,That footballer is a star.,5,7,1.4
+correct,This book is as new as the beginning of the day.,11,12,1.0909090909090908
+correct,Their friendship is like a ring and a ring.,9,11,1.2222222222222223
+correct,Their friendship is like that of a dog and a cat.,11,13,1.1818181818181819
+correct,He is a flute.,4,6,1.5
+correct,He is a pig.,4,5,1.25
+correct,The stepmother has become a crocodile.,6,11,1.8333333333333333
+correct,His things are glass.,4,5,1.25
+correct,His affairs are dark.,4,6,1.5
+correct,That child is a snot.,5,7,1.4
+correct,Today is like the Kalahari.,5,7,1.4
+correct,That employee is an apostle.,5,8,1.6
+correct,Pain is an ax that cuts my heart.,8,11,1.375
+correct,Pain is good music for my soul.,7,8,1.1428571428571428
+correct,This tea is cold as death.,6,7,1.1666666666666667
+correct,Uncle is as happy as a bird in the spring.,10,13,1.3
+correct,Uncle is as angry as a bull with a scarf on his face.,13,17,1.3076923076923077
+correct,Their relationship is like early summer.,6,8,1.3333333333333333
+correct,These pens are like two peas in a pod.,9,11,1.2222222222222223
+correct,Life is a party.,4,5,1.25
+correct,Life is a battlefield.,4,6,1.5
+correct,They are dogs.,3,5,1.6666666666666667
+correct,They are rats.,3,5,1.6666666666666667
+correct,Father's shoes are perfume.,4,7,1.75
+correct,Dad's shoes are trash.,4,8,2.0
+correct,Tonight the sky is a blanket of stars.,8,12,1.5
+correct,Tonight the sky is a weekday church.,7,10,1.4285714285714286
+correct,That girl is a thorn among roses.,7,10,1.4285714285714286
+correct,This chair is a kitten.,5,7,1.4
+correct,The party was a zoo.,5,6,1.2
+correct,The party was a forgotten song.,6,7,1.1666666666666667
+correct,The test was a breeze.,5,7,1.4
+correct,The story is like the cry of a child being born.,11,12,1.0909090909090908
+correct,The story is like death.,5,6,1.2
+correct,These trees are like the sun.,6,8,1.3333333333333333
+correct,These trees are like winter rain.,6,8,1.3333333333333333
+correct,That boy is a hyena.,5,7,1.4
+correct,This child is a snake in the grass.,8,11,1.375
+correct,That girl is as calm as the fields of Heaven.,10,12,1.2
+correct,That girl is a drama queen.,6,8,1.3333333333333333
+correct,This house is like the world.,6,7,1.1666666666666667
+correct,This phone is like a gun without a trigger.,9,10,1.1111111111111112
+correct,She is a mother's voice.,5,8,1.6
+correct,He is death.,3,4,1.3333333333333333
+correct,This student is a bear.,5,6,1.2
+correct,This stick is like a shooting star.,7,8,1.1428571428571428
+correct,The man was a gorilla.,5,7,1.4
+correct,The man was an egg.,5,6,1.2
+correct,This load is like a feather.,6,9,1.5
+correct,This burden is like an anchor.,6,9,1.5
+correct,Her baby is like a new pin.,7,8,1.1428571428571428
+correct,His child is like a pig.,6,7,1.1666666666666667
+correct,These eggs are honey.,4,6,1.5
+correct,He was like a bear.,5,6,1.2
+correct,He was like an abandoned ship.,6,8,1.3333333333333333
+correct,He was like a movie star.,6,7,1.1666666666666667
+correct,The door was like an iron belt.,7,10,1.4285714285714286
+correct,The door was like a bay.,6,7,1.1666666666666667
+correct,The table was like a lily.,6,8,1.3333333333333333
+correct,The table was like oak bark.,6,9,1.5
+correct,They are the tongue and the teeth.,7,10,1.4285714285714286
+correct,That child is a boy who dreamed of Teeth.,9,12,1.3333333333333333
+correct,That child is bereaved.,4,7,1.75
+correct,His skin is silk.,4,6,1.5
+correct,His skin is stone,4,5,1.25
+correct,My parents are like elephants.,5,8,1.6
+correct,My parents are like old ladies.,6,8,1.3333333333333333
+correct,Farmers' crops are like sunshine.,5,11,2.2
+correct,Farmers' crops are like feathers on fish.,7,13,1.8571428571428572
+correct,He was in a place like a king's palace.,9,13,1.4444444444444444
+correct,He was in a place like a prison.,8,9,1.125
+correct,The place he was placed was in paradise.,8,10,1.25
+correct,The place where he was placed was hell.,8,9,1.125
+correct,His words were like a ruler.,6,8,1.3333333333333333
+correct,His words were like fish taken out of water.,9,10,1.1111111111111112
+correct,They witnessed freedom like a bird in the sky.,9,12,1.3333333333333333
+correct,They witnessed slavery as Israelites.,5,9,1.8
+correct,His words were rain for the farmer.,7,8,1.1428571428571428
+correct,His words were sarcastic.,4,7,1.75
+correct,The film was like medicine for the patient.,8,9,1.125
+correct,The movie was like a drug.,6,7,1.1666666666666667
+correct,This daughter is Moses.,4,5,1.25
+correct,His speech was like a penny.,6,8,1.3333333333333333
+correct,He walked out of the hospital like a king.,9,10,1.1111111111111112
+correct,He came out of the hospital like a Buffalo with a thorn.,12,14,1.1666666666666667
+correct,Her kiss was like that of a mother to her son.,11,13,1.1818181818181819
+correct,His kiss was like that of Judas Iscariot to Jesus.,10,15,1.5
+correct,The weeding place was the sea.,6,9,1.5
+correct,The weeding point was a needle hole.,7,11,1.5714285714285714
+correct,His words were like a smile.,6,7,1.1666666666666667
+correct,His words were like a riddle.,6,8,1.3333333333333333
+correct,This athlete is a cheetah.,5,9,1.8
+correct,This athlete is a turtle.,5,8,1.6
+correct,The priest's robe is charcoal.,5,11,2.2
+correct,He was like quick money to tell lies.,8,10,1.25
+correct,This movie is like a rose.,6,7,1.1666666666666667
+correct,This movie is like an itch.,6,8,1.3333333333333333
+correct,The earth was like the sun.,6,7,1.1666666666666667
+correct,The land was like winter rain.,6,7,1.1666666666666667
+correct,The seedlings were like a snail coming out of its shell.,11,16,1.4545454545454546
+correct,He was a lion.,4,6,1.5
+correct,She was a maid.,4,6,1.5
+correct,The room was like a flame.,6,8,1.3333333333333333
+correct,The room was like a tomb.,6,8,1.3333333333333333
+correct,This furniture is like a star.,6,7,1.1666666666666667
+correct,The student was like the breath of a small wind.,10,11,1.1
+correct,The student was like a volcanic eruption.,7,12,1.7142857142857142
+correct,The wind was like a pillar.,6,8,1.3333333333333333
+correct,He was like a guardian angel.,6,8,1.3333333333333333
+correct,He was like a seed that fell on stones.,9,12,1.3333333333333333
+correct,His shirt is a coal pit.,6,9,1.5
+correct,They are like a bell and its ringing.,8,10,1.25
+correct,This floor is like a snake.,6,8,1.3333333333333333
+correct,This election is a virgin's vows.,6,10,1.6666666666666667
+correct,This election is to give the judge wisdom just because he is dressed differently from other men.,17,20,1.1764705882352942
+correct,The police were just as respectful.,6,8,1.3333333333333333
+correct,"The police were like the judges of the history of frontiers, they first hang a prisoner and then try him.",20,25,1.25
+correct,This dog is a lion.,5,7,1.4
+correct,This dog is a crow.,5,7,1.4
+correct,It was like a May morning.,6,7,1.1666666666666667
+correct,The banking area is like a prince in his castle.,10,13,1.3
+correct,Those buildings are a column of light.,7,11,1.5714285714285714
+correct,Those buildings are stone age.,5,8,1.6
+correct,It was like a mother's dream of her child.,9,12,1.3333333333333333
+correct,That girl is David.,4,5,1.25
+correct,That girl is a sacred temple that has been stolen.,10,13,1.3
+correct,The weather is like a perfect storm.,7,8,1.1428571428571428
+correct,He was comforted as a baby.,6,8,1.3333333333333333
+correct,He was given sorrows like floods raised in small streams by sudden rain.,13,19,1.4615384615384615
+correct,He moved from one second to the next.,8,9,1.125
+correct,This house is cotton.,4,5,1.25
+correct,This house is a dump.,5,7,1.4
+correct,His letter was like a mother and her son.,9,10,1.1111111111111112
+correct,The letter was like a frozen fight.,7,9,1.2857142857142858
+correct,The trip was like the sun after the rain.,9,10,1.1111111111111112
+correct,The trip was like a cock in a pond.,9,11,1.2222222222222223
+correct,This young man is like something guilty.,7,8,1.1428571428571428
+correct,He was like the sun in the spring.,8,9,1.125
+correct,He was like a cat.,5,6,1.2
+correct,The boy was like a grenadier.,6,9,1.5
+correct,The boy was like a grasshopper.,6,9,1.5
+correct,His voice was like a night dream of a mute who had had enough of a song.,17,19,1.1176470588235294
+correct,He is a good housekeeper.,5,7,1.4
+correct,He is the wind.,4,5,1.25
+correct,He was like Abraham.,4,5,1.25
+correct,He was like a locust.,5,7,1.4
+correct,They were ants.,3,5,1.6666666666666667
+correct,They were chaff before the wind.,6,8,1.3333333333333333
+correct,He sat as a camel leader.,6,8,1.3333333333333333
+correct,The guard was a dream in the grave.,8,9,1.125
+correct,My brother was like a spanked child.,7,9,1.2857142857142858
+correct,That is the holy truth.,5,7,1.4
+correct,That is a rough sea.,5,6,1.2
+correct,They fled like grass before the scythe.,7,12,1.7142857142857142
+correct,This room is the voice of the auctioneer.,8,11,1.375
+correct,"Dad, it's noon.",3,7,2.3333333333333335
+correct,This place is like a market.,6,7,1.1666666666666667
+correct,This house is like the world.,6,7,1.1666666666666667
+correct,All animals are alive as the vision of life to be.,11,13,1.1818181818181819
+correct,He is Samson.,3,5,1.6666666666666667
+correct,Kimani has an iron soul,5,7,1.4
+correct,Kimani has a spirit like a Chicken,7,8,1.1428571428571428
+correct,I love Mary like the apple of my eye,9,9,1.0
+correct,I love Maria like a cat loves water,8,9,1.125
+correct,Neighbor's child is Tumbo Karai,5,11,2.2
+correct,The Neighbor's Kid loves food like an anorexic,8,16,2.0
+correct,Makena was shining like an angel,6,8,1.3333333333333333
+correct,Makena was as bright as a wandering goat,8,11,1.375
+correct,Jane is a tight hand with money,7,7,1.0
+correct,Maria's child is Kichwa Maji in the class,8,11,1.375
+correct,Maria's child shines like the sun in the classroom,9,12,1.3333333333333333
+correct,We ate sweet food like honey at Otieno,8,11,1.375
+correct,He grew as tall as a mast,7,8,1.1428571428571428
+correct,He grew short as a hammer,6,8,1.3333333333333333
+correct,His car is gold,4,4,1.0
+correct,His car is as valuable as second-hand clothes,8,10,1.25
+correct,Onyango has been like clouds in the sky,8,11,1.375
+correct,Kipchoge is lead,3,5,1.6666666666666667
+correct,Kipchoge is a snail,4,7,1.75
+correct,He grew fat like a pig,6,7,1.1666666666666667
+correct,"He did not eat, he is thin as a needle",10,13,1.3
+correct,He was lucky enough to get a scholarship to study in Europe,12,13,1.0833333333333333
+correct,He had the fortune of a thief in his forties,10,13,1.3
+correct,Maria flew up like a Masai,6,8,1.3333333333333333
+correct,Maria jumped up like a turtle,6,8,1.3333333333333333
+correct,He had milky white teeth,5,7,1.4
+correct,He had teeth as white as darkness,7,9,1.2857142857142858
+correct,His house was as cold as ice when we entered,10,12,1.2
+correct,Her house was warm as iron when we entered,9,11,1.2222222222222223
+correct,Angelina looked at us with frog eyes,7,8,1.1428571428571428
+correct,Medicines in the Nairobi hospital are as painful as sermons,10,13,1.3
+correct,Nairobi movies are as expensive as gold,7,7,1.0
+correct,Nairobi cinemas are as expensive as second-hand clothes,8,11,1.375
+correct,Bank doors in the city are as small as the eye of a needle,14,16,1.1428571428571428
+correct,Bank doors in the city are as wide as a football field,12,13,1.0833333333333333
+correct,"When you are in Nakuru, Kitengela is as far as the distance between the eyes",15,19,1.2666666666666666
+correct,Soccer boys are as stupid as sheep for studies,9,10,1.1111111111111112
+correct,Sofia and Fred had a ring and a ring,9,9,1.0
+correct,The Indian Ocean is sparkling like a Peacock this Christmas season,11,13,1.1818181818181819
+correct,Qatar is as bright as the sky for the world cup,11,11,1.0
+correct,I was furious when I was forced to go to Naivasha,11,14,1.2727272727272727
+correct,Do not grow a goat's tail on the instructions of your parents,12,16,1.3333333333333333
+correct,You should obey your parents' instructions,6,8,1.3333333333333333
+correct,Dandora residents are as careless as ticks,7,10,1.4285714285714286
+correct,Dandora residents are as diligent as ants,7,9,1.2857142857142858
+correct,A Chemistry subject is as calm as a jug of water,11,12,1.0909090909090908
+correct,Students make noise like Chiriku during the Chemistry lesson,9,15,1.6666666666666667
+correct,Hell's Gate is hidden as a secret in a rift valley,11,15,1.3636363636363635
+correct,Hell's Gate is a place as clear as day in the rift valley,13,17,1.3076923076923077
+correct,Kipchoge shone like the sky in the world race,9,12,1.3333333333333333
+correct,The presidential palace is perfume day and night,8,10,1.25
+correct,The presidential palace smells like an ulcer day and night,10,14,1.4
+correct,Those choir members have a voice like a piano,9,10,1.1111111111111112
+correct,Those choir members have voices as bad as frogs,9,13,1.4444444444444444
+correct,I trust my wife like a heart,7,7,1.0
+correct,I guarantee my wife as a waste,7,8,1.1428571428571428
+correct,Bernard had Eagle eyes for Maria's misdeeds,7,12,1.7142857142857142
+correct,My neighbor is the devil,5,6,1.2
+correct,My neighbor has a good soul like an angel,9,9,1.0
+correct,Lois' uncle eats like a hyena,6,10,1.6666666666666667
+correct,Our neighbor has many children like siafu,7,8,1.1428571428571428
+correct,Our neighbor has children as rare as chicken milk,9,9,1.0
+correct,The water wells in Marsabit and Moyale have dried up like a disaster,13,19,1.4615384615384615
+correct,The water wells in Marsabit and Moyale have water like lake Victoria,12,16,1.3333333333333333
+correct,The students stand as strong as the backbone when the flag is raised,13,14,1.0769230769230769
+correct,Students wave like waves when the flag is raised,9,12,1.3333333333333333
+correct,The meeting of teachers was years and years,8,8,1.0
+correct,The teachers' meeting was delayed like a thunderclap,8,14,1.75
+correct,Maria is the doctor of my heart,7,7,1.0
+correct,Maria is a hot metal to my heart,8,8,1.0
+correct,Wangari refused to follow our explanation like a dead ear,10,12,1.2
+correct,Wangari obeyed our description like a king's maid,8,14,1.75
+correct,"I loved Jeptoo, I became his shadow",7,10,1.4285714285714286
+correct,I loved Jeptoo but we ran away from each other like the sun and the moon,16,19,1.1875
+correct,His presence is as soothing as perfume to me,9,10,1.1111111111111112
+correct,His presence is as calm as a branch in a storm,11,12,1.0909090909090908
+correct,Alice's father is pepper,4,6,1.5
+correct,Chokoraa of Nairobi have roamed like Mbwakoko,7,12,1.7142857142857142
+correct,Chokoraa of Nairobi are calm today like a sleeping child,10,12,1.2
+correct,Kenyan music was as sympathetic as the bereaved,8,13,1.625
+correct,Kenyan music was as sympathetic as winning the Lotto,9,13,1.4444444444444444
+correct,Dennis walks slowly like a bride going to school,9,11,1.2222222222222223
+correct,His house was as warm as a stove,8,9,1.125
+correct,His house was as warm as a refrigerator,8,9,1.125
+correct,His sister is as big as an elephant,8,10,1.25
+correct,His sister is as big as the eye of a needle,11,12,1.0909090909090908
+correct,His faith was as strong as iron,7,8,1.1428571428571428
+correct,His faith was as strong as a stick holding an elephant,11,13,1.1818181818181819
+correct,The questions were vegetables,4,4,1.0
+correct,Those questions were rocks,4,5,1.25
+correct,The young man's eyes were red as blood,8,10,1.25
+correct,He loved to eat food and chili like an Indian,10,10,1.0
+correct,He was as smart as a fish,7,7,1.0
+correct,For him it was hot as hell,7,7,1.0
+correct,To him it was as warm as the bottom of the sea,12,12,1.0
+correct,His living room was as slippery as butter,8,9,1.125
+correct,His living room was as slippery as pebbles,8,11,1.375
+correct,He liked me like syrup,5,7,1.4
+correct,He delayed us by having tortoise legs,7,11,1.5714285714285714
+correct,He did not delay us by having legs like Swara's,10,15,1.5
+correct,He was sunburned like a stone crusher all day,9,13,1.4444444444444444
+correct,"As the test approached, Otieno changed",6,10,1.6666666666666667
+correct,"As the test approached, Otieno remained an ant",8,13,1.625
+correct,His hopes soared like a bird when he heard the news,11,14,1.2727272727272727
+correct,His hopes rose like gravel when he got the news,10,12,1.2
+correct,Mother Aziza and her sister were shillings for each other,10,13,1.3
+correct,Mother Otis loved her husband's kiss like honey,8,12,1.5
+correct,Sandra prepared us a meal as sweet as honey,9,9,1.0
+correct,Beatrice trusted her husband as a servant condemned to death,10,14,1.4
+correct,Wafula was as brave as a soldier walking in the dark,11,15,1.3636363636363635
+correct,Wafula walked in the dark as brave as a sheep being led to the slaughter,15,21,1.4
+correct,Maria entered me smelling of perfume like a queen's daughter,10,15,1.5
+correct,Maria came in to me smelling like a rained sheep,10,13,1.3
+correct,Dennis was quick as a bullet,6,7,1.1666666666666667
+correct,The police suspected you of being a thief,8,10,1.25
+correct,The police cannot suspect you when you are as calm as the sea,13,13,1.0
+correct,Garissa is windy like a beach,6,8,1.3333333333333333
+correct,Garissa is full of wind like inside a well,9,10,1.1111111111111112
+correct,Citizens crowded like sand to listen to the president,9,11,1.2222222222222223
+correct,Citizens came out in large numbers like cow's eggs to praise the president,13,19,1.4615384615384615
+correct,MPs are as corrupt as the police,7,9,1.2857142857142858
+correct,Lesly is as fickle as a Chameleon,7,11,1.5714285714285714
+correct,Beatrice defied the conditions like a goat played with a piano,11,15,1.3636363636363635
+correct,Beatrice defied the conditions as the queen's bodyguard,8,15,1.875
+correct,You finished school and became famous as the president of the country,12,12,1.0
+correct,His spirit was a locked lock,6,7,1.1666666666666667
+correct,His soul was a sunny afternoon,6,7,1.1666666666666667
+correct,Anette has soft hands like a pillow,7,9,1.2857142857142858
+correct,Anette has hands as smooth as gravel,7,9,1.2857142857142858
+correct,"Alas! Benjamin, You are as quick as a siafu carrying a stew",12,18,1.5
+correct,Look at her face shining like a star,8,9,1.125
+correct,"When Olentuku's arrow was stolen, he felt sorry for himself as an orphan",13,21,1.6153846153846154
+correct,"When Olentuku's arrow was stolen, he felt sorry for himself like a king's son",14,23,1.6428571428571428
+correct,Khalid gives a golden smile when he sees Michelle,9,10,1.1111111111111112
+correct,Mkora was as clever as a monkey when he stole from us,12,15,1.25
+correct,Mkora was as smart as a sheep when he tried to steal from us,14,17,1.2142857142857142
+correct,Tony has small feet like a siafu,7,8,1.1428571428571428
+correct,Maria was worried like a child who lost her mother's money,11,13,1.1818181818181819
+correct,We are advised to be as careful as a doctor when crossing the road,14,17,1.2142857142857142
+correct,They are as careful as drunkards when crossing the street,10,14,1.4
+correct,He was stone when he tried to talk to her,10,11,1.1
+correct,The Bride walked like a peacock,6,8,1.3333333333333333
+correct,The bride walked like a drunk,6,8,1.3333333333333333
+correct,His journey was Mount Kilimanjaro,5,5,1.0
+correct,His journey was as long as a hair,8,8,1.0
+correct,"When the thief was caught, he was hit like a football",11,13,1.1818181818181819
+correct,"When the thief was caught, he was beaten like a child is beaten to sleep",15,19,1.2666666666666666
+correct,The police have the spirit of the devil,8,9,1.125
+correct,The police have the spirit of a child,8,8,1.0
+correct,Jane has a soft face like wheat,7,8,1.1428571428571428
+correct,Jane is as tough as a frog,7,8,1.1428571428571428
+correct,Tom's brother has a sense of smell like a fish,10,12,1.2
+correct,Mutuku is standing like a chief's banner,7,10,1.4285714285714286
+correct,Mutuku is standing upright like a pusher on a windy day,11,15,1.3636363636363635
+correct,Antony deep well is an airport,6,7,1.1666666666666667
+correct,Antony's deep well is a hut,6,10,1.6666666666666667
+correct,"Maria has no position, it is a flag",8,9,1.125
+correct,"Maria is firm, she is the backbone",7,9,1.2857142857142858
+correct,Antony was raised to be strong like a lion,9,11,1.2222222222222223
+correct,Yesterday I was stuck like glue,6,9,1.5
+correct,"When Janice got home, she ate like a pig",9,12,1.3333333333333333
+correct,Many prisoners are made to work like donkeys as punishment,10,15,1.5
+correct,Many prisoners are employed as house cats,7,10,1.4285714285714286
+correct,The corrupt in the government are being carried around like a crate of eggs,14,17,1.2142857142857142
+correct,Don't overwork and then sleep like a cat,8,11,1.375
+correct,Henry has long legs like an ostrich,7,9,1.2857142857142858
+correct,"When he suspected us, he looked at us with sharp eyes like an eagle",14,17,1.2142857142857142
+correct,Gerad studied and learned a lot about the Internet,9,11,1.2222222222222223
+correct,The spirit of faith is a forest,7,8,1.1428571428571428
+correct,The spirit of faith is the sun of the day,10,10,1.0
+correct,Onyango is a microphone,4,7,1.75
+correct,Kimani pointed at his lover as a donkey,8,11,1.375
+correct,He found the hall packed like a voting line,9,11,1.2222222222222223
+correct,He found the hall as full as a desert,9,9,1.0
+correct,Rossie was as violent as a child who refused to eat,11,13,1.1818181818181819
+correct,He wore a coal-white rind on his baptism day,9,15,1.6666666666666667
+correct,John's grandmother left early to go to work,8,12,1.5
+correct,Leah has beautiful shoes like diamonds,6,9,1.5
+correct,Leah has beautiful shoes like coal,6,8,1.3333333333333333
+correct,"His wife does not like noise, she likes to be cuddled like a child",14,19,1.3571428571428572
+correct,"His wife does not like noise, she likes to be pampered like a prisoner",14,20,1.4285714285714286
+correct,His job application took time like a thunderclap,8,11,1.375
+correct,They attacked the thief like rain when Gikomba was arrested,10,15,1.5
+correct,He was hurt like a thief beaten by a mob,10,12,1.2
+correct,Sofia's husband is as cruel as a rebel,8,10,1.25
+correct,He brought us a troublesome child like a monkey,9,11,1.2222222222222223
+correct,As a child I loved to roam around like a dog,11,12,1.0909090909090908
+correct,"When she gave birth, she became responsible as a student sitting the national exam",14,15,1.0714285714285714
+correct,"When she gave birth, she became responsible as a chocora",10,13,1.3
+correct,"When he fell, he became as weak as ice exposed to the sun",13,17,1.3076923076923077
+correct,He expected to live as long as the valleys and rivers,11,13,1.1818181818181819
+correct,Janet is a rose,4,5,1.25
+correct,The news of his death spread like the wind,9,9,1.0
+correct,The senator's home is as beautiful as heaven,8,10,1.25
+correct,The senator's house is bad as hell,7,9,1.2857142857142858
+correct,Jamal is a stone if you try to convince him,10,11,1.1
+correct,Jamal is as persuasive as the wind,7,8,1.1428571428571428
+correct,Ivan is as tall as a giraffe,7,8,1.1428571428571428
+correct,Ivan is as tall as a fingernail,7,9,1.2857142857142858
+correct,The poor of Kenya wear rags like a choker,9,11,1.2222222222222223
+correct,Jane's baby is light as paper,6,8,1.3333333333333333
+correct,Nairobi school children are razor sharp,6,7,1.1666666666666667
+correct,Nairobi school children are sheep,5,6,1.2
+correct,Maria's belly grew as big as a planet when she got pregnant,12,16,1.3333333333333333
+correct,Lotto winner is as rich as the president,8,8,1.0
+correct,Lotto winner becomes as rich as a shoemaker,8,11,1.375
+correct,The gate of the Kasarani field is as wide as the sea,12,13,1.0833333333333333
+correct,The entrance to the Kasarani field is as wide as a needle's eye,13,18,1.3846153846153846
+correct,"When he gets angry, he becomes fiery like steam",9,14,1.5555555555555556
+correct,"When he gets angry, he is as fiery as ice",10,14,1.4
+correct,James' living room is red as blood,7,8,1.1428571428571428
+correct,James' living room is red as milk,7,8,1.1428571428571428
+correct,You should be alert like a night watchman so you don't get robbed in Nairobi,15,19,1.2666666666666666
+correct,White parties tend to have strong drinks like lemonade,9,11,1.2222222222222223
+correct,White parties have strong drinks like honey,7,8,1.1428571428571428
+correct,Our neighbor has a mind as empty as a barrel,10,11,1.1
+correct,Love should be as peaceful as the evening sun,9,10,1.1111111111111112
+correct,Police dogs are as dangerous as lightning,7,9,1.2857142857142858
+correct,Police dogs are as dangerous as rabbits,7,9,1.2857142857142858
+correct,The days of Christmas are approaching like a tooth to another,11,13,1.1818181818181819
+wrong,This rice tastes like it was cooked at home,9,11,1.2222222222222223
+wrong,The youth will marry the nation,6,7,1.1666666666666667
+wrong,Your voice is like chiriku,5,7,1.4
+wrong,Love is a cough,4,5,1.25
+wrong,Life is like porridge,4,5,1.25
+wrong,"Life is not a game, it is a war",9,10,1.1111111111111112
+wrong,His statement grew like cold water in the throat,9,12,1.3333333333333333
+wrong,"Sandra, you are like a sermon in my mouth",9,11,1.2222222222222223
+wrong,"Unlike the existing concept, the mother is the breadwinner of the family",12,16,1.3333333333333333
+wrong,"The luck of the partner, don't sleep with the door open",11,14,1.2727272727272727
+wrong,Kindness is not tennis,4,5,1.25
+wrong,His eyes grew like a river in spring.,8,10,1.25
+wrong,He grabbed my bag and dusted it off,8,10,1.25
+wrong,They argued sacredly,3,6,2.0
+wrong,There are no lengths without ends,6,8,1.3333333333333333
+wrong,Your problem is that you really like to be chewed,10,11,1.1
+wrong,The smell of his feet would be perfect for making perfume,11,11,1.0
+wrong,My grandfather grew up to be a man of four squares,11,16,1.4545454545454546
+wrong,A farmer in the sun cries in the shade,9,11,1.2222222222222223
+wrong,Time is not a friend.,5,6,1.2
+wrong,His words came out of his mouth,7,7,1.0
+wrong,God's word is a car without oil,7,9,1.2857142857142858
+wrong,Youth hot water,3,3,1.0
+wrong,George Foreman grew up with a female fist,8,11,1.375
+wrong,The wind passed whispering to him,6,9,1.5
+wrong,Love to be warm,4,4,1.0
+wrong,He promised that he would contribute and then went into the trees.,12,15,1.25
+wrong,He has no chest.,4,6,1.5
+wrong,He has a chest.,4,6,1.5
+wrong,His hair is as thick as the grass of a football field.,12,15,1.25
+wrong,Paying is a breeze,4,6,1.5
+wrong,Humans are as predictable as a thief's eye.,8,14,1.75
+wrong,He works like a rooster,5,7,1.4
+wrong,The glass cracked and looked like a spider's web,9,13,1.4444444444444444
+wrong,He looks like a joker,5,6,1.2
+wrong,This movie is deep.,4,5,1.25
+wrong,The room is as big as a farm,8,8,1.0
+wrong,He had the wealth of Kibarua,6,8,1.3333333333333333
+wrong,Peace is like a human being,6,6,1.0
+wrong,He carried it like stool,5,6,1.2
+wrong,Love is like pouring water into the sea,8,9,1.125
+wrong,On the day of the competition he ran like a chameleon,11,13,1.1818181818181819
+wrong,Workers are working like ants,5,7,1.4
+wrong,Employees work individually like cheetahs,5,12,2.4
+wrong,Education is a river,4,4,1.0
+wrong,That player has the lungs of a dog,8,9,1.125
+wrong,Life has played tricks on me,6,7,1.1666666666666667
+wrong,I have scored a goal in life,7,8,1.1428571428571428
+wrong,People have gone into celebration,5,5,1.0
+wrong,A promise is a gift,5,5,1.0
+wrong,My home is like a fridge,6,7,1.1666666666666667
+wrong,His words pierce my heart,5,6,1.2
+wrong,Mother is not a bed,5,5,1.0
+wrong,The guy was out of gunpowder,6,9,1.5
+wrong,The guy stood up like a mast when he met the rapists,12,13,1.0833333333333333
+wrong,Paying for evil is self-harm,5,10,2.0
+wrong,His friend has drunk flag water,6,7,1.1666666666666667
+wrong,College students love to swim,5,5,1.0
+wrong,Hypocrites will not anoint you,5,8,1.6
+wrong,Dryness spread across his back during practice,7,8,1.1428571428571428
+wrong,"In this case, we are in trouble",7,8,1.1428571428571428
+wrong,Your mind is like a fox,6,7,1.1666666666666667
+wrong,My condition is just a slip,6,6,1.0
+wrong,Relatives are not hyenas,4,7,1.75
+wrong,We axed all the properties,5,7,1.4
+wrong,His wife is snow,4,4,1.0
+wrong,My brother is not a mule,6,7,1.1666666666666667
+wrong,My friend is a bat,5,5,1.0
+wrong,We are like the earth and the sky,8,8,1.0
+wrong,We are like underwear and socks,6,8,1.3333333333333333
+wrong,Juma has the ear of an elephant,7,9,1.2857142857142858
+wrong,Tap water is the banyan's grave,6,9,1.5
+wrong,The girl was local,4,4,1.0
+wrong,I have a crush on him,6,6,1.0
+wrong,Borrowing a wedding,3,5,1.6666666666666667
+wrong,The guest is a white chicken,6,6,1.0
+wrong,His friend is a rabbit,5,6,1.2
+wrong,our love is as beautiful as flowers,7,7,1.0
+wrong,I will eat a chameleon,5,7,1.4
+wrong,he has many things like a rabbit,7,8,1.1428571428571428
+wrong,lessons have been paper,4,4,1.0
+wrong,the sky was coal white,5,6,1.2
+wrong,he dreamed an eternal dream,5,7,1.4
+wrong,most of the world is green,6,6,1.0
+wrong,his mouth was fresh fruit,5,5,1.0
+wrong,love is not violence,4,4,1.0
+wrong,his disciples are ants,4,7,1.75
+wrong,his voice is balm,4,5,1.25
+wrong,his body does not have white mountains,7,8,1.1428571428571428
+wrong,your eyes are the land of electricity and tears,9,11,1.2222222222222223
+wrong,those blows are crumbs,4,7,1.75
+wrong,he is chicken milk,4,4,1.0
+wrong,he is not chicken milk,5,5,1.0
+wrong,Ali is a needle,4,5,1.25
+wrong,he is snow,3,3,1.0
+wrong,his sister has become single,5,5,1.0
+wrong,your child has become a monkey,6,7,1.1666666666666667
+wrong,he is not a hyena,5,6,1.2
+wrong,my lover is a pigeon,5,6,1.2
+wrong,The technician is an ant,5,7,1.4
+wrong,that technician is a chameleon,5,9,1.8
+wrong,his friend is abunuasi,4,6,1.5
+wrong,that room has become a grave,6,6,1.0
+wrong,that room has become a club,6,6,1.0
+wrong,she has become barren after having a child,8,9,1.125
+wrong,their love has become the glue,6,7,1.1666666666666667
+wrong,their love is wet,4,4,1.0
+wrong,the stomach medicine is patience,5,5,1.0
+wrong,after failing the exam he has become a philanthropist,9,14,1.5555555555555556
+wrong,the artist is a parrot,5,6,1.2
+wrong,farmers have become eagles after weeding,6,11,1.8333333333333333
+wrong,these days my friend has become a chameleon,8,10,1.25
+wrong,these days my friend is a slave,7,7,1.0
+wrong,his brother has become a buffalo,6,8,1.3333333333333333
+wrong,his brother has not been a unicorn,7,9,1.2857142857142858
+wrong,the maid was not a dog at all,8,9,1.125
+wrong,The soldier was not a coward,6,8,1.3333333333333333
+wrong,he was not a dog with a bone,8,8,1.0
+wrong,His words become a sermon every time he speaks.,9,12,1.3333333333333333
+wrong,This song is like poverty.,5,6,1.2
+wrong,This song is like a blue rose,7,7,1.0
+wrong,The food was hell.,4,5,1.25
+wrong,That player is a hammer.,5,7,1.4
+wrong,He is as honest as a politician during the campaign.,10,12,1.2
+wrong,His child is Adam and Eve.,6,7,1.1666666666666667
+wrong,This sword is the back of the knife.,8,11,1.375
+wrong,The boy was a rabbit.,5,7,1.4
+wrong,His companion is an ant.,5,6,1.2
+wrong,That boy is a slave.,5,6,1.2
+wrong,That footballer is a crescent moon.,6,10,1.6666666666666667
+wrong,This book is as new as the mountains.,8,10,1.25
+wrong,The stepmother has become a pigeon.,6,10,1.6666666666666667
+wrong,That child is the sea.,5,6,1.2
+wrong,Today is like a spring.,5,6,1.2
+wrong,The employee is Judas Iscariot.,5,9,1.8
+wrong,This tea is as cold as a volcano.,8,10,1.25
+wrong,Their relationship is like a whirlwind.,6,11,1.8333333333333333
+wrong,These pens are like winter and summer.,7,8,1.1428571428571428
+wrong,That girl is a rose among thorns.,7,10,1.4285714285714286
+wrong,This chair is a rock in a storm.,8,9,1.125
+wrong,The test was an empty sack standing upright.,8,11,1.375
+wrong,The boy is a rat.,5,6,1.2
+wrong,This baby is a dish.,5,7,1.4
+wrong,This house is like the waves of the sea.,9,11,1.2222222222222223
+wrong,This phone is like a cow.,6,8,1.3333333333333333
+wrong,This person is like the sun and the moon.,9,11,1.2222222222222223
+wrong,This person is like a wedding without a groom.,9,11,1.2222222222222223
+wrong,This student is wax.,4,5,1.25
+wrong,This stick is like the streets of Boston.,8,10,1.25
+wrong,These eggs are lemons.,4,7,1.75
+wrong,He was like wax.,4,5,1.25
+wrong,They are water and oil.,5,6,1.2
+wrong,He is a pigeon,4,5,1.25
+wrong,He is a rooster.,4,7,1.75
+wrong,This daughter is Pharaoh.,4,7,1.75
+wrong,He was like a trunk.,5,6,1.2
+wrong,He was like an owl.,5,7,1.4
+wrong,His speech was like a bundle of notes.,8,10,1.25
+wrong,This road is an elephant.,5,8,1.6
+wrong,This road is a thread.,5,6,1.2
+wrong,The priest's robe is snow.,5,9,1.8
+wrong,He was like a bear trap.,6,7,1.1666666666666667
+wrong,Seedlings were like weeds in a neglected grave.,8,14,1.75
+wrong,This piece of furniture is like a clock.,8,10,1.25
+wrong,The wind was like an eye looking at the sun.,10,11,1.1
+wrong,His shirt is salty.,4,7,1.75
+wrong,They are like fire and water.,6,7,1.1666666666666667
+wrong,This floor is like a fossil fact.,7,8,1.1428571428571428
+wrong,The player was like Sunday shoes.,6,7,1.1666666666666667
+wrong,The player was like pure gold for the circuit.,9,10,1.1111111111111112
+wrong,He was like a goose liver meant for eating.,9,12,1.3333333333333333
+wrong,She is a noble tree that is wounded when it produces balm.,12,17,1.4166666666666667
+wrong,He is Caesar.,3,4,1.3333333333333333
+wrong,The bank area is like a star in the empty night.,11,12,1.0909090909090908
+wrong,The driver was like a judge.,6,7,1.1666666666666667
+wrong,The driver was like the biblical Lot.,7,9,1.2857142857142858
+wrong,It was like skin.,4,5,1.25
+wrong,Weather is like deep rivers.,5,7,1.4
+wrong,He moved as good is above evil.,7,9,1.2857142857142858
+wrong,This young man is like a government mule.,8,10,1.25
+wrong,The room was like a breeze.,6,8,1.3333333333333333
+wrong,The room was like a tick.,6,8,1.3333333333333333
+wrong,His voice was like rain falling on the roof.,9,11,1.2222222222222223
+wrong,He sat like a Hebrew book.,6,8,1.3333333333333333
+wrong,Society was like a clock.,5,7,1.4
+wrong,Society was like creation.,4,5,1.25
+wrong,The guard was a sea tossed by a great storm.,10,13,1.3
+wrong,My brother was like a parrot to a flute player.,10,13,1.3
+wrong,They fled like the smoke of a furnace.,8,13,1.625
+wrong,This room is a statue.,5,7,1.4
+wrong,Dad is a bee.,4,6,1.5
+wrong,This place is like a cemetery.,6,9,1.5
+wrong,This house is like a breeze.,6,8,1.3333333333333333
+wrong,All animals are alive as yesterday.,6,8,1.3333333333333333
+wrong,He is a reed.,4,6,1.5
+wrong,Jane is Jesus for money,5,5,1.0
+wrong,We ate delicious food like lemons at Otieno,8,14,1.75
+wrong,Onyango has grown chicken milk,5,8,1.6
+wrong,Angelina looked at us with cupped eyes,7,8,1.1428571428571428
+wrong,Nairobi hospital medicines are as bitter as sugar,8,9,1.125
+wrong,"When you are in Nakuru, Kitengela is as far as Nggabo by bike",13,19,1.4615384615384615
+wrong,Soccer boys are as stupid as monkeys in studies,9,11,1.2222222222222223
+wrong,Sofia and Fred were oil and water,7,7,1.0
+wrong,The Indian Ocean is sparkling like a cesspool this Christmas season,11,14,1.2727272727272727
+wrong,Qatar has shone as Gikomba's market for the world cup,10,15,1.5
+wrong,I was sad like a baby who got teeth when I went to Naivasha,14,17,1.2142857142857142
+wrong,Kipchoge shone like a stone in the world race,9,13,1.4444444444444444
+wrong,"As for maria, bernard had eyes like a rooster",9,15,1.6666666666666667
+wrong,Lois' uncle eats like a terminally ill patient,8,12,1.5
+wrong,His children follow each other like siaf,7,8,1.1428571428571428
+wrong,His children are like the sun and the moon,9,10,1.1111111111111112
+wrong,Alice's father is as sharp as a fly,8,10,1.25
+wrong,Dennis walks quickly like a stalker in the dark on his way to school,14,16,1.1428571428571428
+wrong,The young man's eyes were as red as milk,9,11,1.2222222222222223
+wrong,The place was as noisy as an abandoned child,9,11,1.2222222222222223
+wrong,The place was as noisy as a water jug,9,10,1.1111111111111112
+wrong,He loved to eat food and chili as a child,10,10,1.0
+wrong,They were together like a hair to another,8,8,1.0
+wrong,They were together like the United States and Kenya,9,9,1.0
+wrong,He was as smart as a rabbit,7,8,1.1428571428571428
+wrong,The child that was born was an anchor,8,9,1.125
+wrong,The child that was born had wings,7,8,1.1428571428571428
+wrong,He liked me like a baby who won't stop crying,10,14,1.4
+wrong,He was sunburned like a patient in the ward,9,12,1.3333333333333333
+wrong,Mother Aziza and her sister were there day and night,10,11,1.1
+wrong,Mother Otis loved her husband's kiss as God loves sin,10,15,1.5
+wrong,Sandra prepared a delicious meal for us like lemons,9,12,1.3333333333333333
+wrong,Beatrice trusted her husband as a barren child,8,11,1.375
+wrong,Dennis was as quick as a bull,7,7,1.0
+wrong,MPs are as corrupt as priests,6,10,1.6666666666666667
+wrong,Lesly is as fickle as a politician,7,10,1.4285714285714286
+wrong,You finished school and became famous as the middle child,10,10,1.0
+wrong,"Alas! Benjamin, you are as fast as an ambulance with a critically ill patient",14,19,1.3571428571428572
+wrong,Look at her face shining like a cherry blossom,9,13,1.4444444444444444
+wrong,Khalid gives a sly smile when he sees Michelle,9,11,1.2222222222222223
+wrong,Tony has Big Feet like a Monkey,7,8,1.1428571428571428
+wrong,Maria was worried like a fed cow when she was called to the head teacher's office,16,19,1.1875
+wrong,He listened like a mother of vegetables in the market,10,11,1.1
+wrong,Tom's brother has the ability to smell like a dog,10,12,1.2
+wrong,The vendor becomes a parrot when he arrives,8,11,1.375
+wrong,It is midnight when the vendor arrives,7,9,1.2857142857142858
+wrong,Antony was raised to be a tick to others,9,11,1.2222222222222223
+wrong,Yesterday I was as tight as gravel,7,10,1.4285714285714286
+wrong,"When Janice got home, she ate like an anorexic",9,15,1.6666666666666667
+wrong,The corrupt in the government will be carried away like a chariot,12,15,1.25
+wrong,He was tired and slept like a crocodile,8,11,1.375
+wrong,henry has long legs like a rooster,7,11,1.5714285714285714
+wrong,He had sharp eyes like a rooster when we entered,10,13,1.3
+wrong,Omar married a beautiful bottle-shaped daughter,6,9,1.5
+wrong,Omar married a daughter as beautiful as number eight,9,9,1.0
+wrong,Gerad studied and learned a lot as a young child,10,12,1.2
+wrong,Onyango is a water jug,5,7,1.4
+wrong,Kimani pointed to his lover as an egg,8,10,1.25
+wrong,Rossie was as violent as a marguerite called for food,10,13,1.3
+wrong,He wore a rinda as white as clouds on his baptism day,12,17,1.4166666666666667
+wrong,John's grandmother flew early like a sick chicken to work,10,15,1.5
+wrong,His job application took as long as government promises,9,10,1.1111111111111112
+wrong,They swooped on the thief like butterflies when they caught him,11,16,1.4545454545454546
+wrong,He was hurt like a devotee bitten by a mosquito,10,15,1.5
+wrong,Sofia's husband is as cruel as a rooster,8,12,1.5
+wrong,He brought us a troublesome child like a dead body,10,11,1.1
+wrong,As a child I loved to roam like mountains,9,11,1.2222222222222223
+wrong,"When he woke up, he became as weak as a diamond",11,15,1.3636363636363635
+wrong,He expected to live a long life like a fly,10,10,1.0
+wrong,Janet is a hot hand,5,6,1.2
+wrong,The news of his death spread like the wind,9,9,1.0
+wrong,The poor of Kenya wear rags like a king,9,10,1.1111111111111112
+wrong,Today there is a noise like a tinga outside,9,11,1.2222222222222223
+wrong,Today there is a noise outside,6,7,1.1666666666666667
+wrong,Jane's baby is light as an anchor,7,10,1.4285714285714286
+wrong,Maria's belly became as fat as a pear seed when she became pregnant,13,18,1.3846153846153846
+wrong,You should be alert like a rooster so you don't get robbed in Nairobi,14,19,1.3571428571428572
+wrong,Our neighbor has an empty mind like the sea,9,9,1.0
+wrong,Love should be as peaceful as a club,8,9,1.125
+wrong,The days of Christmas are as close as the sun and the moon,13,14,1.0769230769230769

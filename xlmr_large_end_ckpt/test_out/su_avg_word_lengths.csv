@@ -1,0 +1,601 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,hirup kawas kurung batok,4,8,2.0
+correct,Mamat lumpatna siga kuya.,4,9,2.25
+correct,hirup teh kudu boga kaditu kadieu.,6,11,1.8333333333333333
+correct,ceuk ema jadi jalmi teh kedah sing someah hade ka semah,11,16,1.4545454545454546
+correct,lamun mikir kudu pondok lengkah,5,9,1.8
+correct,lamun mikir kudu panjang lengkah.,5,9,1.8
+correct,jelema lamun geus kandel kulit bengeut,6,11,1.8333333333333333
+correct,si Udin jadi jalma teh meni berehan.,7,11,1.5714285714285714
+correct,Iis mah pahang tulang.,4,7,1.75
+correct,sasa teh biasana sok jadi amis budi,7,8,1.1428571428571428
+correct,lamun bade nginjem duit kudu make duit tiis.,8,13,1.625
+correct,jalma ayeuna teh sok gurat batu.,6,9,1.5
+correct,lamun bisnis mah pasti jadi kokoro nyoso.,7,11,1.5714285714285714
+correct,nanaon ge teu menang kaleleuwihan bisi tamplok batokeun.,8,18,2.25
+correct,jadi jelema teh kadang bisa jadi yuni kembang,8,11,1.375
+correct,jadi jelema teh kadang bisa jadi yuni tai.,8,11,1.375
+correct,"jelema teh kabagi jadi dua, nyaeta anu wening galih",9,15,1.6666666666666667
+correct,"jelema teh kabagi jadi dua, nyaeta anu sulit ati.",9,14,1.5555555555555556
+correct,budak teh kudu asak warah,5,7,1.4
+correct,tong jadi budak anu bodo katotoloyo,6,8,1.3333333333333333
+correct,ari jadi salaki teh kudu badag cagap.,7,12,1.7142857142857142
+correct,si Dewi mah jadi gadis teh meni handap asor,9,11,1.2222222222222223
+correct,ceunah lamun jadi awewe teh kudu siga putri raja,9,15,1.6666666666666667
+correct,poe ieu teh cuaca siga bisa ngagoreng lauk dinu aspal,10,16,1.6
+correct,poe ieu teh cuaca siga hujan angin dordar gelap.,9,13,1.4444444444444444
+correct,hujan teh meuni siga ngajak geulut,6,11,1.8333333333333333
+correct,hujan teh meuni siga tiis ceuli.,6,11,1.8333333333333333
+correct,"si eta mah kuatannya, teu siga jagjag waringkas.",8,15,1.875
+correct,ai budak keneh mah antep kudu jadi kurung batok.,9,14,1.5555555555555556
+correct,Kadang hirup teh bisa jadi kembang seungit,7,11,1.5714285714285714
+correct,Kadang hirup teh bisa jadi bau bangke.,7,10,1.4285714285714286
+correct,Ulah agul kana payung butut,5,9,1.8
+correct,Ulah agul kana imah gedogan.,5,11,2.2
+correct,Hirup kudu bisa jadi batu,5,6,1.2
+correct,Hirup kudu bisa jadi awi sumaer di pasir.,8,12,1.5
+correct,Jadi budak ulah nincak hulu,5,8,1.6
+correct,hirup mah ngan ukur hahay,5,8,1.6
+correct,kulit teh meuni kelir kawas cangkang cau,7,11,1.5714285714285714
+correct,"lamun aya masalah, hidup teh karasa keur jalan tol.",9,13,1.4444444444444444
+correct,jadi gadis balik teh tong pas datang bulan.,8,9,1.125
+correct,Lamun gawe teh kuduna mah bisa rerejeungan,7,11,1.5714285714285714
+correct,Lamun gawe teh kuduna mah bisa paaing-aing.,7,14,2.0
+correct,Nuju liburan teh kedah bari bear budi,7,9,1.2857142857142858
+correct,Nuju liburan teh kedah bari kaduhung.,6,11,1.8333333333333333
+correct,Hirup teh kadang bisa jadi runtah,6,8,1.3333333333333333
+correct,Hirup teh kadang bisa jadi emas.,6,8,1.3333333333333333
+correct,Ngomong jeung si eta mah nya meuni kawas sireum,9,14,1.5555555555555556
+correct,Ngomong jeung si eta mah nya meuni kawas maung.,9,14,1.5555555555555556
+correct,Kadang jelema teh bisa kandel kulit bengeut,7,11,1.5714285714285714
+correct,ayeuna buuk na teh tos jadi harideung.,7,12,1.7142857142857142
+correct,Jadi jelema mah ulah sulit ati,6,8,1.3333333333333333
+correct,Ayeuna mah ka Bandung teh meuni siga jalan ka cai,10,14,1.4
+correct,Lalakonna siga manuk dikencarkeun.,4,12,3.0
+correct,Balong laukna siga mencrang cai herang,6,12,2.0
+correct,Sorana kawas tarompet,3,7,2.3333333333333335
+correct,Sorana kawas susumputan.,3,8,2.6666666666666665
+correct,Neangan si eta kawas neang domba dina kandang hayam.,9,16,1.7777777777777777
+correct,Sapopoe si eta kawas nu teu boga pamajikan.,8,14,1.75
+correct,Nasehat ti bapa na nangceub siga batu,7,12,1.7142857142857142
+correct,Dagingna siga batu.,3,7,2.3333333333333335
+correct,Gawena siga nu diudag ku anjing,6,10,1.6666666666666667
+correct,Gawena siga nu keong meuntas jalan.,6,12,2.0
+correct,Acukna siga nimu di rongsokan.,5,12,2.4
+correct,Sapi na siga nu cacingan.,5,9,1.8
+correct,Mung ngomong siga putri solo.,5,8,1.6
+correct,Ditingal teh si eta siga ibak kembang tujuh rupi.,9,16,1.7777777777777777
+correct,Ka pasar ge siga nu rek ka uleman,8,11,1.375
+correct,Lengeunna geutihan siga nu ditabrak mobil,6,13,2.1666666666666665
+correct,Lengeunna geutihan siga kakowet ucing.,5,14,2.8
+correct,Si eta mung ceurik siga nu loba masalah,8,12,1.5
+correct,Aya nu nyetir siga jalan boga akina,7,11,1.5714285714285714
+correct,Aya nu nyetir siga sieun labuh.,6,12,2.0
+correct,Mangga na siga madu,4,6,1.5
+correct,Mangga na siga cuka.,4,8,2.0
+correct,Rai na ka adi na teh siga perhiasan.,8,12,1.5
+correct,Si eta mung ngomong siga nu kahuruan,7,10,1.4285714285714286
+correct,Si eta mung ngomong siga aya di situ.,8,10,1.25
+correct,Rupi na siga arjuna,4,7,1.75
+correct,Kuliah na siga euweuh tanggal beureum,6,12,2.0
+correct,Mung lumpat si eta siga peucang,6,11,1.8333333333333333
+correct,Si eta kuliah siga nu teu aya beban.,8,10,1.25
+correct,Masakanna kawas nu hoyong geura nikah,6,10,1.6666666666666667
+correct,Hawa na siga di leuweung,5,8,1.6
+correct,Kaayaan ayeuna kawas loba dosa,5,8,1.6
+correct,Kaayaan ayeuna kawas loba pahala.,5,9,1.8
+correct,Hujanna kawas cai ceret.,4,9,2.25
+correct,Salaki na kawas Nyi Iteung.,5,11,2.2
+correct,Budak na siga nu dipoe ti isuk nepi peuting,9,15,1.6666666666666667
+correct,Budak na siga nu dihuapan sapopoe.,6,12,2.0
+correct,Hirup teh kawas leumpang dina jalan lega.,7,13,1.8571428571428572
+correct,Keneh isuk ngan siga moal aya deui panonpoe.,8,17,2.125
+correct,Ngabaturan si eta unggal poe siga boga asisten sagala tiasa.,10,18,1.8
+correct,Kakolot undak unduk na siga lukman hakim.,7,13,1.8571428571428572
+correct,Budak ayeuna mung gawe kawas kebo,6,8,1.3333333333333333
+correct,Milarian artos siga nu moal waka gugah deui,8,14,1.75
+correct,Mie na beukah kawas kembang aromanis,6,11,1.8333333333333333
+correct,Bumi na siga nu teu aya cucunguk sahiji-hiji acan,9,18,2.0
+correct,Sakola na ka bumi siga ti kulon ka wetan,9,13,1.4444444444444444
+correct,Pangaos cocoan si ade siga cimol tilu siki.,8,15,1.875
+correct,Wengi ieu langit na siga cai kopi.,7,10,1.4285714285714286
+correct,Kasohor na eta artis siga nu gaduh panghargaan ti seeuer nagara,11,19,1.7272727272727273
+correct,Kasohor na eta artis siga nu teu aya internet wae.,10,15,1.5
+correct,Hasil melak na kawas kali keur banjir,7,9,1.2857142857142858
+correct,Nu lalajo di stadion kamari siga nu karolot kabeh.,9,15,1.6666666666666667
+correct,Sanajan loba masalah manehna siga jukut di leuweung,8,15,1.875
+correct,Sanajan loba masalah manehna siga kembang katewak angin.,8,15,1.875
+correct,Ngalereskeun ieu mesin siga nu keur operasi jantung,8,12,1.5
+correct,Ngalereskeun ieu mesin siga ngalereskeun cocoan budak.,7,16,2.2857142857142856
+correct,Asep lumpatna kawas keong.,4,10,2.5
+correct,Si Iwan kasohor lantaran siga foto model,7,11,1.5714285714285714
+correct,Si Iwan kasohor lantaran siga foto modol.,7,13,1.8571428571428572
+correct,Hirup teh kawas leumpang di gigir gawir,7,13,1.8571428571428572
+correct,Omongan Pak Ustad kawas gula dina enteh,7,11,1.5714285714285714
+correct,Omongan Pak Ustad kawas kopi hideung.,6,12,2.0
+correct,Ieu kabar umpama angin ngahiliwir.,5,11,2.2
+correct,Sikap anjeunna siga susu botol jang orok.,7,13,1.8571428571428572
+correct,Adi lanceuk teh kalakuan kos anjing jeung ucing,8,12,1.5
+correct,Gawe teh umpama nginum peresan limo.,6,12,2.0
+correct,Awak manehna meuni kawas mawar bodas,6,12,2.0
+correct,Awak manehna meuni kawas kembang bangke.,6,13,2.1666666666666665
+correct,Ponten rapor kuring umpama biru langit.,6,11,1.8333333333333333
+correct,Ditolak manehna umpama hate dikeureut peso,6,12,2.0
+correct,Ditolak manehna umpama taman pinuh ku kembang.,7,14,2.0
+correct,Omongan manehna kawas cai di daun taleus,7,11,1.5714285714285714
+correct,Kosan rerencangan abdi sapertos liang sireum.,6,15,2.5
+correct,Cicing di imah teh kos cicing di neraka,8,11,1.375
+correct,Cicing di imah teh kos cicing di taman firdaus.,9,15,1.6666666666666667
+correct,Ngaharep balesan manehna ibarat ngajarkeun monyet naek tangkal.,8,19,2.375
+correct,Milarian padamelan ayena mah sapertos milarian lauk di sagara.,9,17,1.8888888888888888
+correct,"Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun lauk naek tangkal",12,22,1.8333333333333333
+correct,Kue damelan umi abdi saraos kue toko,7,12,1.7142857142857142
+correct,Pun bapa tanagana kawas budak sd.,6,10,1.6666666666666667
+correct,Acuk lebaran teh sarupa acuk damelan designer kasohor,8,15,1.875
+correct,Acuk lebaran teh sarupa acuk tukang pulung.,7,13,1.8571428571428572
+correct,Teu nyangka rayi abdi sajangkung buto ijo,7,12,1.7142857142857142
+correct,Bobogah lima taun jeung manehna kawas naek kapal di laut nu loba badaina,13,20,1.5384615384615385
+correct,Bobogah lima taun jeung manehna kawas naek kapal di lautan biru nan endah.,13,22,1.6923076923076923
+correct,Jaket maneh naha siga tukang ojek,6,9,1.5
+correct,Jaket maneh naha siga jaket artis.,6,10,1.6666666666666667
+correct,Acuk seuseuhan abdi mah sapertos acuk anyar,7,13,1.8571428571428572
+correct,Budak rerencangan abdi irungnya samancung orang arab,7,14,2.0
+correct,Budak rerencangan abdi irungnya samancung jalmi nu beres nyusruk.,9,21,2.3333333333333335
+correct,Pindah bumi ibarat kaleungitan dompet,5,10,2.0
+correct,Pindah bumi ibarat manggihan dompet.,5,10,2.0
+correct,Buku di bumi rerencangan abdi kawas perpustakaan,7,11,1.5714285714285714
+correct,Buku di bumi rerencangan abdi kawas jumlah kolot na budak yatim.,11,18,1.6363636363636365
+correct,Naek kareta ekonomi sarupa calik dina korsi papan,8,13,1.625
+correct,Ukuran suku maneh meuni jiga raksasa,6,10,1.6666666666666667
+correct,Basa inggris maneh geus saalus bule,6,10,1.6666666666666667
+correct,Carita nini abdi kawas carita pelem-pelem di bioskop,8,15,1.875
+correct,Cai sumur ayeuna mah kos cai aqua.,7,9,1.2857142857142858
+correct,Ngadangu carita anjeun mah kawas ngimpi labuh ka gawir,9,15,1.6666666666666667
+correct,Hirup teu boga elmu sarupa leumpang teu aya tujuan,9,14,1.5555555555555556
+correct,Pertanyaan si bapa teh meuni kos pertanyaan budak.,8,10,1.25
+correct,Lamun keur belajar naha nya panon teh kawas teu sare 3 poe,12,16,1.3333333333333333
+correct,Lamun keur belajar naha nya panon teh kawas karak ngadahar mangga ngora.,12,21,1.75
+correct,Kunaon atuh eta seragam teh jiga can meunang nyetrika,9,16,1.7777777777777777
+correct,Hirup abdi mah kawas tv jaman kiwari.,7,11,1.5714285714285714
+correct,Buruan tatangga teh meuni saluas lapangan bola,7,11,1.5714285714285714
+correct,Gambar rayi abdi layak umpama gambar nu meunang ponten 100,10,14,1.4
+correct,Chat jeung manehna mah kawas ngobrol pas keur diboceng tukang ojek,11,16,1.4545454545454546
+correct,Chat jeung manehna mah kawas guru nerangkeun di kelas.,9,14,1.5555555555555556
+correct,Tulisan budak teh meuni jiga hasil ngeprint.,7,11,1.5714285714285714
+correct,Elmu agama kawas senter caang kanggo mapay jalan wengi,9,14,1.5555555555555556
+correct,Lapang Padjajaran kos lapang bola piala dunia,7,12,1.7142857142857142
+correct,Cai Dieng sapertos cai es,5,7,1.4
+correct,Cai Dieng sapertos cai termos.,5,8,1.6
+correct,Tutumbenan masakan dinten ieu kawas masakan hotel bintang lima,9,14,1.5555555555555556
+correct,Kaca di kamar abdi meuni sagede kaca spion,8,10,1.25
+correct,Kaca di kamar abdi meuni sagede almari tilu panto.,9,14,1.5555555555555556
+correct,Akuarium hotel ieu meuni saageung sea world,7,11,1.5714285714285714
+correct,Kembang pamasihan anjeun teh kawas seungit sedap malam,8,14,1.75
+correct,Mun jadi jalmi ulah sok luhur hate,7,10,1.4285714285714286
+correct,Mun jadi jalmi ulah sok pondok hate.,7,11,1.5714285714285714
+correct,Tawaran anjeun kawas hujan duit,5,7,1.4
+correct,Tawaran anjeun kawas hujan batu es.,6,9,1.5
+correct,Diajar ekonomi sapertos renang di kulah cai es,8,11,1.375
+correct,Diajar ekonomi sapertos renang di kulah kembang.,7,12,1.7142857142857142
+correct,Acara Jazz Prambanan taun ieu kawas langit bertabur bentang,9,15,1.6666666666666667
+correct,Acara Jazz Prambanan taun ieu kawas langit wengi teu aya bentang.,11,17,1.5454545454545454
+correct,Tisu merek eta mah saalus selimut orok,7,13,1.8571428571428572
+correct,Omongan presiden teh umpama cai di daun taleus,8,11,1.375
+correct,Omongan presiden teh umpama bangunan kabah.,6,10,1.6666666666666667
+correct,Kualitas koper anyar teh kos urut batur,7,10,1.4285714285714286
+correct,Ngadangukeun lagu Yura Yunita sapertos hujan guludug.,7,16,2.2857142857142856
+correct,Sampo si mama jieun buuk sapertos kasetrum listrik.,8,15,1.875
+correct,Kantor abdi di Bandung umpama gedong di tengah savana.,9,13,1.4444444444444444
+correct,Tumpeng damelan si uwak meuni sajangkung gunung merapi,8,14,1.75
+correct,Buku sakola ayeuna sakandeul ensiklopedia dunia.,6,10,1.6666666666666667
+correct,Cuaca dinten ieu sapertos langit nu nuju sedih,8,12,1.5
+correct,Cuaca dinten ieu sapertos langit nu keur bagja.,8,13,1.625
+correct,Biaya listrik makin kiwari makin kos taraje,7,9,1.2857142857142858
+correct,Karpet anyar teh warnana jiga gulali,6,11,1.8333333333333333
+correct,Gawe tanpa elmu umpama ngala lauk di akuarium make jaring.,10,17,1.7
+correct,Poto kawinan anjeun sapertos poster pelem nu meunang penghargaan,9,15,1.6666666666666667
+correct,Harga anduk di toko ieu samirah kembang gula di warung,10,14,1.4
+correct,Desain Totoya nu anyar kawas mobil ti masa hareup,9,14,1.5555555555555556
+correct,Naek gunung Sumbing umpama naek gunung nganggo sapatu roda,9,14,1.5555555555555556
+correct,Kulah lauk di bumi aki salega garasi kapal udara.,9,13,1.4444444444444444
+correct,Rorompok amih lamun nuju seueur dulur kawas bumi di tengah leuweung.,11,22,2.0
+correct,Kelas X IPS mah aya teu aya guru umpama barudak di perpustakaan.,12,15,1.25
+correct,Sapatu pamere mamang teh kawas sapatu kaca dipake cinderella.,9,18,2.0
+correct,Lukisan ieu sapertos karya da Vinci,6,8,1.3333333333333333
+correct,Botol cai teh kos gelas budak.,6,9,1.5
+correct,Jolang di bumi rerencangan abdi kawas kulah lauk,8,14,1.75
+correct,Sangu di warung ieu mah sapertos sangu beres akeul,9,15,1.6666666666666667
+correct,Cat di imah maneh mah jiun imah kawas panggung dangdut akademi.,11,19,1.7272727272727273
+correct,Jarawat Teh Susi naha makin jiga jelema keuna cacar,9,14,1.5555555555555556
+correct,Jarawat Teh Susi naha makin jiga hasil perawatan dokter.,9,12,1.3333333333333333
+correct,Laut di Sukabumi kawas lapang urut konser.,7,12,1.7142857142857142
+correct,Pangseungit ruangan ieu jieun sapertos di taman kembang.,8,15,1.875
+correct,Manehna ngahasilkeun artos jiga milarian cai di gurun.,8,17,2.125
+correct,Eta murid hiji otak udang,5,6,1.2
+correct,Biwirna ngucapkeun kecap kawas cabe,5,11,2.2
+correct,Manehna angkat liburan nganggo kuda beusi,6,9,1.5
+correct,Sorana kadéngé kawas kicau manu,5,11,2.2
+correct,Sorana kadéngé kawas gogog anjing.,5,11,2.2
+correct,Di tempat damel manenha janten budak emas,7,11,1.5714285714285714
+correct,Di tempat damel manenha janten embe hideung.,7,15,2.142857142857143
+correct,"Ceuk babaturanana, manehna mangrupikeun jalma sirah batu",7,17,2.4285714285714284
+correct,Manehna jalmi nu panas leungeun.,5,11,2.2
+correct,Manehna tampil siga bintang dina langit,6,9,1.5
+correct,Manehna tampil siga semut dina taneuh.,6,12,2.0
+correct,Dina éta balapan manehna jiga béntang lapangan,7,12,1.7142857142857142
+correct,Manehna mangrupakeun jalma anu hatena siga kamar.,7,15,2.142857142857143
+correct,Pagawean anu dilakonan ku manehna nganggo kaki jeung lengeun batur,10,17,1.7
+correct,Pagawean anu dilakonan ku manehna nganggo lengeun sorangan.,8,16,2.0
+correct,Eta lalaki kawas penyihir.,4,8,2.0
+correct,Ushana nalika pandemi teh kawas jalan tol,7,10,1.4285714285714286
+correct,Ushana nalika pandemi teh kawas jalanna kura-kura.,7,14,2.0
+correct,Eta jelema teh kawas buku tebel,6,9,1.5
+correct,Eta jelema teh kawas kertas kosong.,6,9,1.5
+correct,Manehna ngarasa kawas raja leutik,5,11,2.2
+correct,Manehna ngarasa kawas sampah masarakat.,5,12,2.4
+correct,"Lamun diperlukeun, manehna senang pikeun turun lengeun",7,13,1.8571428571428572
+correct,Artis eta téh keur jatoh ka jurang.,7,11,1.5714285714285714
+correct,Kecap-kecapna kawas kembang,3,10,3.3333333333333335
+correct,"Ceuk tatanggana, manehna teh hate leutik.",6,14,2.3333333333333335
+correct,Babaturan kuring nyaéta jalma anu ringan leungeun,7,13,1.8571428571428572
+correct,Babaturan kuring nyaéta jalma anu panjang leungeun.,7,14,2.0
+correct,Beungeutna katingali kawas caang panonpoé,5,15,3.0
+correct,Beungeutna katingali kawas wengi poék.,5,13,2.6
+correct,Manehna mangrupikeun tong kosong.,4,10,2.5
+correct,Tanaga manehnya kawas beruang,4,8,2.0
+correct,Tanaga manehnya kawas semut.,4,9,2.25
+correct,Hate manusia kadang kawas langit.,5,8,1.6
+correct,Penampilanna dianggap bintang lapangan,4,7,1.75
+correct,Penampilanna dianggap sabelah panon.,4,10,2.5
+correct,Kulawargana nyaéta darah biru,4,7,1.75
+correct,Kulawargana nyaéta darah rakyat.,4,7,1.75
+correct,Panonna kawas elang,3,6,2.0
+correct,Panonna kawas beurit.,3,8,2.6666666666666665
+correct,Sorana siga ngaum singa,4,8,2.0
+correct,Sorana siga kicau manuk.,4,10,2.5
+correct,"Di kelas, manehna murid anu ringan sirah",7,10,1.4285714285714286
+correct,"Di kelas, manehna murid anu beurat sirah.",7,12,1.7142857142857142
+correct,Kota ieu karasa kawas imah,5,8,1.6
+correct,Kota ieu karasa kawas penjara.,5,8,1.6
+correct,Nalika ditanya manehna buka mulut,5,7,1.4
+correct,Nalika ditanya manehna nutup panon.,5,10,2.0
+correct,Di dunya ieu aya jalma anu sarupa malaikat,8,11,1.375
+correct,Di dunya ieu aya jalma anu sarupa setan.,8,13,1.625
+correct,Kadaharan eta réstoran karasaeun sapertos masakan di istana,8,16,2.0
+correct,Haténa bener-bener salega sagara,4,11,2.75
+correct,Haténa bener-bener teuas kawas batu.,5,13,2.6
+correct,Manehna naroskeun patarosan anu deet siga solokan.,7,17,2.4285714285714284
+correct,Imahna karasa kawas istana,4,8,2.0
+correct,Imahna karasa kawas penjara.,4,8,2.0
+correct,Manehna ngaréngsékeun tugasna kalayan sarébu léngkah,6,18,3.0
+correct,Manehna ningali pantulanna dina eunteung kawas putri raja,8,16,2.0
+correct,Padamelannana karasaeun kawas warna-warni pelangi,5,16,3.2
+correct,Padamelannana karasaeun kawas nincak paku.,5,14,2.8
+correct,Luncatna dina pertandingan siga luncat kebo.,6,13,2.1666666666666665
+correct,Usaha anu manehna lakukeun kawas naek tangga,7,11,1.5714285714285714
+correct,Usaha anu manehna lakukeun kawas naek bukit.,7,12,1.7142857142857142
+correct,Poe ieu manehnya hudang kalayan wajah anu berseri,8,13,1.625
+correct,Poe ieu manehnya hudang kalayan wajah anu katekuk.,8,14,1.75
+correct,Warna baju manehnya katingali poek sapertos peuting.,7,14,2.0
+correct,Hirupna karasaeun di surga,4,10,2.5
+correct,Hirupna karasaeun di naraka.,4,11,2.75
+correct,Rarayna siga tangkal kolot anu layu.,6,13,2.1666666666666665
+correct,Ngapalkeun materi kuliah mah kawas ngukir dina kai,8,12,1.5
+correct,Ngapalkeun materi kuliah mah kawas ngukir dina cai.,8,13,1.625
+correct,Kasatiaan dina jaman ayeuna sapertos ningali hayam broiler di pasar.,10,17,1.7
+correct,Jualan online mah meunang kauntunganna téh siga ngagali emas di Pongkor,11,19,1.7272727272727273
+correct,Jualan online mah meunang kauntunganna téh siga ngala céré ti selokan.,11,21,1.9090909090909092
+correct,Ceuk batur gé hirup sareng pamajikan mah ibarat keur dijajah Walanda,11,20,1.8181818181818181
+correct,Ceuk batur gé hirup sareng pamajikan mah ibarat budak leutik ulin kaditu-kadieu.,12,28,2.3333333333333335
+correct,Omongan lalaki téh ibarat sarang madu,6,9,1.5
+correct,Kamajuan téhnologi di Indonésia kawas kareta Shinkansen,7,15,2.142857142857143
+correct,Kamajuan téhnologi di Indonésia kawas kéong keur lumpat.,8,16,2.0
+correct,Ayeuna jumlah motor di jalan téh siga eusi dompét dina ahir bulan.,12,19,1.5833333333333333
+correct,Rumaja jaman kiwari mah rasa nasionalismena siga Palung Mariana di Samudra Pasifik,12,21,1.75
+correct,Nagihan ijeuman téh ibarat kaluar tina labirin,7,12,1.7142857142857142
+correct,Nabung lamun rutin bisa nyieun dompét anjeun sapertos atlit sumo,10,17,1.7
+correct,"Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos kapal rusak.",13,23,1.7692307692307692
+correct,Kamar kos abdi téh sapertos liang beurit dina taneuh,9,14,1.5555555555555556
+correct,Kawin jeung idola téh kawas meunang lauk dina balong anu leutik.,11,19,1.7272727272727273
+correct,Jalmi anu jujur mah biasana jiga embé di kandang keur lapar.,11,18,1.6363636363636365
+correct,Keur kuring mah disuntik vaksin kawas digégél sireum.,8,18,2.25
+correct,Komén netizen mah siga dikirimkeun surat phk ti kantor,9,14,1.5555555555555556
+correct,Komén netizen mah siga dikirimkeun surat cinta ti kabogoh.,9,16,1.7777777777777777
+correct,Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang meuli dahareun di warteg.,12,24,2.0
+correct,Upami urang ningali jurig tengah peuting mah siga pawangna komodo.,10,19,1.9
+correct,Dosén abdi di kampus baheula siga bidadari di surga.,9,17,1.8888888888888888
+correct,Pamadegan batur keur urang mah siga kembang malati kaluar tina sungut,11,18,1.6363636363636365
+correct,Lalampahan ka kantor rasana siga nempo puncakna gunung ti handap,10,17,1.7
+correct,Lalampahan ka kantor rasana siga dago jeung biwir.,8,14,1.75
+correct,Pergaulan anu bébas bisa nyieun harga diri kawas obralan calana lébaran,11,18,1.6363636363636365
+correct,Jalmi suksés digawé kawas panda nu saré sapopoé.,8,19,2.375
+correct,Pernikahan mah ti jaman baheula gé asaan pasti aya anu siga mayit dibéré formalin,14,23,1.6428571428571428
+correct,Tulisan manéh keur di sakola mah siga cékér hayam,9,15,1.6666666666666667
+correct,Tulisan manéh keur di sakola mah siga huruf anu aya di komputer.,12,17,1.4166666666666667
+correct,Pikiran babaturan urang mah kawas nu geus ulin di lumpur,10,16,1.6
+correct,Pikiran babaturan urang mah kawas nu karek beres mandi.,9,16,1.7777777777777777
+correct,Ngejar kareta api di stasiun mah siga diudag anjing édan,10,15,1.5
+correct,Ngejar kareta api di stasiun mah siga nu eweh gaweaneun.,10,17,1.7
+correct,Buukna dirumbay siga sutra nu mahal.,6,12,2.0
+correct,Ngadagoan kasuksésan datang ka kahirupan mah ibarat ngadagoan tangkal jati tumuwuh nepi ka badag,14,32,2.2857142857142856
+correct,Pangalaman hirup bisa ngajadikeun sipat manusa kawas sumbu nu gampang kaduruk,11,21,1.9090909090909092
+correct,Méntal manusa siga tembok imah baheula nu gampang muruhpuy,9,20,2.2222222222222223
+correct,Méntal manusa siga inten nu teu gampang peupeus.,8,16,2.0
+correct,Duit bisa ngarobah jalma kawas Qarun anu dikubur ku hartana sorangan,11,21,1.9090909090909092
+correct,Duit bisa ngarobah jalma kawas dermawan sanajan manéhna kakurangan.,9,20,2.2222222222222223
+correct,Nasib jalma bisa béda-béda ibaratna mah meunang jackpot sapeuting jeput,10,22,2.2
+correct,Nasib jalma bisa béda-béda ibaratna mah aya tai cakcak ragrag kana tarang.,12,25,2.0833333333333335
+correct,Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos ngojay di balong nu pinuh ku piranha.,14,29,2.0714285714285716
+correct,Nu kaambu dina angkutan umum sapertos keur aya di toko minyak seungit.,12,18,1.5
+correct,Balik deui sareng mantan sapertos ningali final badminton,8,12,1.5
+correct,Panghina ti batur mah siga racun sianida dina kadaharan.,9,15,1.6666666666666667
+wrong,hirup kawas murag bulu bitis.,5,10,2.0
+wrong,jadi jalma teh kudu hampang birit,6,9,1.5
+wrong,jadi jalma teh kudu beurat birit.,6,10,1.6666666666666667
+wrong,Mamat lumpatna siga uncal,4,9,2.25
+wrong,hirup teh kudu boga pamadeugan,5,9,1.8
+wrong,si amat mah sok ngeduk cikur kedah mitutur,8,13,1.625
+wrong,si amat mah sok luncat licin.,6,10,1.6666666666666667
+wrong,ceuk ema jadi jalmi teh kedah sing goreng bagug.,9,14,1.5555555555555556
+wrong,si eta mah ateul biwir,5,8,1.6
+wrong,si eta mah kawas gaang katincak.,6,11,1.8333333333333333
+wrong,budak eta mah epes meer,5,6,1.2
+wrong,budak eta mah wanteran.,4,6,1.5
+wrong,jelema lamun geus isinan kudu diantepkeun.,6,12,2.0
+wrong,si Udin jadi jalma teh meni buntut kasiran,8,12,1.5
+wrong,Iis mah amis daging,4,5,1.25
+wrong,sasa teh biasana sok jadi haseum budi.,7,11,1.5714285714285714
+wrong,lamun bade nginjem duit kudu make duit panas,8,11,1.375
+wrong,jalma ayeuna teh sok gurat cai,6,8,1.3333333333333333
+wrong,lamun bisnis mah pasti jadi kandel dompet,7,10,1.4285714285714286
+wrong,nanaon ge teu menang kaleleuwihan bisi tamplok bacoteun,8,17,2.125
+wrong,kudu hati hati milih pasangan bisi jadi potol jarum,9,13,1.4444444444444444
+wrong,kudu hati hati milih pasangan bisi jadi potol teko.,9,13,1.4444444444444444
+wrong,si Bina mah anak emas,5,5,1.0
+wrong,si Bina mah anak sampeuran.,5,7,1.4
+wrong,budak teh kudu atah adol.,5,8,1.6
+wrong,tong jadi budak anu bodo alewoh.,6,8,1.3333333333333333
+wrong,ari jadi salaki teh kudu banting tulang,7,9,1.2857142857142858
+wrong,si Dewi mah jadi gadis teh meni gede hulu.,9,11,1.2222222222222223
+wrong,ceunah lamun jadi awewe teh kudu siga mak lampir.,9,17,1.8888888888888888
+wrong,"si eta mah kuatannya, teu siga lempeuh yuni",8,14,1.75
+wrong,ai budak keneh mah antep kudu jadi kembang buruan,9,13,1.4444444444444444
+wrong,Jalma teh bisa jadi cai,5,6,1.2
+wrong,Jalma teh bisa jadi seune.,5,8,1.6
+wrong,Jadi budak ulah hade basa.,5,7,1.4
+wrong,hirup mah ngan ukur dedeuh.,5,10,2.0
+wrong,ai ka batur teh ulah sok ngukur baju sasereg awak,10,15,1.5
+wrong,ai ka batur teh ulah sok ngukur baju jeung kaen-kaenna.,10,19,1.9
+wrong,kulit teh meuni kelir kawas sawo asak.,7,13,1.8571428571428572
+wrong,"lamun aya masalah, hidup teh karasa keur buuk pakusut",9,14,1.5555555555555556
+wrong,jadi gadis balik teh tong pas datang panonpoe,8,11,1.375
+wrong,Sangkan hirup teh loba kapait,5,9,1.8
+wrong,Sangkan hirup teh loba kaamis kudu bisa ngarumasakeun.,8,16,2.0
+wrong,Kadang jelema teh bisa ipis kulit bengeut.,7,12,1.7142857142857142
+wrong,ayeuna buuk na teh tos jadi barodas,7,10,1.4285714285714286
+wrong,Jadi jelema mah ulah hade hate.,6,9,1.5
+wrong,Ayeuna mah ka Bandung teh meuni siga mapay jalan satapak.,10,17,1.7
+wrong,Maneh mah jadi jelema teh meuni beteung karet,8,13,1.625
+wrong,Maneh mah jadi jelema teh meuni beuteng heras.,8,15,1.875
+wrong,Lalakonna siga bangkong dikurung batok,5,12,2.4
+wrong,Balong laukna siga buyatak solokan.,5,12,2.4
+wrong,Rupina siga kembang beukah,4,9,2.25
+wrong,Rupina siga tahu beukah.,4,9,2.25
+wrong,Neangan si eta kawas neang jarum di sawah,8,13,1.625
+wrong,Sapopoe si eta kawas nu diudag ku rentenir,8,13,1.625
+wrong,Mun makan siga nu teu boga duit,7,8,1.1428571428571428
+wrong,Mun makan siga loba duit.,5,8,1.6
+wrong,Nasehat ti bapa na leungit siga debu kahujanan.,8,17,2.125
+wrong,Dagingna siga tahu,3,6,2.0
+wrong,Sakapeung jodoh teh kawas meuli ucing dina karung,8,16,2.0
+wrong,Sakapeung jodoh teh kawas meuli bumbu di pasar.,8,15,1.875
+wrong,Acukna siga meuli di mall,5,9,1.8
+wrong,Sapi na siga limosin,4,7,1.75
+wrong,Mung ngomong siga aya sambelna,5,9,1.8
+wrong,Ditingal teh si eta siga nu can ibak,8,12,1.5
+wrong,Ka pasar ge siga nu rek sare.,7,9,1.2857142857142858
+wrong,Si eta mung ceurik siga euweuh masalah.,7,13,1.8571428571428572
+wrong,Rai na ka adi na teh siga cocoan,8,10,1.25
+wrong,Rupi na siga cepot.,4,8,2.0
+wrong,Kuliah na siga kalender isina tanggal beureum.,7,13,1.8571428571428572
+wrong,Awakna siga tangkal jati,4,9,2.25
+wrong,Awakna siga tangkal gedang.,4,10,2.5
+wrong,Mung lumpat si eta siga kuya.,6,10,1.6666666666666667
+wrong,Si eta kuliah siga nu teu kantos bobo,8,11,1.375
+wrong,Masakanna kawas nu boga resto ageung.,6,10,1.6666666666666667
+wrong,Hawa na siga di pasar.,5,7,1.4
+wrong,Hujanna kawas cai ngagubrag,4,9,2.25
+wrong,Salaki na kawas Kabayan,4,7,1.75
+wrong,Hirup teh kawas meuntas atas benang,6,10,1.6666666666666667
+wrong,Keneh isuk ngan siga panonpoe geus mencrang wae,8,17,2.125
+wrong,Ngabaturan si eta unggal poe siga keur aya perang wae,10,16,1.6
+wrong,Kakolot undak unduk na siga malin kundang,7,13,1.8571428571428572
+wrong,Budak ayeuna mung gawe kawas peucang.,6,10,1.6666666666666667
+wrong,Milarian artos siga artos ngagolosor ti langit.,7,15,2.142857142857143
+wrong,Mie na beukah kawas adonan buyatak.,6,14,2.3333333333333335
+wrong,Bumi na siga sarang na cucunguk.,6,12,2.0
+wrong,Sakola na ka bumi siga ukur salengkah.,7,13,1.8571428571428572
+wrong,Pangaos cocoan si ade siga panagos imah jeung sawah,9,15,1.6666666666666667
+wrong,Wengi ieu langit na siga cai herang,7,10,1.4285714285714286
+wrong,Hasil melak na kawas kali keur saat.,7,10,1.4285714285714286
+wrong,Nu lalajo di stadion kamari siga budak leutik,8,14,1.75
+wrong,Beuki ka dieu pamarentah teh siga beurit dina lumbung pare,10,18,1.8
+wrong,Beuki ka dieu pamarentah teh siga pare nu geus asak.,10,17,1.7
+wrong,Asep lumpatna kawas uncal,4,9,2.25
+wrong,Mun jadi jalmi ulah sok beurat birit,7,11,1.5714285714285714
+wrong,Mun jadi jalmi ulah sok hampang birit.,7,12,1.7142857142857142
+wrong,Hirup teh kawas lumpat di lapang.,6,11,1.8333333333333333
+wrong,Meuli hp saharga imah gedongan,5,9,1.8
+wrong,Meuli hp saharga rorompok gubuk.,5,11,2.2
+wrong,Ieu kabar umpama hujan bentar,5,8,1.6
+wrong,Kulit Siti kos bujur orok,5,7,1.4
+wrong,Kulit Siti kos careuh bulan.,5,7,1.4
+wrong,Sikap anjeunna siga es batu,5,8,1.6
+wrong,Adi lanceuk teh kalakuan kos jalak jeung kebo.,8,14,1.75
+wrong,Boga kabogoh teh sikapna kos maung,6,10,1.6666666666666667
+wrong,Boga kabogoh teh sikapna kos kukang.,6,11,1.8333333333333333
+wrong,Lanceuk abdi awakna sapertos nyere,5,8,1.6
+wrong,Lanceuk abdi awakna sapertos gajah.,5,10,2.0
+wrong,Gawe teh umpama nginum cai sirop,6,10,1.6666666666666667
+wrong,Sora manehna kawas kicau manuk dadali,6,13,2.1666666666666665
+wrong,Sora manehna kawas hujan geledek.,5,10,2.0
+wrong,Ponten rapor kuring umpama beureum getih,6,12,2.0
+wrong,Omongan manehna kawas tangkal beringin.,5,11,2.2
+wrong,Kosan rerencangan abdi sapertos lapangan bola,6,11,1.8333333333333333
+wrong,Ngaharep balesan manehna ibarat ngajarkeun lauk naek tangkal,8,17,2.125
+wrong,Milarian padamelan ayena mah sapertos milarian bintang di beurang copong,10,19,1.9
+wrong,"Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun monyet renang.",11,21,1.9090909090909092
+wrong,Abdi sareung anjeuna kawas langit jeung bumi,7,11,1.5714285714285714
+wrong,Abdi sareung anjeuna kawas monyet jeung kera.,7,13,1.8571428571428572
+wrong,Diajar matematika umpama diajar maca jang budak SMA,8,12,1.5
+wrong,Diajar matematika umpama diajar maca jang budak TK.,8,13,1.625
+wrong,Kue damelan umi abdi saraos kue basi.,7,13,1.8571428571428572
+wrong,Pun bapa tanagana kawas samson,5,8,1.6
+wrong,Teu nyangka rayi abdi sajangkung ucok baba.,7,12,1.7142857142857142
+wrong,Ngarantau ibarat jalan-jalan ka nagari nu endah kacipta,8,16,2.0
+wrong,Ngarantau ibarat jalan-jalan ka leuweung nu loba jurigna.,8,18,2.25
+wrong,Acuk seuseuhan abdi mah sapertos acuk jalmi beres nguli.,9,18,2.0
+wrong,Naek kareta ekonomi sarupa calik dina sofa busa.,8,14,1.75
+wrong,Ukuran suku maneh meuni jiga cebol.,6,11,1.8333333333333333
+wrong,Basa inggris maneh geus saalus budak nu karak diajar ngomong.,10,16,1.6
+wrong,Carita nini abdi kawas carita nu nyieun sare.,8,11,1.375
+wrong,Minyak goreng ayeuna geus saharga imah,6,8,1.3333333333333333
+wrong,Minyak goreng ayeuna geus saharga kacang.,6,8,1.3333333333333333
+wrong,Cai sumur ayeuna mah kos cai kopi,7,8,1.1428571428571428
+wrong,Ngadangu carita anjeun mah kawas ngimpi naek ferrari.,8,15,1.875
+wrong,Hirup teu boga elmu sarupa leumpang sapanjang jalan nu loba lampuna.,11,20,1.8181818181818181
+wrong,Pertanyaan si bapa teh meuni kos tts kompas,8,11,1.375
+wrong,Kunaon atuh eta seragam teh jiga baju ti londri.,9,15,1.6666666666666667
+wrong,Hirup abdi mah kawas tv baheula,6,10,1.6666666666666667
+wrong,Buruan tatangga teh meuni saluas wc kareta.,7,13,1.8571428571428572
+wrong,Gambar rayi abdi layak umpama gambar nu meunang ponten F.,10,15,1.5
+wrong,Tulisan budak teh meuni jiga cakar hayam,7,11,1.5714285714285714
+wrong,Elmu agama kawas gudang nu eweuh lampuan.,7,14,2.0
+wrong,Lapang Padjajaran kos lapang di kandang kuda.,7,13,1.8571428571428572
+wrong,Ngendong sawengi ge bawaan teh kawas jalmi nu bade pindahan,10,18,1.8
+wrong,Ngendong sawengi ge bawaan teh kawas jalmi teu gaduh acuk.,10,20,2.0
+wrong,Acuk rerencangan abdi sapertos bu haji,6,11,1.8333333333333333
+wrong,Acuk rerencangan abdi sapertos awewe nu arek mangkal.,8,18,2.25
+wrong,Kahayang abdi mah sagede truk,5,8,1.6
+wrong,Kahayang abdi mah sagede keresek indomaret.,6,13,2.1666666666666665
+wrong,Tutumbenan masakan dinten ieu kawas masakan sesa minggu kamari.,9,17,1.8888888888888888
+wrong,Akuarium hotel ieu meuni saageung keler kue.,7,14,2.0
+wrong,Kembang pamasihan anjeun teh kawas seungit sangit.,7,15,2.142857142857143
+wrong,Tisu merek eta mah saalus karung beas.,7,13,1.8571428571428572
+wrong,"Tong make lipen setip eta, jieun biwir kos sawah retak",10,17,1.7
+wrong,"Tong make lipen setip eta, jieun biwir kos embun daun.",10,17,1.7
+wrong,Kualitas koper anyar teh kos koper dior.,7,10,1.4285714285714286
+wrong,Ngadangukeun lagu Yura Yunita sapertos dipepende,6,14,2.3333333333333335
+wrong,Sampo si mama jieun buuk sapertos ti salon,8,12,1.5
+wrong,Kantor abdi di Bandung umpama gedong di tengah kebon,9,12,1.3333333333333333
+wrong,Tumpeng damelan si uwak meuni sajangkung meja lipet lesehan.,9,17,1.8888888888888888
+wrong,Buku sakola ayeuna sakandeul koran,5,9,1.8
+wrong,Biaya listrik makin kiwari makin kos porosotan.,7,10,1.4285714285714286
+wrong,Karpet anyar teh warnana jiga areng.,6,12,2.0
+wrong,Gawe tanpa elmu umpama mancing eweuh umpan,7,14,2.0
+wrong,Poto kawinan anjeun sapertos poto di kalender toko emas.,9,15,1.6666666666666667
+wrong,Harga anduk di toko ieu samirah dp bumi di komplek elit.,11,16,1.4545454545454546
+wrong,Desain Totoya nu anyar kawas mobil cocooan.,7,12,1.7142857142857142
+wrong,Naek gunung Sumbing umpama naek gunung digandong porter.,8,15,1.875
+wrong,Kulah lauk di bumi aki salega bagasi motor,8,11,1.375
+wrong,Rorompok amih lamun nuju seueur dulur kawas bumi gigir rel kareta,11,22,2.0
+wrong,Kelas X IPS mah aya teu aya guru umpama budak can dibere nyusu,13,16,1.2307692307692308
+wrong,Sapatu pamere mamang teh kawas sapatu meunang nginjeum,8,17,2.125
+wrong,Lomari di kamar pun kolot saageung ka'bah,7,13,1.8571428571428572
+wrong,Lomari di kamar pun kolot saageung bagasi mobil sedan.,9,15,1.6666666666666667
+wrong,Lukisan ieu sapertos karya budak nu keur diajar ngagambar.,9,14,1.5555555555555556
+wrong,Botol cai teh kos toren cai,6,8,1.3333333333333333
+wrong,Jolang di bumi rerencangan abdi kawas gayung.,7,14,2.0
+wrong,Sangu di warung ieu mah sapertos gigih.,7,12,1.7142857142857142
+wrong,Cat di imah maneh mah jiun imah kawas imah eweuh lampuan,11,19,1.7272727272727273
+wrong,Martabak Mang Idoy umpama lauk digembrong laleur,7,16,2.2857142857142856
+wrong,Martabak Mang Idoy umpama emas nu hargana naek.,8,15,1.875
+wrong,Laut di Sukabumi kawas kelas meunang piket,7,11,1.5714285714285714
+wrong,Twitter jaman kiwari makin sapertos warung klontong,7,12,1.7142857142857142
+wrong,Twitter jaman kiwari makin sapertos warung bakso jam 12 beurang basa keur bulan puasa.,14,21,1.5
+wrong,Pangseungit ruangan ieu jieun sapertos hayang utah,7,14,2.0
+wrong,Hargi sewa mobil di dieu saharga biaya umroh,8,13,1.625
+wrong,Hargi sewa mobil di dieu saharga biaya naek beca.,9,16,1.7777777777777777
+wrong,Huntu Si Joko jiga seragam golkar,6,10,1.6666666666666667
+wrong,Huntu Si Joko jiga mukena lebaran.,6,12,2.0
+wrong,Manehna ngahasilkeun artos jiga ngarenghap napas,6,15,2.5
+wrong,Eta murid hiji kawas kancil.,5,8,1.6
+wrong,Biwirna ngucapkeun kecap amis siga gula.,6,13,2.1666666666666665
+wrong,Manehna angkat liburan nganggo manuk beusi.,6,11,1.8333333333333333
+wrong,"Ceuk babaturanana, manehna mangrupikeun jalma tiis sirah.",7,19,2.7142857142857144
+wrong,Manehna jalmi nu tiis leungeun,5,11,2.2
+wrong,Dina éta balapan manehna jiga kuda hideung.,7,14,2.0
+wrong,Manehna mangrupakeun jalma anu hatena siga lapangan,7,14,2.0
+wrong,Eta lalaki kawas ksatria,4,7,1.75
+wrong,Manehna mangrupakeun pamingpin anu haneut hate,6,14,2.3333333333333335
+wrong,Manehna mangrupakeun pamingpin anu tiis hate.,6,14,2.3333333333333335
+wrong,Budak eta mah lurus haté,5,7,1.4
+wrong,Budak eta mah gedé sungut.,5,8,1.6
+wrong,"Lamun diperlukeun, manehna senang pikeun pangku lengeun.",7,15,2.142857142857143
+wrong,Artis eta téh keur naék,5,6,1.2
+wrong,Kecap-kecapna kawas pinuh ku cucuk.,5,15,3.0
+wrong,"Ceuk tatanggana, manehna teh beungeut kandel",6,14,2.3333333333333335
+wrong,Manehna mangrupikeun kutu buku,4,9,2.25
+wrong,Hate manusia kadang kawas lapangan,5,7,1.4
+wrong,Eta budak hiji mah mangrupakeun tulang tonggong,7,10,1.4285714285714286
+wrong,Eta budak hiji mah mangrupakeun beungbeurat kulawarga.,7,15,2.142857142857143
+wrong,Anjeunna junun nampi padamelan ti banting tulang,7,13,1.8571428571428572
+wrong,Anjeunna junun nampi padamelan ti orang dalem.,7,14,2.0
+wrong,Mulutna meuni enteng,3,7,2.3333333333333335
+wrong,Mulutna meuni beurat.,3,8,2.6666666666666665
+wrong,Kadaharan eta réstoran karasaeun sapertos masakan di rumah sakit.,9,17,1.8888888888888888
+wrong,Manehna naroskeun patarosan anu seuket siga peso,7,15,2.142857142857143
+wrong,Manehna ngaréngsékeun tugasna kalayan lengkah kuya.,6,16,2.6666666666666665
+wrong,Manehna ningali pantulanna dina eunteung kawas jalmi biasa.,8,18,2.25
+wrong,Luncatna dina pertandingan siga luncat bajing,6,12,2.0
+wrong,Warna baju manehnya katingali caang sapertos beurang,7,14,2.0
+wrong,Hawana Jakarta upami tos siang mah sapertos seuneu naraka,9,15,1.6666666666666667
+wrong,Hawana Jakarta upami tos siang mah sapertos ibun dina dangdaunan.,10,19,1.9
+wrong,Rarayna siga kembang anu kakarak mekar,6,12,2.0
+wrong,Milarian padamelan salami Covid-19 siga ngalétak ujung irung sorangan,9,20,2.2222222222222223
+wrong,Milarian padamelan salami Covid-19 siga nyekelan tonggong babaturan.,8,21,2.625
+wrong,Kasatiaan dina jaman ayeuna sapertos milarian maung sumatera,8,14,1.75
+wrong,Omongan lalaki téh ibarat empedu sasatoan.,6,12,2.0
+wrong,Barudak jaman ayeuna mah bajuna siga leupeut daun kalapa,9,15,1.6666666666666667
+wrong,Barudak jaman ayeuna mah bajuna siga calana nu euweuh talian.,10,17,1.7
+wrong,Ayeuna jumlah motor di jalan téh siga sireum anu ngedeukeutan gula,11,19,1.7272727272727273
+wrong,Rumaja jaman kiwari mah rasa nasionalismena siga jerona balong keur lauk.,11,19,1.7272727272727273
+wrong,Nagihan ijeuman téh ibarat masak cai dugi ka ngagolak.,9,17,1.8888888888888888
+wrong,Nabung lamun rutin bisa nyieun dompét anjeun sapertos Dobby di Harry Potter.,12,19,1.5833333333333333
+wrong,"Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos buku anu ngajéjér di perpustakaan",16,29,1.8125
+wrong,Kamar kos abdi téh sapertos lapangan keur barudak maén bal.,10,14,1.4
+wrong,Migawé pagawéan kalompok mah karasana siga lumpat di kolam renang,10,19,1.9
+wrong,Migawé pagawéan kalompok mah karasana siga mawa kapas sakarung.,9,21,2.3333333333333335
+wrong,Kawin jeung idola téh kawas ngala cai make rakét,9,14,1.5555555555555556
+wrong,Jalmi anu jujur mah biasana jiga kembang taraté dina cai,10,15,1.5
+wrong,Keur kuring mah disuntik vaksin kawas durian ragrag kana sirah,10,18,1.8
+wrong,Hukum Indonésia mah siga bujur seéng paranti sangu,8,14,1.75
+wrong,Hukum Indonésia mah siga bangkuang dina jero taneuh.,8,14,1.75
+wrong,Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang kudu ngajual ginjal,11,18,1.6363636363636365
+wrong,Upami urang ningali jurig tengah peuting mah siga kurupuk kéna kua baso,12,21,1.75
+wrong,Dosén abdi di kampus baheula siga indung tirina Cinderélla,9,18,2.0
+wrong,Pamadegan batur keur urang mah siga bisa oray nyiduh tina sungut.,11,20,1.8181818181818181
+wrong,Pergaulan anu bébas bisa nyieun harga diri kawas inten anu leutik tapi dipilarian ku jalma réa.,16,28,1.75
+wrong,Getol nabung tapi getol ogé ngahutangna mah ibarat miceun uyah ka laut,12,23,1.9166666666666667
+wrong,Getol nabung tapi getol ogé ngahutangna mah ibarat lilin dina poék lampu.,12,23,1.9166666666666667
+wrong,Jalmi suksés digawé kawas sireum néangan dahareun,7,18,2.5714285714285716
+wrong,Guru téh ibarat lilin anu réla ngaduruk dirina sorangan pikeun meré caang,12,21,1.75
+wrong,Guru téh ibarat tukang dagang ka nu meuli.,8,12,1.5
+wrong,Nuduh batur ku awon téh kawas jalma nu nyiduh ka langit,11,18,1.6363636363636365
+wrong,Nuduh batur ku awon téh kawas nyebarkeun binih kembang sapanjang jalan.,11,21,1.9090909090909092
+wrong,Pernikahan mah ti jaman baheula gé asaan pasti aya anu siga batré hp urut batur.,15,25,1.6666666666666667
+wrong,Umur manusa mah siga buukna jenglot,6,13,2.1666666666666665
+wrong,Umur manusa mah siga tangkal togé.,6,12,2.0
+wrong,Buukna dirumbay siga sapu ijuk,5,12,2.4
+wrong,Ngadagoan kasuksésan datang ka kahirupan mah ibarat ngadagoan mi instan asak.,11,25,2.272727272727273
+wrong,Pangalaman hirup bisa ngajadikeun sipat manusa kawas maung keur nungguan mangsa ti kajauhan.,13,25,1.9230769230769231
+wrong,Upami keur lebaran di Bogor mah suasanana kos astana anyar,10,15,1.5
+wrong,Upami keur lebaran di Bogor mah suasanana kos ulin ka pasar peuting.,12,18,1.5
+wrong,Ngabuka usaha anyar keur pandémik sapertos balayar dina badai,9,16,1.7777777777777777
+wrong,Ngabuka usaha anyar keur pandémik sapertos naék gunung anu teu lungkawing.,11,20,1.8181818181818181
+wrong,Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos kantong semar keur ngajuju mangsana,12,25,2.0833333333333335
+wrong,Nu kaambu dina angkutan umum sapertos sangu nu geus leueur,10,16,1.6
+wrong,Balik deui sareng mantan sapertos nganggo baju anu sami dina unggal dinten.,12,18,1.5
+wrong,Hubungan jarak jauh ibarat arum jeram di sungai,8,11,1.375
+wrong,Hubungan jarak jauh ibarat numpakan kano di talaga.,8,12,1.5
+wrong,Panghina ti batur mah siga kusir keur mecut kuda,9,14,1.5555555555555556

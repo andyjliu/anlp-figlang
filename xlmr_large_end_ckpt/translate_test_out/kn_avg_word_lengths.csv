@@ -1,0 +1,1199 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,The place is clean like a hospital.,7,8,1.1428571428571428
+correct,The place is clean like a fish market.,8,9,1.125
+correct,The area is as violent as a war land.,9,10,1.1111111111111112
+correct,Their bond is as strong as friends.,7,9,1.2857142857142858
+correct,Their bond is as strong as enemies.,7,11,1.5714285714285714
+correct,The place is as quiet as a temple.,8,9,1.125
+correct,The place is as quiet as a traffic jam.,9,10,1.1111111111111112
+correct,He is as weak as an old man,8,9,1.125
+correct,He is as strong as an old man.,8,9,1.125
+correct,It is red in color like blood.,7,8,1.1428571428571428
+correct,Its speed is as slow as a tortoise.,8,11,1.375
+correct,That thing is as old as the telephone.,8,9,1.125
+correct,Food is as nutritious as millet.,6,10,1.6666666666666667
+correct,The area is as wide as a playground.,8,10,1.25
+correct,The performance of the players was like that of a champion.,11,12,1.0909090909090908
+correct,The performance of the players was like a loser.,9,11,1.2222222222222223
+correct,It is the size of a football.,7,8,1.1428571428571428
+correct,It is about the size of a golf ball.,9,10,1.1111111111111112
+correct,He is as influential as a king.,7,9,1.2857142857142858
+correct,He is as impressive as a servant.,7,8,1.1428571428571428
+correct,He is rich like a merchant.,6,8,1.3333333333333333
+correct,That thing is as small as a worm,8,8,1.0
+correct,That habit is as bad as smoking.,7,8,1.1428571428571428
+correct,That animal is as old as a dinosaur.,8,9,1.125
+correct,It is as necessary as oxygen to breathe.,8,10,1.25
+correct,The food was as special as the festive meal.,9,11,1.2222222222222223
+correct,Its price is as expensive as a plane ticket.,9,11,1.2222222222222223
+correct,His beliefs are as strong as a rock.,8,10,1.25
+correct,It's as easy as reading.,5,8,1.6
+correct,He is wearing a traditional dress Panche.,7,9,1.2857142857142858
+correct,That thing has as much logic as science.,8,9,1.125
+correct,She was wearing a saree that represents our culture.,9,12,1.3333333333333333
+correct,He is as influential as politicians.,6,9,1.5
+correct,As scarce as water in the desert.,7,9,1.2857142857142858
+correct,Abundant as snowfall on the summit.,6,10,1.6666666666666667
+correct,As abundant as the soil on the summit.,8,11,1.375
+correct,The place is green like a forest.,7,9,1.2857142857142858
+correct,Arab countries are rich from petroleum.,6,9,1.5
+correct,As healthy as fiber in food.,6,7,1.1666666666666667
+correct,As healthy as carbs in food.,6,8,1.3333333333333333
+correct,The sky is cloudy like the rainy season.,8,11,1.375
+correct,The place is as beautiful as the Taj Mahal.,9,10,1.1111111111111112
+correct,It is more bitter than neem,6,6,1.0
+correct,That space is also as far away as the moon,10,11,1.1
+correct,That thing was as boring as a World Cup defeat,10,12,1.2
+correct,That fact is as important as education,7,7,1.0
+correct,That app has as many users as Gmail,8,8,1.0
+correct,That app has as many users as Orkut,8,9,1.125
+correct,This food contains as much protein as eggs,8,10,1.25
+correct,It is as good as a vegetable,7,8,1.1428571428571428
+correct,It is expensive like dry fruits,6,6,1.0
+correct,It is as expensive as vegetables,6,6,1.0
+correct,The subject was as scientific as a solar eclipse,9,11,1.2222222222222223
+correct,He is rich like Ambani,5,6,1.2
+correct,They are rich like common people,6,6,1.0
+correct,The scene was also as wonderful as the waterfall,9,10,1.1111111111111112
+correct,That scene was also amazing like a traffic jam,9,9,1.0
+correct,The place is as quiet as a library.,8,10,1.25
+correct,The place is quiet like a bus station.,8,9,1.125
+correct,It is very rare like a comet,7,8,1.1428571428571428
+correct,That exam is difficult like UPSC,6,7,1.1666666666666667
+correct,Understanding it is as complicated as the formula itself,9,11,1.2222222222222223
+correct,It has an oval shape like an egg,8,9,1.125
+correct,He is popular as an artist,6,6,1.0
+correct,That game is as famous as football,7,7,1.0
+correct,The celebration was as fun as the victory,8,9,1.125
+correct,The celebration was as fun as the defeat,8,9,1.125
+correct,The incident was as terrifying as war,7,9,1.2857142857142858
+correct,The building was furnished like a palace,7,10,1.4285714285714286
+correct,The object was a reflection like a mirror,8,9,1.125
+correct,The statue was as tall as the Statue of Unity,10,12,1.2
+correct,That's as good as saving money,6,9,1.5
+correct,That's as good as spending money,6,8,1.3333333333333333
+correct,That sound is like music,5,5,1.0
+correct,That movie was as scary as a horror movie,9,10,1.1111111111111112
+correct,That movie was as scary as a comedy,8,9,1.125
+correct,That thing too is as easy as making Maggi,9,10,1.1111111111111112
+correct,That's as fast as a 100-meter dash,7,11,1.5714285714285714
+correct,That's about as fast as running a marathon,8,10,1.25
+correct,He rises as early as the sunrise,7,9,1.2857142857142858
+correct,That fact is as exciting as a job offer,9,9,1.0
+correct,That fact is as exciting as a job layoff,9,11,1.2222222222222223
+correct,It was as interesting as a magic show,8,8,1.0
+correct,He is as knowledgeable as a scholar,7,8,1.1428571428571428
+correct,That river does not flow as long as Kaveri,9,10,1.1111111111111112
+correct,That's big as a damn,5,7,1.4
+correct,It is as big as mud,6,6,1.0
+correct,That thing is hot as fire,6,6,1.0
+correct,It's as fun as a party,6,8,1.3333333333333333
+correct,That's as much fun as testing,6,8,1.3333333333333333
+correct,The creature is as small as an ant,8,8,1.0
+correct,That thing is as sharp as a knife,8,9,1.125
+correct,It is illegal to cheat,5,6,1.2
+correct,That material is as delicate as glass,7,8,1.1428571428571428
+correct,That thing is as delicate as stone,7,9,1.2857142857142858
+correct,That incident was as horrible as the accident,8,8,1.0
+correct,The event was as scary as a dance show,9,10,1.1111111111111112
+correct,The building is as historic as the palace itself,9,10,1.1111111111111112
+correct,He is invincible like Arjuna,5,9,1.8
+correct,It is as common as gold.,6,7,1.1666666666666667
+correct,He was as curious as a scientist,7,7,1.0
+correct,He was brutal like a criminal,6,6,1.0
+correct,Its sound was as loud as thunder,7,10,1.4285714285714286
+correct,It is a historical city like Dwarka,7,8,1.1428571428571428
+correct,That material is as inert as cotton,7,8,1.1428571428571428
+correct,It was as dark as night,6,6,1.0
+correct,His knowledge is as deep as the ocean,8,8,1.0
+correct,The fare was as economical as a cab ride,9,10,1.1111111111111112
+correct,The fare was as economical as a flight ticket,9,10,1.1111111111111112
+correct,A rubber band is elastic like a spring.,8,10,1.25
+correct,A rubber band is as elastic as a thread.,9,11,1.2222222222222223
+correct,This work is as confusing as coding,7,9,1.2857142857142858
+correct,This work is as confusing as typing,7,9,1.2857142857142858
+correct,The darkness of the night was as dark as the new moon,12,14,1.1666666666666667
+correct,Bangalore is less polluted like an island,7,9,1.2857142857142858
+correct,That planet is habitable like Earth,6,7,1.1666666666666667
+correct,Our farm soil is as fertile as the desert,9,11,1.2222222222222223
+correct,Food prepared by you is as healthy as food made at home,12,12,1.0
+correct,Food prepared by you is as healthy as hotel food,10,10,1.0
+correct,The shape of a watermelon is rounded like a lemon,10,13,1.3
+correct,The shape of watermelon is round like a banana,9,11,1.2222222222222223
+correct,This task is as difficult as climbing a mountain,9,10,1.1111111111111112
+correct,This material also has flexible properties like rubber,8,9,1.125
+correct,This area is as crowded as the market,8,9,1.125
+correct,The duration of the game is long like cricket,9,11,1.2222222222222223
+correct,My new clothes are as soft as woolen,8,10,1.25
+correct,My new clothes are soft as a rock,8,8,1.0
+correct,Lemons are sour like apples,5,8,1.6
+correct,My own Michael Jackson dances,5,6,1.2
+correct,He has keen vision like an eagle,7,9,1.2857142857142858
+correct,That animal has cunning like a fox,7,9,1.2857142857142858
+correct,He is as bold as a lion,7,9,1.2857142857142858
+correct,He stays awake all night like a parrot,8,11,1.375
+correct,He was burning like a volcano in anger,8,11,1.375
+correct,She flies very high like a bird,7,9,1.2857142857142858
+correct,This animal roars like a lion,6,8,1.3333333333333333
+correct,Dosa is as popular a breakfast as sandwich,8,9,1.125
+correct,This area can hold more water like a dam,9,9,1.0
+correct,Organisms live mostly in the sea.,6,8,1.3333333333333333
+correct,That water is as salty as the sea,8,9,1.125
+correct,That boy flies like a monkey,6,8,1.3333333333333333
+correct,As large as an elephant in size,7,9,1.2857142857142858
+correct,He is very fast like a computer,7,7,1.0
+correct,The place was as high as a tunnel,8,8,1.0
+correct,This dish was hard as cake,6,7,1.1666666666666667
+correct,It was smooth as soap,5,6,1.2
+correct,"When I saw him, I was as proud as a soldier",11,13,1.1818181818181819
+correct,"When he saw him, he was as proud as a militant",11,12,1.0909090909090908
+correct,The material was as delicate as glass,7,8,1.1428571428571428
+correct,The dish was as clean as a home made snack,10,11,1.1
+correct,The dish was as clean as a roadside snack,9,11,1.2222222222222223
+correct,That cooking was as healthy as an apple,8,8,1.0
+correct,This space is as deep as a house tank,9,9,1.0
+correct,This fish is massive like a starfish,7,8,1.1428571428571428
+correct,His courage was like that of a son,8,8,1.0
+correct,The snack was flat like bread,6,6,1.0
+correct,The water they gave was as salty as sea water,10,11,1.1
+correct,She shone like the full moon,6,8,1.3333333333333333
+correct,She was dressed like a model,6,7,1.1666666666666667
+correct,She was dressed like a village lady,7,8,1.1428571428571428
+correct,That meal was as healthy as a burger,8,8,1.0
+correct,The animal was sleeping excessively like a koala,8,10,1.25
+correct,The lady was as beautiful as Rambe,7,8,1.1428571428571428
+correct,The sheet was as soft as a bed,8,8,1.0
+correct,That sheet was as soft as hard ground,8,8,1.0
+correct,It was as wide as a lake,7,7,1.0
+correct,That game was as exciting as Sky Drive,8,8,1.0
+correct,That game was exciting as a walk,7,7,1.0
+correct,It was cold like soup,5,5,1.0
+correct,It was crispy like a dosa,6,8,1.3333333333333333
+correct,The armor she wore was as hard as gold,9,11,1.2222222222222223
+correct,Her dress was full of attractive colors like the bow of lust,12,14,1.1666666666666667
+correct,Her dress was colorful like a white board,8,9,1.125
+correct,His speech is hoarse like a whisper,7,10,1.4285714285714286
+correct,He is cute like grandma,5,6,1.2
+correct,He is as cute as a newborn baby,8,9,1.125
+correct,It was dark like a full moon day,8,9,1.125
+correct,He is as young as a baby,7,7,1.0
+correct,He is as young as grandfather,6,8,1.3333333333333333
+correct,His dress was clean like an officer,7,7,1.0
+correct,His clothes were clean like a beggar,7,8,1.1428571428571428
+correct,The snack was as thin as bread,7,8,1.1428571428571428
+correct,That space was as high as the sky,8,8,1.0
+correct,Its shape is curved like a square,7,10,1.4285714285714286
+correct,It is as big as a ship,7,7,1.0
+correct,Her tune is as lovely as the singer,8,9,1.125
+correct,He is as happy as a child,7,7,1.0
+correct,He is as big as an elephant,7,9,1.2857142857142858
+correct,He is as big as an ant,7,7,1.0
+correct,She is revered as a goddess,6,9,1.5
+correct,She is revered as a devil,6,8,1.3333333333333333
+correct,The building is luxurious like a bungalow,7,10,1.4285714285714286
+correct,That building is as luxurious as a hut,8,11,1.375
+correct,This fruit is juicy like sugarcane,6,9,1.5
+correct,He is rich like Ambani,5,6,1.2
+correct,He is as rich as a beggar,7,8,1.1428571428571428
+correct,That oil is as viscous as alum,7,10,1.4285714285714286
+correct,Energy is as unlimited as the energy of the sun,10,10,1.0
+correct,She is as excellent as a topper,7,8,1.1428571428571428
+correct,She excels as a normal student,6,7,1.1666666666666667
+correct,He is as practical as Vijnani,6,8,1.3333333333333333
+correct,That crystal is as precious as a gem,8,9,1.125
+correct,It was as white as a white cloud,8,8,1.0
+correct,It was as white as a blackboard,7,8,1.1428571428571428
+correct,She is as fresh as a flower,7,8,1.1428571428571428
+correct,She is as fresh as a dry leaf,8,9,1.125
+correct,He has an attractive body like a gym guy,9,9,1.0
+correct,He has an attractive body like a chubby one,9,10,1.1111111111111112
+correct,She is beautiful like barbie,5,6,1.2
+correct,That water is as clean as filtered water,8,9,1.125
+correct,That water is as clean as pond water,8,9,1.125
+correct,That snack is as soft as a donut,8,9,1.125
+correct,That music is lovely to listen to,7,7,1.0
+correct,That music is hoarse to listen to,7,8,1.1428571428571428
+correct,He is small like a thin man,7,8,1.1428571428571428
+correct,He is short like a fat man,7,7,1.0
+correct,This game is as adventurous as scuba,7,10,1.4285714285714286
+correct,This game is as adventurous as swimming,7,9,1.2857142857142858
+correct,She is simple like a housewife,6,8,1.3333333333333333
+correct,That animal is as long as a lizard,8,10,1.25
+correct,It is as neutral as a cloud,7,7,1.0
+correct,It is as neutral as a rock,7,7,1.0
+correct,The weather is cold like winter,6,6,1.0
+correct,The weather is also cool like summer,7,7,1.0
+correct,The weather is also warm like summer,7,7,1.0
+correct,The weather is also warm like the rainy season.,9,11,1.2222222222222223
+correct,That boy is as tall as a giraffe.,8,10,1.25
+correct,The movie has a straightforward story like a love story,10,12,1.2
+correct,His eyes are as blue as the sky,8,8,1.0
+correct,A soldier's arm is as hard as iron,8,12,1.5
+correct,A soldier's arm is as hard as plastic,8,11,1.375
+correct,This substance also has a sweet smell like a flower,10,11,1.1
+correct,The universe has innumerable stars,5,10,2.0
+correct,He is as focused as a horse at work,9,9,1.0
+correct,Its color is milky white,5,7,1.4
+correct,They change color like chameleons,5,7,1.4
+correct,They change color like a snake,6,7,1.1666666666666667
+correct,That building is as beautiful as the Taj Mahal,9,9,1.0
+correct,That building is as beautiful as a demolished palace,9,12,1.3333333333333333
+correct,That road is as straight as a highway,8,9,1.125
+correct,That road is as straight as a hill station,9,9,1.0
+correct,The road has twists and turns like a hill station,10,12,1.2
+correct,Investing in stock market is risky,6,8,1.3333333333333333
+correct,The coffee was hot,4,4,1.0
+correct,The coffee was cold,4,4,1.0
+correct,The height of the stick was long,7,7,1.0
+correct,The height of the stick was broken,7,7,1.0
+correct,The village house is very big,6,6,1.0
+correct,The village house is very small,6,6,1.0
+correct,Cricket game is very easy,5,5,1.0
+correct,The game of cricket is very difficult,7,8,1.1428571428571428
+correct,Playing chess requires a lot of intelligence,7,11,1.5714285714285714
+correct,Playing chess requires less intelligence,5,9,1.8
+correct,The colors of that painting were beautiful.,7,8,1.1428571428571428
+correct,The colors of that painting were ugly.,7,9,1.2857142857142858
+correct,The movie had a good message,6,6,1.0
+correct,There was a bad message in the movie,8,8,1.0
+correct,The music of the song was raucous,7,9,1.2857142857142858
+correct,The melody of the song was hoarse,7,9,1.2857142857142858
+correct,There were more games for children at the fair,9,9,1.0
+correct,There were few games for children at the fair,9,9,1.0
+correct,His speech attracted people like steel,6,7,1.1666666666666667
+correct,His speech attracted people like plastic,6,7,1.1666666666666667
+correct,That animal has a sharp look,6,6,1.0
+correct,The animal has a soft appearance,6,6,1.0
+correct,That problem is as easy as drinking water,8,9,1.125
+correct,The concert was so good that I fell asleep,9,10,1.1111111111111112
+correct,This vehicle is fast like a rocket,7,8,1.1428571428571428
+correct,This vehicle is as fast as a bullock cart,9,10,1.1111111111111112
+correct,His dance was so catchy that it made people dance,10,11,1.1
+correct,The price of that thing is more than petrol,9,9,1.0
+correct,That stuff is as expensive as water,7,7,1.0
+correct,The flower smelled like perfume,5,7,1.4
+correct,His mind is soft like cotton,6,6,1.0
+correct,This disease spreads like covid,5,7,1.4
+correct,This vehicle moves as fast as a flight.,8,10,1.25
+correct,This vehicle moves as fast as a bullock cart.,9,12,1.3333333333333333
+correct,This jewel is as unique as the Kohinoor diamond,9,13,1.4444444444444444
+correct,This jewelery is unique as usual,6,8,1.3333333333333333
+correct,Investing is as volatile as the stock market,8,10,1.25
+correct,Investments are volatile like fixed deposits,6,9,1.5
+correct,This person is famous as an actor,7,7,1.0
+correct,This land is fertile like agricultural land,7,9,1.2857142857142858
+correct,This land is as fertile as a desert,8,9,1.125
+correct,This road is narrow like a tunnel,7,8,1.1428571428571428
+correct,This road is narrow like a highway,7,9,1.2857142857142858
+correct,This pond is as wide as the sea,8,9,1.125
+correct,This program is scary like magic,6,7,1.1666666666666667
+correct,This recipe contains nutrients like millet pulp,7,11,1.5714285714285714
+correct,This vehicle can fly as high as a flight,9,9,1.0
+correct,This person is as naughty as an old man,9,11,1.2222222222222223
+correct,His skin is as soft as a baby's skin,9,11,1.2222222222222223
+correct,His skin is as soft as the skin of an old man,12,12,1.0
+correct,This show is scary as a blast,7,9,1.2857142857142858
+correct,This show is as scary as a party,8,9,1.125
+correct,This building is as ornate as a palace,8,11,1.375
+correct,This game is as big as the league,8,8,1.0
+correct,This disease is as urgent as a cough,8,9,1.125
+correct,This disease is as urgent as a heart attack,9,9,1.0
+correct,This dance is as ancient as Bharatanatyam,7,11,1.5714285714285714
+correct,This dance is as old as disco,7,7,1.0
+correct,This visit is a regular checkup,6,7,1.1666666666666667
+correct,This visit is as critical as the surgery,8,8,1.0
+correct,This food is as organic as Ayurvedic,7,9,1.2857142857142858
+correct,This food is as organic as Chinese food,8,8,1.0
+correct,This food is as chemical as a pill,8,8,1.0
+correct,These letters are as basic as the alphabet,8,9,1.125
+correct,This land is as dry as a desert,8,8,1.0
+correct,His muscles are like those of a wrestler,8,11,1.375
+correct,His muscles are like a patient,6,7,1.1666666666666667
+correct,He is as loyal as a cat,7,7,1.0
+correct,It is as big as the Taj Mahal,8,8,1.0
+correct,This insect is microscopic like a mite,7,10,1.4285714285714286
+correct,This insect is microscopic like a virus,7,9,1.2857142857142858
+correct,This metal is as valuable as diamond,7,8,1.1428571428571428
+correct,He is as dangerous as a monk,7,8,1.1428571428571428
+correct,He is as funny as the Joker,7,7,1.0
+correct,He is funny as a doctor,6,6,1.0
+correct,He is as cruel as the devil,7,8,1.1428571428571428
+correct,He is merciful like God,5,6,1.2
+correct,He is as merciful as the devil,7,9,1.2857142857142858
+correct,He is as enthusiastic as children,6,9,1.5
+correct,He is strong like an athlete,6,7,1.1666666666666667
+correct,He is as strong as the patient,7,7,1.0
+correct,He is as weak as a patient,7,8,1.1428571428571428
+correct,He is as weak as a wrestler,7,10,1.4285714285714286
+correct,The man is as creative as the director,8,8,1.0
+correct,This fruit is sweet like jackfruit.,6,9,1.5
+correct,That fruit has as much calcium as milk.,8,10,1.25
+correct,That fruit has as much calcium as water.,8,10,1.25
+correct,That place has much water like an island,8,8,1.0
+correct,That place has more water like a desert,8,8,1.0
+correct,This animal lives longer than a turtle,7,8,1.1428571428571428
+correct,This animal lives longer than a mosquito,7,9,1.2857142857142858
+correct,Her face is round like the moon,7,8,1.1428571428571428
+correct,Her face is round like an amoeba,7,9,1.2857142857142858
+correct,This city is clean as a barangay,7,8,1.1428571428571428
+correct,This city is clean like a slum,7,8,1.1428571428571428
+correct,Her eyes are blood red,5,5,1.0
+correct,This milk is as nutritious as mother's milk,8,12,1.5
+correct,He is as imaginative as a director.,7,9,1.2857142857142858
+correct,Water is very necessary for this body,7,7,1.0
+correct,Alcohol is very necessary for this body,7,9,1.2857142857142858
+correct,The Games have a history as long as the Olympics,10,11,1.1
+correct,On this day the wind blew like a hurricane,9,12,1.3333333333333333
+correct,I sleep like a baby,5,5,1.0
+correct,They experiment more like scientists,5,6,1.2
+correct,He was stressed as a newbie at work,8,10,1.25
+correct,He is as important as the CEO to the company.,10,11,1.1
+correct,He is more poetic as a writer,7,9,1.2857142857142858
+correct,I am highly technical as an engineer.,7,8,1.1428571428571428
+correct,My father has a sense of humor like a comedian,10,11,1.1
+correct,It is a mystery like a detective story.,8,10,1.25
+correct,That subject is as difficult as getting a degree,9,9,1.0
+correct,That event is as common as rain,7,7,1.0
+correct,That event is as common as an earthquake,8,10,1.25
+correct,That thing is as common as having a car,9,9,1.0
+correct,He is highly respected as a judge in the society,10,11,1.1
+correct,He is highly respected as a criminal in the society,10,11,1.1
+correct,They lead a glorious life like kings,7,9,1.2857142857142858
+correct,A cat is a pet like a dog,8,8,1.0
+correct,Our town is sparsely populated like a forest,8,12,1.5
+correct,Its root is as hard as a tree root,9,10,1.1111111111111112
+correct,Its root is as hard as the root of a plant,11,12,1.0909090909090908
+correct,The climate there is as dry as a desert,9,9,1.0
+correct,The size of that bird is as small as a sparrow,11,13,1.1818181818181819
+correct,The price of that material is as cheap as copper,10,11,1.1
+correct,Her eyes were shining like stars,6,8,1.3333333333333333
+correct,That stuff rusts like gold,5,6,1.2
+correct,He was as legal as a policeman,7,8,1.1428571428571428
+correct,He was as lawless as thieves,6,9,1.5
+correct,There are more people than in the stadium,8,8,1.0
+correct,The object is round like a football.,7,8,1.1428571428571428
+correct,The object is round like a cricket bat.,8,10,1.25
+correct,He swims gracefully like a dolphin,6,11,1.8333333333333333
+correct,He swims gracefully like a crocodile,6,11,1.8333333333333333
+correct,That animal is more mischievous than a monkey,8,11,1.375
+correct,This item is worth more than a dollar,8,8,1.0
+correct,His smile is as innocent as a child's.,8,11,1.375
+correct,That event is as common as rain,7,7,1.0
+correct,That event is as common as an earthquake,8,10,1.25
+correct,The game is played for a long time like Test cricket,11,12,1.0909090909090908
+correct,God is everywhere like the wind,6,6,1.0
+correct,That natural phenomenon is as dangerous as a tsunami,9,12,1.3333333333333333
+correct,That thing is as good as planting,7,8,1.1428571428571428
+correct,The place is dense like a forest,7,9,1.2857142857142858
+correct,The place is dense like a garden,7,8,1.1428571428571428
+correct,It is as good as drinking water for health,9,10,1.1111111111111112
+correct,It contains more knowledge than a book,7,8,1.1428571428571428
+correct,It contains as much knowledge as a party,8,9,1.125
+correct,The area is as wide as a football field,9,9,1.0
+correct,The area is as wide as a badminton ground,9,9,1.0
+correct,It is as polluting to the environment as a bicycle,10,13,1.3
+correct,His life is as carefree as a child,8,9,1.125
+correct,It's as easy as having a mobile,7,9,1.2857142857142858
+correct,There are more animals in the forest,7,8,1.1428571428571428
+correct,That job is as secure as a government job,9,9,1.0
+correct,That job is as secure as a private job,9,9,1.0
+correct,Their bond is as strong as friends,7,8,1.1428571428571428
+correct,Their bond is as strong as enemies,7,10,1.4285714285714286
+correct,That thing is as sharp as a sword,8,9,1.125
+correct,It is oval shaped like an egg,7,9,1.2857142857142858
+correct,That animal is as playful as a lion,8,10,1.25
+correct,It is blue like the sky,6,6,1.0
+correct,His work is as precise as a machine,8,8,1.0
+correct,His timing was as good as winning the lottery,9,12,1.3333333333333333
+correct,His timing was as good as an accident,8,9,1.125
+correct,His knowledge was as deep as that of a scientist,10,10,1.0
+correct,His knowledge was as deep as a student's,8,10,1.25
+correct,Her eyes sparkled like diamonds,5,8,1.6
+correct,This land is fertile as agricultural land,7,9,1.2857142857142858
+correct,This land is as fertile as a desert,8,9,1.125
+correct,His speech was as sweet as music,7,7,1.0
+correct,This animal is domesticated like a tiger,7,9,1.2857142857142858
+correct,His body was as strong as Bruce Lee's,8,10,1.25
+correct,That snack is as salty as sea water,8,9,1.125
+correct,Exercising is as healthy as riding a bicycle,8,11,1.375
+correct,That game is as famous as cricket in India,9,10,1.1111111111111112
+correct,It is as useful as mother's milk for the baby,10,12,1.2
+correct,It is as useful as powdered milk for a baby,10,11,1.1
+correct,He is a herbivore like a deer,7,10,1.4285714285714286
+correct,He fights like a wrestler,5,8,1.6
+correct,That bird flies high like an airplane,7,11,1.5714285714285714
+correct,"In that ceremony, there were as many snacks as a wedding",11,15,1.3636363636363635
+correct,The experience was as fun as the trip,8,8,1.0
+correct,That experience was as fun as the test,8,8,1.0
+correct,Those people are pacifists like Gandhi,6,8,1.3333333333333333
+correct,Its color is milky white,5,7,1.4
+correct,He is popular as a movie hero in India,9,9,1.0
+correct,They do penance like sadhus,5,7,1.4
+correct,That thing is red like blood,6,6,1.0
+correct,That disease spreads like covid,5,7,1.4
+correct,It is a practice as old as letter writing,9,9,1.0
+correct,It melts like stone,4,6,1.5
+correct,It was as adventurous as trekking,6,9,1.5
+correct,It was as adventurous as a morning walk,8,10,1.25
+correct,Her beauty is as wonderful as the full moon,9,10,1.1111111111111112
+correct,That movie was interesting like a detective story.,8,10,1.25
+correct,This dish was hard as cake,6,7,1.1666666666666667
+correct,It was smooth as soap,5,6,1.2
+correct,"When I saw him, I was as proud as a soldier",11,13,1.1818181818181819
+correct,"When he saw him, he was as proud as a militant",11,12,1.0909090909090908
+correct,The material was as delicate as glass,7,8,1.1428571428571428
+correct,The dish was as clean as a home made snack,10,11,1.1
+correct,The dish was as clean as a roadside snack,9,11,1.2222222222222223
+correct,That cooking was as healthy as an apple,8,8,1.0
+correct,This space is as deep as a house tank,9,9,1.0
+correct,This fish is massive like a starfish,7,8,1.1428571428571428
+correct,His courage was like that of a son,8,8,1.0
+correct,The snack was flat like bread,6,6,1.0
+correct,The water they gave was as salty as sea water,10,11,1.1
+correct,She shone like the full moon,6,8,1.3333333333333333
+correct,She was dressed like a model,6,7,1.1666666666666667
+correct,She was dressed like a village lady,7,8,1.1428571428571428
+correct,That meal was as healthy as a burger,8,8,1.0
+correct,The animal was sleeping excessively like a koala,8,10,1.25
+correct,The lady was as beautiful as Rambe,7,8,1.1428571428571428
+correct,The sheet was as soft as a bed,8,8,1.0
+correct,That sheet was as soft as hard ground,8,8,1.0
+correct,It was as wide as a lake,7,7,1.0
+correct,That game was as exciting as Sky Drive,8,8,1.0
+correct,That game was exciting as a walk,7,7,1.0
+correct,It was cold like soup,5,5,1.0
+correct,It was crispy like a dosa,6,8,1.3333333333333333
+correct,The armor she wore was as hard as gold,9,11,1.2222222222222223
+correct,Her dress was full of attractive colors like the bow of lust,12,14,1.1666666666666667
+correct,Her dress was colorful like a white board,8,9,1.125
+correct,His speech is hoarse like a whisper,7,10,1.4285714285714286
+correct,He is cute like grandma,5,6,1.2
+correct,He is as cute as a newborn baby,8,9,1.125
+correct,It was dark like a full moon day,8,9,1.125
+correct,He is as young as a baby,7,7,1.0
+correct,He is as young as grandfather,6,8,1.3333333333333333
+correct,His dress was clean like an officer,7,7,1.0
+correct,His clothes were clean like a beggar,7,8,1.1428571428571428
+correct,The snack was as thin as bread,7,8,1.1428571428571428
+correct,That space was as high as the sky,8,8,1.0
+correct,Its shape is curved like a square,7,10,1.4285714285714286
+correct,It is as big as a ship,7,7,1.0
+correct,Her tune is as lovely as the singer,8,9,1.125
+correct,He is as happy as a child,7,7,1.0
+correct,He is as big as an elephant,7,9,1.2857142857142858
+correct,He is as big as an ant,7,7,1.0
+correct,She is revered as a goddess,6,9,1.5
+correct,She is revered as a devil,6,8,1.3333333333333333
+correct,The building is luxurious like a bungalow,7,10,1.4285714285714286
+correct,This fruit is juicy like sugarcane,6,9,1.5
+correct,He is rich like Ambani,5,6,1.2
+correct,He is as rich as a beggar,7,8,1.1428571428571428
+correct,That oil is as viscous as alum,7,10,1.4285714285714286
+correct,Energy is as unlimited as the energy of the sun,10,10,1.0
+correct,She is as excellent as a topper,7,8,1.1428571428571428
+correct,She excels as a normal student,6,7,1.1666666666666667
+correct,That subject was complicated like physics,6,10,1.6666666666666667
+correct,The heat of that object is as hot as the sun,11,11,1.0
+correct,Tsunamis are as natural as volcanoes,6,10,1.6666666666666667
+correct,A tsunami is as natural as a satellite launch,9,10,1.1111111111111112
+correct,Hitting sixes in cricket is difficult,6,9,1.5
+correct,That stuff is round like a wheel,7,7,1.0
+correct,The lecture was as interesting as a magic show,9,9,1.0
+correct,That lecture was like a magic show that made me sleepy,11,12,1.0909090909090908
+correct,That region gets snowfall like Kashmir,6,7,1.1666666666666667
+correct,His commitment was as strong as iron,7,8,1.1428571428571428
+correct,That painting was as wonderful as a rainbow,8,9,1.125
+correct,That painting was as wonderful as the spilled paint,9,10,1.1111111111111112
+correct,That match was as important as the World Cup Final,10,10,1.0
+correct,This game is as famous all over the world as football,11,11,1.0
+correct,The man was influential as a politician,7,9,1.2857142857142858
+correct,The taste of the meal was delicious as cooked by Amma,11,14,1.2727272727272727
+correct,Its height was as high as Mount Everest,8,9,1.125
+correct,The sound was as small as the sound of birds,10,11,1.1
+correct,This animal is wild like a lion,7,8,1.1428571428571428
+correct,This animal is wild like a cat,7,7,1.0
+correct,His achievement is as big as a mountain,8,9,1.125
+correct,His smile was as cute as a child's,8,10,1.25
+correct,He was playing the flute like Krishna,7,8,1.1428571428571428
+correct,His cheeks were as white as milk,7,8,1.1428571428571428
+correct,His experience is as vast as the ocean,8,8,1.0
+correct,The price of gold is increasing day by day,9,9,1.0
+correct,The price of gold is going down day by day,10,10,1.0
+correct,The shape of football is round,6,6,1.0
+correct,He is kind like Mother Teresa,6,6,1.0
+correct,He is as kind as bin Laden,7,7,1.0
+correct,That country is as clean as Singapore,7,7,1.0
+correct,They were Bhagat Singh revolutionaries,5,8,1.6
+correct,Online education is becoming a trend in the world,9,9,1.0
+correct,Its size is as big as a telephone,8,9,1.125
+correct,Its size is as big as a mobile,8,9,1.125
+correct,Foods like eggs are high in protein,7,9,1.2857142857142858
+correct,Kale is as fibrous as pepper,6,7,1.1666666666666667
+correct,That addiction is as dangerous as smoking,7,7,1.0
+correct,That addiction is as dangerous as meditation,7,7,1.0
+correct,He swims like a dolphin,5,8,1.6
+correct,He swims like an elephant,5,8,1.6
+correct,That animal can live longer than a mosquito,8,10,1.25
+correct,He knows as much as a scientist,7,7,1.0
+correct,He knows as illiterate,4,6,1.5
+correct,That worm can fly like a bird,7,8,1.1428571428571428
+correct,His handwriting is as beautiful as the print,8,9,1.125
+correct,His marks are like topper,5,7,1.4
+correct,His marks are like last ranker,6,8,1.3333333333333333
+correct,The app has become as successful as YouTube,8,8,1.0
+correct,The jewel looked like a Kohinoor diamond,7,11,1.5714285714285714
+correct,The jewelery looked like an ordinary piece of jewellery,9,14,1.5555555555555556
+correct,His voice is as clear as an adult's,8,10,1.25
+correct,His mind is soft like his mother-in-law,7,11,1.5714285714285714
+correct,That fruit bears fruit all the time like banana,9,10,1.1111111111111112
+correct,That fruit is available only for a limited time like mango,11,12,1.0909090909090908
+correct,That vegetable has saffron color like carrot,7,11,1.5714285714285714
+correct,Beetroot is high in sugar,5,7,1.4
+correct,That crystal is as precious as a gem,8,9,1.125
+correct,It was as white as a white cloud,8,8,1.0
+correct,It was as white as a blackboard,7,8,1.1428571428571428
+correct,She is as fresh as a flower,7,8,1.1428571428571428
+correct,She is as fresh as a dry leaf,8,9,1.125
+correct,He has an attractive body like a gym guy,9,9,1.0
+correct,He has an attractive body like a chubby one,9,10,1.1111111111111112
+correct,She is beautiful like barbie,5,6,1.2
+correct,That water is as clean as filtered water,8,9,1.125
+correct,That water is as clean as pond water,8,9,1.125
+correct,That snack is as soft as a donut,8,9,1.125
+correct,That music is lovely to listen to,7,7,1.0
+correct,That music is hoarse to listen to,7,8,1.1428571428571428
+correct,He is small like a thin man,7,8,1.1428571428571428
+correct,He is short like a fat man,7,7,1.0
+correct,This game is as adventurous as scuba,7,10,1.4285714285714286
+correct,This game is as adventurous as swimming,7,9,1.2857142857142858
+correct,She is simple like a housewife,6,8,1.3333333333333333
+correct,That animal is as long as a lizard,8,10,1.25
+correct,It is as neutral as a cloud,7,7,1.0
+correct,It is as neutral as a rock,7,7,1.0
+correct,The weather is cold like winter,6,6,1.0
+correct,The weather is also cool like summer,7,7,1.0
+correct,The weather is also warm like summer,7,7,1.0
+correct,The weather is also warm like the rainy season.,9,11,1.2222222222222223
+correct,That boy is as tall as a giraffe.,8,10,1.25
+correct,The movie has a straightforward story like a love story,10,12,1.2
+correct,His eyes are as blue as the sky,8,8,1.0
+correct,A soldier's arm is as hard as iron,8,12,1.5
+correct,A soldier's arm is as hard as plastic,8,11,1.375
+correct,This substance also has a sweet smell like a flower,10,11,1.1
+correct,The universe has innumerable stars,5,10,2.0
+correct,He is as focused as a horse at work,9,9,1.0
+correct,Its color is milky white,5,7,1.4
+correct,They change color like chameleons,5,7,1.4
+correct,They change color like a snake,6,7,1.1666666666666667
+correct,That building is as beautiful as the Taj Mahal,9,9,1.0
+correct,That building is as beautiful as a demolished palace,9,12,1.3333333333333333
+correct,That road is as straight as a highway,8,9,1.125
+correct,That road is as straight as a hill station,9,9,1.0
+correct,The road has twists and turns like a hill station,10,12,1.2
+correct,Investing in stock market is risky,6,8,1.3333333333333333
+correct,The coffee was hot,4,4,1.0
+correct,The coffee was cold,4,4,1.0
+correct,The height of the stick was long,7,7,1.0
+correct,The height of the stick was broken,7,7,1.0
+correct,The village house is very big,6,6,1.0
+correct,The village house is very small,6,6,1.0
+correct,Cricket game is very easy,5,5,1.0
+correct,The game of cricket is very difficult,7,8,1.1428571428571428
+correct,Playing chess requires a lot of intelligence,7,11,1.5714285714285714
+correct,Playing chess requires less intelligence,5,9,1.8
+correct,The colors of that painting were beautiful.,7,8,1.1428571428571428
+correct,The colors of that painting were ugly.,7,9,1.2857142857142858
+correct,The movie had a good message,6,6,1.0
+correct,There was a bad message in the movie,8,8,1.0
+correct,The music of the song was raucous,7,9,1.2857142857142858
+correct,The melody of the song was hoarse,7,9,1.2857142857142858
+correct,There were more games for children at the fair,9,9,1.0
+correct,There were few games for children at the fair,9,9,1.0
+correct,His speech attracted people like steel,6,7,1.1666666666666667
+correct,His speech attracted people like plastic,6,7,1.1666666666666667
+correct,That animal has a sharp look,6,6,1.0
+correct,The animal has a soft appearance,6,6,1.0
+correct,That problem is as easy as drinking water,8,9,1.125
+correct,The concert was so good that I fell asleep,9,10,1.1111111111111112
+correct,This vehicle is fast like a rocket,7,8,1.1428571428571428
+correct,This vehicle is as fast as a bullock cart,9,10,1.1111111111111112
+correct,His dance was so catchy that it made people dance,10,11,1.1
+correct,The price of that thing is more than petrol,9,9,1.0
+correct,That stuff is as expensive as water,7,7,1.0
+correct,The flower smelled like perfume,5,7,1.4
+correct,His mind is soft like cotton,6,6,1.0
+correct,This disease spreads like covid,5,7,1.4
+correct,Dry fruits are useful for health,6,6,1.0
+correct,That fruit is as expensive as a banana,8,8,1.0
+correct,That month has few days like February,7,7,1.0
+correct,That day will be a holiday like Sunday,8,8,1.0
+correct,Traffic in that city is like Mysore,7,8,1.1428571428571428
+correct,The pollution in that city is like Delhi,8,8,1.0
+correct,The pollution in that city is like Bangalore,8,8,1.0
+correct,Last month it rained like a cyclone,7,10,1.4285714285714286
+correct,He is a scientist like Kalam,6,6,1.0
+correct,The area is crowded like a market,7,8,1.1428571428571428
+correct,The area is crowded like a graveyard,7,9,1.2857142857142858
+correct,It rains heavily in that region,6,9,1.5
+correct,The state has more football fans like Kerala,8,8,1.0
+correct,It is a sacred field like a shrine,8,10,1.25
+correct,That material attracts like a magnet,6,7,1.1666666666666667
+correct,The material draws like plastic,5,5,1.0
+correct,It does not decompose like plastic,6,8,1.3333333333333333
+correct,That place is as scary as a graveyard,8,10,1.25
+correct,"In that place, fear is like a playground",8,10,1.25
+correct,As dangerous as covid,4,5,1.25
+correct,As dangerous as a cold,5,5,1.0
+correct,That profession is more labor like doctor,7,7,1.0
+correct,He is as eloquent as a politician as a monk,10,15,1.5
+correct,His kiss was deep as if he had missed it so much,12,13,1.0833333333333333
+correct,His path is lined with flowers,6,7,1.1666666666666667
+correct,Everyone respects him as a freedom fighter,7,9,1.2857142857142858
+correct,Everyone respects him as a terrorist,6,7,1.1666666666666667
+correct,That company is famous as Tata company,7,7,1.0
+correct,That company is famous as a start-up,7,9,1.2857142857142858
+correct,"That company, like IBM, has hundreds of years of history",10,13,1.3
+correct,His grin is like a thief's,6,9,1.5
+correct,The animal is herbivore like deer,6,9,1.5
+correct,Has venom like a snake,5,7,1.4
+correct,The freedom struggle was ironclad,5,8,1.6
+correct,The freedom struggle was like a peeled banana,8,10,1.25
+correct,The celebration of that house was like a wedding,9,9,1.0
+correct,That house was like a house of death,8,8,1.0
+correct,The thing is as small as a mustard seed,9,11,1.2222222222222223
+correct,The area has a diverse biome like a forest,9,11,1.2222222222222223
+correct,The earth revolves around the sun,6,7,1.1666666666666667
+correct,Sending money is easy with UPI,6,8,1.3333333333333333
+correct,The population of that country is equal to that of India,11,11,1.0
+correct,The area of ​​that country is as big as America,10,10,1.0
+correct,The Games are as big as the Olympics,8,9,1.125
+correct,The building is as historic as the Red Fort,9,9,1.0
+correct,He dances like Prabhudeva,4,7,1.75
+correct,A booster dose is necessary to prevent covid,8,10,1.25
+correct,It was as cold as Mandya in that town,9,10,1.1111111111111112
+correct,There was as much sheke as Chennai in that town,10,11,1.1
+correct,He said that town is as clean as Mysore,9,10,1.1111111111111112
+correct,He is an influential person as well as a politician,10,12,1.2
+correct,Women's freedom in the country is less like Afghanistan,9,11,1.2222222222222223
+correct,Food is highly nutritious like millet,6,9,1.5
+correct,The man was an ideal person as a teacher,9,9,1.0
+correct,The man was an ideal person like a thief,9,10,1.1111111111111112
+correct,Sri Lanka is surrounded by water like an island,9,11,1.2222222222222223
+correct,He had 10 heads like Ravana,6,8,1.3333333333333333
+correct,All the students were tired of saying goodbye at the school farewell ceremony,13,18,1.3846153846153846
+correct,This vehicle moves as fast as a flight.,8,10,1.25
+correct,This vehicle moves as fast as a bullock cart.,9,12,1.3333333333333333
+correct,This jewel is as unique as the Kohinoor diamond,9,13,1.4444444444444444
+correct,This jewelery is unique as usual,6,8,1.3333333333333333
+correct,Investing is as volatile as the stock market,8,10,1.25
+correct,Investments are volatile like fixed deposits,6,9,1.5
+correct,This person is famous as an actor,7,7,1.0
+correct,This land is fertile like agricultural land,7,9,1.2857142857142858
+correct,This land is as fertile as a desert,8,9,1.125
+correct,This road is narrow like a tunnel,7,8,1.1428571428571428
+correct,This road is narrow like a highway,7,9,1.2857142857142858
+correct,This pond is as wide as the sea,8,9,1.125
+correct,This program is scary like magic,6,7,1.1666666666666667
+correct,This recipe contains nutrients like millet pulp,7,11,1.5714285714285714
+correct,This vehicle can fly as high as a flight,9,9,1.0
+correct,His skin is as soft as a baby's skin,9,11,1.2222222222222223
+correct,His skin is as soft as the skin of an old man,12,12,1.0
+correct,This show is scary as a blast,7,9,1.2857142857142858
+correct,This show is as scary as a party,8,9,1.125
+correct,This building is as ornate as a palace,8,11,1.375
+correct,This game is as big as the league,8,8,1.0
+correct,This disease is as urgent as a cough,8,9,1.125
+correct,This disease is as urgent as a heart attack,9,9,1.0
+correct,This dance is as ancient as Bharatanatyam,7,11,1.5714285714285714
+correct,This dance is as old as disco,7,7,1.0
+correct,This visit is a regular checkup,6,7,1.1666666666666667
+correct,This visit is as critical as the surgery,8,8,1.0
+correct,This food is as organic as Ayurvedic,7,9,1.2857142857142858
+correct,This food is as organic as Chinese food,8,8,1.0
+correct,This food is as chemical as a pill,8,8,1.0
+correct,These letters are as basic as the alphabet,8,9,1.125
+correct,This land is as dry as a desert,8,8,1.0
+correct,His muscles are like those of a wrestler,8,11,1.375
+correct,His muscles are like a patient,6,7,1.1666666666666667
+correct,He is as loyal as a cat,7,7,1.0
+correct,It is as big as the Taj Mahal,8,8,1.0
+correct,This insect is microscopic like a mite,7,10,1.4285714285714286
+correct,This insect is microscopic like a virus,7,9,1.2857142857142858
+correct,This metal is as valuable as diamond,7,8,1.1428571428571428
+correct,He is as dangerous as a monk,7,8,1.1428571428571428
+correct,He is as funny as the Joker,7,7,1.0
+correct,He is funny as a doctor,6,6,1.0
+correct,His eyes filled with tears,5,6,1.2
+correct,There was a smile in his eyes,7,7,1.0
+correct,The play was whistle blowing,5,8,1.6
+correct,Wearing a saree is an Indian culture,7,9,1.2857142857142858
+correct,Wearing a saree is a western culture,7,9,1.2857142857142858
+correct,In the Himalayas it is bitterly cold,7,9,1.2857142857142858
+correct,The state is small in area like Karnataka,8,8,1.0
+correct,The state is as populous as Uttar Pradesh,8,9,1.125
+correct,That country is famous for tourism like Thailand,8,9,1.125
+correct,He is always alert like a warrior,7,9,1.2857142857142858
+correct,He is a disciplined soldier when it comes to work,10,12,1.2
+correct,He is a negligent boy when it comes to work,10,11,1.1
+correct,That road is full of vehicles like a highway,9,10,1.1111111111111112
+correct,That fruit is very rare like jackfruit,7,9,1.2857142857142858
+correct,Both of them were as close as brothers and sisters,10,12,1.2
+correct,Both of them were as close as enemies,8,10,1.25
+correct,"The animal, like the kangaroo, is found only in Asia",10,14,1.4
+correct,Her command of language is like that of a scholar,10,10,1.0
+correct,Her command of the language is like that of a newbie,11,12,1.0909090909090908
+correct,He had renounced desires like the Buddha,7,10,1.4285714285714286
+correct,There was a speaker's grip on his words,8,10,1.25
+correct,His words were as if they were unknowing,8,10,1.25
+correct,Those people are as patriotic as soldiers,7,9,1.2857142857142858
+correct,Those people are as patriotic as terrorists,7,9,1.2857142857142858
+correct,The event was as terrifying as a wedding,8,10,1.25
+correct,Its sound was as loud as thunder,7,10,1.4285714285714286
+correct,His awareness is as much as that of a janitor,10,11,1.1
+correct,His knowledge is like that of a professor,8,8,1.0
+wrong,The area is as violent as the temple itself.,9,10,1.1111111111111112
+wrong,He is as weak as a youth,7,8,1.1428571428571428
+wrong,He is as strong as a young man.,8,9,1.125
+wrong,It is red in color like water.,7,8,1.1428571428571428
+wrong,Its speed is as slow as that of a rabbit.,10,13,1.3
+wrong,That thing is as old as mobile.,7,8,1.1428571428571428
+wrong,Food is as nutritious as Maggi.,6,10,1.6666666666666667
+wrong,The area is as wide as a classroom.,8,9,1.125
+wrong,He is rich like a farmer.,6,7,1.1666666666666667
+wrong,That thing is as small as a bird,8,9,1.125
+wrong,That hobby is as bad as meditation.,7,8,1.1428571428571428
+wrong,That animal is as old as an elephant.,8,11,1.375
+wrong,It is needed as carbon dioxide for respiration.,8,12,1.5
+wrong,It takes as much time as a car to reach that place.,12,13,1.0833333333333333
+wrong,It takes about a cycle to reach that place.,9,10,1.1111111111111112
+wrong,The food was as special as the breakfast.,8,9,1.125
+wrong,Its price is as expensive as a movie ticket.,9,11,1.2222222222222223
+wrong,His beliefs are as strong as glass.,7,9,1.2857142857142858
+wrong,It's as easy as coding.,5,9,1.8
+wrong,He is wearing a traditional dress suit.,7,8,1.1428571428571428
+wrong,That thing has as much logic as magic.,8,9,1.125
+wrong,She was wearing a skirt that reflects our culture.,9,11,1.2222222222222223
+wrong,He is influential as a citizen.,6,8,1.3333333333333333
+wrong,As scarce as sand in the desert.,7,9,1.2857142857142858
+wrong,The place is as green as the city.,8,9,1.125
+wrong,Arab countries are rich in water.,6,7,1.1666666666666667
+wrong,The sky is cloudy like summer.,6,8,1.3333333333333333
+wrong,The place is beautiful like a government office.,8,9,1.125
+wrong,It is bitterer than jaggery,5,8,1.6
+wrong,That place is also far from the cinema,8,8,1.0
+wrong,That thing was as boring as winning the World Cup,10,12,1.2
+wrong,That fact is as important as the journey itself,9,9,1.0
+wrong,This food has as much protein content as rice,9,9,1.0
+wrong,It is as good as junk food,7,8,1.1428571428571428
+wrong,That stuff was as scientific as it was magical,9,10,1.1111111111111112
+wrong,It is very rare like stars,6,7,1.1666666666666667
+wrong,That exam is difficult like IBPIS,6,7,1.1666666666666667
+wrong,Understanding it is as complicated as verse,7,9,1.2857142857142858
+wrong,It has an oval shape like a ring,8,9,1.125
+wrong,He is popular as a lawyer,6,6,1.0
+wrong,That game is as famous as hockey,7,8,1.1428571428571428
+wrong,The incident was as terrifying as Shanti,7,10,1.4285714285714286
+wrong,The building was furnished like a government office,8,10,1.25
+wrong,The object was a reflection like a wall,8,9,1.125
+wrong,The statue was as tall as two pillars,8,10,1.25
+wrong,The sound is like fireworks,5,7,1.4
+wrong,That too is as easy as making biryani,8,10,1.25
+wrong,He wakes up as early as noon,7,8,1.1428571428571428
+wrong,It was as interesting as the online class,8,8,1.0
+wrong,He is as knowledgeable as a graduate,7,8,1.1428571428571428
+wrong,That river does not run as long as the Nile,10,11,1.1
+wrong,That thing is as hot as water,7,7,1.0
+wrong,The creature is as small as a cat,8,8,1.0
+wrong,That thing is as sharp as a pencil,8,9,1.125
+wrong,It is illegal to show love,6,6,1.0
+wrong,The building is as historic as the shopping mall,9,9,1.0
+wrong,He is invincible like Ravana,5,9,1.8
+wrong,It is as common as the Kohinoor diamond.,8,12,1.5
+wrong,He was as curious as the driver,7,7,1.0
+wrong,He was as cruel as a monk,7,8,1.1428571428571428
+wrong,Its sound was loud like music,6,8,1.3333333333333333
+wrong,It is a historical city like Bangalore,7,7,1.0
+wrong,That thing is as weightless as stone,7,9,1.2857142857142858
+wrong,It was as dark as that morning,7,7,1.0
+wrong,Their swimming pool is so deep,6,7,1.1666666666666667
+wrong,The darkness of the night was as dark as the full moon,12,14,1.1666666666666667
+wrong,Bangalore has less pollution as a city,7,7,1.0
+wrong,That planet is habitable like Venus,6,7,1.1666666666666667
+wrong,Our farm soil is fertile like black soil,8,11,1.375
+wrong,This work is as difficult as it is on the road,11,11,1.0
+wrong,This material also has flexible properties like stone,8,9,1.125
+wrong,This area is as crowded as the library,8,10,1.25
+wrong,The duration of the game is long like football,9,10,1.1111111111111112
+wrong,Lemon is sour like tamarind,5,7,1.4
+wrong,Mine dances like Mr. Bean,5,7,1.4
+wrong,He has sharp vision like a crow,7,8,1.1428571428571428
+wrong,The animal has cunning like a dog,7,8,1.1428571428571428
+wrong,My pet cat is as honest as a dog,9,9,1.0
+wrong,My pet cat is as honest as a fox,9,10,1.1111111111111112
+wrong,He is as brave as a fox,7,9,1.2857142857142858
+wrong,That animal is as strong as an ox,8,9,1.125
+wrong,That animal is as strong as a deer,8,9,1.125
+wrong,He stays awake all night like an owl,8,11,1.375
+wrong,He was burning like ice in anger,7,10,1.4285714285714286
+wrong,She flies very high like an animal,7,8,1.1428571428571428
+wrong,This animal roars like a dog,6,7,1.1666666666666667
+wrong,Dosa is as famous breakfast as idli,7,9,1.2857142857142858
+wrong,This area can hold as much water as a tank,10,10,1.0
+wrong,Organisms live more in the well.,6,8,1.3333333333333333
+wrong,That water is as salty as water,7,8,1.1428571428571428
+wrong,That boy flies like an elephant,6,9,1.5
+wrong,As big as a monkey in size,7,8,1.1428571428571428
+wrong,He is unbelievably fast,4,7,1.75
+wrong,The place was as high as a flyover,8,9,1.125
+wrong,This dish was as hard as a doughnut,8,11,1.375
+wrong,It was as smooth as a squash,7,7,1.0
+wrong,The material was as delicate as copper,7,9,1.2857142857142858
+wrong,That cooking was as healthy as pasta,7,7,1.0
+wrong,This dish is sweet like bitter gourd,7,9,1.2857142857142858
+wrong,This dish is sweet like mango,6,8,1.3333333333333333
+wrong,This space is as deep as a bore well,9,9,1.0
+wrong,This fish is huge like a whale,7,8,1.1428571428571428
+wrong,His victory was like a jaggery,6,9,1.5
+wrong,His victory was like neem,5,6,1.2
+wrong,His courage was like that of Rani Chennamma,8,10,1.25
+wrong,The snack was flat like a puff,7,7,1.0
+wrong,The water they gave was as salty as well water,10,11,1.1
+wrong,She glowed like the darkness of the new moon,9,12,1.3333333333333333
+wrong,It was as hot as a cold breeze,8,9,1.125
+wrong,It was hot as a storm,6,6,1.0
+wrong,That meal was as healthy as ragimudde,7,9,1.2857142857142858
+wrong,The animal was oversleeping like a frog,7,10,1.4285714285714286
+wrong,The lady was as beautiful as Shurpanaki,7,10,1.4285714285714286
+wrong,It was as wide as a river,7,7,1.0
+wrong,The man was as funny as the writer,8,9,1.125
+wrong,The man was as funny as a comedian,8,9,1.125
+wrong,It was cold like ice cream,6,7,1.1666666666666667
+wrong,It was crispy like an idli,6,9,1.5
+wrong,The armor she wore was as hard as a diamond,10,13,1.3
+wrong,This house is as old as a new building,9,9,1.0
+wrong,This house is as old as an old monument,9,9,1.0
+wrong,His speech is hoarse like a loud voice,8,10,1.25
+wrong,It was dark like a new moon day,8,9,1.125
+wrong,The snack was as thin as bread,7,8,1.1428571428571428
+wrong,The place was as high as the earth,8,8,1.0
+wrong,Its shape is curved like a circle,7,10,1.4285714285714286
+wrong,It is as big as a boat,7,7,1.0
+wrong,Her raga is as beautiful as a dancer,8,9,1.125
+wrong,This vehicle is as fast as a bullock cart,9,10,1.1111111111111112
+wrong,This vehicle is as fast as a jet,8,9,1.125
+wrong,He is as happy as an adult,7,7,1.0
+wrong,This fruit is juicy like seebe,6,9,1.5
+wrong,That oil is as viscous as coconut oil,8,11,1.375
+wrong,Energy is unlimited like electrical energy,6,7,1.1666666666666667
+wrong,He was as honest as a dog.,7,8,1.1428571428571428
+wrong,He was as honest as a fox.,7,9,1.2857142857142858
+wrong,He is as much a practical man as a poet,10,10,1.0
+wrong,That crystal is precious like a stone,7,9,1.2857142857142858
+wrong,She is as beautiful as Mickey,6,6,1.0
+wrong,He has a girlish mind like a child,8,9,1.125
+wrong,He has the mind of a girl like an adult,10,10,1.0
+wrong,He was as funny as a comedian,7,8,1.1428571428571428
+wrong,He was as ridiculous as the professor,7,7,1.0
+wrong,That snack is as smooth as a smoothie,8,8,1.0
+wrong,She is simple as a model,6,6,1.0
+wrong,That animal is as long as a snake,8,9,1.125
+wrong,That boy is as tall as a deer,8,9,1.125
+wrong,The movie has a straightforward story like a suspense thriller,10,13,1.3
+wrong,His eyes are blue like moon,6,7,1.1666666666666667
+wrong,This substance also has a melodious smell like an animal,10,11,1.1
+wrong,The universe has innumerable planets,5,10,2.0
+wrong,He is as focused as a buffalo at work,9,11,1.2222222222222223
+wrong,Its color is white like water,6,7,1.1666666666666667
+wrong,That road has twists and turns like a highway,9,12,1.3333333333333333
+wrong,Investing in fixed deposits is risky,6,9,1.5
+wrong,That problem is as easy as climbing a hill,9,10,1.1111111111111112
+wrong,The concert was good enough to want to listen again,10,10,1.0
+wrong,His dance was so charming as to make you sleepy,10,12,1.2
+wrong,His handwriting is as beautiful as computer writing,8,9,1.125
+wrong,His handwriting is as beautiful as a doctor's prescription,9,13,1.4444444444444444
+wrong,The flower was very fragrant,5,8,1.6
+wrong,His mind is as soft as stone,7,8,1.1428571428571428
+wrong,This disease spreads like cancer,5,6,1.2
+wrong,This person is famous as a farmer,7,7,1.0
+wrong,This pool is as wide as a lake,8,8,1.0
+wrong,This show is scary like a circus,7,9,1.2857142857142858
+wrong,This recipe contains nutrients like chapati,6,9,1.5
+wrong,This vehicle can fly as high as a helicopter,9,11,1.2222222222222223
+wrong,This person is as naughty as a child,8,10,1.25
+wrong,The building is decorated like a government office,8,9,1.125
+wrong,This game is as big as the World Cup,9,9,1.0
+wrong,This diet is as chemical as Ayurveda,7,10,1.4285714285714286
+wrong,These letters are as basic as the essay,8,8,1.0
+wrong,This land is as dry as agricultural land,8,9,1.125
+wrong,He is as faithful as a dog,7,8,1.1428571428571428
+wrong,It is as big as Gol Gumbaz,7,8,1.1428571428571428
+wrong,This metal is as valuable as silver,7,7,1.0
+wrong,He is as dangerous as a robber,7,8,1.1428571428571428
+wrong,This water is as salty as fresh water,8,9,1.125
+wrong,This water is salty like sea water,7,8,1.1428571428571428
+wrong,This food tastes like diet,5,7,1.4
+wrong,This food tastes like biryani,5,8,1.6
+wrong,It is acidic like water.,5,7,1.4
+wrong,It is acidic like Alco Hal.,6,9,1.5
+wrong,He is cruel like God,5,5,1.0
+wrong,He is as enthusiastic as his grandfather,7,12,1.7142857142857142
+wrong,The man is as creative as the driver,8,8,1.0
+wrong,This fruit is sweet like tapioca.,6,8,1.3333333333333333
+wrong,This animal is as fast as a snake,8,9,1.125
+wrong,This animal is as fast as a buffalo,8,10,1.25
+wrong,This sambar is sweet like a stew,7,9,1.2857142857142858
+wrong,This sambar is sweet like chilli,6,8,1.3333333333333333
+wrong,Her eyes are red like water,6,6,1.0
+wrong,This milk is as nutritious as formula milk,8,10,1.25
+wrong,He has the imagination of an actor.,7,8,1.1428571428571428
+wrong,The sports event has as much history as the World Cup,11,11,1.0
+wrong,On this day there was as much wind as an earthquake,11,13,1.1818181818181819
+wrong,I sleep like an adult,5,5,1.0
+wrong,He experiments more like a historian,6,8,1.3333333333333333
+wrong,He was stressed as a veteran at work,8,9,1.125
+wrong,He is as important to the company as a regular employee.,11,12,1.0909090909090908
+wrong,He is more poetic as a reader,7,8,1.1428571428571428
+wrong,I am more technical than a poet.,7,8,1.1428571428571428
+wrong,My father has a sense of humor like a wrestler,10,12,1.2
+wrong,It is as mysterious as a poem.,7,10,1.4285714285714286
+wrong,That subject is as difficult as getting a Ph.D,9,11,1.2222222222222223
+wrong,That thing is as common as a flight,8,8,1.0
+wrong,They lead a glorious life as farmers,7,9,1.2857142857142858
+wrong,A cat is domesticated like a tiger,7,9,1.2857142857142858
+wrong,Our town is sparsely populated like a city,8,11,1.375
+wrong,There the atmosphere is like a mountain,7,7,1.0
+wrong,The size of that bird is less than an eagle,10,12,1.2
+wrong,The price of that thing is as cheap as gold,10,10,1.0
+wrong,Her cheeks shone like stone,5,8,1.6
+wrong,That stuff is rusted like iron,6,8,1.3333333333333333
+wrong,There are as many people as a cinema hall,9,9,1.0
+wrong,That animal is more mischievous than a lion,8,11,1.375
+wrong,This item is worth more than Rs,7,7,1.0
+wrong,His smile is as innocent as an adult's.,8,11,1.375
+wrong,This game lasts for a long time like cricket,9,11,1.2222222222222223
+wrong,Their lives are as difficult as those of daily wage labourers,11,14,1.2727272727272727
+wrong,Their lives are difficult as businessmen,6,8,1.3333333333333333
+wrong,God is everywhere like gold,5,5,1.0
+wrong,That natural phenomenon is as dangerous as GD rain,9,12,1.3333333333333333
+wrong,It is as rare as a comet,7,8,1.1428571428571428
+wrong,It is as rare as a star,7,7,1.0
+wrong,That stuff is as good as fireworks,7,9,1.2857142857142858
+wrong,It is as good as smoking for health,8,8,1.0
+wrong,It is as polluting to the environment as a car,10,12,1.2
+wrong,Their lives are as relaxed as adults,7,9,1.2857142857142858
+wrong,It's as easy as having a private chopper,8,11,1.375
+wrong,There are as many animals as the city,8,8,1.0
+wrong,That thing is as sharp as a stick,8,8,1.0
+wrong,It is oval shaped like a ring,7,9,1.2857142857142858
+wrong,That stuff is as complicated as math,7,8,1.1428571428571428
+wrong,That subject is as complicated as a poem,8,9,1.125
+wrong,That animal is mischievous like a monkey,7,10,1.4285714285714286
+wrong,It is as blue as the earth,7,7,1.0
+wrong,His work is as precise as handiwork,7,8,1.1428571428571428
+wrong,Her eyes shone like iron,5,7,1.4
+wrong,His speech was sweet as a horn,7,8,1.1428571428571428
+wrong,This animal is domesticated like cow,6,8,1.3333333333333333
+wrong,His body was strong like an old man,8,8,1.0
+wrong,That snack is as salty as well water,8,9,1.125
+wrong,Exercising is as healthy as driving a car,8,9,1.125
+wrong,The game is as famous as basketball in India,9,10,1.1111111111111112
+wrong,He is herbivorous like a lion,6,10,1.6666666666666667
+wrong,He fights like a singer,5,7,1.4
+wrong,That bird flies as high as a car,8,10,1.25
+wrong,"In that event, there were as many snacks as the house",11,13,1.1818181818181819
+wrong,Those people are pacifists like Godse,6,9,1.5
+wrong,Its color is as white as coffee,7,8,1.1428571428571428
+wrong,He is as popular as a hockey player in India,10,11,1.1
+wrong,They do penance like hunters,5,7,1.4
+wrong,That thing is red like water,6,6,1.0
+wrong,That disease spreads like jaundice,5,8,1.6
+wrong,It is a practice as old as sending email,9,9,1.0
+wrong,It melts like snow,4,5,1.25
+wrong,Her beauty is as wonderful as the full moon new moon darkness,12,15,1.25
+wrong,The movie was interesting as a comedy story.,8,9,1.125
+wrong,This dish was as hard as a doughnut,8,11,1.375
+wrong,It was as smooth as a squash,7,7,1.0
+wrong,The material was as delicate as copper,7,9,1.2857142857142858
+wrong,That cooking was as healthy as pasta,7,7,1.0
+wrong,This dish is sweet like bitter gourd,7,9,1.2857142857142858
+wrong,This dish is sweet like mango,6,8,1.3333333333333333
+wrong,This space is as deep as a bore well,9,9,1.0
+wrong,This fish is huge like a whale,7,8,1.1428571428571428
+wrong,His victory was like a jaggery,6,9,1.5
+wrong,His victory was like neem,5,6,1.2
+wrong,His courage was like Rani Chennamma,6,8,1.3333333333333333
+wrong,The snack was flat like a puff,7,7,1.0
+wrong,The water they gave was as salty as well water,10,11,1.1
+wrong,She glowed like the darkness of the new moon,9,12,1.3333333333333333
+wrong,It was as hot as a cold breeze,8,9,1.125
+wrong,It was hot as a storm,6,6,1.0
+wrong,That meal was as healthy as ragimudde,7,9,1.2857142857142858
+wrong,The animal was oversleeping like a frog,7,10,1.4285714285714286
+wrong,The lady was as beautiful as Shurpanaki,7,10,1.4285714285714286
+wrong,It was as wide as a river,7,7,1.0
+wrong,The man was as funny as the writer,8,9,1.125
+wrong,The man was as funny as a comedian,8,9,1.125
+wrong,It was cold like ice cream,6,7,1.1666666666666667
+wrong,It was crispy like an idli,6,9,1.5
+wrong,The armor she wore was as hard as a diamond,10,13,1.3
+wrong,This house is as old as a new building,9,9,1.0
+wrong,This house is as old as an old monument,9,9,1.0
+wrong,His speech is hoarse like a loud voice,8,10,1.25
+wrong,It was dark like a new moon day,8,9,1.125
+wrong,The snack was as thin as bread,7,8,1.1428571428571428
+wrong,The place was as high as the earth,8,8,1.0
+wrong,Its shape is curved like a circle,7,10,1.4285714285714286
+wrong,It is as big as a boat,7,7,1.0
+wrong,Her raga is as beautiful as a dancer,8,9,1.125
+wrong,This vehicle is as fast as a bullock cart,9,10,1.1111111111111112
+wrong,This vehicle is as fast as a jet,8,9,1.125
+wrong,He is as happy as an adult,7,7,1.0
+wrong,That building is luxurious like a hut,7,10,1.4285714285714286
+wrong,This fruit is juicy like seebe,6,9,1.5
+wrong,That oil is as viscous as coconut oil,8,11,1.375
+wrong,Energy is unlimited like electrical energy,6,7,1.1666666666666667
+wrong,He was as honest as a dog.,7,8,1.1428571428571428
+wrong,He was as honest as a fox.,7,9,1.2857142857142858
+wrong,That subject was as complicated as history,7,8,1.1428571428571428
+wrong,The heat of that object is as hot as the moon,11,12,1.0909090909090908
+wrong,That star is as far from the Earth as the Sun,11,11,1.0
+wrong,That star is as far from the Earth as the Moon,11,11,1.0
+wrong,It is difficult to score a single in cricket,9,10,1.1111111111111112
+wrong,Alcohol is like poison to the body,7,10,1.4285714285714286
+wrong,Madhyapan is like elixir for the body,7,9,1.2857142857142858
+wrong,That stuff is round like a ladder,7,8,1.1428571428571428
+wrong,That region gets snowfall like Rajasthan,6,7,1.1666666666666667
+wrong,His commitment was as hard as glass,7,7,1.0
+wrong,That match was as important as a league match,9,9,1.0
+wrong,This game is as famous worldwide as Kabaddi,8,9,1.125
+wrong,The man was influential as a citizen,7,8,1.1428571428571428
+wrong,The taste of the meal was as delicious as hotel cuisine,11,13,1.1818181818181819
+wrong,Its height was like hills,5,7,1.4
+wrong,The sound was small like the sound of animals,9,9,1.0
+wrong,His achievement is as big as a swimming pool,9,10,1.1111111111111112
+wrong,They were cute as adults,5,5,1.0
+wrong,He played the flute like Arjuna,6,8,1.3333333333333333
+wrong,His cheeks were as white as water,7,8,1.1428571428571428
+wrong,His experience is as vast as future,7,7,1.0
+wrong,The color of the object is white as snow,9,9,1.0
+wrong,The color of the material is stone white,8,9,1.125
+wrong,The shape of football is flat,6,6,1.0
+wrong,That country is as clean as India,7,7,1.0
+wrong,They were revolutionaries like Gandhiji,5,8,1.6
+wrong,Offline education is becoming a trend in the world,9,10,1.1111111111111112
+wrong,Foods like rice are high in protein,7,8,1.1428571428571428
+wrong,Kale is fibrous like yam,5,7,1.4
+wrong,That animal can live longer than a turtle,8,9,1.125
+wrong,That worm can fly like an animal,7,7,1.0
+wrong,His handwriting is beautiful,4,5,1.25
+wrong,The app has seen success like WeChat,7,8,1.1428571428571428
+wrong,His voice is as clear as a child's,8,10,1.25
+wrong,His mind is as soft as stone,7,8,1.1428571428571428
+wrong,That food is as sweet as sugar,7,7,1.0
+wrong,That food is as sweet as neem,7,7,1.0
+wrong,That fruit bears fruit like jackfruit all the time,9,12,1.3333333333333333
+wrong,That fruit is only available for a limited time like an apple,12,12,1.0
+wrong,That vegetable has a saffron color like beetroot,8,13,1.625
+wrong,Beetroot is high in sour content,6,9,1.5
+wrong,Peanuts are called the poor man's almonds,7,13,1.8571428571428572
+wrong,Pista is called the poor man's almond,7,11,1.5714285714285714
+wrong,That crystal is precious like a stone,7,9,1.2857142857142858
+wrong,She is as beautiful as Mickey,6,6,1.0
+wrong,He has a girlish mind like a child,8,9,1.125
+wrong,He has the mind of a girl like an adult,10,10,1.0
+wrong,He was as funny as a comedian,7,8,1.1428571428571428
+wrong,He was as ridiculous as the professor,7,7,1.0
+wrong,That snack is as smooth as a smoothie,8,8,1.0
+wrong,She is simple as a model,6,6,1.0
+wrong,That animal is as long as a snake,8,9,1.125
+wrong,That boy is as tall as a deer,8,9,1.125
+wrong,The movie has a straightforward story like a suspense thriller,10,13,1.3
+wrong,His eyes are blue like moon,6,7,1.1666666666666667
+wrong,This substance also has a melodious smell like an animal,10,11,1.1
+wrong,The universe has innumerable planets,5,10,2.0
+wrong,He is as focused as a buffalo at work,9,11,1.2222222222222223
+wrong,Its color is white like water,6,7,1.1666666666666667
+wrong,That road has twists and turns like a highway,9,12,1.3333333333333333
+wrong,Investing in fixed deposits is risky,6,9,1.5
+wrong,That problem is as easy as climbing a hill,9,10,1.1111111111111112
+wrong,The concert was good enough to want to listen again,10,10,1.0
+wrong,His dance was so charming that he fell asleep,9,11,1.2222222222222223
+wrong,His handwriting is as beautiful as computer writing,8,9,1.125
+wrong,His handwriting is as beautiful as a doctor's prescription,9,13,1.4444444444444444
+wrong,The flower was very fragrant,5,8,1.6
+wrong,His mind is as soft as stone,7,8,1.1428571428571428
+wrong,This disease spreads like cancer,5,6,1.2
+wrong,Chocolate is useful for health,5,5,1.0
+wrong,That fruit is expensive like dry fruits,7,7,1.0
+wrong,That month has less days as December,7,7,1.0
+wrong,That day will be a holiday like Monday,8,8,1.0
+wrong,Traffic in that city is like Bangalore,7,7,1.0
+wrong,Last month it rained like summer,6,7,1.1666666666666667
+wrong,He is a scientist like Vajpayee,6,8,1.3333333333333333
+wrong,He is as generous as Bill Gates,7,8,1.1428571428571428
+wrong,He is as generous as Adani,6,8,1.3333333333333333
+wrong,That region gets rain like Rajasthan,6,6,1.0
+wrong,The state has more football fans like Karnataka,8,8,1.0
+wrong,It is a sacred realm like a fantasy park,9,11,1.2222222222222223
+wrong,It does not rot like fruit,6,6,1.0
+wrong,That profession is more labor intensive than farming,8,10,1.25
+wrong,He is as eloquent as a politician as a monk,10,15,1.5
+wrong,His kiss deepened for a few seconds,7,10,1.4285714285714286
+wrong,His path is thorny,4,6,1.5
+wrong,That company has hundreds of years of history like Facebook,10,11,1.1
+wrong,His face is full of Buddha's smile,7,9,1.2857142857142858
+wrong,The animal is a herbivore like a tiger,8,11,1.375
+wrong,Has poison like an eagle,5,7,1.4
+wrong,The object is as small as a ball,8,8,1.0
+wrong,That flower has a thorn like a rose,8,10,1.25
+wrong,That flower has a thorn like hibiscus,7,11,1.5714285714285714
+wrong,The area has as diverse a biome as the city,10,11,1.1
+wrong,Earth revolves around the moon,5,7,1.4
+wrong,Sending money is easy by check,6,7,1.1666666666666667
+wrong,The population of that country is about the same as that of Canada,13,13,1.0
+wrong,The area of ​​that country is as big as Singapore,10,10,1.0
+wrong,The event is as big as the Asian Games,9,9,1.0
+wrong,The building is as historic as the red shopping mall,10,10,1.0
+wrong,He dances like the Great Kali,6,7,1.1666666666666667
+wrong,A polio dose is essential to prevent covid,8,10,1.25
+wrong,It was as cold as Kashmir in that town,9,9,1.0
+wrong,There was as much Sheke in that town as Simla,10,12,1.2
+wrong,He said that town is as clean as Bangalore,9,9,1.0
+wrong,He is an influential person as a farmer,8,9,1.125
+wrong,Freedom of women in the country is less in India,10,10,1.0
+wrong,Food is more nutritious like panipuri,6,9,1.5
+wrong,Sri Lanka is surrounded by water like India,8,10,1.25
+wrong,He had 10 heads like Kumbhakarna,6,9,1.5
+wrong,All the students were bored to celebrate the school farewell ceremony,11,15,1.3636363636363635
+wrong,This person is famous as a farmer,7,7,1.0
+wrong,This pool is as wide as a lake,8,8,1.0
+wrong,This show is scary like a circus,7,9,1.2857142857142858
+wrong,This recipe contains nutrients like chapati,6,9,1.5
+wrong,This vehicle can fly as high as a helicopter,9,11,1.2222222222222223
+wrong,This person is as naughty as a child,8,10,1.25
+wrong,This person is as naughty as an old man,9,11,1.2222222222222223
+wrong,The building is decorated like a government office,8,9,1.125
+wrong,This game is as big as the World Cup,9,9,1.0
+wrong,This diet is as chemical as Ayurveda,7,10,1.4285714285714286
+wrong,These letters are as basic as the essay,8,8,1.0
+wrong,This land is as dry as agricultural land,8,9,1.125
+wrong,He is as faithful as a dog,7,8,1.1428571428571428
+wrong,It is as big as Gol Gumbaz,7,8,1.1428571428571428
+wrong,This metal is as valuable as silver,7,7,1.0
+wrong,He is as dangerous as a robber,7,8,1.1428571428571428
+wrong,The play was sleepy,4,5,1.25
+wrong,The Himalayas are so cold that you sweat,8,9,1.125
+wrong,The state is small in area like Goa,8,9,1.125
+wrong,The state is as populous as Kerala,7,8,1.1428571428571428
+wrong,That country is famous for tourism like Pakistan,8,9,1.125
+wrong,He is always alert like normal people,7,7,1.0
+wrong,That person talks like a slur,6,8,1.3333333333333333
+wrong,That person is as peaceful as a man of speech,10,11,1.1
+wrong,That road is filled with more vehicles than a normal road,11,11,1.0
+wrong,That fruit is very rare like an orange,8,9,1.125
+wrong,"That animal, like the kangaroo, is only found in Australia",10,14,1.4
+wrong,Her handwriting is as neat as a computer keyboard,9,10,1.1111111111111112
+wrong,Her handwriting is as neat as a doctor's note,9,12,1.3333333333333333
+wrong,He had renounced desires like Duryodhana,6,11,1.8333333333333333
+wrong,That incident was as frightening as an accident,8,9,1.125
+wrong,Its sound was as loud as lightning,7,10,1.4285714285714286

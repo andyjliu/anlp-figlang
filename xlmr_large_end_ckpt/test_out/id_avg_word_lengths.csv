@@ -1,0 +1,1141 @@
+key,startphrase,num_words,num_tokens,avg_word_length
+correct,Nyalinya seperti anak kecil yang tersesat.,6,10,1.6666666666666667
+correct,Nyalinya seperti prajurit terdepan di medan perang.,7,11,1.5714285714285714
+correct,Berbicara dengan Kinan seperti bicara dengan balita.,7,11,1.5714285714285714
+correct,Berbicara dengan Kinan seperti mengikuti kuliah kuliah dari dosen ternama.,10,16,1.6
+correct,Anak itu tampil bak putri malu yang layu.,8,10,1.25
+correct,Anak itu tampil bak bunga mawar di taman.,8,10,1.25
+correct,Suara Sari dapat mengalahkan suara ombak.,6,8,1.3333333333333333
+correct,Suara Sari lenyap terbawa angin.,5,8,1.6
+correct,Cara makannya bagai tamu restoran bintang 5.,7,9,1.2857142857142858
+correct,Cara makannya bagai anak kecil di toko es krim.,9,12,1.3333333333333333
+correct,Pekerjaan ayah semudah membalikkan telapak tangan.,6,11,1.8333333333333333
+correct,Dia melahap makanan seolah belum makan tiga hari.,8,10,1.25
+correct,Dia melahap makanan seolah habis menghadiri tiga kondangan.,8,11,1.375
+correct,Ia berjalan layaknya siput.,4,7,1.75
+correct,Ia berjalan layaknya macan.,4,7,1.75
+correct,Kehadirannya bagaikan petir di siang bolong.,6,13,2.1666666666666665
+correct,Kehadirannya bagaikan bintang di langit malam.,6,11,1.8333333333333333
+correct,Dia menjalani hidup bak burung di angkasa.,7,9,1.2857142857142858
+correct,Dia menjalani hidup bak singa di kebun binatang.,8,11,1.375
+correct,Situasi kelas A seramai kuburan di malam hari.,8,12,1.5
+correct,Adik menginginkan rambut seperti rapunzel.,5,9,1.8
+correct,Curhatannya sepanjang skripsi mahasiswa kedokteran.,5,12,2.4
+correct,Curhatannya sepanjang iklan badut di jalanan.,6,11,1.8333333333333333
+correct,Tulisan tangannya bak ketikan komputer canggih.,6,8,1.3333333333333333
+correct,Memintanya membereskan kamar sama seperti menyuruh kucing terbang.,8,13,1.625
+correct,Dia menyelesaikan pekerjaannya secepat mengurus paspor yang hilang.,8,12,1.5
+correct,Kelas bersama Pak Faisal seperti sedang berada di kandang singa.,10,13,1.3
+correct,Kelas bersama Pak Faisal seperti sedang bermain dengan anak tetangga.,10,11,1.1
+correct,Orang asing yang kau temui sewaktu-waktu bisa menjadi rumah untuk pulang.,11,16,1.4545454545454546
+correct,Orang asing yang kau temui sewaktu-waktu bisa menjadi jurang di ujung jalan.,12,18,1.5
+correct,"Saat kelas berlangsung, mereka berbincang bak petir bersahut-sahutan di tengah hujan.",11,19,1.7272727272727273
+correct,"Saat kelas berlangsung, mereka berbincang bak berbisik pada dedaunan.",9,16,1.7777777777777777
+correct,Perempuan itu sangat suka berkumpul dengan bintang-bintang.,7,11,1.5714285714285714
+correct,Perempuan itu sangat suka memeluk keheningan malam.,7,10,1.4285714285714286
+correct,"Saat aku terpuruk, dia berlagak layaknya fans yang mendukung idolanya.",10,19,1.9
+correct,"Saat aku terpuruk, dia berlagak layaknya orang asing di keramaian ibu kota.",12,21,1.75
+correct,Ayahku bersikap seolah bisa menyapa seluruh dunia.,7,10,1.4285714285714286
+correct,Ayahku bersikap seolah dia adalah robot yang sudah usang.,9,12,1.3333333333333333
+correct,Dia tampak seperti mahasiswa yang gagal ujian.,7,8,1.1428571428571428
+correct,Dia tampak seperti habis memenangkan lotre.,6,8,1.3333333333333333
+correct,"Menurutnya, merantau adalah petualangan mencari jati diri.",7,14,2.0
+correct,"Menurutnya, merantau adalah perang yang tak berujung.",7,12,1.7142857142857142
+correct,Rara berpakaian seolah akan mengikuti pemotretan di sebuah majalah.,9,13,1.4444444444444444
+correct,Cara bicaranya bak putri Solo.,5,7,1.4
+correct,Cara bicaranya bak preman di pasar.,6,9,1.5
+correct,"Saat ditanya, mahasiswa itu menjawab seperti orang yang ketahuan mencuri.",10,13,1.3
+correct,"Saat ditanya, mahasiswa itu menjawab seperti sudah mengantongi kunci jawaban di kepalanya.",12,16,1.3333333333333333
+correct,Kamar kosnya bagaikan rumah yang habis dimasuki pencuri.,8,14,1.75
+correct,Kamar kosnya bagaikan rumah dengan selusin ART.,7,12,1.7142857142857142
+correct,Rumahnya seluas GBK.,3,7,2.3333333333333335
+correct,Rumahnya seluas jalan tikus.,4,8,2.0
+correct,"Bagi dia, rahasia adalah pusaka keluarga.",6,9,1.5
+correct,Dia adalah sinar matahari yang menyelimuti bumi.,7,11,1.5714285714285714
+correct,Dia adalah hujan di tengah malam.,6,7,1.1666666666666667
+correct,Tanggung jawab Dian seringan menggendong satu keluarga besar.,8,14,1.75
+correct,"Setelah ia datang, keadaan seperti pakaian yang dicuci dengan lumpur.",10,15,1.5
+correct,"Setelah ia datang, keadaan seperti pelangi yang muncul selepas hujan.",10,13,1.3
+correct,Jarak rumah ke sekolahnya sejauh menyebrangi samudra.,7,14,2.0
+correct,Jarak rumah ke sekolahnya sejauh rumah tetangga.,7,11,1.5714285714285714
+correct,Murid SMP itu setinggi tiang listrik.,6,10,1.6666666666666667
+correct,"Nasibnya bagai orang yang selamat dari tragedi mematikan,.",8,13,1.625
+correct,"Nasibnya bagai orang yang kena tipu,.",6,12,2.0
+correct,"Baginya, dunia digital adalah tempat bermain yang menyenangkan.",8,11,1.375
+correct,"Baginya, dunia digital adalah rumah hantu yang penuh jebakan.",9,15,1.6666666666666667
+correct,Pendiriannya bagai peraturan yang berubah-ubah.,5,11,2.2
+correct,Dia berlagak seperti cucu yang punya jalan.,7,11,1.5714285714285714
+correct,Mereka mengikuti lomba seolah siap memberikan seluruh darah dan keringat.,10,12,1.2
+correct,Mereka mengikuti lomba seolah hanya untuk mengisi kuota.,8,10,1.25
+correct,Tugas mahasiswa bagaikan bisa dihitung jari.,6,10,1.6666666666666667
+correct,"Baginya, bersosialisasi itu seperti menaiki ratusan anak tangga.",8,14,1.75
+correct,"Baginya, bersosialisasi itu seperti melepas rindu dengan orang tersayang.",9,16,1.7777777777777777
+correct,Bermain media sosial bagai menjemur pakaian di waktu hujan.,9,13,1.4444444444444444
+correct,Adik berlaku bak akan mengurus pinjaman di bank.,8,10,1.25
+correct,Adik berlaku bak bayi yang merindukan ibunya.,7,11,1.5714285714285714
+correct,Langitnya tampak seperti senyuman mahasiswa yang lulus sidang.,8,12,1.5
+correct,Langitnya tampak seperti wajah anak kecil yang kalah dalam permainan.,10,13,1.3
+correct,Rumahnya tampak bagaikan istana megah.,5,10,2.0
+correct,Rumahnya tampak bagaikan rumah tak berpenghuni.,6,11,1.8333333333333333
+correct,Hubungannya dengan sang kakak seperti anjing dan kucing.,8,10,1.25
+correct,Nilai matematikanya setinggi mata kaki.,5,8,1.6
+correct,Nilai matematikanya setinggi langit.,4,7,1.75
+correct,Berangkat sekolah ketika masih langit masih gelap ibarat menjemput rezeki.,10,13,1.3
+correct,Berangkat sekolah ketika masih langit masih gelap ibarat melawan arus.,10,14,1.4
+correct,"Seperti membangunkan macan tidur, kerja di institusi kepolisian Indonesia.",9,15,1.6666666666666667
+correct,Mukamu bentuknya sebulat matahari di siang hari.,7,12,1.7142857142857142
+correct,Mukamu bentuknya sebulat bulan yang penuh benjolan.,7,14,2.0
+correct,Layaknya pasangan yang tengah berbulan madu perasaanku bekerja di kantor ini.,11,16,1.4545454545454546
+correct,Semangatnya begitu keras bagaikan batu.,5,9,1.8
+correct,"Bagaikan kacang lupa kulitnya, semenjak dia pindah ke negeri orang.",10,15,1.5
+correct,Hidupnya di perantauan seterang bulan purnama.,6,12,2.0
+correct,Hidupnya di perantauan seterang bulan gerhana.,6,12,2.0
+correct,Cat rumahnya seputih salju.,4,9,2.25
+correct,Cat rumahnya seputih arang.,4,9,2.25
+correct,"Menurut mereka, aku hidup seperti putri.",6,8,1.3333333333333333
+correct,"Menurut mereka, aku hidup seperti inang.",6,9,1.5
+correct,Anak-anak berderet bak ayam berjalan.,5,9,1.8
+correct,Bangunan lama tersebut berdiri bak pohon beringin.,7,9,1.2857142857142858
+correct,Bangunan lama tersebut berdiri bak nyiur di tepi pantai.,9,12,1.3333333333333333
+correct,"Dengan perawatan mahal, kulit Rika selembut sutra.",7,12,1.7142857142857142
+correct,"Dengan perawatan mahal, kulit Rika selembut pasir.",7,12,1.7142857142857142
+correct,Suara Lesti sekarang seperti merdunya hujan.,6,10,1.6666666666666667
+correct,Suara Lesti sekarang seperti serak-serak kepalang basah.,7,14,2.0
+correct,"Lebaran kali ini, Jakarta seramai Masjid Nabawi.",7,12,1.7142857142857142
+correct,"Lebaran kali ini, Jakarta seramai masjid di pelosok desa.",9,14,1.5555555555555556
+correct,Cahaya lampu kota ini apabila malam seperti ratusan bintang di permukaan bumi.,12,14,1.1666666666666667
+correct,"Ibarat tinggal di neraka, semenjak ayah menikah lagi.",8,12,1.5
+correct,"Ibarat tinggal di surga, semenjak ayah menikah lagi.",8,13,1.625
+correct,Guru Dita kesabarannya seluas samudra.,5,10,2.0
+correct,Larinya secepat cheetah.,3,9,3.0
+correct,Larinya secepat kura-kura.,3,9,3.0
+correct,"Mendengar ucapannya, aku merasa seperti ditusuk belati.",7,13,1.8571428571428572
+correct,"Mendengar ucapannya, aku merasa seperti dibelai kekasih.",7,12,1.7142857142857142
+correct,Sepatuku harum seperi ladang bunga.,5,10,2.0
+correct,Sepatuku harum seperi tong sampah.,5,9,1.8
+correct,Pernikahan mereka layaknya Popeye & Olive.,6,11,1.8333333333333333
+correct,Pernikahan mereka layaknya Popeye & Bluto.,6,12,2.0
+correct,"Sejak menikah, hidupnya bagaikan burung yang terbang bebas.",8,11,1.375
+correct,"Sejak menikah, hidupnya bagaikan burung dalam kerangkeng.",7,13,1.8571428571428572
+correct,Kecepatan mobil elektrik buatan Indonesia sudah seperti kecepatan jet.,9,14,1.5555555555555556
+correct,Pemenang lomba menyanyi kalau tidur ngoroknya seperti suara knalpot.,9,16,1.7777777777777777
+correct,Jangan bertindak seperti cacing kepanasan.,5,9,1.8
+correct,Jangan bertindak seperti orang berpelesir.,5,8,1.6
+correct,Bisnis orang tuanya ibarat bisnis yang gulung tikar.,8,13,1.625
+correct,Bisnis orang tuanya ibarat bisnis yang menuju puncak.,8,11,1.375
+correct,Temanku tingkahnya serasa dirinya berdarah bangsawan.,6,11,1.8333333333333333
+correct,Temanku tingkahnya serasa dirinya pemilik dapur tidak berasap.,8,13,1.625
+correct,Masuk ke perusahaan ini ibarat masuk mulut buaya.,8,11,1.375
+correct,Masuk ke perusahaan ini ibarat masuk rumah sendiri.,8,10,1.25
+correct,Harga pakaian di Pasar Cigasong sekarang bagai membeli kacang goreng.,10,14,1.4
+correct,Harga pakaian di Pasar Cigasong sekarang bagai membeli pesawat pribadi.,10,14,1.4
+correct,Omongan tetangga Rina seakan lidah tak bertulang.,7,12,1.7142857142857142
+correct,Omongan tetangga Rina seakan  mulut berbau madu.,8,11,1.375
+correct,Rezeki datang tak terduga seperti air surut.,7,12,1.7142857142857142
+correct,Rezeki datang tak terduga seperti air pasang.,7,11,1.5714285714285714
+correct,Politisi pilihan ayahku macam pemain handal.,6,10,1.6666666666666667
+correct,Politisi pilihan ayahku macam anak kemarin sore.,7,10,1.4285714285714286
+correct,Mengerjakan tugas Python itu ibarat bertempur di medan perang.,9,15,1.6666666666666667
+correct,Mengerjakan tugas Python itu ibarat menari diiringi musik.,8,15,1.875
+correct,Laptop yang dibelikan suaminya sepopuler Avanza di Indonesia.,8,15,1.875
+correct,Laptop yang dibelikan suaminya sepopuler mobil antik keluaran 70an.,9,17,1.8888888888888888
+correct,Semoga rumahmu nanti sebesar kastil.,5,8,1.6
+correct,Semoga rumahmu nanti sebesar kotak sepatu.,6,8,1.3333333333333333
+correct,Harga makanan yang dibeli pacarku bagaikan dibuat oleh chef bintang lima.,11,15,1.3636363636363635
+correct,Harga makanan yang dibeli pacarku bagaikan dibuat oleh  chef kaki lima.,12,15,1.25
+correct,Investasi Bitcoin sekarang ini ibarat deposito berbunga tinggi.,8,14,1.75
+correct,Investasi Bitcoin sekarang ini ibarat membayar KPR dengan bunga tinggi.,10,14,1.4
+correct,"Seperti air mengalir, karirku sekarang.",5,8,1.6
+correct,Cuaca hari ini seperti panasnya neraka.,6,9,1.5
+correct,Cuaca hari ini seperti dinginnya Kutub Utara.,7,11,1.5714285714285714
+correct,Kue buatan temanku rasanya seperti makan mangga ketika musimnya.,9,15,1.6666666666666667
+correct,Kue buatan temanku rasanya seperti makan jarum ketika sariawan.,9,15,1.6666666666666667
+correct,Timbangan badanku macam bergerak ke kanan.,6,9,1.5
+correct,Bau badannya sudah seperti bau duren.,6,9,1.5
+correct,Bau badannya sudah seperti bau bunga.,6,8,1.3333333333333333
+correct,"Walau masih mahasiswa, tapi hari-harinya macam karyawan lembur.",8,14,1.75
+correct,"Walau masih mahasiswa, tapi hari-harinya macam karyawan kena phk.",9,15,1.6666666666666667
+correct,"Setiap lelaki itu bersuara, ucapannya bagaikan guru ngaji dengan muridnya.",10,18,1.8
+correct,"Seberat kapas, begitulah beban hidup Dani.",6,11,1.8333333333333333
+correct,Nasihat ibu terkadang semanis permen.,5,9,1.8
+correct,Nasihat ibu terkadang semanis jamu.,5,9,1.8
+correct,Buku koleksi adikku sebanyak bunga di musim gugur.,8,11,1.375
+correct,Diam itu emas.,3,5,1.6666666666666667
+correct,Diam itu sampah.,3,5,1.6666666666666667
+correct,Aku seperti umbi-umbian di mata atasan.,6,12,2.0
+correct,Aku seperti anak emas di mata atasan.,7,9,1.2857142857142858
+correct,Tanah Pasundan diciptakan seakan Tuhan sedang tersenyum.,7,9,1.2857142857142858
+correct,Tanah Pasundan diciptakan seakan Tuhan sedang marah.,7,9,1.2857142857142858
+correct,Kedelai itu dirawat petani layaknya anak sendiri.,7,12,1.7142857142857142
+correct,Kedelai itu dirawat petani layaknya anak tiri.,7,12,1.7142857142857142
+correct,Ibu membesarkan anaknya dengan sepenuh hati.,6,10,1.6666666666666667
+correct,Ibu membesarkan anaknya dengan setengah hati.,6,8,1.3333333333333333
+correct,Hari ini cuacanya seperti berada di Padang Mahsyar.,8,12,1.5
+correct,Harimau itu memiliki bulu bagai lukisan abstrak yang estetik.,9,14,1.5555555555555556
+correct,Harimau itu memiliki bulu bagai lukisan anak TK yang belum bisa menggambar.,12,18,1.5
+correct,Resesi 2023 seperti anak SD yang kehilangan sebiji permen.,9,13,1.4444444444444444
+correct,"Ketika Geisha menyanyi, dia seolah membius semua penonton.",8,13,1.625
+correct,"Ketika Geisha menyanyi, dia seolah menghantui semua penonton.",8,13,1.625
+correct,Indonesia memiliki banyak destinasi wisata yang masih perawan.,8,11,1.375
+correct,Indonesia memiliki banyak destinasi wisata yang sudah terjamah.,8,12,1.5
+correct,Rambutnya bagai ombak samudra yang berkilau tertimpa sinar rembulan di malam hari.,12,23,1.9166666666666667
+correct,Rambutnya bagai sapu ijuk.,4,9,2.25
+correct,"Bagi Nouval, banyaknya harta adalah alasan yang merekahkan bibirnya dengan kebahagiaan. .",12,18,1.5
+correct,"Bagi Nouval, banyaknya harta adalah cobaan yang memuakkan. .",9,16,1.7777777777777777
+correct,Anak laki-laki dalam adat Jawa adalah pusaka yang sangat dipuja.,10,16,1.6
+correct,Anak laki-laki dalam adat Jawa adalah beban keluarga.,8,11,1.375
+correct,Peran perempuan dalam adat Jawa bagaikan cat putih yang dipulaskan di atas tembok yang sudah berwarna putih.,17,23,1.3529411764705883
+correct,Beras miskin adalah simbol kemelaratan yang memilukan bagi sebagian besar warga Indonesia.,12,18,1.5
+correct,Belajar matematika itu bagai melihat hantu di rumah sakit angker yang sudah kosong berpuluh-puluh tahun.,15,22,1.4666666666666666
+correct,Belajar matematika itu bagai bertemu dan mengobrol dengan artis idola secara langsung.,12,17,1.4166666666666667
+correct,Minum kopi saat senja itu seperti Adam yang pada akhirnya bisa bertemu lagi dengan Hawa setelah sekian lama.,18,21,1.1666666666666667
+correct,Minum kopi saat senja itu seperti Adam dan Hawa yang diusir Tuhan dari surga.,14,20,1.4285714285714286
+correct,Sepak bola bagi masyarakat Indonesia bagaikan agama yang harus dipertahankan mati-matian.,11,18,1.6363636363636365
+correct,Sepak bola bagi masyarakat Indonesia bagaikan robot gundam yang bebas untuk dimainkan dan disukai siapa saja.,16,20,1.25
+correct,"Bagi sebagian besar masyarakat Indonesia, perempuan yang belum menikah hingga usia 25 tahun itu ibarat pohon yang semakin berkurang kemampuannya untuk berbuah.",22,28,1.2727272727272727
+correct,"Bagi sebagian besar masyarakat Indonesia, perempuan yang belum menikah hingga usia 25 tahun itu ibarat buah yang semakin matang.",19,22,1.1578947368421053
+correct,Menuntut ilmu itu ibarat pendakian panjang yang melelahkan.,8,16,2.0
+correct,Menuntut ilmu itu ibarat jalan-jalan santai di pagi hari.,9,16,1.7777777777777777
+correct,Pegunungan berjajar seperti pasukan paskibraka.,5,12,2.4
+correct,Pegunungan berjajar seperti angkot mengetem sembarangan di bahu jalanan Jakarta.,10,19,1.9
+correct,Bola yang ditendang Bambang Pamungkas itu melesat bagai peluru yang ditembakkan.,11,21,1.9090909090909092
+correct,Bola yang ditendang Bambang Pamungkas itu melesat bagai lemparan sehelai bulu ayam ke udara.,14,24,1.7142857142857142
+correct,Tema baju lebaran keluargaku di tahun ini adalah warna hijau seperti pada kulit telur bebek.,15,18,1.2
+correct,Tema baju lebaran keluargaku di tahun ini adalah warna hijau seperti lumut yang tumbuh di permukaan lembab.,17,23,1.3529411764705883
+correct,Kata-katanya saat mewawancarai narasumber seperti silet.,6,16,2.6666666666666665
+correct,Orang tua adalah malaikat untuk anak-anaknya.,6,10,1.6666666666666667
+correct,Orang tua adalah iblis untuk anak-anaknya.,6,11,1.8333333333333333
+correct,Siang hari minum es cendol dawet ibarat meneguk air dari sumber mata air di pegunungan.,15,24,1.6
+correct,"Di kampung saya, main bulu tangkis itu adalah untuk melepas penat dan memyehatkan badan.",14,22,1.5714285714285714
+correct,Mencuci dengan detergen A seperti mengusap debu tipis di kaca jendela.,11,19,1.7272727272727273
+correct,Mencuci dengan detergen A seperti menggosok ubin berlumut yang sudah puluhan tahun tidak dibersihkan.,14,26,1.8571428571428572
+correct,Ade mendaki gunung malam hari tanpa penerangan yang cukup bagai kelelawar yang bermata tajam.,14,21,1.5
+correct,Ade mendaki gunung malam hari tanpa penerangan yang cukup bagai si buta dari gua hantu.,15,21,1.4
+correct,Candi Borobudur jika dilihat dari atas bagaikan mangkuk yang terbalik.,10,16,1.6
+correct,Diskusi hari ini menguras pikiran.,5,8,1.6
+correct,Diskusi hari ini menenangkan pikiran.,5,9,1.8
+correct,Hari Santri dirayakan dengan kirab budaya di sepanjang jalan sehingga lalu lintas seolah air sungai yang tersumbat.,17,24,1.411764705882353
+correct,Hari Santri dirayakan dengan kirab budaya di sepanjang jalan sehingga lalu lintas seolah air sungai yang mengalir deras.,18,23,1.2777777777777777
+correct,Skripsi bagi sebagian besar mahasiswa adalah kuntilanak yang membuat mereka kabur menjauhinya.,12,19,1.5833333333333333
+correct,Skripsi bagi sebagian besar mahasiswa adalah anak tangga yang harus dilalui untuk naik ke anak tangga selanjutnya.,17,21,1.2352941176470589
+correct,Sopan santun itu ibarat baju bagi orang Jawa. .,9,14,1.5555555555555556
+correct,Sopan santun itu ibarat keset bagi orang Jawa. .,9,15,1.6666666666666667
+correct,Bekerjalah seakan resesi 2023 akan benar-benar terjadi.,7,13,1.8571428571428572
+correct,Bekerjalah seakan alam dan seisinya masih bisa memenuhi kebutuhanmu.,9,14,1.5555555555555556
+correct,"Selepas acara aqiqah, kepala keponakan bayiku ini menjadi seperti buah rambutan yang masih muda.",14,22,1.5714285714285714
+correct,Daniar itu anak orang kaya. Ia bertingkah seolah Roro Jonggrang yang keinginannya harus dipenuhi dalam satu malam.,17,26,1.5294117647058822
+correct,Daniar itu anak orang kaya. Ia bertingkah seolah Puteri Kadita yang melepaskan kemewahan dan memilih bertapa di laut selatan Jawa.,20,31,1.55
+correct,Suwito bagaikan sampah di tumpukan berlian.,6,13,2.1666666666666665
+correct,"Paras Dayang Sumbi dalam legenda Gunung Tangkuban Perahu diibaratkan purnama tanggal 15 yang bulat, penuh, dan bercahaya. .",18,34,1.8888888888888888
+correct,"Paras Dayang Sumbi dalam legenda Gunung Tangkuban Perahu diibaratkan awan gelap yang mengungkung angkasa, memerangkap cahaya bintang dan bulan. .",20,37,1.85
+correct,"Makanan khas Sunda, yaitu seblak kian naik daun karena rasanya yang ibarat pedas-pedas cabai.",14,25,1.7857142857142858
+correct,Tokoh Rahwana dalam Hikayat Rama Sinta adalah keangkaramurkaan yang membawa kesengsaraan dan perpisahan bagi banyak orang.,16,31,1.9375
+correct,Tokoh Rahwana dalam Hikayat Rama Sinta adalah anugerah abadi yang muncul untuk menghibur hati yang lara.,16,26,1.625
+correct,Kebakaran hutan kemarin sore bagai amukan Banaspati yang mengibaskan lidah panjangnya ke segala penjuru.,14,26,1.8571428571428572
+correct,Kebakaran hutan kemarin sore bagai nyala lampu minyak yang sumbunya hampir habis terbakar.,13,20,1.5384615384615385
+correct,Hujatan demi hujatan yang bagaikan lemparan air comberan busuk di wajahnya ia lalui dengan sabar dan ikhlas.,17,30,1.7647058823529411
+correct,Hujatan demi hujatan yang bagaikan tetesan embun pagi di wajahnya ia lalui dengan sabar dan ikhlas.,16,27,1.6875
+correct,"Bagi orang zaman dahulu, bersekolah itu ibarat juragan kontrakan 20 pintu yang tinggal ongkang-ongkang kaki menunggu uang sewa.",18,29,1.6111111111111112
+correct,Program pemerintah Bantuan Langsung Tunai itu ibarat memberi kail kepada rakyat.,11,15,1.3636363636363635
+correct,Perpisahan adalah luka dalam yang terus membekas dalam ingatan.,9,14,1.5555555555555556
+correct,Rezeki setelah menikah itu bagaikan hujan deras yang jatuh ke bumi dan mengalir sampai jauh ke sungai-sungai.,17,24,1.411764705882353
+correct,Rezeki setelah menikah itu bagaikan musim paceklik dan kemarau yang melanda desa.,12,20,1.6666666666666667
+correct,Pandemi Covid-19 membuat gaya hidup masyarakat bagai besar pasak daripada tiang.,11,17,1.5454545454545454
+correct,Pandemi Covid-19 membuat gaya hidup masyarakat bagai timbangan yang bergerak sejajar.,11,18,1.6363636363636365
+correct,Melahirkan itu ibarat tulang belulang di dalam tubuh dipatahkan secara bersamaan.,11,19,1.7272727272727273
+correct,Cita-cita itu bagaikan asap yang dibiarkan hilang dengan sendirinya.,9,15,1.6666666666666667
+correct,"Keluarga adalah rumah tempat kita kembali saat lelah selepas bekerja, penat selepas belajar di sekolah, lelah setelah bermain di luar, dan berlindung saat sedang tertimpa musibah.",26,37,1.4230769230769231
+correct,Keluarga adalah neraka yang tidak ingin ditinggali sedetik pun.,9,13,1.4444444444444444
+correct,"Jika kamu berminat untuk mencalonkan diri sebagai presiden, kamu harus mengalahkan kandidat dari Partai X yang elektabilitasnya meroket sampai puncak Gunung Jayawijaya.",22,33,1.5
+correct,"Jika kamu berminat untuk mencalonkan diri sebagai presiden, kamu harus mengalahkan kandidat dari Partai X yang elektabilitasnya jongkok.",18,27,1.5
+correct,"Bukan bermaksud menghakimi, tapi dia berbicara seolah putri keraton yang luhur budi pekertinya.",13,20,1.5384615384615385
+correct,Sastra adalah suguhan bagi jiwa-jiwa yang ingin sejenak kabur dari realitas.,11,21,1.9090909090909092
+correct,Sastra adalah debat panas antara calon pemimpin saat kampanye.,9,11,1.2222222222222223
+correct,Sakit bagi si miskin yang berobat menggunakan BPJS di rumah sakit bagaikan bertarung dengan harimau di hutan belantara.,18,26,1.4444444444444444
+correct,Sakit bagi si miskin yang berobat menggunakan BPJS di rumah sakit bagaikan membalikkan telapak tangan.,15,22,1.4666666666666666
+correct,Berbelanja bagi sebagian besar perempuan itu seperti masuk surga dengan segala hal yang indah-indah di sekelilingnya.,16,25,1.5625
+correct,Berbelanja bagi sebagian besar perempuan itu seperti masuk neraka dengan bara api yang berkobar menakutkan.,15,22,1.4666666666666666
+correct,Tujuan hidup itu bagaikan memilih pisau yang tepat untuk memotong bahan masakan yang mau diolah.,15,19,1.2666666666666666
+correct,Tujuan hidup itu bagaikan menciduk air di kolam.,8,12,1.5
+correct,Matahari hari ini seolah hidup segan mati tak mau.,9,12,1.3333333333333333
+correct,"Ibarat payung yang rela basah demi melindungi orang di bawahnya, itulah pemerintah kita.",13,18,1.3846153846153846
+correct,"Ibarat pembuang sampah di sungai, itulah pemerintah kita.",8,13,1.625
+correct,"Semakin dewasa, sosial media seperti daun yang jatuh di halaman.",10,13,1.3
+correct,Mertua dan menantu di Indonesia itu bagaikan cerita rakyat Bawang Merah & Bawang Putih.,14,20,1.4285714285714286
+correct,Mertua dan menantu di Indonesia itu bagaikan Jembatan Suramadu yang menghubungkan Pulau Madura dengan Pulau Jawa bagian timur.,18,26,1.4444444444444444
+correct,Bahagia itu adalah ketika kita dapat uang kaget 100 Milyar Rupiah tanpa harus dipotong pajak.,15,22,1.4666666666666666
+correct,Bahagia itu adalah berkumpul bersama keluarga tersayang.,7,10,1.4285714285714286
+correct,Kekayaannya bisa digunakan untuk melunasi hutang negara dan bahkan masih ada kembaliannya.,12,18,1.5
+correct,Kekayaannya tidak cukup untuk memberi makan dirinya sendiri.,8,11,1.375
+correct,Nilau tukar rupiah di banding dolar ibarat Bujang Bungkuk yang tidak percaya diri.,13,20,1.5384615384615385
+correct,"Seusai persidangan itu selesai, terdakwa bersikap seolah baru turun dari masjid di hari raya Idul Fitri.",16,24,1.5
+correct,Cara berpikirmu seperti tidak pernah mengenyam bangku sekolah.,8,13,1.625
+correct,Cara berpikirmu seperti lulusan sarjana hebat.,6,10,1.6666666666666667
+correct,Perguruan tinggi itu ibarat padepokan untuk melatih mahasiswa untuk lebih peka dengan situasi sekitar dan kritis dalam menyajikan sebuah solusi.,20,29,1.45
+correct,Perguruan tinggi itu ibarat villa di pegunungan untuk bersantai saat libur tiba.,12,21,1.75
+correct,Wanita Sunda itu kulitnya seperti kulit kue nagasari.,8,13,1.625
+correct,Sudah menjadi semacam rahasia umum bahwa rekrutmen angkatan bersenjata harus melalui cara yang luar biasa.,15,20,1.3333333333333333
+correct,Sudah menjadi semacam dokumen rahasia bahwa rekrutmen angkatan bersenjata harus melalui cara yang luar biasa.,15,20,1.3333333333333333
+correct,Media masa seharusnya memancing di air keruh saat menayangkan kontennya.,10,16,1.6
+correct,Media masa seharusnya menjernihkan situasi saat menayangkan kontennya.,8,15,1.875
+correct,Dunia nampaknya seperti wanita renta yang terengah-engah memikul kayi bakar di punggungnya sambil menuruni bukit yang licin.,17,30,1.7647058823529411
+correct,Dunia nampaknya seperti wanita muda yang tengah berseri-beri menyambut hari pertamanya bekerja.,12,18,1.5
+correct,Indonesia itu ibarat magnet bagi wisatawan mancanegara.,7,10,1.4285714285714286
+correct,"Walaupun kaki jadi kepala, kepala jadi kaki, semua pasti akan aku dapatkan.",12,15,1.25
+correct,"mengalir saja seperti air, semua pasti akan aku dapatkan.",9,11,1.2222222222222223
+correct,Aku percaya bahwa hidup itu adalah siapa yang menanam akan menuai.,11,14,1.2727272727272727
+correct,Kualitas diri seseorang itu ibarat bagai kacang lupa kulitnya.,9,13,1.4444444444444444
+correct,Mengapa wajahmu ditekuk?.,3,7,2.3333333333333335
+correct,Mengapa wajahmu cerah?.,3,7,2.3333333333333335
+correct,Garis nasib seseorang itu ibarat hujan buatan yang diusahakan oleh kemajuan teknologi.,12,18,1.5
+correct,Pertanyaan yang selalu kamu ajukan di kelas itu ibarat pembuktian bahwa udara itu nyata.,14,19,1.3571428571428572
+correct,Bukannya tidak ingin bertanding melawannya. Hanya saja rasanya seperti melawan seekor semut dengan sebotol Baygon.,15,24,1.6
+correct,Imbal hasil yang dicatatkan oleh reksadana pasar uang itu ibarat tekanan darah setelah makan mentimum 1 kg.,17,25,1.4705882352941178
+correct,Kontra pada saat rapat RT itu ibarat menyiramkan minyak di bara api.,12,16,1.3333333333333333
+correct,Cara belajar saat ujian tengah semester selalu diibaratkan dengan membangun seribu candi dalam sehari semalam.,15,21,1.4
+correct,Menjaga integritas saat bekerja di perusahaan itu ibarat berjihad di jalan Allah.,12,18,1.5
+correct,Menjaga integritas saat bekerja di perusahaan itu ibarat rebahan sambil minum es teh di pinggir pantai.,16,21,1.3125
+correct,Mengkritik pejabat adalah kejahatan yang harus dibasmi oleh polisi.,9,13,1.4444444444444444
+correct,Ilmu adalah investasi untuk masa depan yang tidak tergerus inflasi.,10,14,1.4
+correct,Ilmu adalah suatu hal yang didapatkan hanya untuk membuang-buang waktu.,10,16,1.6
+correct,Nyawa seseorang itu ibarat anugerah yang tidak ternilai harganya.,9,13,1.4444444444444444
+correct,Nyawa seseorang itu ibarat sampah yang berserakan di pinggir kali.,10,14,1.4
+correct,Bulu burung merak ketika merekah ibarat kembang api berharga jutaan yang meletus di udara dengan gemerlap warna dan motif.,19,27,1.4210526315789473
+correct,Bulu burung merak ketika merekah ibarat kembang api murahan yang bahkan tidak kuat untuk meletupkan api terlalu jauh dari selongsongnya.,20,31,1.55
+correct,"Bagi saya, ibu adalah sumber mata air yang memberikan kehidupan untuk makhluk di sekitarnya.",14,16,1.1428571428571428
+correct,"Bagi saya, ibu adalah racun yang melenyapkan nyawa orang yang meminumnya.",11,17,1.5454545454545454
+correct,"Sedangkan, ayah saya adalah pahlawan yang bertugas menyelamatkan dunia.",9,12,1.3333333333333333
+correct,"Sedangkan, ayah saya adalah kucing garong yang suka membuat keributan dan kerusakan.",12,17,1.4166666666666667
+correct,"Kalau kakak saya, dia bagaikan nabi yang tidak pernah mengotori anggota tubuhnya dengan dosa.",14,18,1.2857142857142858
+correct,"Kalau kakak saya, dia bagaikan iblis yang berwujud manusia.",9,14,1.5555555555555556
+correct,Saudari perempuan saya lain lagi. Dia adalah bunga bangkai yang membuatnya banyak dihinggapi lalat-lalat hijau.,15,26,1.7333333333333334
+correct,"Semua anggota keluargaku sangat ajaib. Namun, tidak ada yang mengalahkan kakek. Dia adalah keturunan darah biru.",16,24,1.5
+correct,"Semua anggota keluargaku sangat ajaib. Namun, tidak ada yang mengalahkan kakek. Dia adalah terlahir sebatang kara.",16,26,1.625
+correct,Hidupku sangat unik bagaikan pelangi yang hadir setiap saat.,9,13,1.4444444444444444
+correct,Watik menghabiskan gajinya untuk gali lobang tutup lobang.,8,13,1.625
+correct,Watik menghabiskan gajinya untuk menggemukkan rekeningnya demi masa depan yang cerah.,11,18,1.6363636363636365
+correct,Bunga cicilan di bank mencekik leher.,6,11,1.8333333333333333
+correct,Bunga cicilan di bank meringankan langkah.,6,11,1.8333333333333333
+correct,"Sesekali bolehlah kita memberikan hadiah untuk diri sendiri yang sudah bekerja keras. Namun, jangan lupa bahwa uang itu ibarat air yang dituang ke tumpukan pasir.",25,35,1.4
+correct,Kutukan di Candi Prambanan itu ibarat firman di kitab suci.,10,16,1.6
+correct,Kutukan di Candi Prambanan itu ibarat dongeng pengantar tidur.,9,16,1.7777777777777777
+correct,Dia membeli saham gorengan.,4,6,1.5
+correct,Ketika IHSG turun kita bisa lepas saham.,7,10,1.4285714285714286
+correct,Pastikan kamu mau hajar kanan untuk memastikan keuntunganmu bermain saham.,10,14,1.4
+correct,Pekerjaannya seolah anak kecil yang dibebaskan di taman bermain.,9,13,1.4444444444444444
+correct,Pekerjaannya seolah napi yang dikurung di penjara.,7,11,1.5714285714285714
+correct,Melihat bakso urat dengan kuah kaldu yang pekat membuatku meneteskan air liur.,12,21,1.75
+correct,Melihat bakso urat dengan kuah kaldu yang pekat membuatku memalingkan wajah.,11,19,1.7272727272727273
+correct,"Ibarat guru kencing berdiri, murid kencing berlari, begitulah tingkah laku anak.",11,17,1.5454545454545454
+correct,"Bayangkan kamu berada dalam hutan sendirian, itulah yang aku rasakan saat ini.",12,17,1.4166666666666667
+correct,"Bayangkan bertamasya bersama keluarga, itulah yang aku rasakan saat ini.",10,16,1.6
+correct,Hidayat merasa hidupnya seolah perahu yang terombang-ambing di lautan.,9,18,2.0
+correct,Hidayat merasa hidupnya seolah perahu dengan nahkoda handal.,8,14,1.75
+correct,Semua yang pernah aku pelajari di sekolah seolah tumpukan barang rongsok berdebu di sudut ruangan ketika aku masuk dunia kerja.,20,26,1.3
+correct,Pasangan ideal bagiku itu seperti partner hidup.,7,9,1.2857142857142858
+correct,Universitas tempatku berkuliah itu adalah gudangnya pemenang kompetisi nasional dan internasional.,11,17,1.5454545454545454
+correct,Universitas tempatku berkuliah itu adalah gudangnya katak dalam tempurung.,9,18,2.0
+correct,"Jika diamati, wajahnya seperti bintang di langit malam.",8,12,1.5
+correct,Kecepatannya dalam menyerap materi seperti kura-kura berjalan.,7,13,1.8571428571428572
+correct,Orang-orang menganggap kehadirannya di sekolah seperti bintang.,7,11,1.5714285714285714
+correct,Orang-orang menganggap kehadirannya di sekolah seperti orang pesakitan.,8,13,1.625
+correct,Rapornya penuh dengan tinta merah.,5,8,1.6
+correct,Cita-citanya ternyata setinggi langit.,4,9,2.25
+correct,Cita-citanya ternyata setinggi daun kelor.,5,11,2.2
+correct,Pendapatannya semasa pandemi seperti saluran mampet.,6,10,1.6666666666666667
+correct,Pendapatannya semasa pandemi seperti air terjun.,6,9,1.5
+correct,Hati manusia kadang seperti catatan hitam.,6,7,1.1666666666666667
+correct,Moodnya hari ini secerah mentari.,5,10,2.0
+correct,Moodnya hari ini ditimpa badai.,5,9,1.8
+correct,Jurnal akademisnya seperti pisau tajam.,5,9,1.8
+correct,Jurnal akademisnya seperti pisau tumpul.,5,10,2.0
+correct,Nasihat dari gurunya bagaikan permata.,5,10,2.0
+correct,Nasihat dari gurunya bagaikan batu kali.,6,10,1.6666666666666667
+correct,Baginya harga mobil seharga gorengan.,5,9,1.8
+correct,Baginya harga mobil seharga nyawa.,5,8,1.6
+correct,"Setelah banyak kejadian yang menimpa, mentalnya seperti agar-agar.",8,14,1.75
+correct,Hari ini dia dapat rezeki bak nasi sisa.,8,9,1.125
+correct,Orang itu punya sifat seperti setan.,6,8,1.3333333333333333
+correct,Orang itu punya sifat seperti malaikat.,6,7,1.1666666666666667
+correct,Ucapannya bak tong kosong.,4,6,1.5
+correct,Bentuk tulisan tangannya seperti cakar ayam.,6,8,1.3333333333333333
+correct,Bentuk tulisan tangannya seperti lukisan.,5,7,1.4
+correct,Cuaca kota ini seperti surga.,5,8,1.6
+correct,Cuaca kota ini seperti neraka.,5,7,1.4
+correct,Porsi makannya seperti gadis rumahan.,5,9,1.8
+correct,Penjahat itu masuk kategori kelas kakap.,6,10,1.6666666666666667
+correct,Dia punya spek hp kentang.,5,7,1.4
+correct,Dia punya spek hp dewa.,5,7,1.4
+correct,Mesinnya bertenaga kuda.,3,6,2.0
+correct,Suaranya saat bernyanyi seperti burung kenari.,6,11,1.8333333333333333
+correct,Suaranya saat bernyanyi seperti burung beo.,6,11,1.8333333333333333
+correct,Rasa cintanya bagai api yang membara.,6,10,1.6666666666666667
+correct,Rasa cintanya bagai api dalam sekam.,6,10,1.6666666666666667
+correct,Jalan kehidupannya seperti jalan tol.,5,7,1.4
+correct,"Di kantor, tugasnya menjadi seorang raja.",6,9,1.5
+correct,"Di kantor, tugasnya menjadi seorang pelayan.",6,10,1.6666666666666667
+correct,Komplek perkantoran itu seperti tempat hiburan.,6,10,1.6666666666666667
+correct,Komplek perkantoran itu seperti rumah kosong.,6,10,1.6666666666666667
+correct,Sekarang situasinya seperti benang kusut.,5,9,1.8
+correct,Sekarang situasinya seperti tenunan benang.,5,9,1.8
+correct,Koleksi bukunya sudah seperti museum.,5,7,1.4
+correct,Koleksi bukunya sudah seperti toko kelontong.,6,10,1.6666666666666667
+correct,Berita itu datang seperti angin badai.,6,8,1.3333333333333333
+correct,Berita itu datang seperti angin sepoi-sepoi.,6,13,2.1666666666666665
+correct,Baginya pekerjaan itu bagaikan membanting tulang.,6,11,1.8333333333333333
+correct,Baginya pekerjaan itu bagaikan menjentikkan jari.,6,12,2.0
+correct,Dia tidur kadang-kadang seperti batang pohon.,6,9,1.5
+correct,Dari dulu sifatnya seperti kulit badak.,6,9,1.5
+correct,Dari dulu sifatnya seperti putri malu.,6,8,1.3333333333333333
+correct,Kapasitasnya berpikir setara otak udang.,5,11,2.2
+correct,Kapasitasnya berpikir setara komputer.,4,9,2.25
+correct,"Akibat ucapan orang tuanya, hatinya seperti api yang disiram minyak.",10,15,1.5
+correct,Kamarnya seperti kapal pecah.,4,6,1.5
+correct,Kamarnya seperti istana.,3,6,2.0
+correct,Dokumen yang dia berikan seperti hasil pekerjaan anak TK.,9,11,1.2222222222222223
+correct,Dokumen yang dia berikan seperti hasil pekerjaan pemenang Nobel.,9,11,1.2222222222222223
+correct,Dia dan temannya seperti sepasang sepatu.,6,9,1.5
+correct,Dia dan temannya seperti kucing dan anjing.,7,9,1.2857142857142858
+correct,Kesabarannya sekarang sebesar samudra.,4,9,2.25
+correct,Kesabarannya sekarang sebesar kertas.,4,8,2.0
+correct,"Melihat kejadian tersebut, wajahnya seperti mayat.",6,10,1.6666666666666667
+correct,Ingatan ayahnya seperti besi berkarat.,5,9,1.8
+correct,Ingatan ayahnya seperti alat perekam.,5,8,1.6
+correct,Antrian tiketnya seperti ular.,4,7,1.75
+correct,Niat rencananya tercium harum.,4,9,2.25
+correct,Niat rencananya tercium busuk.,4,9,2.25
+correct,Dia punya mental tempe.,4,6,1.5
+correct,Pola tidurnya seperti kalong.,4,7,1.75
+correct,Kadangkala cuaca di Bekasi seperti gurun di Sahara.,8,12,1.5
+correct,Tindakannya seperti menabur garam di atas luka.,7,10,1.4285714285714286
+correct,Tindakannya seperti memberi minum para musafir.,6,10,1.6666666666666667
+correct,Pikirannya dan pikiran temannya seperti roti dan mentega.,8,13,1.625
+correct,Proposalnya dapat lampu hijau.,4,8,2.0
+correct,"Bagi sang ibu, anaknya adalah buku yang tertutup.",8,10,1.25
+correct,Dia berbelanja seperti tidak ada hari esok.,7,8,1.1428571428571428
+correct,Dia berbelanja seperti akan hidup selamanya.,6,8,1.3333333333333333
+correct,Lagaknya seperti anak petani.,4,6,1.5
+correct,Kehadiranmu bagiku bagaikan menghirup asap knalpot di siang hari.,9,20,2.2222222222222223
+correct,Kulitnya seperti jalan kerikil.,4,8,2.0
+correct,Kulitnya seperti kristal.,3,5,1.6666666666666667
+correct,Sikapnya padaku seperti matahari pagi.,5,9,1.8
+correct,Sikapnya padaku seperti es di kutub selatan.,7,12,1.7142857142857142
+correct,Tulisan tangannya bagaikan milik mesin cetak.,6,8,1.3333333333333333
+correct,Wajahnya terlihat seperti habis perawatan di klinik abal-abal.,8,14,1.75
+correct,"Dilihat dari rambutnya, dia seperti habis dari salon.",8,12,1.5
+correct,"Dilihat dari rambutnya, dia seperti habis lari lima putaran.",9,15,1.6666666666666667
+correct,Dia beribadah seperti tidak ada surga dan neraka.,8,12,1.5
+correct,"Dari perawakannya, ia telrihat seperti belum makan tiga hari.",9,15,1.6666666666666667
+correct,Bapak itu terlihat seperti memiliki istri yang pandai memasak.,9,10,1.1111111111111112
+correct,Bapak itu terlihat seperti tinggal di kosan seorang diri.,9,11,1.2222222222222223
+correct,Raut wajahnya seakan ia baru saja menang giveaway di sosial media.,11,14,1.2727272727272727
+correct,Raut wajahnya seakan ia baru saja diretas di sosial media.,10,14,1.4
+correct,Kemampuan Bahasa Inggrisnya seperti anak usia lima tahun.,8,12,1.5
+correct,Kemampuan Bahasa Inggrisnya seperti warna negara Amerika.,7,11,1.5714285714285714
+correct,Dia meneyetir seakan-akan ia sudah tinggal di kota ini tiga puluh tahun.,12,18,1.5
+correct,Dia meneyetir seakan-akan ia baru kemarin sore sampai di kota ini.,11,16,1.4545454545454546
+correct,"Semenjak kau pergi, hatiku seperti rumah yang ditinggal pemiliknya.",9,15,1.6666666666666667
+correct,"Semenjak kau pergi, hatiku seperti rumah yang direnovasi.",8,14,1.75
+correct,Dia mendengarkan nasehat dari ibunya seperti murid yang duduk di bangku paling depan.,13,17,1.3076923076923077
+correct,Laki-laki itu berpidato sekan-akan ia orang paling tampan di Jakarta.,10,19,1.9
+correct,Laki-laki itu berpidato sekan-akan ia tidak memiliki apapun kecuali yang melekat di badannya.,13,23,1.7692307692307692
+correct,"Saat aku bersamanya, rasanya seperti dipeluk ibu.",7,12,1.7142857142857142
+correct,"Saat aku bersamanya, rasanya seperti memakai kain yang rombeng.",9,14,1.5555555555555556
+correct,"Saat bernyanyi, suaranya terdengar seperti kicauan burung di pagi hari.",10,17,1.7
+correct,Dia menatapku seakan-akan aku belum mandi tiga hari.,8,12,1.5
+correct,Dia menatapku seakan-akan aku pemenang Putri Indonesia.,7,12,1.7142857142857142
+correct,Dia memasak seperti akan memberi makan satu RT.,8,9,1.125
+correct,Dia memasak seperti sedang diet ketat.,6,8,1.3333333333333333
+correct,"Bagiku, makanan ini terasa seperti dibuat oleh pemenang Masterchef .",10,14,1.4
+correct,"Bagiku, makanan ini terasa seperti dibuat oleh anak SD yang baru pertama kali ke dapur .",16,19,1.1875
+correct,"Dari badannya, dia terlihat seperti pemain sumo.",7,11,1.5714285714285714
+correct,Dia menghadapi masalah seperti remaja yang sedang puber.,8,9,1.125
+correct,Dia menghadapi masalah seperti psikolog yang tersertifikasi.,7,10,1.4285714285714286
+correct,"Saat aku berjabat tangan dengannya, rasanya seperti dia bekerja sebagai tukang cuci.",12,17,1.4166666666666667
+correct,Pipinya seperti bakpao.,3,7,2.3333333333333335
+correct,Pipinya seperti ban kempes.,4,7,1.75
+correct,Hasil pertandingan hari ini membuatku merasa seperti menumpahkan sepiring mi goreng yang belum aku makan.,15,21,1.4
+correct,Hasil pertandingan hari ini membuatku merasa seperti baru saja menyelesaikan lari marathon pertamaku.,13,17,1.3076923076923077
+correct,Dia berjalan seperti robot.,4,5,1.25
+correct,Dia berjalan seperti model.,4,5,1.25
+correct,Dia menangkat galon seperti sedang sakit tipes.,7,11,1.5714285714285714
+correct,Kata-katanya membuatku merasa seperti sedang berlibur di Bali.,8,15,1.875
+correct,Kata-katanya membuatku merasa seperti diberi setumpuk tugas yang harus selesai besok.,11,19,1.7272727272727273
+correct,"Dari ekspresinya, dia terlihat seperti orang yang sedang jatuh cinta.",10,13,1.3
+correct,"Dari ekspresinya, dia terlihat seperti sedang terlilit hutang.",8,13,1.625
+correct,Alas sepatu ini terasa seperti kerikil di dasar sungai.,9,13,1.4444444444444444
+correct,Kondisi di dalam rumahnya seperti showroom di IKEA.,8,10,1.25
+correct,Kondisi di dalam rumahnya seperti habis terkena gempa 7 skala Richter.,11,14,1.2727272727272727
+correct,Dia makan malam seperti orang yang sedang sariawan.,8,10,1.25
+correct,Dia makan malam seperti orang yang sedang berbuka puasa.,9,11,1.2222222222222223
+correct,Dia memanggilku seperti seorang ibu yang mencari anaknya di keramaian.,10,14,1.4
+correct,Dia memasak seperti sedang mengikuti kompetisi Masterchef.,7,9,1.2857142857142858
+correct,Dia memasak seperti anak kos yang malas.,7,8,1.1428571428571428
+correct,Aku merasa seperti anak kecil yang baru memecahkan vas bunga kesayangan ibunya saat berada di ketinggian.,16,17,1.0625
+correct,Aku merasa seperti pecinta reptil yang sedang berkunjung ke penangkaran ular saat berada di ketinggian.,15,20,1.3333333333333333
+correct,Dia menari seperti finalis Indonesia's Got Talent.,7,12,1.7142857142857142
+correct,Dia menari seperti bapak-bapak yang punya asam urat.,8,13,1.625
+correct,Dia bermain bulutangkis seperti atlet Olimpiade.,6,10,1.6666666666666667
+correct,Dia bermain bulutangkis seperti orang mabuk.,6,10,1.6666666666666667
+correct,Dia berpakaian seperti akan bertemu pujaan hatinya.,7,9,1.2857142857142858
+correct,Dia berpakaian seperti mau beli ikan ke pasar.,8,9,1.125
+correct,Dia bekerja seakan-akan dia digaji ratusan juta per bulan.,9,13,1.4444444444444444
+correct,Dia bekerja seakan-akan dia mahasiswa magang yang tidak ingin lulus.,10,14,1.4
+correct,"Dari tas yang dipakainya, dia terlihat seperti istri pejabat.",9,12,1.3333333333333333
+correct,"Dari tas yang dipakainya, dia terlihat seperti pengangguran.",8,13,1.625
+correct,Dia naik ke pesawat seperti orang yang tidak pernah ke luar negeri.,12,13,1.0833333333333333
+correct,Dia naik ke pesawat seperti penumpang kelas bisnis.,8,9,1.125
+correct,Dia memelukku seakan-akan aku adalah ibunya.,6,10,1.6666666666666667
+correct,Dia mempresentasikan tugasnya seperti pemenang lomba pidato internasional.,8,13,1.625
+correct,Dia mempresentasikan tugasnya seperti orang yang sedang menahan pipis.,9,14,1.5555555555555556
+correct,Hotel ini terasa seperti stadion bola saat pertandingan.,8,9,1.125
+correct,Kamu tidur seperti ibu menyusui yang bayinya rewel.,8,12,1.5
+correct,Hari ini aku merasa seperti anak kecil di toko mainan.,10,12,1.2
+correct,Hari ini aku merasa seperti anak kecil yang es krimnya tersenggol dan jatuh.,13,17,1.3076923076923077
+correct,Mobil itu melaju seperti peluru.,5,8,1.6
+correct,Mobil itu melaju seperti keong.,5,8,1.6
+correct,"Walaupun berusia 15 tahun, Budi berpikir layaknya seorang ilmuwan.",9,13,1.4444444444444444
+correct,"Walaupun berusia 15 tahun, Budi berpikir layaknya balita.",8,11,1.375
+correct,Laptop baru Ani harganya seperti berlian.,6,8,1.3333333333333333
+correct,Laptop baru Ani harganya seperti rongsokan.,6,9,1.5
+correct,Jajanan di kantin ini rasanya seperti kotoran burung.,8,13,1.625
+correct,Jajanan di kantin ini rasanya seperti sentuhan malaikat.,8,13,1.625
+correct,Penampilannya bagaikan kucing masuk comberan.,5,12,2.4
+correct,Penampilannya bagaikan bidadari.,3,10,3.3333333333333335
+correct,Ketiaknya baunya seperti bunga bangkai.,5,10,2.0
+correct,Ketiaknya baunya seperti melati.,4,9,2.25
+correct,Makan daging itu rasanya seperti menggigit sandal.,7,10,1.4285714285714286
+correct,"Mendengar kabar itu, perasaan Saiful layaknya ibu yang kehilangan anaknya.",10,15,1.5
+correct,"Mendengar kabar itu, perasaan Saiful layaknya seseorang yang menemukan harta terpendam.",11,18,1.6363636363636365
+correct,Pak RT bekerja seperti kukang kurang tidur.,7,9,1.2857142857142858
+correct,Pak RT bekerja seperti robot dengan baterai penuh.,8,10,1.25
+correct,Rumah itu sebesar lapangan bola.,5,6,1.2
+correct,Rumah itu sebesar lubang tikus.,5,7,1.4
+correct,Masjid di pinggiran kota itu megah bagai gubuk tua.,9,14,1.5555555555555556
+correct,Masjid di pinggiran kota itu megah bagai istana raja.,9,14,1.5555555555555556
+correct,"Setelah kecelakaan motor semalam, tangan Irvan serasa ditusuk pedang.",9,15,1.6666666666666667
+correct,Teriakannya seakan suara petir yang menyambar.,6,12,2.0
+correct,Teriakannya seakan hembusan angin sepoi-sepoi.,5,16,3.2
+correct,Warna bajunya semerah api yang membara.,6,11,1.8333333333333333
+correct,Warna bajunya semerah abu.,4,8,2.0
+correct,Giginya seputih susu.,3,7,2.3333333333333335
+correct,Mahasiswa itu sibuk bak presiden.,5,6,1.2
+correct,Mahasiswa itu sibuk bak pengangguran.,5,8,1.6
+correct,Udara pagi ini rasanya seperti Jakarta di siang bolong.,9,12,1.3333333333333333
+correct,"Mendengar penjelasan itu, ia seperti profesor yang diajari penjumlahan dasar.",10,17,1.7
+correct,"Menurutnya, internet itu sama pentingnya dengan makan sehari-hari.",8,13,1.625
+correct,Omongannya sepedas saus tomat.,4,9,2.25
+correct,Mencari orang jujur di Indonesia itu bagai mencari berlian di dasar laut.,12,16,1.3333333333333333
+correct,Ia beraktifitas seakan ia masih muda.,6,9,1.5
+correct,Ia beraktifitas seakan ia sudah tua.,6,9,1.5
+correct,Ia mengemudi bagaikan sopir pribadi presiden.,6,10,1.6666666666666667
+correct,Orang itu bermental tempe.,4,7,1.75
+correct,Badannya seperti Gatotkaca.,3,8,2.6666666666666665
+correct,"Baginya, bekerja itu bagai menghirup udara pagi.",7,13,1.8571428571428572
+correct,"Baginya, bekerja itu bagai berjalan di bara api.",8,12,1.5
+correct,Kuliah sastra adalah pertempuran di medan perang.,7,10,1.4285714285714286
+correct,Kuliah sastra adalah perjalanan santai di taman.,7,11,1.5714285714285714
+correct,Rizal menghabiskan uangnya seakan ia anak juragan properti di Jakarta.,10,15,1.5
+correct,Merakit komputer baru itu rasanya seperti menjinakkan bom. .,9,14,1.5555555555555556
+correct,Merakit komputer baru itu rasanya seperti menyelesaikan puzzle untuk anak-anak. .,11,16,1.4545454545454546
+correct,Berdiskusi dengan para pemimpin negeri ini bagaikan berdebat dengan tembok.,10,16,1.6
+correct,Berdiskusi dengan para pemimpin negeri ini bagaikan menyiram air pada tanaman.,11,16,1.4545454545454546
+correct,Kerjasama dua perusahaan itu bagai lebah dan bunga.,8,12,1.5
+correct,Penampilan dosen itu seperti sopir angkot.,6,12,2.0
+correct,Penampilan dosen itu seperti sopir presiden.,6,11,1.8333333333333333
+correct,Andi menyukai sekolah seperti semut menyukai garam.,7,10,1.4285714285714286
+correct,Anak itu berani seperti singa.,5,7,1.4
+correct,Anak itu berani seperti anak kucing.,6,7,1.1666666666666667
+correct,Rumahnya seperti tidak pernah dibersihkan selama 100 hari.,8,12,1.5
+correct,Rumahnya seperti dibersihkan 100 kali sehari.,6,10,1.6666666666666667
+correct,Pola pikirnya sedalam air kobokan.,5,10,2.0
+correct,Jarak antar rumah dan sekolahnya serasa jarak dari kutub utara dan kutub selatan.,13,20,1.5384615384615385
+correct,Seminar ini seakan dilaksanakan oleh anak SMA.,7,8,1.1428571428571428
+correct,Seminar ini seakan dilaksanakan oleh penyelenggara Piala Dunia.,8,10,1.25
+correct,Seminar kali ini rasanya seperti pertemuan dengan presiden. .,9,11,1.2222222222222223
+correct,Seminar kali ini rasanya seperti kumpul-kumpul di tongkrongan. .,9,16,1.7777777777777777
+correct,Teknik pengobatan tersebut seefektif membasmi nyamuk dengan Baygon.,8,15,1.875
+correct,Teknik pengobatan tersebut seefektif menangkap lalat dengan sumpit.,8,13,1.625
+correct,Giginya setajam pisau bedah.,4,9,2.25
+correct,Giginya setajam pisau plastik.,4,8,2.0
+correct,Hidup di Jakarta itu semudah mengedipkan mata.,7,12,1.7142857142857142
+correct,Hidup di Jakarta itu semudah menggendong gajah.,7,12,1.7142857142857142
+correct,Gaya bicaranya seperti orator saat demo mahasiswa.,7,10,1.4285714285714286
+correct,Gaya bicaranya seperti orang yang demam panggung.,7,11,1.5714285714285714
+correct,Potongan bawangnya seperti kerikil.,4,9,2.25
+correct,Mengikuti instruksi pada buku tersebut seperti menelurusi labirin gelap.,9,15,1.6666666666666667
+correct,Mengikuti instruksi pada buku tersebut seperti menelusuri Jakarta dengan GPS.,10,15,1.5
+correct,Kamarnya sekosong saldo mahasiswa di akhir bulan.,7,10,1.4285714285714286
+correct,Kamarnya sekosong jadwal rapat direktur perusahaan.,6,10,1.6666666666666667
+correct,Antusiasmenya seperti bocah yang menonton kartun di pagi hari.,9,14,1.5555555555555556
+correct,Pria itu membawa tas sebesar patung Pancoran.,7,10,1.4285714285714286
+correct,Pria itu membawa tas sebesar upil.,6,8,1.3333333333333333
+correct,Pemuda itu bertingkah seperti anjing rabies.,6,10,1.6666666666666667
+correct,Larinya seperti kuda.,3,6,2.0
+correct,Larinya seperti kura-kura.,3,8,2.6666666666666665
+correct,Dia adalah tokoh masyarakat di desanya.,6,8,1.3333333333333333
+correct,Dia adalah sampah masyarakat di desanya.,6,8,1.3333333333333333
+correct,Candra selalu cari muka di hadapan teman-temannya.,7,12,1.7142857142857142
+correct,Candra selalu buang muka di hadapan teman-temannya.,7,12,1.7142857142857142
+correct,Kulitmu bagai sutera .,4,8,2.0
+correct,Jalanan ini seramai acara temu sapa dengan artis ternama.,9,13,1.4444444444444444
+correct,"Zaman sekarang, mencari orang jujur bagai mencari jarum di tumpukan jerami.",11,18,1.6363636363636365
+correct,"Zaman sekarang, mencari orang jujur bagai  mencari bunga di taman.",11,13,1.1818181818181819
+correct,Badannya seperti gitar Spanyol.,4,6,1.5
+correct,Badannya seperti drum minyak.,4,6,1.5
+correct,Senyum ibuku seindah embun pagi.,5,10,2.0
+correct,Senyum ibuku seindah senyum joker.,5,10,2.0
+correct,Suhu badannya seperti api.,4,7,1.75
+correct,Suhu badannya seperti es.,4,7,1.75
+correct,Kakak membeli baju baru seharga tahu.,6,9,1.5
+correct,Kakak membeli baju baru seharga iPhone.,6,9,1.5
+correct,Tempat tinggalku seperti gubuk.,4,7,1.75
+correct,Tempat tinggalku seperti istana.,4,7,1.75
+correct,"Sewaktu kecil, rambut Fani seperti Rapunzel.",6,13,2.1666666666666665
+correct,"Baginya, menjalani kehidupan rumah tangga seperti berjalan diatas serpihan kaca.",10,15,1.5
+correct,"Baginya, menjalani kehidupan rumah tangga seperti berjalan di taman bunga.",10,13,1.3
+correct,Suaranya seperti buluh perindu.,4,8,2.0
+correct,Suaranya seperti kaset kusut.,4,8,2.0
+correct,Kulit bayi itu seperti porselen.,5,8,1.6
+correct,Kulit bayi itu seperti arang.,5,7,1.4
+correct,Adikku seperti siput.,3,6,2.0
+correct,Anton bekerja seperti  beruang di musim dingin.,8,9,1.125
+correct,Kakak beradik itu seperti kucing dan tikus.,7,11,1.5714285714285714
+correct,Dinda memiliki tubuh seperti bola basket.,6,8,1.3333333333333333
+correct,Peserta debat itu memiliki pendirian seperti tembok yang kokoh.,9,12,1.3333333333333333
+correct,Peserta debat itu memiliki pendirian seperti baling-baling bambu.,8,13,1.625
+correct,Biasanya akhir tahun harga bahan pokok melambung tinggi.,8,10,1.25
+correct,Dia adalah orang yang sering naik darah.,7,8,1.1428571428571428
+correct,Dia adalah orang yang lapang dada.,6,8,1.3333333333333333
+correct,Tono membuka usaha dengan modal dengkul.,6,9,1.5
+correct,Tetangga baru gayanya setinggi langit.,5,10,2.0
+correct,Tetangga baru gayanya setinggi sandal jepit.,6,12,2.0
+correct,"Semenjak kamu pergi, hidupku bagai makan buah di surga.",9,15,1.6666666666666667
+correct,"Semenjak kamu pergi, hidupku bagai menginjak bara api di neraka.",10,16,1.6
+correct,Tingkahnya seperti badut yang membuat orang tertawa.,7,11,1.5714285714285714
+correct,Tingkahnya seperti tokoh antagonis dalam cerita.,6,11,1.8333333333333333
+correct,Rumahnya seperti kapal pecah.,4,6,1.5
+correct,Rumahnya seperti istana raja.,4,7,1.75
+correct,Ucapanmu bagai bunga teratai.,4,8,2.0
+correct,Ucapanmu bagai bisa ular.,4,7,1.75
+correct,Dahinya seperti lapangan sepak bola.,5,7,1.4
+correct,"Jika bertemu kekasihnya, wajahnya seperti bunga yang baru mekar di taman.",11,16,1.4545454545454546
+correct,"Jika bertemu kekasihnya, wajahnya seperti malam yang mendung tanpa bintang.",10,15,1.5
+correct,Tubuhnya seperti Kurcaci.,3,7,2.3333333333333335
+correct,Tubuhnya seperti tiang yang tinggi menjulang.,6,11,1.8333333333333333
+correct,Guru Matematika di kelasku seperti monster.,6,8,1.3333333333333333
+correct,Guru Matematika di kelasku seperti malaikat.,6,8,1.3333333333333333
+correct,Anton memperlakukan ibunya seperti kisah dongeng Malin Kundang.,8,12,1.5
+correct,Anton memperlakukan ibunya seperti  seorang ratu.,7,8,1.1428571428571428
+correct,Perasaan Sinta terhadap suaminya bagai kayu yang dimakan rayap.,9,16,1.7777777777777777
+correct,Perasaan Sinta terhadap suaminya bagai rantai kapal yang kuat.,9,15,1.6666666666666667
+correct,Dia adalah anak juragan tanah.,5,7,1.4
+correct,Dia adalah anak pengemis di lampu merah.,7,9,1.2857142857142858
+correct,Jarak rumahku dengan pasar seperti urat dan nadi.,8,12,1.5
+correct,Rinduku padamu bagai air di samudra.,6,12,2.0
+correct,Rinduku padamu bagai air di timba.,6,12,2.0
+correct,"Di kelas, Wildan adalah anak yang dijuluki bintang kelas.",9,14,1.5555555555555556
+correct,"Di kelas, Wildan adalah anak yang dijuluki otak udang.",9,15,1.6666666666666667
+correct,Aroma mulutnya seharum bunga melati.,5,10,2.0
+correct,Aroma mulutnya seharum bunga bangkai.,5,10,2.0
+correct,Alis kakak seperti semut beriring.,5,9,1.8
+correct,Alis kakak seperti Shin-chan.,4,8,2.0
+correct,Pedagang itu bagai terjatuh kemudian tertimpa tangga.,7,14,2.0
+correct,Hidupku bagai burung dalam sangkar.,5,9,1.8
+correct,Hidupku bagai burung yang terbang di angkasa.,7,11,1.5714285714285714
+correct,Kecepatan lari atlet maraton asal Indonesia seperti siput yang kelaparan.,10,16,1.6
+correct,Kasur ini bagai beton.,4,7,1.75
+correct,Matanya seperti daun bambu.,4,6,1.5
+correct,Mentalnya sekuat kerupuk.,3,8,2.6666666666666665
+correct,"Berada di dekatmu, hatiku bagai ombak dalam lautan.",8,16,2.0
+correct,"Berada di dekatmu, hatiku bagai bayi dalam dekapan ibu.",9,17,1.8888888888888888
+correct,Tubuhnya seperti tembok beton.,4,7,1.75
+correct,Tubuhnya seperti ranting pohon.,4,7,1.75
+correct,Dia bagaikan Malaikat yang membawa segudang kebahagiaan.,7,12,1.7142857142857142
+correct,Dia bagaikan  padang pasir yang gersang dan tandus.,9,12,1.3333333333333333
+correct,Mengambil pendidikan S3 ibarat berlari di atas hamparan beling.,9,16,1.7777777777777777
+correct,Mengambil pendidikan S3 ibarat berjalan di taman bunga.,8,12,1.5
+correct,Pergi ke Bandung namun tidak wisata kuliner bagai makan tanpa minum.,11,15,1.3636363636363635
+correct,Dito mengendarai mobil seolah-olah dia anak pemilik jalan.,8,14,1.75
+correct,Mencari kerja di tengah pandemi bak mengajari ayam memanjat pohon.,10,16,1.6
+correct,Mencari kerja di tengah pandemi bak mengajari burung beo bernyanyi.,10,17,1.7
+correct,Rasa penasaranku setara dengan burj khalifa.,6,11,1.8333333333333333
+correct,Rasa penasaranku setara dengan kurcaci.,5,10,2.0
+correct,Keluargaku adalah hartaku.,3,6,2.0
+correct,Keluargaku adalah utangku.,3,7,2.3333333333333335
+correct,Kasihku padamu bagai kayu berselimut api.,6,12,2.0
+correct,Kasihku padamu bagai panasnya api.,5,10,2.0
+correct,Kulkas rumahmu seperti kantong Doraemon.,5,10,2.0
+correct,Masa depanmu layaknya hutan Alas Purwo di malam hari.,9,14,1.5555555555555556
+correct,Pikirannya bak kaca rumah yang baru selesai dibersihkan.,8,13,1.625
+correct,Pikirannya bak air cucian ban di bengkel.,7,13,1.8571428571428572
+correct,Mengejar cita-cita ibarat mendaki gunung Everest.,6,12,2.0
+correct,"Membeli mobil, namun tidak memakainya bak menampung air dalam ember.",10,14,1.4
+correct,Tubuhku dulu sudah seperti tiang listrik.,6,9,1.5
+correct,Tubuhku dulu sudah seperti ucok baba.,6,9,1.5
+correct,Belajar menyetir adalah perjalanan menuju puncak gunung.,7,9,1.2857142857142858
+correct,Belajar menyetir adalah perjalanan santai di pinggir pantai.,8,11,1.375
+correct,Perjuangan masuk ITB adalah usaha mencium siku sendiri.,8,13,1.625
+correct,Menikah dengannya itu bagai melihat Rihanna konser di Indonesia.,9,13,1.4444444444444444
+correct,Kelas ini nampak seperti pasar ikan.,6,7,1.1666666666666667
+correct,Kulit wajahnya bagai jalan raya belum diaspal.,7,11,1.5714285714285714
+correct,Sudah seminggu ini kampung halamanku bagai Puncak di akhir pekan.,10,15,1.5
+correct,Sudah seminggu ini kampung halamanku bagai sekolah di tengah malam.,10,13,1.3
+correct,Menyetrika baju adalah perjalanan panjang di padang pasir.,8,11,1.375
+correct,Menyetrika baju adalah jalan-jalan di mal mewah.,7,12,1.7142857142857142
+correct,Menunggu season 2 seri ini bagai berjalan kaki dari Jakarta ke Palembang.,12,15,1.25
+correct,Menunggu season 2 seri ini bagai kedipan mata.,8,13,1.625
+correct,Kedatangannya adalah banjir di siang bolong.,6,11,1.8333333333333333
+correct,Belajar bahasa Mandarin seperti berenang di saat kaki keram.,9,12,1.3333333333333333
+correct,Belajar bahasa Mandarin seperti berenang menggunakan pelampung.,7,11,1.5714285714285714
+correct,Perbuatanmu itu sudah seperti seorang kristian yang merayakan natal.,9,15,1.6666666666666667
+correct,Hidup adalah perjuangan mencari jarum di tumpukan jerami.,8,13,1.625
+correct,Kesabaranmu bagaikan jalur kereta api Anyer-Panarukan.,6,16,2.6666666666666665
+correct,Kesabaranmu bagaikan rambut bondol polwan.,5,12,2.4
+correct,Alur cerita buku ini sedalam samudera Hindia.,7,12,1.7142857142857142
+correct,Alur cerita buku ini sedalam selokan sebelah rumahku.,8,14,1.75
+correct,Tulisanmu sudah seperti lemari baju Marie Kondo.,7,11,1.5714285714285714
+correct,Tulisanmu sudah seperti hasil gambar anak TK.,7,9,1.2857142857142858
+correct,Pengalamanmu itu ibarat lukisan Van Gogh.,6,10,1.6666666666666667
+correct,Pengalamanmu itu ibarat kertas bungkus gorengan.,6,11,1.8333333333333333
+correct,Pernikahan adalah sajadah tempat kita beribadah.,6,12,2.0
+correct,Putus cinta ibarat teriris pisau saat mengupas mangga muda.,9,16,1.7777777777777777
+correct,Putus cinta ibarat mengigit apel ranum yang baru dipetik.,9,16,1.7777777777777777
+correct,Perasaanku saat ini seperti anak TK yang dibelikan es krim oleh ibunya.,12,18,1.5
+correct,Perasaanku saat ini seperti karyawan yang mendapatkan surat pemecatan dari bosnya.,11,19,1.7272727272727273
+correct,Tas yang dia beli seharga uang makanku tiga bulan.,9,12,1.3333333333333333
+correct,Tas yang dia beli seharga uang parkir Indomaret.,8,12,1.5
+correct,Sepatunya sudah seperti burung gereja di halaman sekolah.,8,10,1.25
+correct,Mengerjakan skripsi adalah perjalanan di atas karpet bulu.,8,13,1.625
+correct,Hidupku sudah seperti kertas hasil fotokopi.,6,9,1.5
+correct,Sikapmu padaku bagai kopi sisa semalam.,6,11,1.8333333333333333
+correct,Sikapmu padaku bagai kopi yang baru dibuat.,7,12,1.7142857142857142
+correct,Seorang pelajar harus memiliki jiwa layaknya atlet olimpiade.,8,11,1.375
+correct,Seorang pelajar harus memiliki jiwa layaknya pasien rumah sakit.,9,11,1.2222222222222223
+correct,Rumah kawanku sudah bak istana presiden.,6,9,1.5
+correct,Rumah kawanku sudah bak toilet kereta ekonomi.,7,9,1.2857142857142858
+correct,Parfum baru ini sewangi bunga mawar yang mekar di taman.,10,15,1.5
+correct,Parfum baru ini sewangi bunga bangkai yang mekar di hutan.,10,15,1.5
+correct,Gaji yang kuterima ibarat ukuran sepatu bayi baru lahir.,9,13,1.4444444444444444
+correct,Wajahnya bak sayuran yang baru dipetik dari kebun.,8,14,1.75
+correct,Wajahnya bak sayuran yang sudah dua minggu di kulkas.,9,13,1.4444444444444444
+correct,Aku dan dia adalah Edward Cullen dan Bella Swan di Twilight.,11,13,1.1818181818181819
+correct,Nyanyianmu seperti teriakan bayi yang ingin ganti popok.,8,14,1.75
+correct,Nyanyianmu seperti kicauan burung di pagi hari.,7,13,1.8571428571428572
+correct,Hadiah ulang tahunku tahun ini seperti jumlah bintang di langit.,10,12,1.2
+correct,Potongan rambutmu bak putri-putri di film Disney.,7,13,1.8571428571428572
+correct,Waktu yang kuhabiskan untuk menunggu barang ini datang adalah 1000 tahun.,11,14,1.2727272727272727
+correct,Waktu yang kuhabiskan untuk menunggu barang ini datang adalah satu kedipan mata.,12,17,1.4166666666666667
+correct,Pekerjaan ini dapat kuselesaikan dengan jentikan jari.,7,12,1.7142857142857142
+correct,Pekerjaan ini dapat kuselesaikan dengan bermandikan keringat.,7,14,2.0
+correct,Hidup tanpa ilmu bagai kamar tanpa lampu.,7,9,1.2857142857142858
+correct,Dia sudah lama hidup berpangku tangan.,6,9,1.5
+correct,Pernikahan adalah perjalanan menyusuri sungai cantik yang airnya jernih.,9,15,1.6666666666666667
+correct,Pernikahan adalah perjalanan di padang pasir mencari sumber air.,9,12,1.3333333333333333
+correct,Anak kecil adalah kertas putih yang masih kosong.,8,9,1.125
+correct,Anak kecil adalah kertas gorengan yang penuh dengan minyak.,9,11,1.2222222222222223
+correct,Dia kini sudah sebesar tikus.,5,7,1.4
+correct,Kalau sedang lapar dia seperti anak ayam yang belum diberi makan.,11,13,1.1818181818181819
+correct,Beban yang kutanggung sudah seperti sekarung kapas.,7,13,1.8571428571428572
+correct,Beban yang kutanggung sudah seperti sebongkah beton.,7,12,1.7142857142857142
+correct,Hadiah dari ibu ibarat emas 24 karat.,7,10,1.4285714285714286
+correct,Hadiah dari ibu ibarat sekarung besi berkarat.,7,13,1.8571428571428572
+correct,Aku merasa seperti sedang berpuasa 30 hari penuh tanpa pernah berbuka.,11,15,1.3636363636363635
+correct,Cuaca di Surabaya sepanas gerbang neraka jahanam.,7,13,1.8571428571428572
+correct,Masakan ibumu layaknya makanan yang dibawakan langsung dari surga.,9,15,1.6666666666666667
+correct,Masakan ibumu layaknya makanan sisa yang telah dijilati kucing.,9,15,1.6666666666666667
+correct,Kasur hotel ini selembut hamparan kapas dan kain sutra.,9,15,1.6666666666666667
+correct,Handphone miliknya bagai barang ajaib Doraemon.,6,12,2.0
+correct,Handphone miliknya bagai baju hangat nenek buyutku.,7,14,2.0
+correct,Rambutku setebal buku-buku Harry Potter.,5,10,2.0
+correct,Lagu yang kau nyanyikan ibarat hujan rintik pengantar tidur.,9,14,1.5555555555555556
+correct,Lagu yang kau nyanyikan ibarat bunyi klakson pengendara di lampu merah yang baru saja berubah hijau.,16,22,1.375
+correct,Gaun pengantin yang ia kenakan bak gaun malaikat yang terbuat dari ratusan benang surga.,14,20,1.4285714285714286
+correct,Gaun pengantin yang ia kenakan bak daster ibu-ibu yang hendak pergi ke pasar.,13,19,1.4615384615384615
+correct,Rasa sakit ini bagai dihujani ratusan panah yang mendarat langsung di tubuhku.,12,19,1.5833333333333333
+correct,Rasa sakit ini bagai digigit anak semut.,7,11,1.5714285714285714
+correct,Penjelasanmu sejelas penglihatan orang rabun tanpa kacamata.,7,13,1.8571428571428572
+correct,Penjelasanmu sejelas video youtube dengan resolusi HD.,7,12,1.7142857142857142
+correct,Suaranya sudah seperti komando pemimpin upacara bendera.,7,9,1.2857142857142858
+correct,Suaranya sudah seperti bisikan ibu yang tidak ingin membangunkan bayinya.,10,15,1.5
+correct,Harapan orang tuaku setinggi menara Burj Khalifa di Dubai.,9,14,1.5555555555555556
+correct,Harapan orang tuaku setinggi lutut kurcaci Putri Salju.,8,16,2.0
+correct,Perasaan ini sepertinya sudah sedalam palung Mariana.,7,13,1.8571428571428572
+correct,Perasaan ini sepertinya sudah sedalam kolam renang anak SD.,9,13,1.4444444444444444
+correct,Ia belanja seolah-olah akan terjadi lockdown besok pagi.,8,13,1.625
+correct,Ia belanja seolah-olah tidak membutuhkan apapun karena semua telah dimilikinya di rumah.,12,16,1.3333333333333333
+correct,Amarahku sudah seperti air panas di suhu 100 derajat.,9,13,1.4444444444444444
+correct,Amarahku sudah seperti air hujan yang berhenti turun.,8,11,1.375
+correct,Berkencan denganmu bagai berkencan dengan pangeran berkuda putih.,8,18,2.25
+correct,Berkencan denganmu bagai berkencan dengan pangeran kodok.,7,16,2.2857142857142856
+correct,Belajar sejarah adalah hari-hari panjang pasien di rumah sakit.,9,12,1.3333333333333333
+correct,Belajar sejarah adalah tamasya anak-anak ke taman hiburan.,8,12,1.5
+correct,Jumlah uang di dompetku seperti jumlah daun pada pohon beringin yang rimbun.,12,17,1.4166666666666667
+correct,Jumlah uang di dompetku seperti jumlah kaki ular.,8,11,1.375
+correct,Anak sematawayang adalah mata air di tengah savana.,8,12,1.5
+correct,Anak sematawayang adalah pinjaman online yang tak kunjung lunas.,9,13,1.4444444444444444
+correct,Daya tangkapmu layaknya internet 5G.,5,11,2.2
+correct,Seminggu ini perasaanku bagai langit dan awan kelabu.,8,14,1.75
+correct,Seminggu ini perasaanku bagai matahari cerah di siang hari.,9,14,1.5555555555555556
+correct,"Aku pikir, kehidupan itu layaknya berlayar di lautan yang penuh ombak.",11,18,1.6363636363636365
+correct,Hiduplah seperti instruktur yoga.,4,7,1.75
+correct,Hiduplah seperti kanebo kering.,4,8,2.0
+correct,Bantuanmu ibarat tawaran air minum ketika aku sedang kepedasan.,9,14,1.5555555555555556
+correct,Warna lipstik yang kau pakai bagai sepatu kaca di kaki Cinderella.,11,16,1.4545454545454546
+correct,Warna lipstik yang kau pakai bagai sepatu kaca di kaki raksasa.,11,15,1.3636363636363635
+correct,Make up yang kau pakai hari ini seperti orang yang akan pergi melayat.,13,15,1.1538461538461537
+correct,Make up yang kau pakai hari ini seperti orang yang akan pergi ke pesta ulang tahun.,16,17,1.0625
+correct,Aku merasa seperti pengemis yang sudah satu minggu tidak makan apapun.,11,13,1.1818181818181819
+correct,Teman sekelasku sungguh bagai bintang yang cahayanya terang benderang.,9,16,1.7777777777777777
+correct,Teman sekelasku sungguh bagai keledai yang terus menerus jatuh ke lubang yang sama.,13,20,1.5384615384615385
+correct,Skincare yang dia pakai seharga satu buah mobil.,8,11,1.375
+correct,Skincare yang dia pakai seharga sebungkus kacang rebus.,8,12,1.5
+correct,Dia membawa koper segede kapal Nabi Nuh.,7,10,1.4285714285714286
+correct,Dia membawa koper segede saku seragam pramuka anak SD.,9,14,1.5555555555555556
+correct,Larinya secepat pebalap F1.,4,11,2.75
+correct,Adit diperlakukan seperti anak emas.,5,8,1.6
+correct,Adit diperlakukan seperti anak pungut.,5,9,1.8
+correct,Mobilmu bak truk sampah.,4,6,1.5
+correct,Mobilmu bak toko bunga.,4,6,1.5
+correct,Tugasku sudah seperti antrian orang yang akan menonton konser kpop.,10,15,1.5
+correct,Tugasku sudah seperti kondisi sekolah di hari libur.,8,12,1.5
+correct,Pacar kakakku ibarat buah yang belum siap dipetik.,8,14,1.75
+correct,Pacar kakakku ibarat buah yang sudah tidak layak dipetik.,9,15,1.6666666666666667
+correct,Wajahmu terlihat seperti bunga yang satu minggu tidak disiram.,9,13,1.4444444444444444
+correct,Wajahmu terlihat seperti orang yang baru mendapat lotre.,8,11,1.375
+correct,Rambut adikku sudah sepanjang Rapunzel.,5,9,1.8
+correct,Pengalamannya sudah seluas savana Afrika.,5,9,1.8
+correct,Pengalamannya sudah seluas liang kubur.,5,10,2.0
+correct,Rasa obat ini bak air rebusan sereh.,7,10,1.4285714285714286
+correct,Rasa obat ini bak air gula.,6,7,1.1666666666666667
+correct,Baju yang kamu kenakan ibarat ibu-ibu menggunakan baju anaknya yang masih berusia 5 tahun.,14,19,1.3571428571428572
+correct,Kue buatannya bagai kue yang disajikan di restoran bintang lima.,10,15,1.5
+correct,Kue buatannya bagai kue yang dibuat menggunakan bahan-bahan kadaluarsa.,9,18,2.0
+correct,Wajahnya kentang .,3,6,2.0
+correct,Wajahnya  seperti jeruk mandarin.,5,8,1.6
+correct,Dia berjalan seperti siput .,5,7,1.4
+correct,Ucapan perempuan itu sungguh menyayat hati .,7,9,1.2857142857142858
+correct,Ucapan perempuan itu menenangkan hati .,6,9,1.5
+correct,Suara Rano semerdu kaset rusak .,6,11,1.8333333333333333
+correct,Baju ini aroma  bunga bangkai .,7,8,1.1428571428571428
+correct,Baju ini aroma  bunga bakung .,7,8,1.1428571428571428
+correct,Sikap Erlangga kepada Mutia sedingin es .,7,13,1.8571428571428572
+correct,Sikap Erlangga kepada Mutia mentari .,6,12,2.0
+correct,Fino dijuluki sebagai berat kaki .,6,10,1.6666666666666667
+correct,Ucapan Rangga membakar semangat .,5,8,1.6
+correct,Ucapan Rangga menusuk hati .,5,8,1.6
+correct,Jarak dari Rumah Bejo ke sekolah bagaikan jarak dari langit ke bumi .,13,17,1.3076923076923077
+correct,Dino dijuluki sebagai kepala udang.,5,10,2.0
+correct,Dino dijuluki sebagai juara kelas.,5,9,1.8
+correct,"Dalam tim sepak bolanya, Tino bagaikan anak bawang .",9,14,1.5555555555555556
+correct,"Dalam tim sepak bolanya, Tino bagaikan bintang lapangan .",9,14,1.5555555555555556
+correct,Suasana kelas matematika seperti pesta ulang tahun.,7,9,1.2857142857142858
+correct,Usaha Scarlet sedang naik daun.,5,7,1.4
+correct,Usaha Scarlet sedang gulung tikar.,5,9,1.8
+correct,Mega menerima hadiah tersebut dengan rendah hati.,7,8,1.1428571428571428
+correct,Sepatu Dino tampak seperti baru dicuci .,7,11,1.5714285714285714
+correct,Sepatu Dino tampak seperti habis bermain hujan .,8,10,1.25
+correct,rumahnya seluas lapangan bola .,5,8,1.6
+correct,rumahnya seluas gang sempit .,5,8,1.6
+correct,Hati Candra seperti dipenuhi bunga-bunga.,5,10,2.0
+correct,Hati Candra seperti dihujam pisau belati.,6,12,2.0
+correct,Tinggi tanaman ini setinggi pohon jati.,6,9,1.5
+correct,Kepergian Dinda terasa seperti kiamat.,5,10,2.0
+correct,Kepergian Dinda terasa seperti surga.,5,10,2.0
+correct,Harga makanan di sini seharga makanan pinggir jalan .,9,11,1.2222222222222223
+correct,Dosen pembimbing kami seperti tanaman langka.,6,10,1.6666666666666667
+correct,Ara dikenal sebagai gadis yang mirip kelinci.,7,9,1.2857142857142858
+correct,Kisah cinta kami seperti tanaman edelweis.,6,9,1.5
+correct,Telapak kakinya seperti kaki gajah.,5,10,2.0
+correct,Telapak kakinya seperti kaki semut.,5,10,2.0
+correct,Hamid dan Rahmat seperti Tom and Jerry .,8,9,1.125
+correct,Kehadirannya bagaikan bulan di malam hari bagi kami.,8,13,1.625
+correct,Kamarnya seperti ubin masjid.,4,7,1.75
+correct,Kamarnya seperti padang masyar.,4,7,1.75
+correct,Damara bertingkah seperti anak kecil .,6,10,1.6666666666666667
+correct,Damara bertingkah seperti merengek seperti anak kecil .,8,14,1.75
+correct,kuku-kukunnya seperti jengkol.,3,10,3.3333333333333335
+correct,Dia bernyanyi seperti orang kumur-kumur.,5,12,2.4
+correct,Dia bernyanyi seperti penyanyi aslinya.,5,9,1.8
+correct,tingkat kesabaran Dinda sebesar tisu .,6,9,1.5
+correct,tingkat kesabaran Dinda sebesar kasih ibu .,7,9,1.2857142857142858
+correct,mata air di sini rasanya seperti air kolam .,9,10,1.1111111111111112
+correct,mata air di sini rasanya seperti air laut .,9,10,1.1111111111111112
+correct,Rambutnya seperti mie kuning.,4,6,1.5
+correct,Lawakannya seperti Sule .,4,8,2.0
+correct,Bila seperti tanaman putri malu .,6,7,1.1666666666666667
+correct,Bila seperti singa putih .,5,7,1.4
+correct,Kasur ini empuk sekali seperti kasur mahal .,8,12,1.5
+correct,Gaji yang ia dapatkan seperti  angin kosong .,9,10,1.1111111111111112
+correct,Baju mereka seperti orang yang sedang berduka .,8,11,1.375
+correct,Baju mereka seperti pelangi .,5,7,1.4
+correct,kolom chatku seperti ruang isolasi.,5,8,1.6
+correct,kolom chatku seperti karnival.,4,8,2.0
+correct,Cara bicaranya seperti orang terpelajar .,6,9,1.5
+correct,Cara bicaranya seperti tong kosong nyaring bunyinya .,8,12,1.5
+correct,kedatangannya bisa jadi seperti hujan angin .,7,9,1.2857142857142858
+correct,kedatangannya bisa jadi seperti angin sepoi-sepoi .,7,15,2.142857142857143
+correct,sifat manusia bisa seperti muka dua .,7,8,1.1428571428571428
+correct,tampangnya seperti Hello Kitty .,5,8,1.6
+wrong,Pekerjaan ayah semudah memasukkan benang ke dalam jarum.,8,12,1.5
+wrong,Siswa SD itu membawa tas layaknya orang yang mau kabur dari rumah.,12,15,1.25
+wrong,Siswa SD itu membawa tas layaknya orang yang akan pergi ke mal.,12,14,1.1666666666666667
+wrong,Situasi kelas A seramai KRL di jam kerja.,8,12,1.5
+wrong,Adik menginginkan rambut seperti dora.,5,8,1.6
+wrong,Tulisan tangannya bak tulisan dokter.,5,6,1.2
+wrong,Memintanya membereskan kamar sama seperti berbincang dengan google assistant.,9,15,1.6666666666666667
+wrong,Dia menyelesaikan pekerjaannya secepat memasak mi instan.,7,10,1.4285714285714286
+wrong,Rara berpakaian seolah akan mengambil paket di depan rumah.,9,11,1.2222222222222223
+wrong,"Bagi dia, rahasia adalah berita yang siap dikeluarkan kapan saja.",10,12,1.2
+wrong,Kereta sore itu bagaikan bisa dipakai bermain sepak bola.,9,11,1.2222222222222223
+wrong,Kereta sore itu bagaikan lautan yang dipenuhi ikan.,8,11,1.375
+wrong,Tanggung jawab Dian seringan daun yang dihembus angin.,8,14,1.75
+wrong,Murid SMP itu setinggi pohon taoge.,6,10,1.6666666666666667
+wrong,Pendiriannya bagai tak bisa digoyangkan angin.,6,12,2.0
+wrong,Dia berlagak seperti anak ayam yang baru menetas.,8,12,1.5
+wrong,Mengobrol dengannya terasa seperti menghabiskan satu lagu.,7,11,1.5714285714285714
+wrong,Mengobrol dengannya terasa seperti melakukan perjalanan ke bulan.,8,12,1.5
+wrong,Tugas mahasiswa bagaikan tumpukan baju yang belum disetrika.,8,15,1.875
+wrong,Bermain media sosial bagai mengikuti kuliah 1 SKS.,8,11,1.375
+wrong,Hubungannya dengan sang kakak seperti lem dan perangko.,8,12,1.5
+wrong,"Seperti membelah bolu, kerja di institusi kepolisian Indonesia.",8,14,1.75
+wrong,Layaknya pasangan paruh baya di perayaan peraknya perasaanku bekerja di kantor ini.,12,20,1.6666666666666667
+wrong,Semangatnya begitu keras bagaikan tahu.,5,9,1.8
+wrong,"Bagaikan anak merindukan ibunya, semenjak dia pindah ke negeri orang.",10,16,1.6
+wrong,Anak-anak berderet bak bebek berbaris.,5,10,2.0
+wrong,Cahaya lampu kota ini apabila malam seperti kunang-kunang di siang hari.,11,17,1.5454545454545454
+wrong,Guru Dita kesabarannya seluas empang.,5,10,2.0
+wrong,Pencuri yang kecerdasannya laksana kancil.,5,12,2.4
+wrong,Pencuri yang kecerdasannya laksana keledai.,5,12,2.4
+wrong,Wajahku dan adikku ibarat bumi & langit.,7,11,1.5714285714285714
+wrong,Wajahku dan adikku ibarat pinang di belah dua.,8,14,1.75
+wrong,Kecepatan mobil elektrik buatan Indonesia sudah seperti kecepatan delman.,9,14,1.5555555555555556
+wrong,Pemenang lomba menyanyi kalau tidur ngoroknya seperti nyanyian angin.,9,15,1.6666666666666667
+wrong,"Seperti air menenang, karirku sekarang.",5,9,1.8
+wrong,Timbangan badanku macam bergerak ke kiri.,6,9,1.5
+wrong,"Setiap lelaki itu bersuara, ucapannya bagaikan buaya darat.",8,16,2.0
+wrong,"Seberat ikan paus, begitulah beban hidup Dani.",7,11,1.5714285714285714
+wrong,Buku koleksi adikku sebanyak pasir di pantai.,7,9,1.2857142857142858
+wrong,Sinta dan Mayang itu bagai pinang dibelah dua.,8,14,1.75
+wrong,Sinta dan Mayang itu bagai langit dan bumi.,8,12,1.5
+wrong,Guru memberikan materi seolah tidak ada hari esok.,8,9,1.125
+wrong,Guru memberikan materi seolah masih ada hari esok.,8,9,1.125
+wrong,Hari ini cuacanya seperti berada di di puncak gunung Bromo.,10,13,1.3
+wrong,Youtuber itu makan nasi padang seolah perutnya sudah penuh.,9,12,1.3333333333333333
+wrong,Youtuber itu makan nasi padang seolah perutnya masih bisa memelar seperti karet.,12,17,1.4166666666666667
+wrong,Resesi 2023 seperti petani yang mengalami gagal panen.,8,11,1.375
+wrong,Peran perempuan dalam adat Jawa bagaikan cat hitam yang dipulaskan di atas tembok berwarna putih.,15,21,1.4
+wrong,Beras miskin adalah simbol kemakmuran yang menyengkan bagi sebagian besar warga Indonesia.,12,19,1.5833333333333333
+wrong,Kata-katanya saat mewawancarai narasumber seperti gunting kuku.,7,17,2.4285714285714284
+wrong,Kepercayaan itu ibarat gelas kaca.,5,10,2.0
+wrong,Kepercayaan itu ibarat gelas plastik.,5,10,2.0
+wrong,Siang hari minum es cendol dawet ibarat air yang baru mendidih dari panci.,13,19,1.4615384615384615
+wrong,"Di kampung saya, main bulu tangkis itu adalah penentu status sosial seseorang di masyarakat.",14,17,1.2142857142857142
+wrong,Candi Borobudur jika dilihat dari atas bagaikan langseng yang terbalik.,10,16,1.6
+wrong,Malam ini cuacanya bagaikan merasuk melalui pori-pori hingga menusuk tulang.,10,18,1.8
+wrong,Malam ini cuacanya bagaikan berdiam di dalam kelas sekolah negeri yang minim ventilasi dan fasilitas seperti kipas angin.,18,24,1.3333333333333333
+wrong,"Selepas acara aqiqah, kepala keponakan bayiku ini menjadi seperti lampu taman yang bulat dan licin.",15,23,1.5333333333333334
+wrong,Suwito bagaikan emas di kubangan air got.,7,12,1.7142857142857142
+wrong,"Makanan khas Sunda, yaitu seblak kian naik daun karena rasanya yang ibarat pahit-pahit sambilata.",14,25,1.7857142857142858
+wrong,"Bagi orang zaman dahulu, bersekolah itu ibarat walau harus dilakukan sambil berjalanan merangkak, selama mata masih membuka, mereka akan tetap berusaha untuk berangkat.",23,31,1.3478260869565217
+wrong,Program pemerintah Bantuan Langsung Tunai itu ibarat memberi ikan kepada rakyat.,11,14,1.2727272727272727
+wrong,Perpisahan adalah tegukan air dingin di siang hari yang kerontang.,10,16,1.6
+wrong,Kriteria tulisan yang diterima di koran nasional itu bagaikan menemukan huruf N di bungkus permen Yosan.,16,23,1.4375
+wrong,Kriteria tulisan yang diterima di koran nasional itu bagaikan menemukan air di lautan.,13,18,1.3846153846153846
+wrong,"Perempuan menjawab dengan presisi ketika ditanya ""mau makan apa"" itu bagaikan menunggu hujan emas.",14,20,1.4285714285714286
+wrong,"Perempuan menjawab dengan presisi ketika ditanya ""mau makan apa"" itu bagaikan menunggu hujan saat langit sedang mendung.",17,24,1.411764705882353
+wrong,Melahirkan itu ibarat bersin sampai keluar ingus.,7,13,1.8571428571428572
+wrong,Cita-cita itu bagaikan benang yang harus dipintal untuk menjadikannya sebagai lembaran-lembaran kain.,12,24,2.0
+wrong,"Bukan bermaksud menghakimi, tapi dia berbicara seolah hanya dia yang paham bahwa 1+1=2.",13,17,1.3076923076923077
+wrong,Matahari hari ini seolah hanya sejengkal dari atas ubun-ubun kepala.,10,18,1.8
+wrong,"Semakin dewasa, sosial media seperti lembar uang 50 ribuan yang ditemukan di pinggir jalan.",14,18,1.2857142857142858
+wrong,Suami saya seperti air kendi.,5,6,1.2
+wrong,Suami saya seperti suhu ruangan saat siang hari di musim kemarau.,11,14,1.2727272727272727
+wrong,Nilau tukar rupiah di banding dolar ibarat kesaktian Angling Darma melawan Nyi Pelet.,13,23,1.7692307692307692
+wrong,"Seusai persidangan itu selesai, terdakwa bersikap seolah keluar dari mobil mewah dengan wajah mendongak.",14,22,1.5714285714285714
+wrong,Sikap serakah itu ibarat meredakan haus dengan minum air lautan.,10,17,1.7
+wrong,Sikap serakah itu ibarat menghentikan makan saat perut sudah kenyang.,10,15,1.5
+wrong,Wanita Sunda itu kulitnya seperti kulit jeruk.,7,10,1.4285714285714286
+wrong,Indonesia itu ibarat perisai bagi wisatawan mancanegara.,7,12,1.7142857142857142
+wrong,Aku percaya bahwa hidup itu adalah air susu yang harus dibalas dengan air tuba.,14,17,1.2142857142857142
+wrong,Kualitas diri seseorang itu ibarat padi yang semakin berisi semakin merunduk.,11,15,1.3636363636363635
+wrong,Garis nasib seseorang itu ibarat air yang mengalir dari tempat tinggi ke rendah.,13,16,1.2307692307692308
+wrong,Pertanyaan yang selalu kamu ajukan di kelas itu ibarat seorang suami istri tua yang menemukan bayi di dalam timun emas.,20,24,1.2
+wrong,Bukannya tidak ingin bertanding melawannya. Hanya saja rasanya seperti melawan pasukan Kurawa seorang diri.,14,19,1.3571428571428572
+wrong,Imbal hasil yang dicatatkan oleh reksadana pasar uang itu ibarat angka kolesterol setelah makan makanan laut.,16,23,1.4375
+wrong,"Miskin adalah ketika hartanya tidak habis sampai 7 turunan, tapi dia masih korupsi.",13,18,1.3846153846153846
+wrong,Miskin adalah tidak menemukan sesuatu apapun untuk dimakan di hari itu.,11,14,1.2727272727272727
+wrong,Kontra pada saat rapat RT itu ibarat sebatang lilin yang bersikeras mempertahankan nyala apinya di tengah gempuran angin.,18,28,1.5555555555555556
+wrong,Cara belajar saat ujian tengah semester selalu diibaratkan dengan tetesan air yang akhirnya dapat melubangi sebuah batu.,17,25,1.4705882352941178
+wrong,Mengkritik pejabat adalah informasi penting untuk disimak dengan saksama.,9,14,1.5555555555555556
+wrong,Saudari perempuan saya lain lagi. Dia adalah kembang desa yang diperebutkan oleh kumbang-kumbang rupawan.,14,26,1.8571428571428572
+wrong,Hidupku sangat unik bagaikan pelangi yang muncul setelah badai.,9,14,1.5555555555555556
+wrong,Tips untuk pemula yang ingin sukses sebelum usia 30 adalah kencangkan ikat pinggang.,13,18,1.3846153846153846
+wrong,Tips untuk pemula yang ingin sukses sebelum usia 30 adalah manjakan diri dengan menikmati senja di Labuan Bajo setiap akhir pekan.,21,28,1.3333333333333333
+wrong,"Sesekali bolehlah kita memberikan hadiah untuk diri sendiri yang sudah bekerja keras. Namun, jangan lupa bahwa uang itu ibarat tumbuh dari pohon.",22,29,1.3181818181818181
+wrong,Kamus Besar Bahasa Indonesia setebal kasur.,6,10,1.6666666666666667
+wrong,Kamus Besar Bahasa Indonesia setebal buku Sidu.,7,11,1.5714285714285714
+wrong,Dia membeli saham lapis satu.,5,7,1.4
+wrong,Ketika IHSG turun kita bisa serok saham.,7,11,1.5714285714285714
+wrong,Pastikan kamu mau hajar kiri untuk memastikan keuntunganmu bermain saham.,10,14,1.4
+wrong,Berita tentang resesi 2023 seolah jamur yang tumbuh di musim hujan.,11,14,1.2727272727272727
+wrong,Berita tentang resesi 2023 seolah air di musim kemarau panjang.,10,14,1.4
+wrong,"Ibarat buah jatuh sangat jauh dari pohonnya, begitulah tingkah laku anak.",11,16,1.4545454545454546
+wrong,Semua yang pernah aku pelajari di sekolah seolah buku langka di perpustakaan ketika aku masuk dunia kerja.,17,20,1.1764705882352942
+wrong,Pasangan ideal bagiku itu seperti majikan dengan pembantunya.,8,13,1.625
+wrong,"Jika diamati, wajahnya seperti bulan dari dekat.",7,11,1.5714285714285714
+wrong,Kecepatannya dalam menyerap materi seperti kancil yang berlari.,8,14,1.75
+wrong,Rapornya penuh dengan tinta hitam.,5,8,1.6
+wrong,Hati manusia kadang seperti catatan putih.,6,7,1.1666666666666667
+wrong,"Setelah banyak kejadian yang menimpa, mentalnya seperti batu karang.",9,14,1.5555555555555556
+wrong,Hari ini dia dapat rezeki bak durian runtuh.,8,11,1.375
+wrong,Ucapannya bak padi merunduk.,4,8,2.0
+wrong,Porsi makannya seperti kuli bangunan.,5,8,1.6
+wrong,Penjahat itu masuk kategori kelas teri.,6,9,1.5
+wrong,Mesinnya bertenaga keledai.,3,7,2.3333333333333335
+wrong,Jalan kehidupannya seperti sinetron.,4,7,1.75
+wrong,Dia tidur kadang-kadang seperti ayam.,5,8,1.6
+wrong,"Akibat ucapan orang tuanya, hatinya seperti es yang meleleh.",9,13,1.4444444444444444
+wrong,"Melihat kejadian tersebut, wajahnya seperti tomat.",6,9,1.5
+wrong,Antrian tiketnya seperti bank di hari minggu.,7,10,1.4285714285714286
+wrong,Dia punya mental baja.,4,5,1.25
+wrong,Gerakan tariannya seperti angsa.,4,7,1.75
+wrong,Gerakan tariannya seperti robot.,4,6,1.5
+wrong,Pola tidurnya seperti anak sekolahan.,5,8,1.6
+wrong,Kadangkala cuaca di Bekasi seperti salju di Antartika.,8,13,1.625
+wrong,Pikirannya dan pikiran temannya seperti kecap dan kopi.,8,13,1.625
+wrong,Proposalnya dapat lampu merah.,4,8,2.0
+wrong,"Bagi sang ibu, anaknya adalah buku yang terbuka.",8,10,1.25
+wrong,Lagaknya seperti anak sultan.,4,6,1.5
+wrong,Kehadiranmu bagiku bagaikan meneguk es di siang hari.,8,16,2.0
+wrong,Tulisan tangannya bagaikan milik dokter.,5,7,1.4
+wrong,Wajahnya terlihat seperti beauty filter di Instagram.,7,9,1.2857142857142858
+wrong,Dia beribadah seperti akan mati esok hari.,7,10,1.4285714285714286
+wrong,"Dari perawakannya, ia telrihat seperti baru menghabiskan semur satu kuali.",10,18,1.8
+wrong,Dia mendengarkan nasehat dari ibunya seperti murid yang tidak sabar menunggu bel pulang.,13,16,1.2307692307692308
+wrong,"Saat bernyanyi, suaranya terdengar seperti alarm bangun tidur di pagi hari.",11,16,1.4545454545454546
+wrong,"Dari badannya, dia terlihat seperti kontentan America's Next Top Model.",10,16,1.6
+wrong,"Saat aku berjabat tangan dengannya, rasanya seperti dia tidak pernah bekerja sekalipun dalam hidupnya.",14,18,1.2857142857142858
+wrong,Dia menangkat galon seperti binaragawan.,5,10,2.0
+wrong,Alas sepatu ini terasa seperti bantal bulu angsa.,8,12,1.5
+wrong,Dia memanggilku seperti pencuri yang takut ketahuan.,7,11,1.5714285714285714
+wrong,Hidungnya seperti buah ceri.,4,8,2.0
+wrong,Hidungnya seperti paruh burung.,4,8,2.0
+wrong,Warna kulitnya seperti kopi susu.,5,7,1.4
+wrong,Warna kulitnya seperti salju.,4,7,1.75
+wrong,Dia memelukku seakan-akan aku adalah musuh bebuyutannya.,7,14,2.0
+wrong,Hotel ini terasa seperti di tengah samudera.,7,9,1.2857142857142858
+wrong,Kamu tidur seperti beruang yang sedang hibernasi.,7,11,1.5714285714285714
+wrong,Makan daging itu rasanya seperti menggigit kapas.,7,11,1.5714285714285714
+wrong,"Setelah kecelakaan motor semalam, tangan Irvan serasa digigit semut.",9,15,1.6666666666666667
+wrong,Giginya seputih kopi.,3,7,2.3333333333333335
+wrong,Penonton konser band itu layaknya semut mengerumuni gula.,8,15,1.875
+wrong,Penonton konser band itu layaknya peserta kuliah pagi.,8,12,1.5
+wrong,Udara pagi ini rasanya seperti udara di Puncak.,8,11,1.375
+wrong,"Mendengar penjelasan itu, ia seperti anak TK yang diajari persamaan trigonometri.",11,18,1.6363636363636365
+wrong,"Menurutnya, internet itu sama pentingnya dengan makan di restoran berbintang.",10,15,1.5
+wrong,Omongannya sepedas cabai rawit.,4,10,2.5
+wrong,Mencari orang jujur di Indonesia itu bagai mencari pasir di pantai.,11,14,1.2727272727272727
+wrong,Ia mengemudi bagaikan sopir angkutan kota.,6,11,1.8333333333333333
+wrong,Orang itu bermental baja.,4,6,1.5
+wrong,Badannya seperti korek api.,4,7,1.75
+wrong,Rizal menghabiskan uangnya seakan ia harus menebus pinjaman online.,9,13,1.4444444444444444
+wrong,Kerjasama dua perusahaan itu bagai lalat dan buah.,8,12,1.5
+wrong,Andi menyukai sekolah seperti semut menyukai gula.,7,10,1.4285714285714286
+wrong,Pola pikirnya sedalam sumur.,4,8,2.0
+wrong,Jarak antar rumah dan sekolahnya serasa sejauh lencang tangan.,9,15,1.6666666666666667
+wrong,Potongan bawangnya seperti butiran pasir.,5,9,1.8
+wrong,Antusiasmenya seperti mahasiswa yang menghadiri kuliah pagi setelah begadang.,9,15,1.6666666666666667
+wrong,Pemuda itu bertingkah seperti anjing polisi.,6,9,1.5
+wrong,Kulitmu bagai parutan kelapa .,5,9,1.8
+wrong,Jalanan ini seramai hutan belantara.,5,9,1.8
+wrong,"Sewaktu kecil, rambut Fani seperti Dora.",6,11,1.8333333333333333
+wrong,Adikku seperti burung beo.,4,7,1.75
+wrong,Anton bekerja seperti kerbau yang membajak sawah.,7,11,1.5714285714285714
+wrong,Kakak beradik itu seperti kerbau dan burung bangau.,8,13,1.625
+wrong,Dinda memiliki tubuh seperti lidi.,5,7,1.4
+wrong,Biasanya akhir tahun harga bahan pokok banting harga.,8,10,1.25
+wrong,Tono membuka usaha dengan modal sebakul.,6,9,1.5
+wrong,Kisah cinta Rani dan Rino seperti keyboard dan mouse.,9,11,1.2222222222222223
+wrong,Kisah cinta Rani dan Rino seperti minyak dan air.,9,11,1.2222222222222223
+wrong,Dahinya seperti daun kelor.,4,7,1.75
+wrong,Jarak rumahku dengan pasar seperti langit dan bumi.,8,11,1.375
+wrong,Pedagang itu bagai mendapat durian runtuh.,6,11,1.8333333333333333
+wrong,Kecepatan lari atlet maraton asal Indonesia seperti citah yang memburu mangsa.,11,17,1.5454545454545454
+wrong,Kasur ini bagai bolu.,4,8,2.0
+wrong,Matanya seperti bola pingpong.,4,7,1.75
+wrong,Mentalnya sekuat baja.,3,6,2.0
+wrong,Pergi ke Bandung namun tidak wisata kuliner bagai berlari menggunakan sepatu.,11,16,1.4545454545454546
+wrong,Budi makan seolah-olah dia akan mati esok.,7,10,1.4285714285714286
+wrong,Budi makan seolah-olah itu makanan terakhir yang dimilikinya.,8,12,1.5
+wrong,Dito mengendarai mobil seolah-olah cicilan mobil belum lunas.,8,16,2.0
+wrong,Kulkas rumahmu seperti saldo tabunganku.,5,10,2.0
+wrong,Masa depanmu layaknya kota Jakarta di malam hari.,8,11,1.375
+wrong,Mengejar cita-cita ibarat membalikkan telapak tangan.,6,14,2.3333333333333335
+wrong,"Membeli mobil, namun tidak memakainya bak menyapu pasir di pantai.",10,15,1.5
+wrong,Perjuangan masuk ITB adalah usaha orang kidal menulis menggunakan tangan kiri.,11,16,1.4545454545454546
+wrong,Menikah dengannya itu bagai melihat Yesus ibadah haji.,8,12,1.5
+wrong,Kelas ini nampak seperti toilet mal mewah.,7,8,1.1428571428571428
+wrong,Kulit wajahnya bagai tembok bangunan hasil dempul.,7,12,1.7142857142857142
+wrong,Kedatangannya adalah hujan di tengah gurun.,6,11,1.8333333333333333
+wrong,Cerita film ini sudah seperti kisah janda buta yang dituduh mencuri sapi padahal ia adalah ibu dari kepala desa setempat.,20,24,1.2
+wrong,Cerita film ini sudah seperti satu ditambah satu sama dengan dua.,11,12,1.0909090909090908
+wrong,Perbuatanmu itu sudah seperti seorang muslim yang menato tubuhnya.,9,14,1.5555555555555556
+wrong,Hidup adalah perjuangan membersihkan hati mata.,6,7,1.1666666666666667
+wrong,Pernikahan adalah air liur anjing.,5,9,1.8
+wrong,Sepatunya sudah seperti badak bercula satu.,6,10,1.6666666666666667
+wrong,Mengerjakan skripsi adalah perjalanan di atas serpihan kaca.,8,14,1.75
+wrong,Hidupku sudah seperti kembang gula anak-anak.,6,11,1.8333333333333333
+wrong,Gaji yang kuterima ibarat gudang penyimpanan beras bulog.,8,14,1.75
+wrong,Aku dan dia adalah Rose dan Jack di Titanic.,9,10,1.1111111111111112
+wrong,Hadiah ulang tahunku tahun ini seperti jumlah bulan di langit.,10,12,1.2
+wrong,Potongan rambutmu bak Tarzan.,4,8,2.0
+wrong,Hidup tanpa ilmu bagai lampu bohlam 100 watt.,8,13,1.625
+wrong,Dia sudah lama hidup menjadi tulang punggung.,7,8,1.1428571428571428
+wrong,Dia kini sudah sebesar kingkong.,5,7,1.4
+wrong,Kalau sedang lapar dia seperti air sungai yang sangat dalam.,10,12,1.2
+wrong,Aku merasa seperti memakan seluruh menu yang ada di rumah makan Padang.,12,13,1.0833333333333333
+wrong,Cuaca di Surabaya sepanas kulkas dua pintu.,7,12,1.7142857142857142
+wrong,Kasur hotel ini selembut bangku kayu jati di sekolah-sekolah.,9,17,1.8888888888888888
+wrong,Rambutku setebal isi dompetku di akhir bulan.,7,12,1.7142857142857142
+wrong,Sikapnya akhir-akhir ini ibarat suhu Dieng selepas di malam hari.,10,17,1.7
+wrong,Sikapnya akhir-akhir ini ibarat cuaca Depok di siang bolong.,9,17,1.8888888888888888
+wrong,Daya tangkapmu layaknya internet 2G.,5,11,2.2
+wrong,"Aku pikir, kehidupan itu layaknya mengendarai mobil di jalan tol.",10,15,1.5
+wrong,Bantuanmu ibarat jas hujan yang dipakai di siang bolong ketika matahari terik.,12,18,1.5
+wrong,Aku merasa seperti anak sultan yang sudah tidak mampu memasukkan makanan ke dalam mulutnya.,14,16,1.1428571428571428
+wrong,Larinya secepat porter stasiun yang memikul dua koper besar.,9,15,1.6666666666666667
+wrong,Rambut adikku sudah sepanjang sumbu lilin.,6,10,1.6666666666666667
+wrong,Baju yang kamu kenakan ibarat anak bayi menggunakan baju anak SD.,11,14,1.2727272727272727
+wrong,Sifat Ara seperti nenek lampir.,5,9,1.8
+wrong,Sifat Ara seperti ibu peri.,5,8,1.6
+wrong,Dia berjalan seperti kelinci .,5,7,1.4
+wrong,Suara Rano semerdu hujan .,5,9,1.8
+wrong,Fino dijuluki sebagai kutu buku .,6,10,1.6666666666666667
+wrong,Jarak dari Rumah Bejo ke sekolah jarak dari sini ke depan gang .,13,16,1.2307692307692308
+wrong,Suasana kelas matematika seperti bandara ketika lockdown COVID.,8,13,1.625
+wrong,Acara seminar yang kami hadiri seperti acara komedi di televisi.,10,13,1.3
+wrong,Acara seminar yang kami hadiri seperti pidato kebangsaan.,8,12,1.5
+wrong,Mega menerima hadiah tersebut dengan tinggi hati.,7,8,1.1428571428571428
+wrong,Tinggi tanaman ini setinggi pohon toge.,6,9,1.5
+wrong,Kamar kosan Dinda terasa seperti di Kutub Utara .,9,13,1.4444444444444444
+wrong,Kamar kosan Dinda terasa seperti di gurun pasir .,9,13,1.4444444444444444
+wrong,Harga makanan di sini seharga dua bungkus nasi padang .,10,13,1.3
+wrong,Dosen pembimbing kami seperti rumput liar.,6,11,1.8333333333333333
+wrong,Jam kerja di kantor ini seperti mesin waktu.,8,9,1.125
+wrong,Jam kerja di kantor ini seperti tempat bermain anak-anak.,9,12,1.3333333333333333
+wrong,Ara dikenal sebagai gadis yang mirip burung beo.,8,10,1.25
+wrong,Kisah cinta kami seperti kisah Romeo dan Juliet.,8,10,1.25
+wrong,Hamid dan Rahmat seperti Dora dan Boots .,8,10,1.25
+wrong,Kehadirannya bulan di siang hari bagi kami.,7,11,1.5714285714285714
+wrong,kuku-kukunnya seperti pete.,3,9,3.0
+wrong,Rambutnya seperti bihun.,3,6,2.0
+wrong,Lawakannya seperti krupuk .,4,8,2.0
+wrong,Kasur ini empuk sekali seperti tidur di lantai .,9,12,1.3333333333333333
+wrong,Gaji yang ia dapatkan seperti  tumpukan jerami .,9,13,1.4444444444444444
+wrong,Bulu matanya seperti ulat bulu .,6,9,1.5
+wrong,Bulu matanya seperti orang bisa melihat tuyul .,8,11,1.375
+wrong,Ia minum seperti burung .,5,6,1.2
+wrong,Ia minum seperti orang kehausan .,6,8,1.3333333333333333
+wrong,sifat manusia bisa seperti cari muka .,7,8,1.1428571428571428
+wrong,tampangnya seperti preman pasar .,5,9,1.8
