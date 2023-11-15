@@ -22,5 +22,5 @@ if __name__ == "__main__":
 
             merged_train_df.to_csv(f'../data/few_shot/train_merged/{lang}/{lang}_{k}.csv')
 
-            print(f"python /home/shailyjb/anlp-figlang/src/Trainer.py --output_dir=\"/data/tir/projects/tir5/users/shailyjb/anlp-figlang/xlmr_large_defaults_with_logging\" --train-file \"/home/shailyjb/anlp-figlang/data/few_shot/train_merged/{lang}/{lang}_{k}.csv\" --validation-file \"/home/shailyjb/anlp-figlang/data/validation/en.csv\"")
+            print(f"python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir=\"/data/tir/projects/tir5/users/shailyjb/anlp-figlang/xlmr_large_defaults_with_logging\" --train-file \"/home/shailyjb/anlp-figlang/data/few_shot/train_merged/{lang}/{lang}_{k}.csv\" --val-file \"/home/shailyjb/anlp-figlang/data/validation/en.csv\"")
 

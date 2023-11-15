@@ -75,7 +75,6 @@ def parse_args():
     parser.add_argument("--output-dir", type=str, default="output")
     parser.add_argument("--train-file", type=str, default="../data/train/en.csv")
     parser.add_argument("--val-file", type=str, default="../data/validation/en.csv")
-    parser.add_argument("--test-file", type=str, default="../data/test/en.csv")
 
     return parser.parse_args()
 
