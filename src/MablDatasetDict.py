@@ -1,42 +1,13 @@
-import os
-from itertools import chain
-
-from datasets import Dataset, DatasetDict, load_dataset
+from datasets import Dataset, DatasetDict
 
 
 class MablDatasetDict(DatasetDict):
-    def __init__(self, data_dir="../data", splits="train_validation"):
+    def __init__(self, train_file, validation_file):
         super().__init__()
-
         self.dataset_dict = {}
-        if splits == "all" or splits == "train_validation":
-            for split in ["train", "validation"]:
-                file_path = f"{data_dir}/{split}/en.csv"
-                self.dataset_dict[split] = Dataset.from_csv(file_path)
-                # self.dataset_dict[split] = load_dataset("csv", file_path)
 
-        if splits == "all" or splits == "test":
-            test_dir = f"{data_dir}/test"
-            for file_name in os.listdir(test_dir):
-                lang_short_name = file_name.split("_")[0]
-                file_path = f"{test_dir}/{file_name}"
-                self.dataset_dict[f"test-{lang_short_name}"] = Dataset.from_csv(
-                    file_path
-                )
-                # self.dataset_dict[f"test-{lang_short_name}"] = load_dataset(
-                #     "csv", file_path
-                # )
-        if splits == "all" or splits == "translate-test":
-            test_dir = f"{data_dir}/translate-test"
-            for file_name in os.listdir(test_dir):
-                lang_short_name = file_name.split("_")[0]
-                file_path = f"{test_dir}/{file_name}"
-                self.dataset_dict[f"test-{lang_short_name}"] = Dataset.from_csv(
-                    file_path
-                )
-                # self.dataset_dict[f"test-{lang_short_name}"] = load_dataset(
-                #     "csv", file_path
-                # )
+        self.dataset_dict['train'] = Dataset.from_csv(train_file)
+        self.dataset_dict['validation'] = Dataset.from_csv(validation_file)
 
     def get_dataset_dict(self):
         return self.dataset_dict
@@ -88,4 +59,4 @@ class MablDatasetDict(DatasetDict):
 
 
 if __name__ == "__main__":
-    print(MablDatasetDict(data_dir="../data").get_dataset_dict())
+    print(MablDatasetDict(train_file='../data/train/en.csv', validation_file='../data/validation/en.csv').get_dataset_dict())
