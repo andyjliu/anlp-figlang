@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 285,
+        "true_diff_sentiment": 119,
+        "model_same_sentiment": 285,
+        "model_diff_sentiment": 119,
+        "true_same_sentiment_examples": [
+            [
+                "The advice from his father disappeared like dust in the rain.",
+                "What is the advice to remember?",
+                "What advice do you forget?",
+                1,
+                1
+            ],
+            [
+                "A bottle of water is the cost of a child's glass.",
+                "The water bottle is huge",
+                "The water bottle is very small.",
+                1,
+                1
+            ],
+            [
+                "That college guy looks like he never sleeps",
+                "He is busy in college",
+                "The college is relaxed.",
+                0,
+                0
+            ],
+            [
+                "When asked he opened his mouth",
+                "When asked he said",
+                "When asked he pretended not to know.",
+                0,
+                0
+            ],
+            [
+                "His body is like a teak tree",
+                "The body is tips",
+                "His body is lethargic.",
+                0,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Opening a new business for a pandemic is like sailing in a storm",
+                "Opening a new business for the pandemic is a big risk",
+                "Opening a new business for the pandemic is not without risk.",
+                0,
+                0
+            ],
+            [
+                "life is like falling leg hair.",
+                "live like a grandfather",
+                "live like free.",
+                1,
+                1
+            ],
+            [
+                "He looked like a seven-rupee flower.",
+                "Looked at the smell",
+                "He looked at the fragrant tea.",
+                1,
+                1
+            ],
+            [
+                "I'm still a boy.",
+                "I'm still a boy, I have to be a boy who sucks",
+                "I'm still a boy, I have to be locked up.",
+                1,
+                1
+            ],
+            [
+                "Cooking oil is now the price of a house",
+                "Cooking oil is expensive now",
+                "Cooking oil is cheap now.",
+                0,
+                0
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "Being rejected is like a garden full of flowers.",
+                "Rejected, she looked pained",
+                "Rejected, he seemed happy.",
+                1,
+                1
+            ],
+            [
+                "That brand of tissue is as good as a sack of rice.",
+                "That brand of tissue is good",
+                "That brand of tissue is rough.",
+                1,
+                1
+            ],
+            [
+                "The current situation is like many sins",
+                "The current situation is bad",
+                "The current situation is good.",
+                0,
+                0
+            ],
+            [
+                "She appeared like an ant on the ground.",
+                "She appeared confident",
+                "She looks like she doesn't have confidence.",
+                1,
+                1
+            ],
+            [
+                "Neighbors said, he has a thick face",
+                "The neighbor said, he is good",
+                "The neighbor said, he is stingy.",
+                0,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "life is like falling leg hair.",
+                "live like a grandfather",
+                "live like free.",
+                1,
+                1
+            ],
+            [
+                "His behavior is like a frog locked in a shell",
+                "The walk is different",
+                "His behavior was wild.",
+                0,
+                0
+            ],
+            [
+                "The result of planting is like a flood",
+                "The results of planting are many",
+                "The result of planting is little.",
+                0,
+                0
+            ],
+            [
+                "Dieng water is like thermos water.",
+                "Dieng water is cold",
+                "Dieng water is hot.",
+                1,
+                1
+            ],
+            [
+                "people are divided into two, that is the one with a hard heart.",
+                "people are divided into two, namely those who are clean of heart",
+                "people are divided into two, that is the bad hate, envy, envy.",
+                1,
+                1
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 97,
+        "true_diff_sentiment": 99,
+        "model_same_sentiment": 113,
+        "model_diff_sentiment": 83,
+        "true_same_sentiment_examples": [
+            [
+                "In class X IPS there is no teacher like children in the library.",
+                "In class X IPS, there is no teacher",
+                "There is no Jempling teacher in class X IPS.",
+                1,
+                0
+            ],
+            [
+                "People's fate can be different like winning the jackpot overnight",
+                "The fate of people can be different, there are lucky ones",
+                "The fate of people can be different, there are unlucky ones.",
+                0,
+                1
+            ],
+            [
+                "Successful people work like ants looking for food",
+                "Successful people must be diligent",
+                "Successful people must be lazy.",
+                0,
+                1
+            ],
+            [
+                "His words are like water on the leaves of the taleus",
+                "His words changed",
+                "His speech is steady.",
+                0,
+                1
+            ],
+            [
+                "I don't think my brother is as tall as green buto",
+                "I don't think my brother is tall",
+                "I don't think my brother is short.",
+                0,
+                1
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Her body is like a flower.",
+                "Her body is fragrant",
+                "Her body smells bad.",
+                1,
+                0
+            ],
+            [
+                "Someone is driving as if he is afraid of falling behind.",
+                "Someone is driving recklessly",
+                "Someone drives carefully.",
+                1,
+                0
+            ],
+            [
+                "If you are a person, don't always be angry",
+                "If you are a person, don't use a razor",
+                "If you are a person, don't be pessimistic.",
+                0,
+                1
+            ],
+            [
+                "If you have children under the age of five, the atmosphere of the house is like a stack of books in a library",
+                "If you have a toddler, the house is tidy",
+                "If you have a toddler, your house is messy.",
+                0,
+                1
+            ],
+            [
+                "He looked like he was still young",
+                "Looked at the smell",
+                "He looked at the fragrant tea.",
+                0,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "must be careful to choose a partner in case it becomes a tea pot pot.",
+                "must be careful to choose a partner in case it becomes a woman who runs out of wealth",
+                "must be careful to choose a partner in case it becomes a man who runs out of wealth.",
+                1,
+                0
+            ],
+            [
+                "Making money is like boiling water until it boils.",
+                "Debt collection is difficult",
+                "Debt collection is easy.",
+                1,
+                0
+            ],
+            [
+                "In class X IPS there is no teacher like children in the library.",
+                "In class X IPS, there is no teacher",
+                "There is no Jempling teacher in class X IPS.",
+                1,
+                0
+            ],
+            [
+                "that person is strong, not like Jagjag waringkas.",
+                "he is strong, he doesn't get sick easily",
+                "he is not strong, he is not healthy.",
+                1,
+                0
+            ],
+            [
+                "to become a husband, you have to break your bones",
+                "being a husband should be forgotten",
+                "so the husband must not be able to work.",
+                0,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "The business that he does is like climbing the stairs",
+                "Business that he did like easy",
+                "The business that he does is like difficult.",
+                0,
+                1
+            ],
+            [
+                "The smoke runs like a snail.",
+                "The smoke runs fast",
+                "The smoke ran for a long time.",
+                1,
+                0
+            ],
+            [
+                "Iis is sweet meat",
+                "Iis is easy to get sick",
+                "Iis is not easy to get sick.",
+                0,
+                1
+            ],
+            [
+                "His speech is like a banyan tree.",
+                "His words changed",
+                "His speech is steady.",
+                1,
+                0
+            ],
+            [
+                "If it's Eid al-Fitr in Bogor, the atmosphere is like a new funeral home",
+                "I'm going to Bogor for Lebaran",
+                "There are many people in Bogor for Eid.",
+                0,
+                1
+            ]
+        ]
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 656,
+        "true_diff_sentiment": 228,
+        "model_same_sentiment": 656,
+        "model_diff_sentiment": 228,
+        "true_same_sentiment_examples": [
+            [
+                "Boys in Javanese custom are heirlooms that are highly revered.",
+                "In Javanese custom, boys are considered very valuable.",
+                "In Javanese custom, boys are considered worthless.",
+                0,
+                0
+            ],
+            [
+                "According to him, the internet is as important as eating everyday.",
+                "For him, the internet is a primary need.",
+                "For him, the internet is a tertiary need.",
+                0,
+                0
+            ],
+            [
+                "Today's match results make me feel like I spilled a plate of fried noodles that I haven't eaten yet.",
+                "The results of today's match made me feel disappointed.",
+                "The results of today's match made me feel satisfied.",
+                0,
+                0
+            ],
+            [
+                "Rangga's speech ignited enthusiasm.",
+                "Rangga's words give encouragement.",
+                "Rangga's words hurt.",
+                0,
+                0
+            ],
+            [
+                "He bought first-tier shares.",
+                "He bought bad stocks.",
+                "He bought the leading stock.",
+                1,
+                1
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Anton treats his mother like a queen.",
+                "Anton treated his mother badly.",
+                "Anton treated his mother well.",
+                1,
+                1
+            ],
+            [
+                "Ranga's words pierced the heart.",
+                "Rangga's words give encouragement.",
+                "Rangga's words hurt.",
+                1,
+                1
+            ],
+            [
+                "It's like a sultan's child.",
+                "His attitude is haughty.",
+                "His attitude is humble.",
+                0,
+                0
+            ],
+            [
+                "My friend's cake tastes like eating mangoes when it's in season.",
+                "The cake is delicious to eat.",
+                "The cake is not good to eat.",
+                0,
+                0
+            ],
+            [
+                "He has god specs.",
+                "He has very bad HP specs.",
+                "He has very good HP specs.",
+                1,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "My classmates are really like stars whose light is bright.",
+                "My classmates are very smart.",
+                "My classmates are so stupid.",
+                0,
+                0
+            ],
+            [
+                "Assembling a new computer is like solving a puzzle for children. .",
+                "Assembling a new computer is very complicated.",
+                "Assembling a new computer is very easy.",
+                1,
+                1
+            ],
+            [
+                "This feeling seemed to be as deep as an elementary school kid's swimming pool.",
+                "This feeling is deep.",
+                "This feeling is superficial.",
+                1,
+                1
+            ],
+            [
+                "Human nature can be like looking for faces.",
+                "It's human nature to be shameless.",
+                "It is human nature to want to be known.",
+                1,
+                1
+            ],
+            [
+                "My father behaved as if he was an obsolete robot.",
+                "His father is very friendly.",
+                "His father is very rigid.",
+                1,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "Today's results make me feel like I just finished my first marathon.",
+                "The results of today's match made me feel disappointed.",
+                "The results of today's match made me feel satisfied.",
+                1,
+                1
+            ],
+            [
+                "Washing with detergent A is like wiping light dust on a window pane.",
+                "Washing with detergent A makes washing light.",
+                "Washing with detergent A makes washing heavy.",
+                0,
+                0
+            ],
+            [
+                "How to study during midterm exams is always likened to building a thousand temples in one day and one night.",
+                "How to study during the midterm exams is always fast all at once.",
+                "The way to study during the midterm exams is always consistent.",
+                0,
+                0
+            ],
+            [
+                "His house is the size of a football field.",
+                "the house is spacious.",
+                "narrow house.",
+                0,
+                0
+            ],
+            [
+                "Tono opened a business with knee capital.",
+                "Tono opened a business with little capital.",
+                "Tono opened a business with a lot of capital.",
+                0,
+                0
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 126,
+        "true_diff_sentiment": 130,
+        "model_same_sentiment": 171,
+        "model_diff_sentiment": 85,
+        "true_same_sentiment_examples": [
+            [
+                "Mentally as tough as a cracker.",
+                "Mentally strong.",
+                "Mentally weak.",
+                1,
+                0
+            ],
+            [
+                "All members of my family are so magical. However, nothing beats grandpa. He was born alone.",
+                "All members of my family are so magical. However, nothing beats grandpa. He is a child of royalty.",
+                "All members of my family are so magical. However, nothing beats grandpa. He is an orphan.",
+                1,
+                0
+            ],
+            [
+                "Life is a struggle to clean the heart of the eye.",
+                "Life is hard.",
+                "Life is easy.",
+                1,
+                0
+            ],
+            [
+                "The price of food here is two packs of nasi padang.",
+                "food prices here are expensive.",
+                "the price of food here is cheap.",
+                0,
+                1
+            ],
+            [
+                "The queue for tickets is like a bank on Sunday.",
+                "The queue for tickets is long.",
+                "There is no ticket queue.",
+                1,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Brothers and sisters are like a buffalo and a crane.",
+                "The brothers love to fight.",
+                "Brothers and sisters get along well.",
+                1,
+                0
+            ],
+            [
+                "Your writing is like a kindergartner's drawing.",
+                "Your writing is neat.",
+                "Your writing is messy.",
+                1,
+                0
+            ],
+            [
+                "Her nose is like a cherry.",
+                "His nose is pug.",
+                "Pointed nose.",
+                0,
+                1
+            ],
+            [
+                "Women answer with precision when asked \"what do you want to eat\" it's like waiting for golden rain.",
+                "Women answer with precision when asked \"what do you want to eat\" that is impossible.",
+                "Women answer with precision when asked \"what do you want to eat\" that is very possible.",
+                0,
+                1
+            ],
+            [
+                "Like a teacher peeing standing up, students peeing running, that's the child's behavior.",
+                "Children's behavior imitates others.",
+                "Children's behavior is different from other people.",
+                0,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "Giving birth is like sneezing until you run your nose.",
+                "Giving birth is very painful.",
+                "Giving birth is normal.",
+                1,
+                0
+            ],
+            [
+                "Ideals are like threads that must be spun to make them into sheets of cloth.",
+                "These ideals must be maintained.",
+                "The dream was left alone.",
+                0,
+                1
+            ],
+            [
+                "His words were like ducking rice.",
+                "His words have many benefits.",
+                "His words are of no use.",
+                0,
+                1
+            ],
+            [
+                "Now the situation is like a woven thread.",
+                "Now the situation is complicated.",
+                "Now the situation is under control.",
+                1,
+                0
+            ],
+            [
+                "Student assignments are like piles of unironed clothes.",
+                "Lots of student assignments.",
+                "Few student assignments.",
+                0,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "Your future is like the city of Jakarta at night.",
+                "Your future is bright.",
+                "Your future is dark.",
+                0,
+                1
+            ],
+            [
+                "His handwriting was like a doctor's.",
+                "His handwriting was messy.",
+                "His handwriting is neat.",
+                0,
+                1
+            ],
+            [
+                "During the day, drink dawet cendol ice like water that has just boiled from a pot.",
+                "Drinking dawet cendol ice during the day is very refreshing.",
+                "Drinking dawet cendol ice during the day really makes heat in the organs.",
+                1,
+                0
+            ],
+            [
+                "The taste of this medicine is like lemongrass cooking water.",
+                "The taste of this medicine is bitter.",
+                "The taste of this medicine is sweet.",
+                0,
+                1
+            ],
+            [
+                "When he is hungry he is like a chick that has not been fed.",
+                "When he's hungry he's loud.",
+                "If he's hungry he's calm.",
+                0,
+                1
+            ]
+        ]
+    }
+}

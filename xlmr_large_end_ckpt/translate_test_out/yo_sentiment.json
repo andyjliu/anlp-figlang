@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 234,
+        "true_diff_sentiment": 112,
+        "model_same_sentiment": 234,
+        "model_diff_sentiment": 112,
+        "true_same_sentiment_examples": [
+            [
+                "The dog gave birth to a male and a female to the sheep that gave birth this morning",
+                "The dog gave birth to a man and a woman",
+                "The dog ate the baby",
+                0,
+                0
+            ],
+            [
+                "Bidemi pakuta spoke to us",
+                "Bidemi brought another word into the speech we were saying",
+                "How it makes us continue the words we are saying",
+                1,
+                1
+            ],
+            [
+                "The ear of the merchant is like the ear of an owl",
+                "The merchant's ears are very large",
+                "The merchant's ears are very small",
+                1,
+                1
+            ],
+            [
+                "Lad\u00e9 has heard from the government",
+                "Lad\u00e9 is in trouble with the government",
+                "Lad\u00e9 and his family",
+                1,
+                1
+            ],
+            [
+                "He who has good ears gets his money back like the sinners",
+                "He is getting his money back very little",
+                "He made a charitable donation with his money",
+                0,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "It is not a child's voice",
+                "The old man who loves the old man",
+                "A child who loves a child",
+                0,
+                0
+            ],
+            [
+                "Fight back",
+                "Let bad things happen again",
+                "Let good things come back and happen here",
+                1,
+                1
+            ],
+            [
+                "It is dangerous",
+                "He answered",
+                "You are wise",
+                1,
+                1
+            ],
+            [
+                "He wants to take my place",
+                "He wants to deceive me",
+                "He wants to be honest with me",
+                0,
+                0
+            ],
+            [
+                "The day a fool is king on this land, the city will be destroyed",
+                "The day a woman is king, the city will be ruined",
+                "This city will mourn the day when a woman is king",
+                1,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "My father has taken pity on me",
+                "My father was very angry",
+                "My father was very pleased",
+                0,
+                0
+            ],
+            [
+                "They have married Adewumi",
+                "They have punished Adewimi",
+                "They will meet Adewumi tomorrow",
+                1,
+                1
+            ],
+            [
+                "Those who came to our financial center yesterday were the ones who kissed the ground like chickens",
+                "They came to our financial center yesterday",
+                "They came to our house yesterday and did not find any food",
+                1,
+                1
+            ],
+            [
+                "The marketer's ears are well-heard",
+                "The merchant's ears are very large",
+                "The merchant's ears are very small",
+                0,
+                0
+            ],
+            [
+                "The dog is neither male nor female",
+                "The dog gave birth to a man and a woman",
+                "The dog ate the baby",
+                1,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "Folarin's eyes widened",
+                "Folarin's face was broken",
+                "He was able to see clearly",
+                0,
+                0
+            ],
+            [
+                "I want to go to the toilet in front of our house of worship",
+                "I want to go to work",
+                "I want to go eat",
+                1,
+                1
+            ],
+            [
+                "It makes me want to cum on oil",
+                "He didn't let me rest",
+                "He didn't let me worry",
+                0,
+                0
+            ],
+            [
+                "It has rained on the crops",
+                "These crops need water",
+                "The crops of this field are dormant",
+                0,
+                0
+            ],
+            [
+                "Let's get the word out",
+                "Let us keep the matter a secret",
+                "Let us reveal the secret of the matter",
+                1,
+                1
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 140,
+        "true_diff_sentiment": 244,
+        "model_same_sentiment": 253,
+        "model_diff_sentiment": 131,
+        "true_same_sentiment_examples": [
+            [
+                "If the son of B\u00e9 knows how to eat, he will eat it",
+                "A child who knows what to do, will be close to the elders",
+                "A son of B\u00e9 who knows how to behave like the elders",
+                0,
+                1
+            ],
+            [
+                "Ayinla created Ajala tomorrow",
+                "Ajnla chose Aj\u00e1la",
+                "Ainila was honest with Aj\u00e1la",
+                0,
+                1
+            ],
+            [
+                "All of you go to three",
+                "All of you go and calm down",
+                "All of you go and raise your spirits",
+                0,
+                1
+            ],
+            [
+                "That child stood back",
+                "That child died again",
+                "The child should return to life",
+                0,
+                1
+            ],
+            [
+                "His Highness and his friends are too full",
+                "His Highness and his friends did not know anything",
+                "His Highness and his friends know books very well",
+                0,
+                1
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "The people of the mountains are having fun",
+                "The people below are angry underground",
+                "The people below are happy",
+                0,
+                1
+            ],
+            [
+                "The channel has bought a new car",
+                "The channel is dead",
+                "The channel is alive",
+                0,
+                1
+            ],
+            [
+                "Children who give birth are not empty-handed",
+                "The children who are born are dead",
+                "I saved the child I gave birth to",
+                0,
+                1
+            ],
+            [
+                "You have made up your mind",
+                "He has taken care of himself with little things",
+                "He has rebuilt his own world with great things",
+                0,
+                1
+            ],
+            [
+                "The head of Gb\u00e1d\u00e9bo was born on the top of the hill",
+                "The head of Gbadob is very big",
+                "Ori Gbadebol is not big",
+                1,
+                0
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "The beloved laughs like the one who has the right",
+                "The lover laughed a lot",
+                "Beloved looked",
+                1,
+                0
+            ],
+            [
+                "It's been a week since Wol\u00e9ola has been in prison",
+                "It had been a long time since the Reverend had been in the room",
+                "The lady just entered the room",
+                1,
+                0
+            ],
+            [
+                "The chicken crossed the honey bridge",
+                "The chicken is in danger",
+                "The chicken entered the shelter",
+                0,
+                1
+            ],
+            [
+                "He used to lend to his customers",
+                "T\u00e2y\u00e9 often cheats his customers",
+                "T\u00e2y\u00e9 is loyal to his customers",
+                0,
+                1
+            ],
+            [
+                "The twins were devastated when their grandfather died",
+                "The twins cried a lot",
+                "The twins went to the market",
+                1,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "Bolabadin made his life's sacrifice",
+                "Bolabadin did not do what the judge told him in court",
+                "The judge jailed Bolabaith yesterday",
+                0,
+                1
+            ],
+            [
+                "That child stood back",
+                "That child died again",
+                "The child should return to life",
+                0,
+                1
+            ],
+            [
+                "Bolabaithin is walking with his broken feet",
+                "The boy walks with a stick",
+                "The bowler is playing with a stick",
+                1,
+                0
+            ],
+            [
+                "Why did Ad\u00e9sina buy a new house?",
+                "Adesinna likes childish behavior",
+                "Adesina likes not to go fast",
+                0,
+                1
+            ],
+            [
+                "Ori Gb\u00e1d\u00e9bo has never seen the top of a mountain",
+                "The head of Gbadob is very big",
+                "Ori Gbadebol is not big",
+                0,
+                1
+            ]
+        ]
+    }
+}

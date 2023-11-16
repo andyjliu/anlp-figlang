@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 485,
+        "true_diff_sentiment": 183,
+        "model_same_sentiment": 485,
+        "model_diff_sentiment": 183,
+        "true_same_sentiment_examples": [
+            [
+                "When he reached the top of the hill, he felt as strong as an iron gate.",
+                "He was very tired when he reached Chhoti.",
+                "Arriving at Choti he was brimming with confidence.",
+                1,
+                1
+            ],
+            [
+                "My wife looked like a radish.",
+                "My wife was looking very fat.",
+                "My wife was looking very thin.",
+                1,
+                1
+            ],
+            [
+                "Calm mind like a robber.",
+                "There is peace in the mind.",
+                "The mind is restless.",
+                1,
+                1
+            ],
+            [
+                "You are talking like you are on an aeroplane.",
+                "You are speaking very slowly.",
+                "You are speaking very fast.",
+                1,
+                1
+            ],
+            [
+                "Rohan's article will be remembered like space.",
+                "Rohan's article will be forgotten after some time.",
+                "People will always remember Rohan's article.",
+                1,
+                1
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Radheshyam mixed like salt in tea in our family.",
+                "Radheshyam could not connect with our family.",
+                "Radheshyam bonded well with our family.",
+                0,
+                0
+            ],
+            [
+                "The film had the teachings of the devil.",
+                "The film was full of goodness.",
+                "The film was full of evil.",
+                1,
+                1
+            ],
+            [
+                "Today turned out to be a Sunday.",
+                "Today passed without any work.",
+                "Today turned out to be very busy.",
+                0,
+                0
+            ],
+            [
+                "His soul was as cheap as pearls.",
+                "He is not corrupt at all.",
+                "He is very corrupt.",
+                0,
+                0
+            ],
+            [
+                "Seeing his friends silent like a silent movie, he understood that something was wrong.",
+                "His friends were making some diabolical plans.",
+                "His friends were deep in thought.",
+                0,
+                0
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "Scientists are as smart as a whip.",
+                "Scientists share their knowledge.",
+                "Scientists are very clever.",
+                1,
+                1
+            ],
+            [
+                "The evening hat is the symbol of his being the king.",
+                "The evening is very rich.",
+                "The evening is very poor.",
+                0,
+                0
+            ],
+            [
+                "This shawl is as light as a sack.",
+                "This year is made of very thin thread.",
+                "This year is made of very thick thread.",
+                0,
+                0
+            ],
+            [
+                "Shikha talked like a beggar for promotion.",
+                "Shikha talked to Haq for promotion.",
+                "Shikha spoke nervously about the promotion.",
+                1,
+                1
+            ],
+            [
+                "Raju's voice is like a magic wand.",
+                "Raju's voice pulls everyone towards him.",
+                "Everyone runs away after hearing Raju's voice.",
+                0,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "The box is as light as a large tree.",
+                "The box is too heavy.",
+                "The box is very light.",
+                0,
+                0
+            ],
+            [
+                "It was as if the servant had put honey in the tea.",
+                "The servant had made absolutely rubbish tea.",
+                "The servant had made very nice tea.",
+                1,
+                1
+            ],
+            [
+                "His sister is dear to him like his enemy.",
+                "He loves his sister very much.",
+                "He hates his sister very much.",
+                1,
+                1
+            ],
+            [
+                "Asha ji's singing is worth a penny.",
+                "People like Asha ji's singing very much.",
+                "People do not like Asha ji's singing very much.",
+                1,
+                1
+            ],
+            [
+                "The armor was as hard as iron.",
+                "The armor was very strong.",
+                "The armor was very weak.",
+                0,
+                0
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 129,
+        "true_diff_sentiment": 201,
+        "model_same_sentiment": 237,
+        "model_diff_sentiment": 93,
+        "true_same_sentiment_examples": [
+            [
+                "Getting Radha is as easy as breaking the moon.",
+                "It is very easy to get Radha.",
+                "It is very difficult to get Radha.",
+                1,
+                0
+            ],
+            [
+                "He has the mind of a monkey.",
+                "He always thinks of jumping.",
+                "He always thinks of deceit.",
+                0,
+                1
+            ],
+            [
+                "She broke like a huge branch from a tree in a windstorm.",
+                "She fought with difficulties for a long time.",
+                "She was quickly defeated by the difficulties.",
+                0,
+                1
+            ],
+            [
+                "This hill is not the foot of Angad, which cannot be removed and the railway track can be laid.",
+                "Cutting this hill and laying the railway track is a very difficult task.",
+                "Cutting this hill and laying the railway track is a very easy task.",
+                0,
+                1
+            ],
+            [
+                "Meeting Rachna, my heart has become lighter like a storm.",
+                "My heart started beating fast after meeting Rachna.",
+                "My heart was at peace after meeting Rachna.",
+                0,
+                1
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "There is magic of Lata Mangeshkar in her voice.",
+                "Love oozes from his voice.",
+                "Anger oozes from his voice.",
+                1,
+                0
+            ],
+            [
+                "Your richness is running on my crumbs.",
+                "You are poor because of me.",
+                "You are rich because of me",
+                1,
+                0
+            ],
+            [
+                "Vidya shines like the moon in studies.",
+                "When you don't teach Vidya, she doesn't learn.",
+                "Vidya is very clever in teaching.",
+                0,
+                1
+            ],
+            [
+                "He is in pain like his mother's beating.",
+                "He is not feeling pain at all.",
+                "He is in a lot of pain.",
+                0,
+                1
+            ],
+            [
+                "It has more power than bamboo.",
+                "He doesn't have that much power.",
+                "There is a lot of power in that.",
+                0,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "It was moist like the morning sun.",
+                "She was not happy.",
+                "She was happy.",
+                0,
+                1
+            ],
+            [
+                "That palace is as big as the streets of India.",
+                "That palace is very big and beautiful.",
+                "That palace is very small and tight.",
+                1,
+                0
+            ],
+            [
+                "The teacher's cane is as hard as a mattress.",
+                "The teacher's cane is not very strict.",
+                "The teacher's cane is more severe.",
+                0,
+                1
+            ],
+            [
+                "His heart broke like a glass bottle.",
+                "His heart broke badly.",
+                "His heart was very weak.",
+                0,
+                1
+            ],
+            [
+                "You are talking about train journey.",
+                "You are speaking very slowly.",
+                "You are speaking very fast.",
+                0,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "They fight like waves.",
+                "They fight a lot.",
+                "They fight with a lot of love.",
+                1,
+                0
+            ],
+            [
+                "Rajesh stole the name of the country.",
+                "Rajesh spread the name of the country by doing bad work.",
+                "Rajesh has brought laurels to the country by doing good work.",
+                0,
+                1
+            ],
+            [
+                "She swims like a fish in water.",
+                "She swims very easily.",
+                "It takes a lot of effort to swim.",
+                1,
+                0
+            ],
+            [
+                "This shawl is light as a feather.",
+                "This year is made of very thin thread.",
+                "This year is made of very thick thread.",
+                1,
+                0
+            ],
+            [
+                "The teacher is strict as usual.",
+                "The teachers are strict on the outside but good at heart.",
+                "The teachers are very nice from outside as well as from heart.",
+                1,
+                0
+            ]
+        ]
+    }
+}

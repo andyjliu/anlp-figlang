@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 561,
+        "true_diff_sentiment": 191,
+        "model_same_sentiment": 561,
+        "model_diff_sentiment": 191,
+        "true_same_sentiment_examples": [
+            [
+                "Hitting sixes in cricket is difficult",
+                "Hitting sixes in cricket is difficult",
+                "Hitting sixes in cricket is difficult",
+                0,
+                0
+            ],
+            [
+                "That cooking was as healthy as an apple",
+                "Cooking was healthy",
+                "The cooking was unhealthy",
+                0,
+                0
+            ],
+            [
+                "He is a scientist like Kalam",
+                "He is a scientist",
+                "He is not a scientist",
+                0,
+                0
+            ],
+            [
+                "This vehicle is fast like a rocket",
+                "This vehicle is very fast",
+                "This vehicle is not very fast",
+                0,
+                0
+            ],
+            [
+                "The sheet was as soft as a bed",
+                "That sheet was soft",
+                "That sheet was not soft",
+                0,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Investments are volatile like fixed deposits",
+                "Investments are volatile",
+                "Investments are not volatile",
+                1,
+                1
+            ],
+            [
+                "That building is as luxurious as a hut",
+                "That building is luxurious",
+                "That building is not luxurious",
+                1,
+                1
+            ],
+            [
+                "That thing is as common as having a car",
+                "That thing is normal",
+                "That thing is not normal",
+                0,
+                0
+            ],
+            [
+                "He had renounced desires like the Buddha",
+                "He had renounced desires",
+                "He has not given up desires",
+                0,
+                0
+            ],
+            [
+                "He is as merciful as the devil",
+                "He is merciful",
+                "He is not merciful",
+                1,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "This land is fertile like agricultural land",
+                "This land is fertility",
+                "This land is not fertile",
+                0,
+                0
+            ],
+            [
+                "This insect is microscopic like a virus",
+                "This insect is microscopic",
+                "This insect is not microscopic",
+                1,
+                1
+            ],
+            [
+                "As healthy as fiber in food.",
+                "Dietary fibers are healthy",
+                "Dietary fibers are not healthy",
+                0,
+                0
+            ],
+            [
+                "He is small like a thin man",
+                "He is small",
+                "He is not small",
+                0,
+                0
+            ],
+            [
+                "The animal was sleeping excessively like a koala",
+                "The animal was sleeping less",
+                "The animal was sleeping less",
+                0,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "He is as big as an elephant",
+                "He is big",
+                "He is not big",
+                0,
+                0
+            ],
+            [
+                "The animal has a soft appearance",
+                "The animal looks sharp",
+                "The animal does not look sharp",
+                1,
+                1
+            ],
+            [
+                "That water is as clean as pond water",
+                "That water is clean",
+                "That water is not clean",
+                1,
+                1
+            ],
+            [
+                "That building is as luxurious as a hut",
+                "That building is luxurious",
+                "That building is not luxurious",
+                1,
+                1
+            ],
+            [
+                "Alcohol is very necessary for this body",
+                "Water is very necessary for this body",
+                "Water is not essential for this body",
+                1,
+                1
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 149,
+        "true_diff_sentiment": 297,
+        "model_same_sentiment": 340,
+        "model_diff_sentiment": 106,
+        "true_same_sentiment_examples": [
+            [
+                "This area is as crowded as the library",
+                "There are more people in this area",
+                "There are few people in this area",
+                1,
+                0
+            ],
+            [
+                "The building was furnished like a government office",
+                "The building was well equipped",
+                "The building was not furnished",
+                1,
+                0
+            ],
+            [
+                "It was dark like a new moon day",
+                "It was very dark that day",
+                "Kagkattalu was not born that day",
+                1,
+                0
+            ],
+            [
+                "That thing is red like water",
+                "That thing is red",
+                "That thing is not red",
+                1,
+                0
+            ],
+            [
+                "That stuff is as complicated as math",
+                "That thing is complicated",
+                "That thing is complicated",
+                0,
+                1
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "It is bitterer than jaggery",
+                "It was bittersweet",
+                "It was sweet",
+                1,
+                0
+            ],
+            [
+                "The snack was flat like a puff",
+                "That snack was flat",
+                "That snack was not flat",
+                1,
+                0
+            ],
+            [
+                "That animal is more mischievous than a lion",
+                "That animal is more mischievous",
+                "That animal doesn't do much mischief",
+                1,
+                0
+            ],
+            [
+                "This disease spreads like cancer",
+                "This disease is contagious",
+                "This disease is not contagious",
+                1,
+                0
+            ],
+            [
+                "The man is as creative as the driver",
+                "That person is creative",
+                "That person is not creative",
+                1,
+                0
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "That crystal is precious like a stone",
+                "That crystal is precious",
+                "That crystal is not precious",
+                1,
+                0
+            ],
+            [
+                "He is as much a practical man as a poet",
+                "He is a practical man",
+                "He is not a practical person",
+                1,
+                0
+            ],
+            [
+                "The incident was as terrifying as Shanti",
+                "That incident was terrible",
+                "The incident was not terrible",
+                1,
+                0
+            ],
+            [
+                "That road has twists and turns like a highway",
+                "That road has twists and turns",
+                "That road has no turns",
+                1,
+                0
+            ],
+            [
+                "Sending money is easy by check",
+                "Sending money is easy",
+                "Sending money is not easy",
+                1,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "It was hot as a storm",
+                "It was very hot",
+                "It was cold",
+                1,
+                0
+            ],
+            [
+                "That stuff was as scientific as it was magical",
+                "That thing was scientific",
+                "That thing is not scientific",
+                1,
+                0
+            ],
+            [
+                "Last month it rained like summer",
+                "It was raining",
+                "It did not rain",
+                1,
+                0
+            ],
+            [
+                "It is bitterer than jaggery",
+                "It was bittersweet",
+                "It was sweet",
+                1,
+                0
+            ],
+            [
+                "Their lives are as difficult as those of daily wage labourers",
+                "Their lives are difficult",
+                "His life is not difficult",
+                0,
+                1
+            ]
+        ]
+    }
+}

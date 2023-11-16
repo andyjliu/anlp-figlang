@@ -1,5 +1,6 @@
 import argparse
 import json
+import random
 
 from transformers import pipeline
 
@@ -21,25 +22,67 @@ def parse_args():
 if __name__ == "__main__":
     args = parse_args()
     for lang in "hi,id,jv,kn,su,sw,yo".split(","):
+        print(lang)
         input_path = f"{args.data_dir}/{lang}.json"
         data = json.load(open(input_path, "r"))
         results = {
-            "correct": {"num_same_sentiment": 0, "num_diff_sentiment": 0},
-            "wrong": {"num_same_sentiment": 0, "num_diff_sentiment": 0},
+            "correct": {
+                "true_same_sentiment": 0,
+                "true_diff_sentiment": 0,
+                "model_same_sentiment": 0,
+                "model_diff_sentiment": 0,
+                "true_same_sentiment_examples": [],
+                "true_diff_sentiment_examples": [],
+                "model_same_sentiment_examples": [],
+                "model_diff_sentiment_examples": [],
+            },
+            "wrong": {
+                "true_same_sentiment": 0,
+                "true_diff_sentiment": 0,
+                "model_same_sentiment": 0,
+                "model_diff_sentiment": 0,
+                "true_same_sentiment_examples": [],
+                "true_diff_sentiment_examples": [],
+                "model_same_sentiment_examples": [],
+                "model_diff_sentiment_examples": [],
+            },
         }
         for key in ["correct", "wrong"]:
             for datapoint in data[key]:
                 startphrase = datapoint[0]
                 predicted_class = datapoint[-1]
+                true_class = datapoint[-2]
                 if predicted_class == 0:
-                    prediction = datapoint[1]
+                    model_prediction = datapoint[1]
                 else:
-                    prediction = datapoint[2]
+                    model_prediction = datapoint[2]
+                if true_class == 0:
+                    true_prediction = datapoint[1]
+                else:
+                    true_prediction = datapoint[2]
                 startphrase_sentiment = get_sentiment(startphrase)
-                prediction_sentiment = get_sentiment(prediction)
-                if startphrase_sentiment == prediction_sentiment:
-                    results[key]["num_same_sentiment"] += 1
+                model_prediction_sentiment = get_sentiment(model_prediction)
+                true_prediction_sentiment = get_sentiment(true_prediction)
+                if startphrase_sentiment == model_prediction_sentiment:
+                    results[key]["model_same_sentiment"] += 1
+                    results[key]["model_same_sentiment_examples"].append(datapoint)
                 else:
-                    results[key]["num_diff_sentiment"] += 1
+                    results[key]["model_diff_sentiment"] += 1
+                    results[key]["model_diff_sentiment_examples"].append(datapoint)
+                if startphrase_sentiment == true_prediction_sentiment:
+                    results[key]["true_same_sentiment"] += 1
+                    results[key]["true_same_sentiment_examples"].append(datapoint)
+                else:
+                    results[key]["true_diff_sentiment"] += 1
+                    results[key]["true_diff_sentiment_examples"].append(datapoint)
+            for k in [
+                "model_same_sentiment_examples",
+                "model_diff_sentiment_examples",
+                "true_same_sentiment_examples",
+                "true_diff_sentiment_examples",
+            ]:
+                results[key][k] = random.sample(
+                    results[key][k], min(5, len(results[key][k]))
+                )
         output_path = f"{args.data_dir}/{lang}_sentiment.json"
-        json.dump(results, open(output_path, "w"))
+        json.dump(results, open(output_path, "w"), indent=4)
