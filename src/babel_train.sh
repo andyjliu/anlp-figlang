@@ -6,6 +6,8 @@
 #SBATCH --mem=48GB
 #SBATCH --time 0-03:00:00
 #SBATCH --partition=babel-shared-long
+#SBATCH --mail-type=END
+#SBATCH --mail-user=shailyjb@andrew.cmu.edu
 
 echo $SLURM_JOB_ID
 
@@ -18,5 +20,5 @@ conda activate figlang
 # python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/jv_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/jv/jv_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
 # python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/kn_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/kn/kn_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
 # python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/su_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/su/su_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
-python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/sw_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/sw/sw_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
-# python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/yo_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/yo/yo_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
+# python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/sw_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/sw/sw_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
+python /home/shailyjb/anlp-figlang/src/Trainer.py --output-dir="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/yo_50" --train-file "/home/shailyjb/anlp-figlang/data/few_shot/train_merged/yo/yo_50.csv" --val-file "/home/shailyjb/anlp-figlang/data/validation/en.csv"
