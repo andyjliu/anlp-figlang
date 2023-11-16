@@ -12,7 +12,7 @@ if __name__ == "__main__":
 
     for lang in langs:
         path = f"../data/syntax_chunked/syntax_tagged_{lang}.csv"
-        df = pd.read_csv(path)
+        df = pd.read_csv(path, on_bad_lines='skip')
 
         df['tokens'] = df['z'].apply(lambda x: tokenizer.tokenize(str(x)))
         df['num_words'] = df['z'].apply(lambda x: len(str(x).split(" ")))
@@ -56,3 +56,7 @@ if __name__ == "__main__":
         avg_word_lengths = sum(lang_dfs[lang]['avg_word_length'])
         score = avg_word_lengths / len(lang_dfs[lang].index)
         print(f"{lang} translated avg word length (objects only): {round(score, 2)}")
+
+    print("=============")
+    # TODO - compare overlap between each language's translated train dataset and the English test set
+
