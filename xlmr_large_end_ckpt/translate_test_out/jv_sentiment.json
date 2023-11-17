@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 277,
+        "true_diff_sentiment": 125,
+        "model_same_sentiment": 277,
+        "model_diff_sentiment": 125,
+        "true_same_sentiment_examples": [
+            [
+                "His family's education is like a Japanese soldier going to war",
+                "His family was disciplined",
+                "Bring up your family as you want",
+                0,
+                0
+            ],
+            [
+                "The apple tastes like sour",
+                "The apple tastes sour",
+                "Apples taste sweet",
+                0,
+                0
+            ],
+            [
+                "It's like being a chicken when you cook it with rice",
+                "Siblings are suffocating",
+                "Siblings are far apart",
+                0,
+                0
+            ],
+            [
+                "The lights near the house are like a graveyard",
+                "The lights in the house are bright",
+                "The lights in the house are dark",
+                1,
+                1
+            ],
+            [
+                "At school, Andi is the star of the class",
+                "At school, Andi is the class champion",
+                "At school, Andi is the lowest ranked",
+                0,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "If you work in this office, the decision is like a gong struck",
+                "If you work in this office, the decision will have a big impact",
+                "If you work in this office, the decision will have little effect",
+                0,
+                0
+            ],
+            [
+                "Look at your smile that looks like you are sipping coffee grounds",
+                "Look at your sweet smile",
+                "Look at your bitter smile",
+                1,
+                1
+            ],
+            [
+                "The shop rice is like eating a rock",
+                "The rice in the cafe is hard",
+                "The rice in the cafe tastes like rice",
+                0,
+                0
+            ],
+            [
+                "Allia works like a bull",
+                "Allia's work is very fast",
+                "Allia's work is very slow",
+                0,
+                0
+            ],
+            [
+                "People when they grow up are like swallows",
+                "People who have grown up should not be silent",
+                "People who grow up are free",
+                1,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "My nephew that school is like a pile of wood",
+                "My nephew if school is active",
+                "My nephew is passive at school",
+                1,
+                1
+            ],
+            [
+                "Sitting on the chair felt like a stone",
+                "Sitting in the chair feels soft",
+                "Sitting on the chair is hard",
+                1,
+                1
+            ],
+            [
+                "Living in the Jakarta village is like sacrificing blood",
+                "Living in a busy Jakarta village",
+                "Life in the Jakarta village is full of fights",
+                1,
+                1
+            ],
+            [
+                "On stage, srimpi dancers move like flowers in the wind",
+                "On the stage, the srimpi dancer moves gracefully",
+                "On the stage, the srimpi dancer moves stiffly",
+                0,
+                0
+            ],
+            [
+                "That person walks like a snail",
+                "The man was walking very fast",
+                "The man walked very slowly",
+                1,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "Hendra's speech was like being held by the hand once",
+                "Hendra is lying",
+                "Hendra meant it",
+                1,
+                1
+            ],
+            [
+                "It is a sign that it will rain because the clouds are like burning candles",
+                "The sign is that it will rain because the clouds are very dark",
+                "It's a sign that it's going to rain because it's cloudy",
+                1,
+                1
+            ],
+            [
+                "The cat moves like a rickshaw",
+                "The cat moves fast",
+                "The cat moves slowly",
+                1,
+                1
+            ],
+            [
+                "People's spirit of life is like a flower inside a banana leaf",
+                "His spirit is alive",
+                "His spirit is lazy",
+                1,
+                1
+            ],
+            [
+                "If his father works, it's like selling hands and feet",
+                "His father works until midnight",
+                "His father works until he is lazy",
+                0,
+                0
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 104,
+        "true_diff_sentiment": 94,
+        "model_same_sentiment": 130,
+        "model_diff_sentiment": 68,
+        "true_same_sentiment_examples": [
+            [
+                "The behavior of the little boy is like a buffalo",
+                "The little boy couldn't keep quiet",
+                "The little boy is sleeping",
+                1,
+                0
+            ],
+            [
+                "When solving problems he is like a mountain",
+                "When solving problems he is restless",
+                "When solving problems he is strong, calm and full of wisdom",
+                1,
+                0
+            ],
+            [
+                "Being the son of the headman, his life is like an iron necklace",
+                "Being the son of the chief, his life is comfortable",
+                "Being the headman's son, his life is sara",
+                1,
+                0
+            ],
+            [
+                "His laugh is like a yellow leaf",
+                "His jokes are funny",
+                "His jokes are dry",
+                1,
+                0
+            ],
+            [
+                "The couple is like a forest and rain",
+                "The couple is seen as not suitable",
+                "The couple looks like a perfect match",
+                1,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "If you work in this office, the decision is like hitting your head",
+                "If you work in this office, the decision will have a big impact",
+                "If you work in this office, the decision will have a small impact",
+                1,
+                0
+            ],
+            [
+                "This building feels like a light tree",
+                "This building feels like a banyan tree",
+                "This building feels like a cassava tree",
+                0,
+                1
+            ],
+            [
+                "You walk like you're being chased by a thief",
+                "You are running fast",
+                "Lakmu walked for a long time",
+                0,
+                1
+            ],
+            [
+                "My sister wears a dress like she has never seen before",
+                "My sister is wearing a new dress",
+                "My sister wears old clothes",
+                1,
+                0
+            ],
+            [
+                "Life in the city is like rain",
+                "Life in the city is unfortunate",
+                "Life in the city is fun",
+                1,
+                0
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "Mr. Danu, if he gets into trouble, he turns into a cat",
+                "Mr. Danu, if he gets into trouble, he turns into a ferocious lion",
+                "Mr. Danu, when he gets into trouble, he becomes calm like a cat",
+                1,
+                0
+            ],
+            [
+                "The batik fabric that I bought when I went to Klewer market was as thick as onion skin",
+                "The batik fabric bought at the klewer market is very thin",
+                "The batik fabric bought at the klewer market is very thick",
+                0,
+                1
+            ],
+            [
+                "You walk like you're being chased by a thief",
+                "You are running fast",
+                "Lakmu walked for a long time",
+                0,
+                1
+            ],
+            [
+                "Dreaming of becoming president is like Petruk's dream of becoming a queen",
+                "The dream of becoming president is impossible",
+                "The dream of becoming president is possible",
+                0,
+                1
+            ],
+            [
+                "The policeman's hair is like a cat's hair",
+                "The policeman's hair is bald",
+                "The policeman's hair is messy",
+                1,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "The taste of this food is like chicken",
+                "The taste of this food is savory",
+                "This food tastes good",
+                0,
+                1
+            ],
+            [
+                "Selfi's hair from childhood is really like brintik crowbar",
+                "Selfi's hair has been straight since childhood",
+                "Selfi's hair was really curly since childhood",
+                0,
+                1
+            ],
+            [
+                "Human life is like a dragonfly",
+                "Menungan is a long life",
+                "Humans are short-lived",
+                1,
+                0
+            ],
+            [
+                "While monitoring the exam, the teacher's eyes were like a child being sung to",
+                "When monitoring the exam, the teacher's eyes are focused on observing the students",
+                "While monitoring the exam, the teacher's eyes were not focused because he was sleepy",
+                1,
+                0
+            ],
+            [
+                "Following the parents' orders is like holding a ember of fire",
+                "Obeying the orders of the parents became doubtful",
+                "Follow the orders of the parents to be strong",
+                0,
+                1
+            ]
+        ]
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "correct": {
+        "true_same_sentiment": 616,
+        "true_diff_sentiment": 208,
+        "model_same_sentiment": 616,
+        "model_diff_sentiment": 208,
+        "true_same_sentiment_examples": [
+            [
+                "They don't like to stick together like siafu",
+                "They like to be together",
+                "They don't like being together",
+                1,
+                1
+            ],
+            [
+                "He pushed me like a hurricane",
+                "He pulled me hard",
+                "He pushed me hard",
+                1,
+                1
+            ],
+            [
+                "The police were just as respectful.",
+                "The police were fair.",
+                "The police were not fair.",
+                0,
+                0
+            ],
+            [
+                "He drew me like a magnet",
+                "He pulled me hard",
+                "He pushed me hard",
+                0,
+                0
+            ],
+            [
+                "The banking area is like a prince in his castle.",
+                "The bank area is secured.",
+                "The location of the bank is obvious.",
+                0,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "he felt a drum in his chest",
+                "he felt the weight of certain things",
+                "he didn't feel any weight",
+                0,
+                0
+            ],
+            [
+                "To him, Making money was like Oxygen",
+                "Making money kept him alive",
+                "Making money slowly killed him",
+                0,
+                0
+            ],
+            [
+                "They like to accompany you, you will think sorry",
+                "They like to be together",
+                "They don't like being together",
+                0,
+                0
+            ],
+            [
+                "he did not burst into laughter like thunder",
+                "he laughed out loud",
+                "he laughed softly",
+                1,
+                1
+            ],
+            [
+                "Time is a friend.",
+                "The time left is not much/ Time will not wait for you",
+                "There is a lot of time left/ Time will wait for you",
+                1,
+                1
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "Paying for evil is burning coals",
+                "Paying for evil is wrong",
+                "Paying for evil is right",
+                0,
+                0
+            ],
+            [
+                "Love is the world.",
+                "Love is important",
+                "Love is irrelevant",
+                0,
+                0
+            ],
+            [
+                "The athlete is a cheetah.",
+                "The athlete is very fast.",
+                "The athlete is running very slowly.",
+                0,
+                0
+            ],
+            [
+                "His friend is a sheep",
+                "It is very clever",
+                "He is not clever",
+                1,
+                1
+            ],
+            [
+                "His gait is that of a duck",
+                "His movement is smooth",
+                "His movement is not smooth",
+                1,
+                1
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "My friend is peppering me",
+                "My friend gives me a good reputation",
+                "My friend gives me a bad reputation",
+                1,
+                1
+            ],
+            [
+                "This student is a bear.",
+                "This student is respectful",
+                "This student is rude.",
+                1,
+                1
+            ],
+            [
+                "Time is a friend.",
+                "The time left is not much/ Time will not wait for you",
+                "There is a lot of time left/ Time will wait for you",
+                1,
+                1
+            ],
+            [
+                "College students don't like to hit the water",
+                "College students like to drink alcohol",
+                "College students do not like to drink alcohol",
+                1,
+                1
+            ],
+            [
+                "His brother is a fox.",
+                "The brother is very kind.",
+                "The brother is very selfish.",
+                1,
+                1
+            ]
+        ]
+    },
+    "wrong": {
+        "true_same_sentiment": 108,
+        "true_diff_sentiment": 167,
+        "model_same_sentiment": 189,
+        "model_diff_sentiment": 86,
+        "true_same_sentiment_examples": [
+            [
+                "He sat like a Hebrew book.",
+                "He sat in front.",
+                "He sat back.",
+                1,
+                0
+            ],
+            [
+                "that room has become a grave",
+                "it's very quiet",
+                "it is very noisy",
+                0,
+                1
+            ],
+            [
+                "God's word is a car without oil",
+                "God's word is enough to guide you well",
+                "God's word is not enough to guide you",
+                1,
+                0
+            ],
+            [
+                "Dryness spread across his back during practice",
+                "He sweated profusely during exercise",
+                "He did not sweat much during the exercise",
+                1,
+                0
+            ],
+            [
+                "The guy stood up like a mast when he met the rapists",
+                "The guy ran fast",
+                "The guy was stunned when he met the rapists",
+                1,
+                0
+            ]
+        ],
+        "true_diff_sentiment_examples": [
+            [
+                "Their relationship is like a whirlwind.",
+                "Their relationship is full of peace.",
+                "Their relationship is full of conflict.",
+                1,
+                0
+            ],
+            [
+                "The guard was a sea tossed by a great storm.",
+                "The guard was awake.",
+                "The guard was asleep.",
+                0,
+                1
+            ],
+            [
+                "He was like wax.",
+                "He spoke politely.",
+                "He spoke violently.",
+                0,
+                1
+            ],
+            [
+                "He was hurt like a devotee bitten by a mosquito",
+                "He fell and was badly injured",
+                "He fell but was not hurt",
+                1,
+                0
+            ],
+            [
+                "These eggs are lemons.",
+                "These eggs are delicious.",
+                "These eggs are bitter.",
+                1,
+                0
+            ]
+        ],
+        "model_same_sentiment_examples": [
+            [
+                "Tom's brother has the ability to smell like a dog",
+                "Tom's brother has the ability to smell at a distance",
+                "Tom's brother has no sense of smell at a distance",
+                0,
+                1
+            ],
+            [
+                "He liked me like a baby who won't stop crying",
+                "He was very nice to me all day",
+                "He annoyed me all day",
+                1,
+                0
+            ],
+            [
+                "The guy was out of gunpowder",
+                "The guy ran fast",
+                "The guy was stunned when he met the rapists",
+                0,
+                1
+            ],
+            [
+                "College students love to swim",
+                "College students like to drink alcohol",
+                "College students do not like to drink alcohol",
+                0,
+                1
+            ],
+            [
+                "Your voice is like chiriku",
+                "Your voice gives me comfort and pleasure when I hear it",
+                "Your voice is a nuisance to me",
+                1,
+                0
+            ]
+        ],
+        "model_diff_sentiment_examples": [
+            [
+                "That player is a hammer.",
+                "This player is tall.",
+                "This player is short.",
+                1,
+                0
+            ],
+            [
+                "He was like a trunk.",
+                "He was a leader in the meeting.",
+                "He was a follower in the meeting.",
+                0,
+                1
+            ],
+            [
+                "Alice's father is as sharp as a fly",
+                "Alice's father is very strict",
+                "Alice's father is nice and kind",
+                1,
+                0
+            ],
+            [
+                "he is chicken milk",
+                "he is very much appreciated",
+                "he is easily available",
+                0,
+                1
+            ],
+            [
+                "my lover is a pigeon",
+                "is honest",
+                "is a liar",
+                0,
+                1
+            ]
+        ]
+    }
+}
