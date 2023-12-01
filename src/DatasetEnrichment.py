@@ -49,7 +49,7 @@ class FigurativeCharacteristicsExpander:
 
 @retry(tries=5, jitter=1, backoff=2)
 def get_gpt_response(input_content: str, model="gpt-3.5-turbo-0613"):
-    return openai.ChatCompletion.create(
+    return openai.chat.completions.create(
         model=model,
         messages=[
             {
@@ -58,10 +58,19 @@ def get_gpt_response(input_content: str, model="gpt-3.5-turbo-0613"):
             }
         ]
     )
+    # return openai.ChatCompletion.create(
+    #     model=model,
+    #     messages=[
+    #         {
+    #             "role": "user",
+    #             "content": input_content
+    #         }
+    #     ]
+    # )
 
 
 def get_gpt_answer(gpt_response) -> str:
-    return gpt_response['choices'][0]['message']['content']
+    return gpt_response.choices[0].message.content
 
 
 def build_enhanced_startphrase(row):
@@ -74,19 +83,27 @@ def build_enhanced_startphrase(row):
 
     return enhanced_startphrase
 
+def enrich_df(df_path, enhanced_df_path):
+    if not os.path.exists(enhanced_df_path):
+        df = pd.read_csv(df_path)
+
+        df['vehicle'] = df['startphrase'].apply(lambda x: vehicle_detector.get_vehicle(x))
+
+        df['vehicle_characteristics'] = df['vehicle'].apply(
+            lambda x: figurative_characteristics_expander.get_k_characteristics(x))
+
+        df['startphrase_enhanced'] = df.apply(lambda x: build_enhanced_startphrase(x), axis=1)
+
+        df.to_csv(enhanced_df_path)
+
 
 if __name__ == "__main__":
     vehicle_detector = VehicleDetector()
 
     figurative_characteristics_expander = FigurativeCharacteristicsExpander()
 
-    if not os.path.exists('../data/train_enhanced/en.csv'):
-        en_train_df = pd.read_csv("../data/train/en.csv")
+    for split in ['train', 'validation']:
+        df_path = f"../data/{split}/en.csv"
+        enhanced_df_path = f'../data/{split}_enhanced/en.csv'
 
-        en_train_df['vehicle'] = en_train_df['startphrase'].apply(lambda x: vehicle_detector.get_vehicle(x))
-
-        en_train_df['vehicle_characteristics'] = en_train_df['vehicle'].apply(lambda x: figurative_characteristics_expander.get_k_characteristics(x))
-
-        en_train_df['startphrase_enhanced'] = en_train_df.apply(lambda x: build_enhanced_startphrase(x), axis=1)
-
-        en_train_df.to_csv("../data/train_enhanced/en.csv")
+        enrich_df(df_path, enhanced_df_path)
