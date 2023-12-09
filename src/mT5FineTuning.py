@@ -134,7 +134,7 @@ class DatasetForT5(DatasetDict):
                 input_text, return_tensors="pt", max_length=256, truncation=True
             )
 
-            return {"input_ids": tokenized_input, "labels": example["labels"]}
+            return {"input_ids": tokenized_input[0], "labels": example["labels"]}
 
         # tokenized_datasets = {}
 
@@ -143,7 +143,7 @@ class DatasetForT5(DatasetDict):
             # tokenized_dataset = dataset.map(_prepare_example)
             # tokenized_datasets[f"processed_{key}"] = tokenized_dataset
             self.dataset_dict[key] = dataset.map(
-                _prepare_example, remove_columns=dataset.column_names
+                _prepare_example, remove_columns=dataset.column_names, batched=False
             )
 
         # for key in tokenized_datasets:
