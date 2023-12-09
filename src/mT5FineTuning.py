@@ -4,6 +4,7 @@ import random
 
 import evaluate
 import numpy as np
+import torch
 from datasets import Dataset, DatasetDict
 from transformers import (
     DataCollatorWithPadding,
@@ -130,11 +131,20 @@ class DatasetForT5(DatasetDict):
             input_text = f"metaphor: {metaphor} meanings: 0) {meaning_0} 1) {meaning_1}"
 
             # Tokenize input text
-            tokenized_input = tokenizer.encode(
-                input_text, return_tensors="pt", max_length=256, truncation=True
+            tokenized_input = tokenizer(
+                input_text,
+                return_tensors="pt",
+                padding="max_length",
+                truncation=True,
+                max_length=128,
             )
 
-            return {"input_ids": tokenized_input[0], "labels": example["labels"]}
+            return {
+                "input_ids": tokenized_input["input_ids"].flatten(),
+                # "input_ids": tokenized_input["input_ids"],
+                # "attention_mask": tokenized_input["attention_mask"].flatten(),
+                "labels": torch.tensor(example["labels"], dtype=torch.int64),
+            }
 
         # tokenized_datasets = {}
 
@@ -168,7 +178,9 @@ if __name__ == "__main__":
     # print(dataset.get_dataset_dict()["train"][2])
     # print(dataset.get_dataset_dict()["train"][3])
 
-    data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
+    data_collator = DataCollatorWithPadding(
+        tokenizer=tokenizer, padding="longest", max_length=128, pad_to_multiple_of=8
+    )
     metric = evaluate.load("accuracy")
 
     train_dataset = dataset.get_dataset_dict()["train"]
@@ -176,6 +188,8 @@ if __name__ == "__main__":
 
     for index in random.sample(range(len(train_dataset)), 3):
         print(f"Sample {index} of the training set: {train_dataset[index]}.")
+        print(f"Sample {index} of the validation set: {validation_dataset[index]}.")
+        # print(f"Input shape: {train_dataset[index]['input_ids'].shape}")
 
     trainer = T5Trainer(
         model=get_model(args.model),
