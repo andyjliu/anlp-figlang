@@ -114,18 +114,25 @@ if __name__ == "__main__":
     vehicle_detector = VehicleDetector()
     figurative_characteristics_expander = FigurativeCharacteristicsExpander()
 
-    test_langs = ['id', 'jv', 'kn', 'su', 'sw', 'yo']
+    test_langs = ['hi', 'id', 'jv', 'kn', 'su', 'sw', 'yo']
     for lang in test_langs:
         print(f"Starting {lang}...")
         df_path = f"../data/test/{lang}.csv"
+
         enhanced_df_path = f"../data/test_enhanced/{lang}.csv"
 
-        test_df = pd.read_csv(df_path)
+        test_df = pd.read_csv(enhanced_df_path)
 
         startphrases = test_df['startphrase'].to_list()
         test_df['en_startphrase'] = translator.get_translations(startphrases, source_lang=lang, target_lang='en-US')
 
-        test_df.to_csv(enhanced_df_path)
+        ending1s = test_df['ending1'].to_list()
+        test_df['en_ending1'] = translator.get_translations(ending1s, source_lang=lang, target_lang='en-US')
+
+        ending2s = test_df['ending2'].to_list()
+        test_df['en_ending2'] = translator.get_translations(ending2s, source_lang=lang, target_lang='en-US')
+
+        test_df.to_csv(enhanced_df_path, index=False)
 
         enrich_df(enhanced_df_path, enhanced_df_path, original_startphrase_column_name='en_startphrase', is_test=True,
                   translator=translator, force_rebuild=True)
