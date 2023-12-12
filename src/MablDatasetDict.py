@@ -1,4 +1,10 @@
 from datasets import Dataset, DatasetDict
+from transformers import (
+    AutoModelForMultipleChoice,
+    AutoTokenizer,
+    Trainer,
+    TrainingArguments,
+)
 
 
 class MablDatasetDict(DatasetDict):
@@ -6,8 +12,8 @@ class MablDatasetDict(DatasetDict):
         super().__init__()
         self.dataset_dict = {}
 
-        self.dataset_dict['train'] = Dataset.from_csv(train_file)
-        self.dataset_dict['validation'] = Dataset.from_csv(validation_file)
+        self.dataset_dict["train"] = Dataset.from_csv(train_file)
+        self.dataset_dict["validation"] = Dataset.from_csv(validation_file)
 
     def get_dataset_dict(self):
         return self.dataset_dict
@@ -59,4 +65,30 @@ class MablDatasetDict(DatasetDict):
 
 
 if __name__ == "__main__":
-    print(MablDatasetDict(train_file='../data/train/en.csv', validation_file='../data/validation/en.csv').get_dataset_dict())
+    print(
+        MablDatasetDict(
+            train_file="/home/shailyjb/anlp-figlang/data/train/en.csv",
+            validation_file="/home/shailyjb/anlp-figlang/data/validation/en.csv",
+        ).get_dataset_dict()
+    )
+    print(
+        MablDatasetDict(
+            train_file="/home/shailyjb/anlp-figlang/data/train/en.csv",
+            validation_file="/home/shailyjb/anlp-figlang/data/validation/en.csv",
+        ).get_dataset_dict()["train"][0]
+    )
+    tokenizer = AutoTokenizer.from_pretrained("xlm-roberta-large")
+dataset = MablDatasetDict(
+    train_file="/home/shailyjb/anlp-figlang/data/train/en.csv",
+    validation_file="/home/shailyjb/anlp-figlang/data/validation/en.csv",
+)
+dataset.tokenize_dataset(tokenizer=tokenizer)
+print(dataset.get_dataset_dict()["train"][0])
+print(type(dataset.get_dataset_dict()["train"][0]))
+for key in dataset.get_dataset_dict()["train"][0]:
+    print(key)
+    print(dataset.get_dataset_dict()["train"][0][key])
+    print(type(dataset.get_dataset_dict()["train"][0][key]))
+    if key == "input_ids":
+        print(dataset.get_dataset_dict()["train"][0][key][0])
+        print(type(dataset.get_dataset_dict()["train"][0][key][0]))
