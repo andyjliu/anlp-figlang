@@ -20,6 +20,8 @@ def parse_args():
     parser.add_argument("--output_dir", type=str, default="output")
     parser.add_argument("--data_dir", type=str, default="../data")
     parser.add_argument("--split", type=str, default="test")
+    parser.add_argument('--sent', action='store-true')
+    parser.add_argument('--threshold', type=float, default=0.6)
 
     return parser.parse_args()
 
@@ -35,7 +37,13 @@ if __name__ == "__main__":
     model = AutoModelForMultipleChoice.from_pretrained(
         args.ckpt_path, local_files_only=True
     )
-    for lang in "hi,id,jv,kn,su,sw,yo".split(","):
+
+    if 'validation' in args.split:
+        langs = ['en']
+    else:
+        langs = "hi,id,jv,kn,su,sw,yo".split(",")
+
+    for lang in langs:
         path = f"{args.data_dir}/{args.split}/{lang}.csv"
         df = pd.read_csv(path, sep=",", header=0)
         output_path = f"{args.output_dir}/{lang}.json"
@@ -60,7 +68,15 @@ if __name__ == "__main__":
                 **{k: v.unsqueeze(0) for k, v in inputs.items()}, labels=labels
             )
             logits = outputs.logits
-            predicted_class = logits.argmax().item()
+            if args.sent:
+                confidence = torch.softmax(logits).max().item()
+                if confidence < args.threshold:
+                    predicted_class = row['sent_label']
+                else:
+                    predicted_class = logits.argmax().item()
+                    
+            else:
+                predicted_class = logits.argmax().item()
             if true_label == predicted_class:
                 metrics["correct"].append(
                     (startphrase, ending1, ending2, true_label, predicted_class)
