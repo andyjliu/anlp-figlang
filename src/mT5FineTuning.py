@@ -3,13 +3,14 @@ import os
 import random
 
 import evaluate
-import numpy as np
-import torch
 from datasets import Dataset, DatasetDict
 from transformers import (
+    AutoTokenizer,
+    DataCollatorForSeq2Seq,
     DataCollatorWithPadding,
-    T5ForConditionalGeneration,
-    T5Tokenizer,
+    MT5ForConditionalGeneration,
+    Seq2SeqTrainer,
+    Seq2SeqTrainingArguments,
     Trainer,
     TrainingArguments,
 )
@@ -17,17 +18,19 @@ from transformers import (
 import wandb
 
 MT5_SMALL = "google/mt5-small"
+MT5_LARGE = "google/mt5-large"
 accuracy = evaluate.load("accuracy")
 
 
 def parse_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--model", type=str, default=MT5_SMALL)
+    parser.add_argument("--model", type=str, default=MT5_LARGE)
     parser.add_argument(
         "--output_dir",
         type=str,
-        default="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/mt5_small_trial_2_epochs",
+        default="/data/tir/projects/tir5/users/shailyjb/anlp-figlang/mt5_large_textoptions_seq2seq",
+        # default="/home/shailyjb/anlp-figlang/src/mt5-trial",
     )
     parser.add_argument(
         "--train_file",
@@ -50,7 +53,7 @@ def configure_wandb():
 
 
 def get_model(model_name):
-    return T5ForConditionalGeneration.from_pretrained(model_name)
+    return MT5ForConditionalGeneration.from_pretrained(model_name)
 
 
 class T5Trainer:
@@ -65,7 +68,7 @@ class T5Trainer:
         eval_dataset,
         data_collator,
     ):
-        training_args = TrainingArguments(
+        training_args = Seq2SeqTrainingArguments(
             output_dir=output_dir,
             overwrite_output_dir=True,
             evaluation_strategy="epoch",
@@ -81,24 +84,24 @@ class T5Trainer:
             logging_strategy="epoch",
         )
 
-        self.trainer = Trainer(
+        self.trainer = Seq2SeqTrainer(
             model=model,
             args=training_args,
             train_dataset=train_dataset,
             eval_dataset=eval_dataset,
             data_collator=data_collator,
-            compute_metrics=self.compute_metrics,
+            # compute_metrics=self.compute_metrics,
         )
 
     def train(self):
         self.trainer.train()
 
-    def compute_metrics(self, eval_prediction_label_tuples):
-        predictions, labels = eval_prediction_label_tuples
+    # def compute_metrics(self, eval_prediction_label_tuples):
+    #     predictions, labels = eval_prediction_label_tuples
 
-        predictions = np.argmax(predictions, axis=1)
+    #     # predictions = np.argmax(predictions, axis=1)
 
-        return accuracy.compute(predictions=predictions, references=labels)
+    #     return accuracy.compute(predictions=predictions, references=labels)
 
 
 class DatasetForT5(DatasetDict):
@@ -128,36 +131,48 @@ class DatasetForT5(DatasetDict):
                 meaning_1 += "."
 
             # Create prompt that will be input to the model
-            input_text = f"metaphor: {metaphor} meanings: 0) {meaning_0} 1) {meaning_1}"
+            input_text = f"select the correct meaning for the metaphor:\n\nmetaphor: '{metaphor}'\noption a)'{meaning_0}'\option b) '{meaning_1}'\ncorrect option: <extra_id_0>"
+            # label = "option a" if example["labels"] == 0 else "option b"
+            # label = "a" if example["labels"] == 0 else "b"
+            if example["labels"] == 0:
+                label = "option a"
+            elif example["labels"] == 1:
+                label = "option b"
+            # label = str(example["labels"])
+            # print(label)
+            input_label = "<extra_id_0> {label}".format(label=label)
+            # print(input_label)
+
+            # input_text = f"select the best meaning of the metaphor: '{metaphor}' from the meanings: 0) '{meaning_0}' or 1) '{meaning_1}'."
 
             # Tokenize input text
             tokenized_input = tokenizer(
                 input_text,
                 return_tensors="pt",
-                padding="max_length",
-                truncation=True,
-                max_length=128,
+                # padding="max_length",
+                # truncation=True,
+                # max_length=128,
             )
-
+            tokenized_labels = tokenizer(
+                input_label,
+                return_tensors="pt",
+                # padding="max_length",
+                # truncation=True,
+                # max_length=128,
+            )
+            # print(type(tokenized_input.input_ids))
+            # print(tokenized_input)
+            # print(tokenized_labels)
             return {
-                "input_ids": tokenized_input["input_ids"].flatten(),
-                # "input_ids": tokenized_input["input_ids"],
-                # "attention_mask": tokenized_input["attention_mask"].flatten(),
-                "labels": torch.tensor(example["labels"], dtype=torch.int64),
+                "input_ids": tokenized_input.input_ids.flatten(),
+                "labels": tokenized_labels.input_ids.flatten(),
             }
-
-        # tokenized_datasets = {}
 
         for key in self.dataset_dict:
             dataset = self.dataset_dict[key]
-            # tokenized_dataset = dataset.map(_prepare_example)
-            # tokenized_datasets[f"processed_{key}"] = tokenized_dataset
             self.dataset_dict[key] = dataset.map(
                 _prepare_example, remove_columns=dataset.column_names, batched=False
             )
-
-        # for key in tokenized_datasets:
-        #     self.dataset_dict[key] = tokenized_datasets[key]
 
 
 if __name__ == "__main__":
@@ -168,19 +183,17 @@ if __name__ == "__main__":
         train_file=args.train_file,
         validation_file=args.val_file,
     )
-    # print(dataset.get_dataset_dict())
-    # print(dataset.get_dataset_dict()["train"][0])
-    tokenizer = T5Tokenizer.from_pretrained(MT5_SMALL)
+    tokenizer = AutoTokenizer.from_pretrained(args.model)
     dataset.prepare_input(tokenizer)
-    # print(dataset.get_dataset_dict())
-    # print(dataset.get_dataset_dict()["train"][0])
-    # print(dataset.get_dataset_dict()["train"][1])
-    # print(dataset.get_dataset_dict()["train"][2])
-    # print(dataset.get_dataset_dict()["train"][3])
 
-    data_collator = DataCollatorWithPadding(
-        tokenizer=tokenizer, padding="longest", max_length=128, pad_to_multiple_of=8
+    data_collator = DataCollatorForSeq2Seq(
+        tokenizer=tokenizer,
+        return_tensors="pt",
+        padding="max_length",
+        max_length=128,
+        pad_to_multiple_of=8,
     )
+
     metric = evaluate.load("accuracy")
 
     train_dataset = dataset.get_dataset_dict()["train"]
@@ -188,15 +201,15 @@ if __name__ == "__main__":
 
     for index in random.sample(range(len(train_dataset)), 3):
         print(f"Sample {index} of the training set: {train_dataset[index]}.")
-        print(f"Sample {index} of the validation set: {validation_dataset[index]}.")
+        # print(f"Sample {index} of the validation set: {validation_dataset[index]}.")
         # print(f"Input shape: {train_dataset[index]['input_ids'].shape}")
 
     trainer = T5Trainer(
         model=get_model(args.model),
         output_dir=args.output_dir,
-        batch_size=32,
-        learning_rate=5e-3,
-        num_training_epochs=2,
+        batch_size=8,
+        learning_rate=5e-5,
+        num_training_epochs=20,
         train_dataset=train_dataset,
         eval_dataset=validation_dataset,
         data_collator=data_collator,
