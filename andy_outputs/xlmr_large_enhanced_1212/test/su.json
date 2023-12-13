@@ -1,0 +1,4207 @@
+{
+    "correct": [
+        [
+            "hirup kawas kurung batok. Ciri-ciri kandang diantarana: dikurung, ngawatesan, dipenjara.",
+            "hirup kawas kakekang",
+            "hirup kawas bebas.",
+            0,
+            0
+        ],
+        [
+            "hirup kawas murag bulu bitis. Karakteristik rambut kalebet: Voluminous, Ekspresif, Serbaguna.",
+            "hirup kawas kakekang",
+            "hirup kawas bebas.",
+            1,
+            1
+        ],
+        [
+            "jadi jalma teh kudu beurat birit. Ciri jalma: diare ngawengku: teu pikaresepeun, involuntary, disruptive.",
+            "jadi jalma teh kudu rajin",
+            "jadi jalma teh kudu kedul.",
+            1,
+            1
+        ],
+        [
+            "Mamat lumpatna siga kuya. Ciri-ciri penyu diantarana: lambat, ulet, tengtrem.",
+            "mamat lumpat siga gancang",
+            "mamat lumpat siga laun.",
+            1,
+            1
+        ],
+        [
+            "hirup teh kudu boga pamadeugan. Ciri-ciri sikep ngawengku: dinamis, boga pangaruh, determinasi.",
+            "hirup teh kudu boga pendirian",
+            "hirup teh kudu boga plin-plan.",
+            0,
+            0
+        ],
+        [
+            "hirup teh kudu boga kaditu kadieu. Ciri-ciri hirup diantarana: Dinamis, transformatif, teu bisa diprediksi.",
+            "hirup teh kudu boga pendirian",
+            "hirup teh kudu boga plin-plan.",
+            1,
+            1
+        ],
+        [
+            "si amat mah sok ngeduk cikur kedah mitutur. Ciri tina ka batur ngeunaan naon kuring manggihan, kawas arkeolog jeung harta karun anyar kapanggih.\n\nharta ngawengku: seru, intriguing, berharga.",
+            "jadi jalma kudu jujur",
+            "jadi jalma kudu boong.",
+            0,
+            0
+        ],
+        [
+            "si amat mah sok luncat licin. Ciri-ciri leueur diantarana: teu stabil, khianat, hese dihartikeun.",
+            "jadi jalma kudu jujur",
+            "jadi jalma kudu boong.",
+            1,
+            1
+        ],
+        [
+            "si eta mah ateul biwir. Ciri biwir ngawengku: lemes, sensual, ekspresif.",
+            "si eta mah ngomong wae",
+            "si eta mah cicing wae.",
+            0,
+            0
+        ],
+        [
+            "si eta mah kawas gaang katincak. Karakteristik anjeunna ngawengku: abstrak, universal, ambigu.",
+            "si eta mah ngomong wae",
+            "si eta mah cicing wae.",
+            1,
+            1
+        ],
+        [
+            "lamun mikir kudu pondok lengkah. Ciri-ciri l\u00e9ngkahna ngawengku: incremental, progresif, ngahaja.",
+            "lamun mikir kudu teu mikir panjang",
+            "lamun mikir kudu mikir jauh.",
+            0,
+            0
+        ],
+        [
+            "lamun mikir kudu panjang lengkah. Ciri-ciri l\u00e9ngkah ngawengku: tepat, progresif, ngahaja.",
+            "lamun mikir kudu teu mikir panjang",
+            "lamun mikir kudu mikir jauh.",
+            1,
+            1
+        ],
+        [
+            "jelema lamun geus kandel kulit bengeut. Ciri kulit ngawengku: lemes, pelindung, s\u00e9nsitip.",
+            "jelema lamun geus teu gaduh kaera",
+            "jelema lamun geus eraan kudu diantepkeun.",
+            0,
+            0
+        ],
+        [
+            "si Udin jadi jalma teh meni buntut kasiran. Ciri-ciri buntutna diantarana: panjang, fleksibel, nonjol.",
+            "si Udin jadi jalma teh meni koret, pedit",
+            "si Udin jadi jalma teh meni reseup babagi.",
+            0,
+            0
+        ],
+        [
+            "Iis mah amis daging. Ciri daging diantarana: juicy, gurih, minuhan.",
+            "Iis mah gampang kana panyakit",
+            "Iis mah teu gampang kana panyakit.",
+            0,
+            0
+        ],
+        [
+            "lamun bade nginjem duit kudu make duit panas. Karakteristik duit diantarana: Desirable, hese dihartikeun, consequential.",
+            "lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi",
+            "lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.",
+            0,
+            0
+        ],
+        [
+            "lamun bisnis mah pasti jadi kokoro nyoso. Ciri-ciri kokoro nyoso diantarana: intuitif, profound, emotional.",
+            "lamun bisnis mah pasti jadi loba duit",
+            "lamun bisnis mah pasti jadi kacida teu boga duit.",
+            1,
+            1
+        ],
+        [
+            "jadi jelema teh kadang bisa jadi yuni kembang. Ciri-ciri kembang diantarana: Geulis, seungit, hipu.",
+            "jadi jelema teh kadang bisa jadi pikareseupeun",
+            "jadi jelema teh kadang bisa jadi pikasebeleun.",
+            0,
+            0
+        ],
+        [
+            "jelema teh kabagi jadi dua, nyaeta anu wening galih. Ciri-ciri galih diantarana: misterius, enigmatis, menawan.",
+            "jelema teh kabagi jadi dua, nyaeta anu bersih hate",
+            "jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.",
+            0,
+            0
+        ],
+        [
+            "budak teh kudu atah adol. Ciri-ciri budak diantarana: Panasaran, suka ulin, polos.",
+            "budak teh kudu alus didikana",
+            "budak teh kudu kurang didikan.",
+            1,
+            1
+        ],
+        [
+            "tong jadi budak anu bodo katotoloyo. Ciri budak diantarana: energetik, polos, suka ulin.",
+            "tong jadi budak anu bodo tapi tara daek nanya",
+            "tong jadi budak anu bodo tapi daek tatanya.",
+            0,
+            0
+        ],
+        [
+            "si Dewi mah jadi gadis teh meni handap asor. Ciri-ciri budak aw\u00e9w\u00e9 nya\u00e9ta: lucu, hipu, mempesona.",
+            "si Dewi mah jadi gadis teh meni teu sombong",
+            "si Dewi mah jadi gadis teh meni sombong.",
+            0,
+            0
+        ],
+        [
+            "ceunah lamun jadi awewe teh kudu siga putri raja. Ciri-ciri putri diantarana: nyaah, ngasuh, dipikanyaah.",
+            "ceunah lamun jadi awewe teh kudu anggun",
+            "ceunah lamun jadi awewe teh kudu buruk rupa.",
+            0,
+            0
+        ],
+        [
+            "poe ieu teh cuaca siga hujan angin dordar gelap. Ciri-ciri hujan diantarana: mesmerizing, refreshing, cleansing.",
+            "poe ieu teh cuaca siga panas pisan",
+            "poe ieu teh cuaca siga hujan angin.",
+            1,
+            1
+        ],
+        [
+            "hujan teh meuni siga tiis ceuli. Ciri-ciri ceuli diantarana: s\u00e9nsitip, ngad\u00e9ng\u00e9keun, nyambung.",
+            "hujan teh meuni badag jeung gandeng",
+            "hujan teh meuni sepi jeung geunaheun.",
+            1,
+            1
+        ],
+        [
+            "si eta mah kuatannya, teu siga lempeuh yuni. Ciri kuat diantarana: tabah, kuat, t\u00e9kad.",
+            "si eta mah kuatannya, teu gampang geuring",
+            "si eta mah kuatannya, teu sehat.",
+            0,
+            0
+        ],
+        [
+            "si eta mah kuatannya, teu siga jagjag waringkas. Ciri-ciri Jagjag Waringkas. ngawengku: misterius, enchanting, rhythmic.",
+            "si eta mah kuatannya, teu gampang geuring",
+            "si eta mah kuatannya, teu sehat.",
+            1,
+            1
+        ],
+        [
+            "ai budak keneh mah antep kudu jadi kembang buruan. Ciri kembang diantarana: Geulis, hipu, mekar.",
+            "ai budak keneh mah antep kudu jadi budak nu reseup kaluar",
+            "ai budak keneh mah antep kudu jadi tong dikurung.",
+            0,
+            0
+        ],
+        [
+            "Kadang hirup teh bisa jadi kembang seungit. Ciri kembang diantarana: geulis, hipu, seungit.",
+            "Kadang hirup teh bisa jadi katingali senang",
+            "Kadang hirup teh bisa jadi teu bahagia.",
+            0,
+            0
+        ],
+        [
+            "Kadang hirup teh bisa jadi bau bangke. Karakteristik bau ngawengku: evocative, halus, memorable.",
+            "Kadang hirup teh bisa jadi katingali senang",
+            "Kadang hirup teh bisa jadi teu bahagia.",
+            1,
+            1
+        ],
+        [
+            "Ulah agul kana payung butut. Karakteristik payung diantarana: pelindung, portabel, serbaguna.",
+            "Ulah agul kana harta saetik nu dipikaboga ayeuna",
+            "Ulah agul kana harta loba nu dipikaboga ayeuna.",
+            0,
+            0
+        ],
+        [
+            "Jalma teh bisa jadi seune. Ciri seuneu ngawengku: gairah, transformative, galak.",
+            "Jalma teh bisa jadi nu tenang",
+            "Jalma teh bisa jadi nu riweuh.",
+            1,
+            1
+        ],
+        [
+            "Hirup kudu bisa jadi batu. Ciri-ciri batu diantarana: Padet, tahan banting, teu leubeut.",
+            "Hirup kudu bisa jadi boga pamadegan",
+            "Hirup kudu bisa jadi plin-plan.",
+            0,
+            0
+        ],
+        [
+            "Hirup kudu bisa jadi awi sumaer di pasir. Ciri-ciri awi diantarana: serbaguna, gancang tumuwuh, aw\u00e9t.",
+            "Hirup kudu bisa jadi boga pamadegan",
+            "Hirup kudu bisa jadi plin-plan.",
+            1,
+            1
+        ],
+        [
+            "Jadi budak ulah nincak hulu. Karakteristik aliran ngawengku: kontinyu, ngalir, dinamis.",
+            "Jadi budak ulah teu sopan",
+            "Jadi budak ulah sopan.",
+            0,
+            0
+        ],
+        [
+            "hirup mah ngan ukur hahay. Ciri-ciri hirup diantarana: Evolving, unpredictable, transformative.",
+            "hirup mah ngan ukur senang",
+            "hirup mah ngan ukur sedih.",
+            0,
+            0
+        ],
+        [
+            "ai ka batur teh ulah sok ngukur baju sasereg awak. Karakteristik baju ngawengku: stylish, transformative, ekspresif.",
+            "ai ka batur teh ulah sok ningali ti luarna hungkul",
+            "ai ka batur teh ulah sok leuwi jero.",
+            0,
+            0
+        ],
+        [
+            "jadi gadis balik teh tong pas datang bulan. Karakteristik bulan ngawengku: Temporal, cyclical, fleeting.",
+            "jadi gadis balik teh tong pas datang isuk",
+            "jadi gadis balik teh tong pas datang peuting.",
+            1,
+            1
+        ],
+        [
+            "Lamun gawe teh kuduna mah bisa paaing-aing. Karakteristik karya ngawengku: nungtut, transformative, bermakna.",
+            "Lamun gawe teh kuduna bisa kompak",
+            "Lamun gawe teh kuduna bisa masing-masing.",
+            1,
+            1
+        ],
+        [
+            "Nuju liburan teh kedah bari bear budi. Karakteristik liburan diantarana: Leisurely, refreshing, ngewa.",
+            "Nuju liburan teh kedah bari gumbira",
+            "Nuju liburan teh kedah bari nyesel.",
+            0,
+            0
+        ],
+        [
+            "Hirup teh kadang bisa jadi runtah. Ciri-ciri runtah diantarana: boros, sia-sia, kaleuleuwihi.",
+            "Hirup teh kadang bisa jadi teu dihargaan",
+            "Hirup teh kadang bisa jadi diagung-agungkeun.",
+            0,
+            0
+        ],
+        [
+            "Hirup teh kadang bisa jadi emas. Ciri emas diantarana: lustrous, berharga, adi.",
+            "Hirup teh kadang bisa jadi teu dihargaan",
+            "Hirup teh kadang bisa jadi diagung-agungkeun.",
+            1,
+            1
+        ],
+        [
+            "Sangkan hirup teh loba kapait. Ciri-ciri hirup diantarana: transformational, unpredictable, fleeting.",
+            "Sangkan hirup teh loba cobaan",
+            "Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.",
+            0,
+            0
+        ],
+        [
+            "Kadang jelema teh bisa kandel kulit bengeut. Ciri kulit ngawengku: Sensitip, pelindung, serbaguna.",
+            "Kadang jelema teh bisa teu boga kaera",
+            "Kadang jelema teh bisa eraan.",
+            0,
+            0
+        ],
+        [
+            "ayeuna buuk na teh tos jadi barodas. Karakteristik rambut kalebet: Lustrous, serbaguna, ekspresif.",
+            "Ayeuna mah tos jadi kolot",
+            "Ayeuna mah tos jadi ngora keneh.",
+            0,
+            0
+        ],
+        [
+            "Jadi jelema mah ulah sulit ati. Ciri jalma ngawengku: kompleks, rupa-rupa, sosial.",
+            "Jadi jelema mah ulah iri",
+            "Jadi jelema mah ulah bageur.",
+            0,
+            0
+        ],
+        [
+            "Ayeuna mah ka Bandung teh meuni siga mapay jalan satapak. Ciri jalan satapak diantarana: berliku, \u00e9ksplorasi, hese dihartikeun.",
+            "Ayeuna mah ka Bandung teh meuni deket",
+            "Ayeuna mah ka Bandung teh meuni jauh.",
+            1,
+            1
+        ],
+        [
+            "Maneh mah jadi jelema teh meuni beuteng heras. Ciri burih ngawengku: lapar, tahan banting, s\u00e9nsitip.",
+            "Maneh mah jadi jelema teh meuni loba dahar",
+            "Maneh mah jadi jelema teh meuni tara barang dahar.",
+            1,
+            1
+        ],
+        [
+            "Lalakonna siga bangkong dikurung batok. Ciri-ciri bangkong di antarana: leunca, luncat, kamuflase.",
+            "Lalakonna keueungeun",
+            "Lalakonna liar.",
+            0,
+            0
+        ],
+        [
+            "Balong laukna siga mencrang cai herang. Ciri-ciri cai diantarana: Nyegerkeun, Ngabersihkeun, Ngahirupkeun.",
+            "Balong laukna beresih",
+            "Balong laukna ledig.",
+            0,
+            0
+        ],
+        [
+            "Balong laukna siga buyatak solokan. Ciri-ciri solokan diantarana: cap\u00e9, ny\u00e9\u00e9pkeun, ny\u00e9\u00e9pkeun.",
+            "Balong laukna beresih",
+            "Balong laukna ledig.",
+            1,
+            1
+        ],
+        [
+            "Rupina siga kembang beukah. Karakteristik kembang kalebet: hipu, lincah, pikaresepeun.",
+            "Rupina sae",
+            "Rupina awon.",
+            0,
+            0
+        ],
+        [
+            "Sorana kawas tarompet. Ciri-ciri taromp\u00e9t diantarana: nyaring, nyaring, nitah.",
+            "Sora na tarik",
+            "Sora na laun.",
+            0,
+            0
+        ],
+        [
+            "Sorana kawas susumputan. Ciri panutup ngawengku: pelindung, serbaguna, concealing.",
+            "Sora na tarik",
+            "Sora na laun.",
+            1,
+            1
+        ],
+        [
+            "Neangan si eta kawas neang jarum di sawah. Ciri tina jarum diantarana: seukeut, ramping, piercing.",
+            "Neangan si eta hese",
+            "Neangan si eta gampil.",
+            0,
+            0
+        ],
+        [
+            "Sapopoe si eta kawas nu diudag ku rentenir. Ciri rentenir diantarana: kejam, licik, exploitatif.",
+            "Sapopoe si eta seueur emutan",
+            "Sapopoe si eta euweuh pagawean.",
+            0,
+            0
+        ],
+        [
+            "Mun makan siga loba duit. Ciri-ciri duit diantarana: berharga, didadak, leueur.",
+            "Mun dahar loba",
+            "Mun dahar saeutik.",
+            1,
+            1
+        ],
+        [
+            "Nasehat ti bapa na leungit siga debu kahujanan. Karakteristik lebu ngawengku: leutik, ubiquitous, unsettled.",
+            "Nasihat apa na diemutan",
+            "Nasihat apa na poho.",
+            1,
+            1
+        ],
+        [
+            "Dagingna siga tahu. Ciri-ciri tahu diantarana: serbaguna, bergizi, hambar.",
+            "Daging na hipu",
+            "Daging na heuras.",
+            0,
+            0
+        ],
+        [
+            "Dagingna siga batu. Ciri-ciri batu diantarana: teuas, aw\u00e9t, kuno.",
+            "Daging na hipu",
+            "Daging na heuras.",
+            1,
+            1
+        ],
+        [
+            "Sakapeung jodoh teh kawas meuli ucing dina karung. Ciri ucing diantarana: galak, lincah, mandiri.",
+            "Sakapeung jodoh teh teu kantos ditebak",
+            "Sakapeung jodoh teh kantos ditebak.",
+            0,
+            0
+        ],
+        [
+            "Sakapeung jodoh teh kawas meuli bumbu di pasar. Ciri-ciri bumbu diantarana: ubar, seungit, rasa.",
+            "Sakapeung jodoh teh teu kantos ditebak",
+            "Sakapeung jodoh teh kantos ditebak.",
+            1,
+            1
+        ],
+        [
+            "Acukna siga nimu di rongsokan. Ciri-ciri sampah diantarana: ngahina, teu aya hargana, pikareueuseun.",
+            "Acuk na sae",
+            "Acuk na awon.",
+            1,
+            1
+        ],
+        [
+            "Sapi na siga nu cacingan. Ciri-ciri cacing diantarana: licin, licik, licik.",
+            "Sapi na ageung",
+            "Sapi na leutik.",
+            1,
+            1
+        ],
+        [
+            "Mung ngomong siga aya sambelna. Ciri sambel diantarana: nyaring, ngadadak, pengkuh.",
+            "Mung ngomong nyeurikeun hate",
+            "Mung ngomong hati-hati.",
+            0,
+            0
+        ],
+        [
+            "Mung ngomong siga putri solo. Ciri-ciri putri diantarana: Enchanting, Regal, Graceful.",
+            "Mung ngomong nyeurikeun hate",
+            "Mung ngomong hati-hati.",
+            1,
+            1
+        ],
+        [
+            "Ditingal teh si eta siga ibak kembang tujuh rupi. Karakteristik kembang diantarana: geulis, hipu, warni.",
+            "Ditingal teh si eta bau",
+            "Ditingal teh si eta wangi.",
+            1,
+            1
+        ],
+        [
+            "Ka pasar ge siga nu rek ka uleman. Karakteristik pasar diantarana: Sibuk, lincah, kompetitif.",
+            "Ka pasar loba dangdan",
+            "Ka pasar teu dangdan.",
+            0,
+            0
+        ],
+        [
+            "Lengeunna geutihan siga nu ditabrak mobil. Ciri tina mobil ngawengku: gancang, sleek, serbaguna.",
+            "Lengeunna geutihan loba",
+            "Lengeunna geutihan saeutik.",
+            0,
+            0
+        ],
+        [
+            "Lengeunna geutihan siga kakowet ucing. Ciri cakar diantarana: seukeut, kuat, bisa ditarik.",
+            "Lengeunna geutihan loba",
+            "Lengeunna geutihan saeutik.",
+            1,
+            1
+        ],
+        [
+            "Si eta mung ceurik siga nu loba masalah. Ciri-ciri masalah diantarana: Nangtang, pengkuh, nyusahkeun.",
+            "Si eta mung ceurik tarik",
+            "Si eta mung ceurik lalaunan.",
+            0,
+            0
+        ],
+        [
+            "Mangga na siga madu. Ciri-ciri madu diantarana: emas, amis, lengket.",
+            "Mangga na amis",
+            "Mangga na haseum.",
+            0,
+            0
+        ],
+        [
+            "Mangga na siga cuka. Ciri cuka di antarana: haseum, pedas, asam.",
+            "Mangga na amis",
+            "Mangga na haseum.",
+            1,
+            1
+        ],
+        [
+            "Rai na ka adi na teh siga perhiasan. Ciri tina perhiasan ngawengku: geulis, adi, hiasan.",
+            "Kalakuan rai na ka adi jail",
+            "Kalakuan rai na ka adi nyaah.",
+            1,
+            1
+        ],
+        [
+            "Si eta mung ngomong siga nu kahuruan. Ciri seuneu ngawengku: ngaduruk, sengit, transformative.",
+            "Mung nyauran gugurusuhan",
+            "Mung nyauran anteng.",
+            0,
+            0
+        ],
+        [
+            "Rupi na siga arjuna. Ciri-ciri raray diantarana: ekspresif, nembongkeun, inget.",
+            "Rupi na kasep",
+            "Rupi na awon.",
+            0,
+            0
+        ],
+        [
+            "Kuliah na siga euweuh tanggal beureum. Ciri tina titimangsa ngawengku: romantis, unpredictable, serbaguna.",
+            "Kuliah na rajin",
+            "Kuliah na sakahayang.",
+            0,
+            0
+        ],
+        [
+            "Kuliah na siga kalender isina tanggal beureum. Ciri kurma diantarana: amis, serbaguna, kuno.",
+            "Kuliah na rajin",
+            "Kuliah na sakahayang.",
+            1,
+            1
+        ],
+        [
+            "Awakna siga tangkal jati. Ciri-ciri tangkal di antarana: jangkung, kokoh, akaran.",
+            "Awakna kiat",
+            "Awakna letoy.",
+            0,
+            0
+        ],
+        [
+            "Mung lumpat si eta siga peucang. Ciri-ciri jalma g\u00e9lo diantarana: Liar, \u00e9dan, teu bisa ditebak.",
+            "Mung lumpat gancang",
+            "Mung lumpat lila.",
+            0,
+            0
+        ],
+        [
+            "Mung lumpat si eta siga kuya. Ciri-ciri kuya diantarana: bandel, leuleus, wijaksana.",
+            "Mung lumpat gancang",
+            "Mung lumpat lila.",
+            1,
+            1
+        ],
+        [
+            "Masakanna kawas nu boga resto ageung. Ciri nu boga ngawengku: Dominan, posesif, tanggung jawab.",
+            "Masakan na awon",
+            "Masakan na ngeunah.",
+            1,
+            1
+        ],
+        [
+            "Hawa na siga di leuweung. Ciri-ciri leuweung diantarana: liar, subur, misterius.",
+            "Hawa na tiis",
+            "Hawa na panas.",
+            0,
+            0
+        ],
+        [
+            "Hawa na siga di pasar. Karakteristik pasar ngawengku: kompetitif, bustling, dinamis.",
+            "Hawa na tiis",
+            "Hawa na panas.",
+            1,
+            1
+        ],
+        [
+            "Kaayaan ayeuna kawas loba dosa. Ciri-ciri dosa diantarana: maksiat, nipu, haram.",
+            "Kaayaan ayeuna awon",
+            "Kaayaan ayeuna alus.",
+            0,
+            0
+        ],
+        [
+            "Kaayaan ayeuna kawas loba pahala. Karakteristik ganjaran ngawengku: Motivating, Gratifying, minuhan.",
+            "Kaayaan ayeuna awon",
+            "Kaayaan ayeuna alus.",
+            1,
+            1
+        ],
+        [
+            "Hujanna kawas cai ceret. Karakteristik cai di antarana: nyegerkeun, penting, transformatif.",
+            "Hujan na lebat",
+            "Hujan na tiiseun.",
+            1,
+            1
+        ],
+        [
+            "Salaki na kawas Nyi Iteung. Ciri Nyi Iteung. ngawengku: misterius, enigmatic, captivating.",
+            "Salaki na kedul",
+            "Salaki na rajin.",
+            1,
+            1
+        ],
+        [
+            "Budak na siga nu dipoe ti isuk nepi peuting. Ciri-ciri peuting diantarana: po\u00e9k, mistis, mempesona.",
+            "Budak na kurus",
+            "Budak na gendut.",
+            0,
+            0
+        ],
+        [
+            "Budak na siga nu dihuapan sapopoe. Ciri-ciri budak diantarana: Suka ulin, enerjik, nakal.",
+            "Budak na kurus",
+            "Budak na gendut.",
+            1,
+            1
+        ],
+        [
+            "Hirup teh kawas meuntas atas benang. Ciri-ciri benang di antarana: Lemes, saling nyambung, rumit.",
+            "Hirup teh loba tantangan",
+            "Hirup teh teu aya tantangan.",
+            0,
+            0
+        ],
+        [
+            "Hirup teh kawas leumpang dina jalan lega. Ciri jalan diantarana: panjang, taya tungtung, transformatif.",
+            "Hirup teh loba tantangan",
+            "Hirup teh teu aya tantangan.",
+            1,
+            1
+        ],
+        [
+            "Ngabaturan si eta unggal poe siga keur aya perang wae. Ciri-ciri perang diantarana: brutal, kacau, dahsyat.",
+            "Ngabaturan si eta unggal poe loba masalah",
+            "Ngabaturan si eta unggal poe euweuh masalah.",
+            0,
+            0
+        ],
+        [
+            "Kakolot undak unduk na siga malin kundang. Ciri-ciri maling diantarana: licik, tipu daya, licik.",
+            "Ka kolot undak unduk na siga durhaka",
+            "Ka kolot undak unduk na siga ngabaktos.",
+            0,
+            0
+        ],
+        [
+            "Mie na beukah kawas kembang aromanis. Karakteristik kembang diantarana: vibrant, hipu, seungit.",
+            "Mie na beukah sae",
+            "Mie na beukah teu tangtu.",
+            0,
+            0
+        ],
+        [
+            "Mie na beukah kawas adonan buyatak. Karakteristik adonan ngawengku: lentur, serbaguna, berharga.",
+            "Mie na beukah sae",
+            "Mie na beukah teu tangtu.",
+            1,
+            1
+        ],
+        [
+            "Sakola na ka bumi siga ti kulon ka wetan. Ciri-ciri w\u00e9tan diantarana: Misterius, memikat, transformatif.",
+            "Sakola na ka bumi tebih",
+            "Sakola na ka bumi caket.",
+            0,
+            0
+        ],
+        [
+            "Sakola na ka bumi siga ukur salengkah. Ciri-ciri l\u00e9ngkah ngawengku: maju, decisive, progressive.",
+            "Sakola na ka bumi tebih",
+            "Sakola na ka bumi caket.",
+            1,
+            1
+        ],
+        [
+            "Pangaos cocoan si ade siga cimol tilu siki. Ciri-ciri siki diantarana: leutik, pot\u00e9nsial, subur.",
+            "Pangaos cocoan si ade awis",
+            "Pangaos cocoan si ade mirah.",
+            1,
+            1
+        ],
+        [
+            "Wengi ieu langit na siga cai kopi. Ciri-ciri cai diantarana: nyegerkeun, nyegerkeun, penting.",
+            "Wengi ieu langit na mencrang",
+            "Wengi ieu langit na ceudeum.",
+            1,
+            1
+        ],
+        [
+            "Kasohor na eta artis siga nu gaduh panghargaan ti seeuer nagara. Ciri-ciri seniman diantarana: Kreatif, Imajinatif, Ekspresif.",
+            "Kasohor na eta artis sagala jalmi uninga",
+            "Kasohor na eta artis teu aya jalmi uninga.",
+            0,
+            0
+        ],
+        [
+            "Nu lalajo di stadion kamari siga budak leutik. Karakteristik stadion di antarana: Massive, vibrant, exhilarating.",
+            "Nu lalajo di stadion kamari rame",
+            "Nu lalajo di stadion kamari sepi.",
+            0,
+            0
+        ],
+        [
+            "Beuki ka dieu pamarentah teh siga pare nu geus asak. Ciri-ciri b\u00e9as diantarana: serbaguna, bergizi, pokok.",
+            "Beuki ka dieu pamarentah beuki korup",
+            "Beuki ka dieu pamarentah beuki ngaalusan.",
+            1,
+            1
+        ],
+        [
+            "Sanajan loba masalah manehna siga kembang katewak angin. Karakteristik kembang diantarana: hipu, vibrant, seungit.",
+            "Sanajan loba masalah maneh na pantang nyerah",
+            "Sanajan loba masalah maneh na gampil nyerah.",
+            1,
+            1
+        ],
+        [
+            "Ngalereskeun ieu mesin siga nu keur operasi jantung. Ciri tina bedah ngawengku: Komplek, transformative, taliti.",
+            "Ngalereskeun ieu mesin hese",
+            "Ngalereskeun ieu mesin gampil.",
+            0,
+            0
+        ],
+        [
+            "Ngalereskeun ieu mesin siga ngalereskeun cocoan budak. Ciri-ciri cocooan diantarana: Senang, ulin, ngahibur.",
+            "Ngalereskeun ieu mesin hese",
+            "Ngalereskeun ieu mesin gampil.",
+            1,
+            1
+        ],
+        [
+            "Asep lumpatna kawas keong. Ciri-ciri keong diantarana: Lambat, Leutik, Cangkang.",
+            "Asep lumpatna gancang",
+            "Asep lumpatna lila.",
+            1,
+            1
+        ],
+        [
+            "Si Iwan kasohor lantaran siga foto model. Karakteristik mod\u00e9l ngawengku: id\u00e9al, representatif, exemplary.",
+            "Si Iwan kasohor lantaran kasep",
+            "Si Iwan kasohor lantaran goreng.",
+            0,
+            0
+        ],
+        [
+            "Mun jadi jalmi ulah sok beurat birit. Ciri-ciri diare diantarana: teu genah, teu kaampeuh, ngaganggu.",
+            "Mun jadi jalmi ulah sok kedul",
+            "Mun jadi jalmi ulah sok getol.",
+            0,
+            0
+        ],
+        [
+            "Hirup teh kawas leumpang di gigir gawir. Ciri-ciri gawir diantarana: lungkawing, bahaya, terjal.",
+            "Hirup teh sulit",
+            "Hirup teh gampil.",
+            0,
+            0
+        ],
+        [
+            "Hirup teh kawas lumpat di lapang. Ciri sawah diantarana: lega, lega, subur.",
+            "Hirup teh sulit",
+            "Hirup teh gampil.",
+            1,
+            1
+        ],
+        [
+            "Omongan Pak Ustad kawas gula dina enteh. Ciri-ciri gula diantarana: Amis, adiktif, bodas.",
+            "Omongan Pak Ustad amis",
+            "Omongan Pak Ustad pait.",
+            0,
+            0
+        ],
+        [
+            "Omongan Pak Ustad kawas kopi hideung. Karakteristik kopi diantarana: merangsang, aromatik, adiktif.",
+            "Omongan Pak Ustad amis",
+            "Omongan Pak Ustad pait.",
+            1,
+            1
+        ],
+        [
+            "Ieu kabar umpama hujan bentar. Ciri-ciri hujan diantarana: calming, refreshing, invigorating.",
+            "Ieu kabar ngareuwaskeun",
+            "Ieu kabar nenangkeun.",
+            0,
+            0
+        ],
+        [
+            "Ieu kabar umpama angin ngahiliwir. Ciri-ciri angin ngahiliwir diantarana: nyegerkeun, hipu, nyenangkeun.",
+            "Ieu kabar ngareuwaskeun",
+            "Ieu kabar nenangkeun.",
+            1,
+            1
+        ],
+        [
+            "Sikap anjeunna siga es batu. Karakteristik kubus ngawengku: padet, simetris, tilu dim\u00e9nsi.",
+            "Sikap anjeunna tiis",
+            "Sikap anjeunna haneut.",
+            0,
+            0
+        ],
+        [
+            "Adi lanceuk teh kalakuan kos anjing jeung ucing. Ciri-ciri anjing diantarana: Satia, Geulis, Berbulu.",
+            "Adi lanceuk teh kalakuan teu akur",
+            "Adi lanceuk teh kalakuan akur.",
+            0,
+            0
+        ],
+        [
+            "Lanceuk abdi awakna sapertos nyere. Ciri tina nyeri ngawengku: Teu pikaresepeun, sengit, enduring.",
+            "Lanceuk abdi awakna begang",
+            "Lanceuk abdi awakna buleud.",
+            0,
+            0
+        ],
+        [
+            "Sora manehna kawas kicau manuk dadali. Ciri-ciri manuk diantarana: Anggun, Gesit, Memesona.",
+            "Sora manehna merdu",
+            "Sora manehna gandeng.",
+            0,
+            0
+        ],
+        [
+            "Awak manehna meuni kawas mawar bodas. Ciri-ciri mawar diantarana: seungit, hipu, geulis.",
+            "Awak manehna meuni seungit",
+            "Awak manehna meuni bau.",
+            0,
+            0
+        ],
+        [
+            "Ponten rapor kuring umpama biru langit. Ciri bulao diantarana: Tenang, tenang, melankolis.",
+            "Ponten rapor kuring goreng",
+            "Ponten rapor kuring alus.",
+            1,
+            1
+        ],
+        [
+            "Ditolak manehna umpama hate dikeureut peso. Karakteristik p\u00e9so di antarana: seukeut, serbaguna, bisa nepi ka tiwasna.",
+            "Ditolak manehna meuni nyeri",
+            "Ditolak manehna meuni gumbira.",
+            0,
+            0
+        ],
+        [
+            "Ditolak manehna umpama taman pinuh ku kembang. Ciri kembang diantarana: geulis, hipu, seungit.",
+            "Ditolak manehna meuni nyeri",
+            "Ditolak manehna meuni gumbira.",
+            1,
+            1
+        ],
+        [
+            "Omongan manehna kawas cai di daun taleus. Karakteristik daun kalebet: elegan, ephemeral, vibrant.",
+            "Omongan manehna robah-robah",
+            "Omongan manehna ajeg.",
+            0,
+            0
+        ],
+        [
+            "Kosan rerencangan abdi sapertos liang sireum. Ciri-ciri liang sireum diantarana: Riweuh, ruwet, ngagerung.",
+            "Kosan rerencangan abdi lega",
+            "Kosan rerencangan abdi heurin.",
+            1,
+            1
+        ],
+        [
+            "Cicing di imah teh kos cicing di neraka. Karakteristik biaya ngawengku: mahal, burdensome, consequential.",
+            "Cicing di imah teh teu betah",
+            "Cicing di imah teh betah.",
+            0,
+            0
+        ],
+        [
+            "Cicing di imah teh kos cicing di taman firdaus. Ciri-ciri surga diantarana: Utopian, blissful, idyllic.",
+            "Cicing di imah teh teu betah",
+            "Cicing di imah teh betah.",
+            1,
+            1
+        ],
+        [
+            "Ngaharep balesan manehna ibarat ngajarkeun lauk naek tangkal. Ciri-ciri lauk diantarana: leueur, akuatik, serbaguna.",
+            "Ngaharep balesan manehna mustahil",
+            "Ngaharep balesan manehna teu kudu usaha.",
+            0,
+            0
+        ],
+        [
+            "Milarian padamelan ayena mah sapertos milarian lauk di sagara. Ciri sagara diantarana: luas, kuat, misterius.",
+            "Milarian padamelan ayeuna mah sesah",
+            "Milarian padamelan ayeuna mah gampil.",
+            1,
+            1
+        ],
+        [
+            "Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun lauk naek tangkal. Ciri-ciri lauk diantarana: ngeunah, leueur, hese dihartikeun.",
+            "Hoyong seueur acis, tapi teu damel teh mustahil",
+            "Hoyong seueur acis, tapi teu damel teh mungkin wae.",
+            0,
+            0
+        ],
+        [
+            "Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun monyet renang. Ciri-ciri mony\u00e9t diantarana: suka ulin, nakal, lincah.",
+            "Hoyong seueur acis, tapi teu damel teh mustahil",
+            "Hoyong seueur acis, tapi teu damel teh mungkin wae.",
+            1,
+            1
+        ],
+        [
+            "Diajar matematika umpama diajar maca jang budak SMA. Ciri-ciri murid diantarana: hayang pisan, panasaran, ambisius.",
+            "Diajar matematika sesah",
+            "Diajar matematika gampil.",
+            0,
+            0
+        ],
+        [
+            "Kue damelan umi abdi saraos kue toko. Ciri-ciri kueh diantarana: amis, indulgent, hajatan.",
+            "Kue damelan umi abdi raos",
+            "Kue damelan umi abdi teu raos.",
+            0,
+            0
+        ],
+        [
+            "Kue damelan umi abdi saraos kue basi. Ciri-ciri jajan diantarana: amis, nikmat, hajatan.",
+            "Kue damelan umi abdi raos",
+            "Kue damelan umi abdi teu raos.",
+            1,
+            1
+        ],
+        [
+            "Pun bapa tanagana kawas samson. Ciri-ciri Simson diantarana: Kuat, Kuat, Wani.",
+            "Pun bapa kuat",
+            "Pun bapa lemah.",
+            0,
+            0
+        ],
+        [
+            "Pun bapa tanagana kawas budak sd. Ciri-ciri budak diantarana: Panasaran, polos, suka ulin.",
+            "Pun bapa kuat",
+            "Pun bapa lemah.",
+            1,
+            1
+        ],
+        [
+            "Acuk lebaran teh sarupa acuk damelan designer kasohor. Karakteristik desainer diantarana: kreatif, inovatif, visioner.",
+            "Acuk lebaran teh sae",
+            "Acuk lebaran teh butut.",
+            0,
+            0
+        ],
+        [
+            "Acuk lebaran teh sarupa acuk tukang pulung. Ciri mawar diantarana: geulis, hipu, seungit.",
+            "Acuk lebaran teh sae",
+            "Acuk lebaran teh butut.",
+            1,
+            1
+        ],
+        [
+            "Teu nyangka rayi abdi sajangkung buto ijo. Ciri buto diantarana: misterius, ritmis, primal.",
+            "Teu nyangka rayi abdi jangkung",
+            "Teu nyangka rayi abdi pondok.",
+            0,
+            0
+        ],
+        [
+            "Teu nyangka rayi abdi sajangkung ucok baba. Ciri-ciri bapa diantarana: ngajaga, bijaksana, ngasuh.",
+            "Teu nyangka rayi abdi jangkung",
+            "Teu nyangka rayi abdi pondok.",
+            1,
+            1
+        ],
+        [
+            "Ngarantau ibarat jalan-jalan ka nagari nu endah kacipta. Ciri nagara diantarana: ngahiji, rupa-rupa, jembar.",
+            "Ngarantau nyenengkeun",
+            "Ngarantau sieun.",
+            0,
+            0
+        ],
+        [
+            "Ngarantau ibarat jalan-jalan ka leuweung nu loba jurigna. Ciri-ciri hantu diantarana: misterius, angker, hese dihartikeun.",
+            "Ngarantau nyenengkeun",
+            "Ngarantau sieun.",
+            1,
+            1
+        ],
+        [
+            "Bobogah lima taun jeung manehna kawas naek kapal di lautan biru nan endah. Karakteristik kapal di antarana: megah, tahan banting, petualangan.",
+            "Bobogohan lima taun jeung manehna nyusahkeun",
+            "Bobogohan lima taun jeung manehna nyenengkeun.",
+            1,
+            1
+        ],
+        [
+            "Jaket maneh naha siga tukang ojek. Karakteristik supir taksi diantarana: terampil, merhatikeun, akalna.",
+            "Jaket maneh butut",
+            "Jaket maneh alus.",
+            0,
+            0
+        ],
+        [
+            "Jaket maneh naha siga jaket artis. Ciri tina jaket ngawengku: Stylish, pelindung, serbaguna.",
+            "Jaket maneh butut",
+            "Jaket maneh alus.",
+            1,
+            1
+        ],
+        [
+            "Acuk seuseuhan abdi mah sapertos acuk anyar. Ciri-ciri mawar diantarana: seungit, hipu, geulis.",
+            "Acuk seuseuhan abdi mah beresih",
+            "Acuk seuseuhan abdi mah kotor.",
+            0,
+            0
+        ],
+        [
+            "Budak rerencangan abdi irungnya samancung orang arab. Ciri irung diantarana: menonjol, sensitip, ekspresif.",
+            "Budak rerencangan abdi irungna mancung",
+            "Budak rerencangan abdi irungna pesek.",
+            0,
+            0
+        ],
+        [
+            "Budak rerencangan abdi irungnya samancung jalmi nu beres nyusruk. Ciri jalma ngawengku: unik, kompleks, sosial.",
+            "Budak rerencangan abdi irungna mancung",
+            "Budak rerencangan abdi irungna pesek.",
+            1,
+            1
+        ],
+        [
+            "Pindah bumi ibarat kaleungitan dompet. Karakteristik domp\u00e9t kalebet: fungsional, portabel, penting.",
+            "Pindah bumi nyedihkeun",
+            "Pindah bumi nyenengkeun.",
+            0,
+            0
+        ],
+        [
+            "Buku di bumi rerencangan abdi kawas perpustakaan. Karakteristik perpustakaan ngawengku: Enlightening, harta-kaeusi, immersive.",
+            "Buku di bumi rerencangan abdi seueur",
+            "Buku di bumi rerencangan abdi hiji atawa sakedik.",
+            0,
+            0
+        ],
+        [
+            "Buku di bumi rerencangan abdi kawas jumlah kolot na budak yatim. Ciri-ciri buku di antarana: Teu aya tungtungna, pinuh ku pangaweruh, transformatif.",
+            "Buku di bumi rerencangan abdi seueur",
+            "Buku di bumi rerencangan abdi hiji atawa sakedik.",
+            1,
+            1
+        ],
+        [
+            "Naek kareta ekonomi sarupa calik dina sofa busa. Karakteristik sofa di antarana: nyaman, ngondang, serbaguna.",
+            "Naek kareta ekonomi teu enakeun",
+            "Naek kareta ekonomi enakeun.",
+            1,
+            1
+        ],
+        [
+            "Ukuran suku maneh meuni jiga raksasa. Ciri suku ngawengku: mobile, supportive, lincah.",
+            "Ukuran suku maneh meuni gede",
+            "Ukuran suku maneh meuni leutik.",
+            0,
+            0
+        ],
+        [
+            "Ukuran suku maneh meuni jiga cebol. Ciri-ciri cebol diantarana: pondok, leutik, hina.",
+            "Ukuran suku maneh meuni gede",
+            "Ukuran suku maneh meuni leutik.",
+            1,
+            1
+        ],
+        [
+            "Basa inggris maneh geus saalus bule. Ciri jalma diantarana: Beragam, Sosial, Komplek.",
+            "Basa inggris maneh lancar",
+            "Basa inggris maneh balelol.",
+            0,
+            0
+        ],
+        [
+            "Carita nini abdi kawas carita pelem-pelem di bioskop. Karakteristik pelem di antarana: amis, juicy, tropis.",
+            "Carita nini abdi rame tur alus",
+            "Carita nini abdi butut.",
+            0,
+            0
+        ],
+        [
+            "Carita nini abdi kawas carita nu nyieun sare. Ciri-ciri carita ngawengku: fiksi, naratif, pikabitaeun.",
+            "Carita nini abdi rame tur alus",
+            "Carita nini abdi butut.",
+            1,
+            1
+        ],
+        [
+            "Minyak goreng ayeuna geus saharga kacang. Ciri-ciri kacang diantarana: Adiktif, Renyah, Bergizi.",
+            "Minyak goreng ayeuna mahal",
+            "Minyak goreng ayeuna mirah.",
+            1,
+            1
+        ],
+        [
+            "Ngadangu carita anjeun mah kawas ngimpi labuh ka gawir. Ciri-ciri gawir diantarana: lungkawing, bahaya, dramatis.",
+            "Ngadangu carita anjeun mah ngareuwaskeun",
+            "Ngadangu carita anjeun mah nyenengkeun.",
+            0,
+            0
+        ],
+        [
+            "Ngadangu carita anjeun mah kawas ngimpi naek ferrari. Ciri-ciri ferrari di antarana: gancang, ramping, m\u00e9wah.",
+            "Ngadangu carita anjeun mah ngareuwaskeun",
+            "Ngadangu carita anjeun mah nyenengkeun.",
+            1,
+            1
+        ],
+        [
+            "Hirup teu boga elmu sarupa leumpang teu aya tujuan. Ciri-ciri tujuan ngawengku: bermakna, didorong, dihaja.",
+            "Hirup teu boga elmu teu jelas",
+            "Hirup teu boga elmu jelas.",
+            0,
+            0
+        ],
+        [
+            "Pertanyaan si bapa teh meuni kos pertanyaan budak. Ciri-ciri budak diantarana: panasaran, suka ulin, polos.",
+            "Pertanyaan si bapa bermutu tur sesah",
+            "Pertanyaan si bapa teu bermutu.",
+            1,
+            1
+        ],
+        [
+            "Lamun keur belajar naha nya panon teh kawas karak ngadahar mangga ngora. Ciri-ciri keuyeup diantarana: suruy, hese dihartikeun, ulet.",
+            "Lamun keur belajar naha panon teh tunduh",
+            "Lamun keur belajar naha panon teh beunta.",
+            1,
+            1
+        ],
+        [
+            "Kunaon atuh eta seragam teh jiga can meunang nyetrika. Karakteristik seragam ngawengku: konsisten, standar, id\u00e9ntik.",
+            "Kunaon atuh eta seragam teh risek",
+            "Kunaon atuh eta seragam teh licin.",
+            0,
+            0
+        ],
+        [
+            "Kunaon atuh eta seragam teh jiga baju ti londri. Karakteristik baju di antarana: modis, serbaguna, penting.",
+            "Kunaon atuh eta seragam teh risek",
+            "Kunaon atuh eta seragam teh licin.",
+            1,
+            1
+        ],
+        [
+            "Hirup abdi mah kawas tv baheula. Ciri-ciri tv di antarana: Ngahibur, informatif, ubiquitous.",
+            "Hirup abdi mah hitam putih tur monoton",
+            "Hirup abdi mah loba warnana.",
+            0,
+            0
+        ],
+        [
+            "Hirup abdi mah kawas tv jaman kiwari. Karakteristik TV diantarana: Ngahibur, Informatif, Menawan.",
+            "Hirup abdi mah hitam putih tur monoton",
+            "Hirup abdi mah loba warnana.",
+            1,
+            1
+        ],
+        [
+            "Buruan tatangga teh meuni saluas lapangan bola. Karakteristik widang ngawengku: Lega, wates, rupa-rupa.",
+            "Buruan tatanga luas",
+            "Buruan tatanga heurin.",
+            0,
+            0
+        ],
+        [
+            "Gambar rayi abdi layak umpama gambar nu meunang ponten 100. Ciri titik. ngawengku: seukeut, signifikan, strategis.",
+            "Gambar rayi abdi hade",
+            "Gambar rayi abdi butut.",
+            0,
+            0
+        ],
+        [
+            "Chat jeung manehna mah kawas ngobrol pas keur diboceng tukang ojek. Karakteristik supir taksi di antarana: terampil, merhatikeun, adaptable.",
+            "Chat jeung manehna mah teu jelas",
+            "Chat jeung manehna mah jelas.",
+            0,
+            0
+        ],
+        [
+            "Chat jeung manehna mah kawas guru nerangkeun di kelas. Ciri guru diantarana: berilmu, sabar, boga pangaruh.",
+            "Chat jeung manehna mah teu jelas",
+            "Chat jeung manehna mah jelas.",
+            1,
+            1
+        ],
+        [
+            "Tulisan budak teh meuni jiga cakar hayam. Ciri cakar diantarana: seukeut, kuat, bisa ditarik.",
+            "Tulisan budak teh acak-acakan",
+            "Tulisan budak teh rapi.",
+            0,
+            0
+        ],
+        [
+            "Tulisan budak teh meuni jiga hasil ngeprint. Karakteristik citak diantarana: vibrant, tangible, pervasive.",
+            "Tulisan budak teh acak-acakan",
+            "Tulisan budak teh rapi.",
+            1,
+            1
+        ],
+        [
+            "Cai Dieng sapertos cai es. Ciri-ciri cai diantarana: nyegerkeun, penting, ngahirupkeun.",
+            "Cai Dieng tiis",
+            "Cai Dieng panas.",
+            0,
+            0
+        ],
+        [
+            "Cai Dieng sapertos cai termos. Ciri-ciri cai diantarana: nyegerkeun, ngalir, penting.",
+            "Cai Dieng tiis",
+            "Cai Dieng panas.",
+            1,
+            1
+        ],
+        [
+            "Kahayang abdi mah sagede truk. Ciri tina treuk ngawengku: pindah, beurat, dipercaya.",
+            "Kahayang abdi mah seueur",
+            "Kahayang abdi mah saalit.",
+            0,
+            0
+        ],
+        [
+            "Tutumbenan masakan dinten ieu kawas masakan hotel bintang lima. Ciri masakan ngawengku: rupa-rupa, flavorful, budaya.",
+            "Tutumbenan masakan dinten ieu raos pisan",
+            "Tutumbenan masakan dinten ieu teu raos.",
+            0,
+            0
+        ],
+        [
+            "Tutumbenan masakan dinten ieu kawas masakan sesa minggu kamari. Ciri tina piring ngawengku: beresih, kotor, hipu.",
+            "Tutumbenan masakan dinten ieu raos pisan",
+            "Tutumbenan masakan dinten ieu teu raos.",
+            1,
+            1
+        ],
+        [
+            "Kaca di kamar abdi meuni sagede kaca spion. Ciri-ciri eunteung diantarana: reflektif, ilusi, nipu.",
+            "Kaca di kamar abdi meuni alit",
+            "Kaca di kamar abdi meuni ageung.",
+            0,
+            0
+        ],
+        [
+            "Kaca di kamar abdi meuni sagede almari tilu panto. Karakteristik papak\u00e9an kalebet: serbaguna, teratur, bergaya.",
+            "Kaca di kamar abdi meuni alit",
+            "Kaca di kamar abdi meuni ageung.",
+            1,
+            1
+        ],
+        [
+            "Akuarium hotel ieu meuni saageung sea world. Ciri-ciri dunya laut diantarana: samudra, menawan, immersive.",
+            "Akuarium hotel ieu ageung",
+            "Akuarium hotel ieu alit.",
+            0,
+            0
+        ],
+        [
+            "Kembang pamasihan anjeun teh kawas seungit sedap malam. Ciri-ciri seungitna diantarana: geulis, pikabitaeun, pikabitaeun.",
+            "Kembang pamasihan anjeun seungit",
+            "Kembang pamasihan anjeun hapeuk.",
+            0,
+            0
+        ],
+        [
+            "Mun jadi jalmi ulah sok luhur hate. Ciri jalma ngawengku: unik, intricate, multifaceted.",
+            "Mun jadi jalmi ulah sok agul",
+            "Mun jadi jalmi ulah sok pesimis.",
+            0,
+            0
+        ],
+        [
+            "Mun jadi jalmi ulah sok pondok hate. Ciri tempered ngawengku: dikawasa, saimbang, strengthened.",
+            "Mun jadi jalmi ulah sok agul",
+            "Mun jadi jalmi ulah sok pesimis.",
+            1,
+            1
+        ],
+        [
+            "Tawaran anjeun kawas hujan batu es. Ciri-ciri hujan es diantarana: celestial, commanding, powerful.",
+            "Tawaran anjeun nyenengkeun",
+            "Tawaran anjeun nyengsarakeun.",
+            1,
+            1
+        ],
+        [
+            "Diajar ekonomi sapertos renang di kulah cai es. Karakteristik cai diantarana: Nyegerkeun, Penting, Transparan.",
+            "Diajar ekonomi nyengsarakeun",
+            "Diajar ekonomi nyenengkeun.",
+            0,
+            0
+        ],
+        [
+            "Diajar ekonomi sapertos renang di kulah kembang. Ciri-ciri kembang diantarana: geulis, lincah, seungit.",
+            "Diajar ekonomi nyengsarakeun",
+            "Diajar ekonomi nyenengkeun.",
+            1,
+            1
+        ],
+        [
+            "Acara Jazz Prambanan taun ieu kawas langit bertabur bentang. Ciri bentang ngawengku: lega, picturesque, rupa-rupa.",
+            "Acara Jazz Prambanan taun ieu meriah",
+            "Acara Jazz Prambanan taun ieu sepi.",
+            0,
+            0
+        ],
+        [
+            "Tisu merek eta mah saalus selimut orok. Ciri-ciri simbut diantarana: cozy, comforting, encompassing.",
+            "Tisu merek eta mah alus",
+            "Tisu merek eta mah kasar.",
+            0,
+            0
+        ],
+        [
+            "Tong make lipen setip eta, jieun biwir kos embun daun. Ciri biwir ngawengku: sensual, ekspresif, pikabitaeun.",
+            "Tong make lipen setip eta, jieun biwir garing",
+            "Tong make lipen setip eta, jieun biwir lembab.",
+            1,
+            1
+        ],
+        [
+            "Omongan presiden teh umpama cai di daun taleus. Ciri-ciri cai diantarana: nyegerkeun, penting, serbaguna.",
+            "Omongan presiden teh gonta-ganti",
+            "Omongan presiden teh ajeg.",
+            0,
+            0
+        ],
+        [
+            "Omongan presiden teh umpama bangunan kabah. Ciri wangunan ngawengku: jangkung, kokoh, monumental.",
+            "Omongan presiden teh gonta-ganti",
+            "Omongan presiden teh ajeg.",
+            1,
+            1
+        ],
+        [
+            "Kualitas koper anyar teh kos urut batur. Ciri tina bagasi ngawengku: gede pisan, portabel, travelable.",
+            "Kualitas koper anyar teh butut",
+            "Kualitas koper anyar teh alus.",
+            0,
+            0
+        ],
+        [
+            "Ngadangukeun lagu Yura Yunita sapertos dipepende. Ciri-ciri tembang diantarana: melodi, pikabitaeun, ekspresif.",
+            "Ngadangukeun lagu Yura Yunita nenangkeun",
+            "Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.",
+            0,
+            0
+        ],
+        [
+            "Ngadangukeun lagu Yura Yunita sapertos hujan guludug. Ciri guludug diantarana: kuat, booming, electrifying.",
+            "Ngadangukeun lagu Yura Yunita nenangkeun",
+            "Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.",
+            1,
+            1
+        ],
+        [
+            "Sampo si mama jieun buuk sapertos ti salon. Ciri salon ngawengku: elegan, canggih, ekslusif.",
+            "Sampo si mama jieun buuk alus",
+            "Sampo si mama jieun buuk kasar.",
+            0,
+            0
+        ],
+        [
+            "Sampo si mama jieun buuk sapertos kasetrum listrik. Karakteristik shock ngawengku: h\u00e9ran, overwhelming, jolting.",
+            "Sampo si mama jieun buuk alus",
+            "Sampo si mama jieun buuk kasar.",
+            1,
+            1
+        ],
+        [
+            "Kantor abdi di Bandung umpama gedong di tengah savana. Ciri wangunan diantarana: jangkung, kokoh, agung.",
+            "Kantor abdi di Bandung tiis tur asri",
+            "Kantor abdi di Bandung panas tur tandus.",
+            1,
+            1
+        ],
+        [
+            "Tumpeng damelan si uwak meuni sajangkung gunung merapi. Ciri-ciri Gunung Merapi diantarana: vulkanik, megah, teu bisa diprediksi.",
+            "Tumpeng damelan si uwak jangkung",
+            "Tumpeng damelan si uwak pondok.",
+            0,
+            0
+        ],
+        [
+            "Tumpeng damelan si uwak meuni sajangkung meja lipet lesehan. Karakteristik tabel ngawengku: fungsional, serbaguna, komunal.",
+            "Tumpeng damelan si uwak jangkung",
+            "Tumpeng damelan si uwak pondok.",
+            1,
+            1
+        ],
+        [
+            "Buku sakola ayeuna sakandeul koran. Karakteristik buku ngawengku: pangaweruh, expansive, transformative.",
+            "Buku sakola ayeuna ipis",
+            "Buku sakola ayeuna kandeul.",
+            0,
+            0
+        ],
+        [
+            "Buku sakola ayeuna sakandeul ensiklopedia dunia. Ciri-ciri \u00e9nsiklop\u00e9dia ngawengku: Komprehensif, informatif, \u00e9kst\u00e9nsif.",
+            "Buku sakola ayeuna ipis",
+            "Buku sakola ayeuna kandeul.",
+            1,
+            1
+        ],
+        [
+            "Cuaca dinten ieu sapertos langit nu nuju sedih. Ciri-ciri langit diantarana: lega, teu aya watesna, ethereal.",
+            "Cuaca dinten ieu hujan",
+            "Cuaca dinten ieu cerah.",
+            0,
+            0
+        ],
+        [
+            "Cuaca dinten ieu sapertos langit nu keur bagja. Ciri-ciri langit diantarana: teu aya watesna, jembar, ethereal.",
+            "Cuaca dinten ieu hujan",
+            "Cuaca dinten ieu cerah.",
+            1,
+            1
+        ],
+        [
+            "Biaya listrik makin kiwari makin kos taraje. Karakteristik listrik ngawengku: \u00e9nergi, illuminating, transformative.",
+            "Biaya listrik makin kiwari makin naek",
+            "Biaya listrik makin kiwari makin turun.",
+            0,
+            0
+        ],
+        [
+            "Karpet anyar teh warnana jiga gulali. Ciri tina karp\u00e9t ngawengku: Lemes, haneut, comforting.",
+            "Karpet anyar teh warnana cerah",
+            "Karpet anyar teh warnana poek.",
+            0,
+            0
+        ],
+        [
+            "Gawe tanpa elmu umpama mancing eweuh umpan. Ciri-ciri umpan diantarana: pikabitaeun, tipu daya, teu katahan.",
+            "Gawe tanpa elmu sesah",
+            "Gawe tanpa elmu gampil.",
+            0,
+            0
+        ],
+        [
+            "Gawe tanpa elmu umpama ngala lauk di akuarium make jaring. Ciri-ciri jaring diantarana: catchy, entangled, encompassing.",
+            "Gawe tanpa elmu sesah",
+            "Gawe tanpa elmu gampil.",
+            1,
+            1
+        ],
+        [
+            "Poto kawinan anjeun sapertos poster pelem nu meunang penghargaan. Karakteristik poster ngawengku: vibrant, visually pikaresepeun, ekspresif.",
+            "Poto kawinan anjeun estetik",
+            "Poto kawinan anjeun teu estetik.",
+            0,
+            0
+        ],
+        [
+            "Harga anduk di toko ieu samirah kembang gula di warung. Karakteristik kembang diantarana: vibrant, hipu, enchanting.",
+            "Harga anduk di toko ieu mirah",
+            "Harga anduk di toko ieu awis.",
+            0,
+            0
+        ],
+        [
+            "Desain Totoya nu anyar kawas mobil ti masa hareup. Ciri tina mobil ngawengku: gancang, sleek, dipercaya.",
+            "Desain Toyota nu anyar keren tur canggih",
+            "Desain Toyota nu anyar butut.",
+            0,
+            0
+        ],
+        [
+            "Naek gunung Sumbing umpama naek gunung digandong porter. Ciri-ciri portir diantarana: kuat, serbaguna, akal.",
+            "Naek gunung Sumbing sesah",
+            "Naek gunung Sumbing gampil.",
+            1,
+            1
+        ],
+        [
+            "Kulah lauk di bumi aki salega bagasi motor. Ciri tina bagasi ngawengku: gede pisan, portabel, perlu.",
+            "Kulah lauk di bumi aki leutik",
+            "Kulah lauk di bumi aki lega.",
+            0,
+            0
+        ],
+        [
+            "Kulah lauk di bumi aki salega garasi kapal udara. Ciri tina garasi ngawengku: lega, diatur, aman.",
+            "Kulah lauk di bumi aki leutik",
+            "Kulah lauk di bumi aki lega.",
+            1,
+            1
+        ],
+        [
+            "Rorompok amih lamun nuju seueur dulur kawas bumi di tengah leuweung. Ciri-ciri imah diantarana: Ngabag\u00e9akeun, ngajaga, ngalilipur.",
+            "Rorompok amih lamun nuju seueur dulur rame tur gandeng",
+            "Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.",
+            1,
+            1
+        ],
+        [
+            "Kelas X IPS mah aya teu aya guru umpama budak can dibere nyusu. Ciri guru diantarana: berilmu, mereun, sabar.",
+            "Kelas X IPS mah aya teu aya guru gandeng",
+            "Kelas X IPS mah aya teu aya guru jempling.",
+            0,
+            0
+        ],
+        [
+            "Kelas X IPS mah aya teu aya guru umpama barudak di perpustakaan. Ciri-ciri budak diantarana: polos, suka ulin, panasaran.",
+            "Kelas X IPS mah aya teu aya guru gandeng",
+            "Kelas X IPS mah aya teu aya guru jempling.",
+            1,
+            1
+        ],
+        [
+            "Sapatu pamere mamang teh kawas sapatu meunang nginjeum. Ciri tina sapatu ngawengku: praktis, serbaguna, fashionable.",
+            "Sapatu pamere mamang teh teu mahi",
+            "Sapatu pamere mamang teh mahi.",
+            0,
+            0
+        ],
+        [
+            "Lukisan ieu sapertos karya da Vinci. Ciri-ciri pagaw\u00e9an diantarana: nungtut, ngaganjar, bermakna.",
+            "Lukisan ieu alus",
+            "Lukisan ieu butut.",
+            0,
+            0
+        ],
+        [
+            "Botol cai teh kos gelas budak. Ciri kaca ngawengku: transparan, rapuh, reflective.",
+            "Botol cai teh gede pisan",
+            "Botol cai teh leutik pisan.",
+            1,
+            1
+        ],
+        [
+            "Sangu di warung ieu mah sapertos sangu beres akeul. Ciri-ciri b\u00e9as diantarana: bijil, serbaguna, bergizi.",
+            "Sangu di warung ieu pulen",
+            "Sangu di warung ieu heuras.",
+            0,
+            0
+        ],
+        [
+            "Cat di imah maneh mah jiun imah kawas panggung dangdut akademi. Karakteristik panggung ngawengku: dramatis, transformative, captivating.",
+            "Cat imah maneh mah jieun imah poek",
+            "Cat imah maneh mah jieun imah caang.",
+            1,
+            1
+        ],
+        [
+            "Jarawat Teh Susi naha makin jiga jelema keuna cacar. Ciri jalma ngawengku: kompl\u00e9ks, sosial, rupa-rupa.",
+            "Jarawat Teh Susi naha makin loba tur parah",
+            "Jarawat Teh Susi naha makin bersih.",
+            0,
+            0
+        ],
+        [
+            "Laut di Sukabumi kawas kelas meunang piket. Ciri kelas ngawengku: elegan, enduring, dib\u00e9dakeun.",
+            "Laut di Sukabumi beresih",
+            "Laut di Sukabumi bala.",
+            0,
+            0
+        ],
+        [
+            "Twitter jaman kiwari makin sapertos warung bakso jam 12 beurang basa keur bulan puasa. Ciri tina warung ngawengku: ngondang, rame, affordable.",
+            "Twitter jaman kiwari makin rame",
+            "Twitter jaman kiwari makin tiiseun.",
+            1,
+            1
+        ],
+        [
+            "Pangseungit ruangan ieu jieun sapertos di taman kembang. Ciri-ciri taman diantarana: geulis, tenang, asuh.",
+            "Pangseungit ruangan ieu bau",
+            "Pangseungit ruangan ieu seungit.",
+            1,
+            1
+        ],
+        [
+            "Manehna ngahasilkeun artos jiga milarian cai di gurun. Ciri-ciri cai diantarana: jernih, nyegerkeun, penting.",
+            "Manehna ngahasilkeun artos meuni gampil",
+            "Manehna ngahasilkeun artos hese pisan.",
+            1,
+            1
+        ],
+        [
+            "Eta murid hiji otak udang. Karakteristik otak diantarana: kompleks, cerdas, kreatif.",
+            "Eta murid hiji bodo",
+            "Eta murid hiji pinter.",
+            0,
+            0
+        ],
+        [
+            "Biwirna ngucapkeun kecap kawas cabe. Ciri biwir ngawengku: voluptuous, ekspresif, seductive.",
+            "Biwirna ngucapkeun kecap nu mikeun nyeri hate",
+            "Biwirna ngucapkeun kecap mikeun bungah.",
+            0,
+            0
+        ],
+        [
+            "Sorana kad\u00e9ng\u00e9 kawas gogog anjing. Ciri anjing ngawengku: Satia, Playful, Waspada.",
+            "Sorana kad\u00e9ng\u00e9 merdu",
+            "Sorana kad\u00e9ng\u00e9 ngaganggu.",
+            1,
+            1
+        ],
+        [
+            "Di tempat damel manenha janten budak emas. Ciri-ciri budak diantarana: Panasaran, Enerjik, Playful.",
+            "Di tempat damel manenha janten unggulan",
+            "Di tempat damel manenha janten jalma nu dipikasalah.",
+            0,
+            0
+        ],
+        [
+            "Ceuk babaturanana, manehna mangrupikeun jalma sirah batu. Ciri jalma ngawengku: kompl\u00e9ks, adaptable, relational.",
+            "Ceuk babaturanana, manehna mangrupikeun jalma keras kepala",
+            "Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.",
+            0,
+            0
+        ],
+        [
+            "Manehna jalmi nu panas leungeun. Ciri jalma ngawengku: Komplek, dinamis, serbaguna.",
+            "Manehna jalmi nu bisa naon wae",
+            "Manehna jalmi nu teu bisa nanaon.",
+            1,
+            1
+        ],
+        [
+            "Manehna tampil siga bintang dina langit. Karakteristik b\u00e9ntang di antarana: bersinar, illustrious, sohor.",
+            "Manehna tampil siga percaya diri",
+            "Manehna tampil siga henteu percaya diri.",
+            0,
+            0
+        ],
+        [
+            "Manehna tampil siga semut dina taneuh. Ciri-ciri sireum diantarana: Leutik, rajin, teratur.",
+            "Manehna tampil siga percaya diri",
+            "Manehna tampil siga henteu percaya diri.",
+            1,
+            1
+        ],
+        [
+            "Dina \u00e9ta balapan manehna jiga b\u00e9ntang lapangan. Karakteristik b\u00e9ntang di antarana: bersinar, celestial, iconic.",
+            "Dina \u00e9ta balapan manehna jiga idola",
+            "Dina \u00e9ta balapan manehna jiga jalmi nu teu diperhitungkeun.",
+            0,
+            0
+        ],
+        [
+            "Manehna mangrupakeun jalma anu hatena siga lapangan. Ciri sawah diantarana: sajajalan, lega, subur.",
+            "Manehna mangrupakeun jalma anu hatena siga luas",
+            "Manehna mangrupakeun jalma anu hatena siga sempit.",
+            0,
+            0
+        ],
+        [
+            "Manehna mangrupakeun jalma anu hatena siga kamar. Karakteristik kamar ngawengku: nyaman, ngondang, lega.",
+            "Manehna mangrupakeun jalma anu hatena siga luas",
+            "Manehna mangrupakeun jalma anu hatena siga sempit.",
+            1,
+            1
+        ],
+        [
+            "Pagawean anu dilakonan ku manehna nganggo kaki jeung lengeun batur. Ciri suku, leungeun ngawengku: Kuat, fl\u00e9ksibel, fungsional.",
+            "Pagawean anu dilakonan ku manehna nganggo dikerjakeun nu lain",
+            "Pagawean anu dilakonan ku manehna nganggo usaha sorangan.",
+            0,
+            0
+        ],
+        [
+            "Pagawean anu dilakonan ku manehna nganggo lengeun sorangan. Ciri leungeun ngawengku: dexterous, serbaguna, ekspresif.",
+            "Pagawean anu dilakonan ku manehna nganggo dikerjakeun nu lain",
+            "Pagawean anu dilakonan ku manehna nganggo usaha sorangan.",
+            1,
+            1
+        ],
+        [
+            "Eta lalaki kawas ksatria. Ciri-ciri ksatria diantarana: Sombong, Wani, Luhur.",
+            "Eta lalaki kawas sae pisan",
+            "Eta lalaki kawas jahat pisan.",
+            0,
+            0
+        ],
+        [
+            "Eta lalaki kawas penyihir. Ciri tina dukun diantarana: misterius, enchanting, bewitching.",
+            "Eta lalaki kawas sae pisan",
+            "Eta lalaki kawas jahat pisan.",
+            1,
+            1
+        ],
+        [
+            "Manehna mangrupakeun pamingpin anu tiis hate. Ciri-ciri pamingpin diantarana: inspiratif, boga pangaruh, visioner.",
+            "Manehna mangrupakeun pamingpin anu ngartikeun",
+            "Manehna mangrupakeun pamingpin anu teu ngartikeun.",
+            1,
+            1
+        ],
+        [
+            "Budak eta mah lurus hat\u00e9. Ciri-ciri budak diantarana: ulin, tanaga, panasaran.",
+            "Budak eta mah baik",
+            "Budak eta mah sombong.",
+            0,
+            0
+        ],
+        [
+            "Budak eta mah ged\u00e9 sungut. Ciri-ciri lisan diantarana: Ekspresif, ngondang, sensual.",
+            "Budak eta mah baik",
+            "Budak eta mah sombong.",
+            1,
+            1
+        ],
+        [
+            "Ushana nalika pandemi teh kawas jalanna kura-kura. Ciri-ciri kuya diantarana: alon, ajeg, wijaksana.",
+            "Usahana nalika pandemi teh kawas lancar pisan",
+            "Usahana nalika pandemi teh kawas hese pisan.",
+            1,
+            1
+        ],
+        [
+            "Eta jelema teh kawas kertas kosong. Karakteristik kertas ngawengku: serbaguna, hipu, penting.",
+            "Eta jelema teh kawas berilmu",
+            "Eta jelema teh kawas teu ngarti nanaon.",
+            1,
+            1
+        ],
+        [
+            "Manehna ngarasa kawas sampah masarakat. Ciri-ciri sampah diantarana: teu pati penting, teu aya gunana, hina.",
+            "Manehna ngarasa kawas boga kuasa",
+            "Manehna ngarasa kawas teu boga kuasa.",
+            1,
+            1
+        ],
+        [
+            "Lamun diperlukeun, manehna senang pikeun turun lengeun. Ciri panangan diantarana: Kuat, serbaguna, tangkas.",
+            "Lamun diperlukeun, manehna senang pikeun ngabantu",
+            "Lamun diperlukeun, manehna senang pikeun cicing wae.",
+            0,
+            0
+        ],
+        [
+            "Lamun diperlukeun, manehna senang pikeun pangku lengeun. Ciri-ciri rangkulan diantarana: panglipur, kaasih, raket.",
+            "Lamun diperlukeun, manehna senang pikeun ngabantu",
+            "Lamun diperlukeun, manehna senang pikeun cicing wae.",
+            1,
+            1
+        ],
+        [
+            "Artis eta t\u00e9h keur na\u00e9k. Ciri na\u00e9kna di antarana: na\u00e9k, kaluhur, tumuwuh.",
+            "Artis eta t\u00e9h keur kawentar",
+            "Artis eta t\u00e9h keur boga masalah.",
+            0,
+            0
+        ],
+        [
+            "Artis eta t\u00e9h keur jatoh ka jurang. Ciri-ciri jurang diantarana: teu aya dasarna, misterius, teu aya watesna.",
+            "Artis eta t\u00e9h keur kawentar",
+            "Artis eta t\u00e9h keur boga masalah.",
+            1,
+            1
+        ],
+        [
+            "Kecap-kecapna kawas kembang. Ciri-ciri kembang diantarana: Warna-warni, Seungit, Hipu.",
+            "Kecap-kecapna kawas indah",
+            "Kecap-kecapna kawas mikeun nyeri hate.",
+            0,
+            0
+        ],
+        [
+            "Kecap-kecapna kawas pinuh ku cucuk. Ciri-ciri cucuk diantarana: seukeut, biang, nyeri.",
+            "Kecap-kecapna kawas indah",
+            "Kecap-kecapna kawas mikeun nyeri hate.",
+            1,
+            1
+        ],
+        [
+            "Ceuk tatanggana, manehna teh beungeut kandel. Ciri-ciri raray diantarana: ekspresif, nembongkeun, nonjol.",
+            "Ceuk tatanggana, manehna teh baik",
+            "Ceuk tatanggana, manehna teh pelit.",
+            0,
+            0
+        ],
+        [
+            "Ceuk tatanggana, manehna teh hate leutik. Ciri-ciri hat\u00e9 diantarana: welas asih, tabah, gairah.",
+            "Ceuk tatanggana, manehna teh baik",
+            "Ceuk tatanggana, manehna teh pelit.",
+            1,
+            1
+        ],
+        [
+            "Babaturan kuring nya\u00e9ta jalma anu ringan leungeun. Ciri jalma ngawengku: kompleks, sosial, adaptif.",
+            "Babaturan kuring nya\u00e9ta jalma anu senang mere",
+            "Babaturan kuring nya\u00e9ta jalma anu nyuri.",
+            0,
+            0
+        ],
+        [
+            "Babaturan kuring nya\u00e9ta jalma anu panjang leungeun. Ciri panangan diantarana: kuat, ngajaga, nangkeup.",
+            "Babaturan kuring nya\u00e9ta jalma anu senang mere",
+            "Babaturan kuring nya\u00e9ta jalma anu nyuri.",
+            1,
+            1
+        ],
+        [
+            "Beungeutna katingali kawas caang panonpo\u00e9. Ciri panonpoe diantarana: bercahaya, berapi-api, masihan kahirupan.",
+            "Beungeutna katingali kawas bahagia",
+            "Beungeutna katingali kawas loba masalah.",
+            0,
+            0
+        ],
+        [
+            "Tanaga manehnya kawas beruang. Ciri-ciri biruang diantarana: Galak, kuat, ngajaga.",
+            "Tanaga manehnya kawas kuat pisan",
+            "Tanaga manehnya kawas lemah.",
+            0,
+            0
+        ],
+        [
+            "Tanaga manehnya kawas semut. Ciri-ciri sireum diantarana: rajin, rajin, ulet.",
+            "Tanaga manehnya kawas kuat pisan",
+            "Tanaga manehnya kawas lemah.",
+            1,
+            1
+        ],
+        [
+            "Hate manusia kadang kawas lapangan. Ciri sawah diantarana: lega, lega, subur.",
+            "Hate manusia kadang luas",
+            "Hate manusia kadang tinggi pisan.",
+            0,
+            0
+        ],
+        [
+            "Eta budak hiji mah mangrupakeun beungbeurat kulawarga. Ciri-ciri beungbeurat diantarana: beurat, oppressive, overwhelming.",
+            "Eta budak hiji mah mangrupakeun unggulan",
+            "Eta budak hiji mah mangrupakeun masalah.",
+            1,
+            1
+        ],
+        [
+            "Penampilanna dianggap bintang lapangan. Karakteristik b\u00e9ntang di antarana: bersinar, celestial, iconic.",
+            "Penampilanna kawas idola",
+            "Penampilanna kawas teu dianggep.",
+            0,
+            0
+        ],
+        [
+            "Penampilanna dianggap sabelah panon. Ciri-ciri penampilanna diantarana: Menarik, nipu, deet.",
+            "Penampilanna kawas idola",
+            "Penampilanna kawas teu dianggep.",
+            1,
+            1
+        ],
+        [
+            "Kulawargana nya\u00e9ta darah rakyat. Ciri-ciri getih diantarana: vital, karuhun, gairah.",
+            "Kulawargana nya\u00e9ta bangsawan",
+            "Kulawargana nya\u00e9ta jalmi biasa.",
+            1,
+            1
+        ],
+        [
+            "Panonna kawas beurit. Ciri beurit diantarana: leutik, gesit, panasaran.",
+            "Panonna teh tajeum",
+            "Panonna teh jelek.",
+            1,
+            1
+        ],
+        [
+            "Sorana siga ngaum singa. Ciri-ciri singa diantarana: megah, galak, kuat.",
+            "Sorana siga gede pisan",
+            "Sorana siga alit.",
+            0,
+            0
+        ],
+        [
+            "Sorana siga kicau manuk. Ciri-ciri manuk diantarana: 1. Gesit\n2. Gratis\n3. Anggun.",
+            "Sorana siga gede pisan",
+            "Sorana siga alit.",
+            1,
+            1
+        ],
+        [
+            "Anjeunna junun nampi padamelan ti banting tulang. Karakteristik padamelan kalebet: nungtut, ganjaran, penting.",
+            "Anjeunna junun nampi padamelan ti usaha sorangan",
+            "Anjeunna junun nampi padamelan ti jalma lian.",
+            0,
+            0
+        ],
+        [
+            "Di kelas, manehna murid anu ringan sirah. Ciri-ciri murid diantarana: Panasaran, ambisius, hayang pisan.",
+            "Di kelas, manehna murid anu pinter",
+            "Di kelas, manehna murid anu bodo.",
+            0,
+            0
+        ],
+        [
+            "Di kelas, manehna murid anu beurat sirah. Ciri-ciri murid diantarana: Panasaran, rajin, diajar.",
+            "Di kelas, manehna murid anu pinter",
+            "Di kelas, manehna murid anu bodo.",
+            1,
+            1
+        ],
+        [
+            "Kota ieu karasa kawas imah. Ciri-ciri kota di antarana: Srawling, rame, dinamis.",
+            "Kota ieu karasa kawas nyaman",
+            "Kota ieu karasa kawas teu genah.",
+            0,
+            0
+        ],
+        [
+            "Kota ieu karasa kawas penjara. Ciri panjara ngawengku: restrictive, confining, isolasi.",
+            "Kota ieu karasa kawas nyaman",
+            "Kota ieu karasa kawas teu genah.",
+            1,
+            1
+        ],
+        [
+            "Nalika ditanya manehna buka mulut. Ciri-ciri lisan diantarana: ekspresif, vokal, pikabitaeun.",
+            "Nalika ditanya manehna nyarios",
+            "Nalika ditanya manehna pura-pura teu terang.",
+            0,
+            0
+        ],
+        [
+            "Nalika ditanya manehna nutup panon. Ciri panon diantarana: ekspresif, piercing, captivating.",
+            "Nalika ditanya manehna nyarios",
+            "Nalika ditanya manehna pura-pura teu terang.",
+            1,
+            1
+        ],
+        [
+            "Di dunya ieu aya jalma anu sarupa malaikat. Ciri-ciri malaikat diantarana: misterius, celestial, benevolent.",
+            "Di dunya ieu aya jalma anu baik pisan",
+            "Di dunya ieu aya jalma anu jahat pisan.",
+            0,
+            0
+        ],
+        [
+            "Di dunya ieu aya jalma anu sarupa setan. Ciri-ciri s\u00e9tan nya\u00e9ta: jahat, licik, nyiksa.",
+            "Di dunya ieu aya jalma anu baik pisan",
+            "Di dunya ieu aya jalma anu jahat pisan.",
+            1,
+            1
+        ],
+        [
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di istana. Ciri-ciri karaton diantarana: megah, megah, mewah.",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di lezat",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di teu karasa nanaon.",
+            0,
+            0
+        ],
+        [
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di rumah sakit. Ciri-ciri kadaharan diantarana: Ngalestarikeun, Bergizi, Nikmat.",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di lezat",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di teu karasa nanaon.",
+            1,
+            1
+        ],
+        [
+            "Hat\u00e9na bener-bener salega sagara. Ciri sagara diantarana: lega, misterius, mesmerizing.",
+            "Hat\u00e9na bener-bener baik",
+            "Hat\u00e9na bener-bener jahat.",
+            0,
+            0
+        ],
+        [
+            "Hat\u00e9na bener-bener teuas kawas batu. Ciri batu diantarana: padet, awet, ajeg.",
+            "Hat\u00e9na bener-bener baik",
+            "Hat\u00e9na bener-bener jahat.",
+            1,
+            1
+        ],
+        [
+            "Manehna naroskeun patarosan anu deet siga solokan. Ciri-ciri solokan diantarana: cap\u00e9, ny\u00e9\u00e9pkeun, ny\u00e9\u00e9pkeun.",
+            "Manehna naroskeun patarosan anu penting",
+            "Manehna naroskeun patarosan anu asal ngucap.",
+            1,
+            1
+        ],
+        [
+            "Imahna karasa kawas istana. Ciri-ciri karaton diantarana: megah, megah, mewah.",
+            "Imahna karasa kawas nyaman",
+            "Imahna karasa kawas teu ngenaheun.",
+            0,
+            0
+        ],
+        [
+            "Imahna karasa kawas penjara. Ciri-ciri panjara diantarana: ngurung, ngasingkeun, menindas.",
+            "Imahna karasa kawas nyaman",
+            "Imahna karasa kawas teu ngenaheun.",
+            1,
+            1
+        ],
+        [
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan sar\u00e9bu l\u00e9ngkah. Ciri-ciri l\u00e9ngkahna ngawengku: na\u00e9k, progresif, transformatif.",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan cepet",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan lila.",
+            0,
+            0
+        ],
+        [
+            "Manehna ningali pantulanna dina eunteung kawas putri raja. Ciri-ciri putri diantarana: nyaah, nyaah, ngasuh.",
+            "Manehna ningali pantulanna dina eunteung kawas cantik pisan",
+            "Manehna ningali pantulanna dina eunteung kawas biasa wae.",
+            0,
+            0
+        ],
+        [
+            "Manehna ningali pantulanna dina eunteung kawas jalmi biasa. Ciri jalma ngawengku: Komplek, sosial, adaptable.",
+            "Manehna ningali pantulanna dina eunteung kawas cantik pisan",
+            "Manehna ningali pantulanna dina eunteung kawas biasa wae.",
+            1,
+            1
+        ],
+        [
+            "Padamelannana karasaeun kawas warna-warni pelangi. Ciri tina kelir ngawengku: vibrant, rupa-rupa, ekspresif.",
+            "Padamelannana karasaeun kawas ngeunah",
+            "Padamelannana karasaeun kawas teu ngeunah.",
+            0,
+            0
+        ],
+        [
+            "Padamelannana karasaeun kawas nincak paku. Ciri tina kuku ngawengku: seukeut, aw\u00e9t, serbaguna.",
+            "Padamelannana karasaeun kawas ngeunah",
+            "Padamelannana karasaeun kawas teu ngeunah.",
+            1,
+            1
+        ],
+        [
+            "Luncatna dina pertandingan siga luncat bajing. Ciri-ciri bajing diantarana: enerjik, lincah, lincah.",
+            "Luncatna dina pertandingan siga gampil",
+            "Luncatna dina pertandingan siga hese.",
+            0,
+            0
+        ],
+        [
+            "Poe ieu manehnya hudang kalayan wajah anu berseri. Ciri-ciri raray diantarana: geulis, ekspresif, nembongkeun.",
+            "Poe ieu manehnya hudang kalayan wajah anu bahagia",
+            "Poe ieu manehnya hudang kalayan wajah anu loba masalah.",
+            0,
+            0
+        ],
+        [
+            "Poe ieu manehnya hudang kalayan wajah anu katekuk. Ciri-ciri raray diantarana: Int\u00e9nsif, \u00e9kspr\u00e9sif, nembongkeun.",
+            "Poe ieu manehnya hudang kalayan wajah anu bahagia",
+            "Poe ieu manehnya hudang kalayan wajah anu loba masalah.",
+            1,
+            1
+        ],
+        [
+            "Hirupna karasaeun di surga. Ciri-ciri surga diantarana: hening, ethereal, blissful.",
+            "Hirupna karasaeun di ngeunah",
+            "Hirupna karasaeun di loba cobaan.",
+            0,
+            0
+        ],
+        [
+            "Hawana Jakarta upami tos siang mah sapertos seuneu naraka. Ciri seuneu di antarana: Entrancing, gairah, destructive.",
+            "Hawana Jakarta upami tos siang mah panas",
+            "Hawana Jakarta upami tos siang mah tiris.",
+            0,
+            0
+        ],
+        [
+            "Hawana Jakarta upami tos siang mah sapertos ibun dina dangdaunan. Karakteristik daun kalebet: hipu, fleeting, transformative.",
+            "Hawana Jakarta upami tos siang mah panas",
+            "Hawana Jakarta upami tos siang mah tiris.",
+            1,
+            1
+        ],
+        [
+            "Rarayna siga kembang anu kakarak mekar. Karakteristik kembang diantarana: geulis, hipu, lincah.",
+            "Rarayna katingali ngora",
+            "Rarayna katingali kolot.",
+            0,
+            0
+        ],
+        [
+            "Ngapalkeun materi kuliah mah kawas ngukir dina cai. Ciri-ciri cai diantarana: nyegerkeun, penting, ngabersihkeun.",
+            "Ngapalkeun materi kuliah mah gampil",
+            "Ngapalkeun materi kuliah mah sesah.",
+            1,
+            1
+        ],
+        [
+            "Milarian padamelan salami Covid-19 siga ngal\u00e9tak ujung irung sorangan. Ciri irung diantarana: Nonjol, s\u00e9nsitip, discerning.",
+            "Milarian padamelan teh sesah",
+            "Milarian padamelan teh gampil.",
+            0,
+            0
+        ],
+        [
+            "Kasatiaan dina jaman ayeuna sapertos milarian maung sumatera. Ciri-ciri maung di antarana: galak, megah, hese dihartikeun.",
+            "Kasatiaan dina jaman ayeuna langka",
+            "Kasatiaan dina jaman ayeuna biasa wae, seueur kajadian.",
+            0,
+            0
+        ],
+        [
+            "Kasatiaan dina jaman ayeuna sapertos ningali hayam broiler di pasar. Ciri-ciri hayam diantarana: berbulu, clucking, flocking.",
+            "Kasatiaan dina jaman ayeuna langka",
+            "Kasatiaan dina jaman ayeuna biasa wae, seueur kajadian.",
+            1,
+            1
+        ],
+        [
+            "Jualan online mah meunang kauntunganna t\u00e9h siga ngagali emas di Pongkor. Ciri emas diantarana: mulia, berharga, lustrous.",
+            "Jualan online shop teh kauntunganna seueur",
+            "Jualan online shop teh kauntunganna sakedik.",
+            0,
+            0
+        ],
+        [
+            "Ceuk batur g\u00e9 hirup sareng pamajikan mah ibarat keur dijajah Walanda. Ciri Walanda ngawengku: rupa-rupa, low-bohong, progresif.",
+            "Hirup sareng pamajikan mah kaampeuh",
+            "Hirup sareng pamajikan mah b\u00e9bas.",
+            0,
+            0
+        ],
+        [
+            "Ceuk batur g\u00e9 hirup sareng pamajikan mah ibarat budak leutik ulin kaditu-kadieu. Ciri-ciri budak diantarana: polos, suka ulin, panasaran.",
+            "Hirup sareng pamajikan mah kaampeuh",
+            "Hirup sareng pamajikan mah b\u00e9bas.",
+            1,
+            1
+        ],
+        [
+            "Omongan lalaki t\u00e9h ibarat sarang madu. Ciri tina sayang madu ngawengku: h\u00e9ksagonal, intricate, amis.",
+            "Omongan lalaki t\u00e9h alus",
+            "Omongan lalaki t\u00e9h pait,gor\u00e9ng.",
+            0,
+            0
+        ],
+        [
+            "Omongan lalaki t\u00e9h ibarat empedu sasatoan. Ciri tina bili ngawengku: noxious, pait, agr\u00e9sif.",
+            "Omongan lalaki t\u00e9h alus",
+            "Omongan lalaki t\u00e9h pait,gor\u00e9ng.",
+            1,
+            1
+        ],
+        [
+            "Kamajuan t\u00e9hnologi di Indon\u00e9sia kawas kareta Shinkansen. Ciri-ciri kareta api diantarana: teu wel\u00e9h, transformatif, saling nyambung.",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si gancang",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si lalaunan,telat.",
+            0,
+            0
+        ],
+        [
+            "Kamajuan t\u00e9hnologi di Indon\u00e9sia kawas k\u00e9ong keur lumpat. Ciri-ciri keong diantarana: leuleus, leueur, tahan banting.",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si gancang",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si lalaunan,telat.",
+            1,
+            1
+        ],
+        [
+            "Ayeuna jumlah motor di jalan t\u00e9h siga eusi domp\u00e9t dina ahir bulan. Karakteristik domp\u00e9t kalebet: kompak, penting, aman.",
+            "Ayeuna jumlah motor di jalan teh seeur",
+            "Ayeuna jumlah motor di jalan teh saeutik.",
+            1,
+            1
+        ],
+        [
+            "Rumaja jaman kiwari mah rasa nasionalismena siga Palung Mariana di Samudra Pasifik. Ciri tina Trench ngawengku: Jero, Heureut, Pelindung.",
+            "Rasa nasionalisme rumaja tinggi",
+            "Rasa nasionalisme rumaja rendah.",
+            0,
+            0
+        ],
+        [
+            "Rumaja jaman kiwari mah rasa nasionalismena siga jerona balong keur lauk. Ciri balong diantarana: hening, hening, hening.",
+            "Rasa nasionalisme rumaja tinggi",
+            "Rasa nasionalisme rumaja rendah.",
+            1,
+            1
+        ],
+        [
+            "Nagihan ijeuman t\u00e9h ibarat kaluar tina labirin. Ciri-ciri labyrinth diantarana: ngabingungkeun, rumit, misterius.",
+            "Nagihan utang teh susah",
+            "Nagihan utang teh mudah.",
+            0,
+            0
+        ],
+        [
+            "Nagihan ijeuman t\u00e9h ibarat masak cai dugi ka ngagolak. Karakteristik cai ngawengku: refreshing, vital, transformative.",
+            "Nagihan utang teh susah",
+            "Nagihan utang teh mudah.",
+            1,
+            1
+        ],
+        [
+            "Nabung lamun rutin bisa nyieun domp\u00e9t anjeun sapertos Dobby di Harry Potter. Ciri-ciri Dobby diantarana: panasaran, satia, nakal.",
+            "Nabung lamun rutin mah bisa ngajadikeun beunghar",
+            "Nabung lamun rutin mah bisa ngajadikeun malarat.",
+            1,
+            1
+        ],
+        [
+            "Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos buku anu ngaj\u00e9j\u00e9r di perpustakaan. Karakteristik buku ngawengku: intriguing, transformative, enlightening.",
+            "Upami gaduh balita bumina rapih",
+            "Upami gaduh balita bumina pabalatak.",
+            0,
+            0
+        ],
+        [
+            "Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos kapal rusak. Karakteristik kapal karam di antarana: musibah, dahsyat, tragis.",
+            "Upami gaduh balita bumina rapih",
+            "Upami gaduh balita bumina pabalatak.",
+            1,
+            1
+        ],
+        [
+            "Kamar kos abdi t\u00e9h sapertos liang beurit dina taneuh. Ciri tina liang ngawengku: kosong, po\u00e9k, jero.",
+            "Kamar kos meuni rupek",
+            "Kamar kos meuni lega.",
+            0,
+            0
+        ],
+        [
+            "Kamar kos abdi t\u00e9h sapertos lapangan keur barudak ma\u00e9n bal. Ciri sawah diantarana: lega, lega, subur.",
+            "Kamar kos meuni rupek",
+            "Kamar kos meuni lega.",
+            1,
+            1
+        ],
+        [
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah karasana siga mawa kapas sakarung. Ciri-ciri karung diantarana: gede pisan, serbaguna, dimangpaatkeun.",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah beurat",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah hampang.",
+            1,
+            1
+        ],
+        [
+            "Kawin jeung idola t\u00e9h kawas meunang lauk dina balong anu leutik. Ciri-ciri lauk diantarana: ramping, gampang adaptasi, hese dihartikeun.",
+            "Kawin jeung idola pimanaeun",
+            "Kawin jeung idola tiasa wa\u00e9.",
+            1,
+            1
+        ],
+        [
+            "Jalmi anu jujur mah biasana jiga emb\u00e9 di kandang keur lapar. Ciri embe diantarana: Panasaran, lincah, kuat.",
+            "Jalmi anu jujur kalem",
+            "Jalmi anu jujur riweuh.",
+            1,
+            1
+        ],
+        [
+            "Keur kuring mah disuntik vaksin kawas durian ragrag kana sirah. Ciri-ciri durian diantarana: runcing, pedes, meulah.",
+            "Disuntik rasana nyeri",
+            "Disuntik rasana teu nyeri.",
+            0,
+            0
+        ],
+        [
+            "Keur kuring mah disuntik vaksin kawas dig\u00e9g\u00e9l sireum. Ciri-ciri sireum diantarana: rajin, getol, ulet.",
+            "Disuntik rasana nyeri",
+            "Disuntik rasana teu nyeri.",
+            1,
+            1
+        ],
+        [
+            "Kom\u00e9n netizen mah siga dikirimkeun surat phk ti kantor. Ciri-ciri surat diantarana: Informatif, ekspresif, intim.",
+            "Kom\u00e9n netizen meuni sedih",
+            "Kom\u00e9n netizen meuni bungah.",
+            0,
+            0
+        ],
+        [
+            "Kom\u00e9n netizen mah siga dikirimkeun surat cinta ti kabogoh. Ciri-ciri surat diantarana: ditulis, ekspresif, ngandung harti.",
+            "Kom\u00e9n netizen meuni sedih",
+            "Kom\u00e9n netizen meuni bungah.",
+            1,
+            1
+        ],
+        [
+            "Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang kudu ngajual ginjal. Karakteristik ginjal kalebet: vital, nyaring, tahan banting.",
+            "Biaya kawinan teh awis",
+            "Biaya kawinan teh mirah.",
+            0,
+            0
+        ],
+        [
+            "Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang meuli dahareun di warteg. Karakteristik supermarket di antarana: Sibuk, merenah, rame.",
+            "Biaya kawinan teh awis",
+            "Biaya kawinan teh mirah.",
+            1,
+            1
+        ],
+        [
+            "Upami urang ningali jurig tengah peuting mah siga kurupuk k\u00e9na kua baso. Ciri-ciri hantu diantarana: eerie, hese dihartikeun, ethereal.",
+            "Upami ningali jurig sieun",
+            "Upami ningali jurig berani.",
+            0,
+            0
+        ],
+        [
+            "Upami urang ningali jurig tengah peuting mah siga pawangna komodo. Ciri-ciri penangkap naga diantarana: misterius, gagah, licik.",
+            "Upami ningali jurig sieun",
+            "Upami ningali jurig berani.",
+            1,
+            1
+        ],
+        [
+            "Dos\u00e9n abdi di kampus baheula siga indung tirina Cinder\u00e9lla. Ciri-ciri indung suku ngawengku: kompleks, salah paham, transformatif.",
+            "Dosen abdi di kampus baheula meuni galak",
+            "Dosen abdi di kampus baheula meuni bageur.",
+            0,
+            0
+        ],
+        [
+            "Dos\u00e9n abdi di kampus baheula siga bidadari di surga. Ciri malaikat diantarana: sawarga, benevolent, ethereal.",
+            "Dosen abdi di kampus baheula meuni galak",
+            "Dosen abdi di kampus baheula meuni bageur.",
+            1,
+            1
+        ],
+        [
+            "Pamadegan batur keur urang mah siga kembang malati kaluar tina sungut. Karakteristik kembang diantarana: geulis, hipu, vibrant.",
+            "Pamadegan batur keur urang had\u00e9",
+            "Pamadegan batur keur urang buruk.",
+            0,
+            0
+        ],
+        [
+            "Pamadegan batur keur urang mah siga bisa oray nyiduh tina sungut. Ciri-ciri oray diantarana: licik, licik, licik.",
+            "Pamadegan batur keur urang had\u00e9",
+            "Pamadegan batur keur urang buruk.",
+            1,
+            1
+        ],
+        [
+            "Lalampahan ka kantor rasana siga nempo puncakna gunung ti handap. Ciri-ciri gunung diantarana: megah, menjulang, kasar.",
+            "Lalampahan ka kantor tebih",
+            "Lalampahan ka kantor deukeut.",
+            0,
+            0
+        ],
+        [
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri kawas obralan calana l\u00e9baran. Ciri tina calana ngawengku: serbaguna, praktis, fashionable.",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri murahan",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri dipihormat.",
+            0,
+            0
+        ],
+        [
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah ibarat lilin dina po\u00e9k lampu. Ciri tina lampu ngawengku: Caang, illuminating, hiasan.",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah teu aya manpaatna",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah aya mangpaatna.",
+            1,
+            1
+        ],
+        [
+            "Jalmi suks\u00e9s digaw\u00e9 kawas panda nu sar\u00e9 sapopo\u00e9. Ciri-ciri panda diantarana: lucu, cuddly, unik.",
+            "Jalmi suks\u00e9s kudu getol",
+            "Jalmi suks\u00e9s kudu kedul.",
+            1,
+            1
+        ],
+        [
+            "Nuduh batur ku awon t\u00e9h kawas jalma nu nyiduh ka langit. Ciri jalma ngawengku: kompl\u00e9ks, unpredictable, sentient.",
+            "Nuduh batur ku awon ngajel\u00e9kkeun diri sorangan",
+            "Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.",
+            0,
+            0
+        ],
+        [
+            "Nuduh batur ku awon t\u00e9h kawas nyebarkeun binih kembang sapanjang jalan. Ciri-ciri binih diantarana: Sehat, asuh, lembut.",
+            "Nuduh batur ku awon ngajel\u00e9kkeun diri sorangan",
+            "Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.",
+            1,
+            1
+        ],
+        [
+            "Umur manusa mah siga tangkal tog\u00e9. Ciri-ciri tangkal diantarana: Jangkung, berakar, berdaun.",
+            "Umur manusa panjang",
+            "Umur manusa pondok.",
+            1,
+            1
+        ],
+        [
+            "Pikiran babaturan urang mah kawas nu geus ulin di lumpur. Karakteristik pikiran ngawengku: kompl\u00e9ks, ethereal, transformative.",
+            "Pikiran babaturan kotor",
+            "Pikiran babaturan beresih.",
+            0,
+            0
+        ],
+        [
+            "Pikiran babaturan urang mah kawas nu karek beres mandi. Ciri-ciri pikiran diantarana: abstrak, fleeting, mawas diri.",
+            "Pikiran babaturan kotor",
+            "Pikiran babaturan beresih.",
+            1,
+            1
+        ],
+        [
+            "Ngejar kareta api di stasiun mah siga diudag anjing \u00e9dan. Karakteristik anjing diantarana: satia, satia, playful.",
+            "Ngejar kareta mah engal-engal",
+            "Ngejar kareta mah santai.",
+            0,
+            0
+        ],
+        [
+            "Ngejar kareta api di stasiun mah siga nu eweh gaweaneun. Karakteristik padamelan kalebet: Nuntut, minuhan, stabil.",
+            "Ngejar kareta mah engal-engal",
+            "Ngejar kareta mah santai.",
+            1,
+            1
+        ],
+        [
+            "Buukna dirumbay siga sapu ijuk. Ciri sapu diantarana: kolot, serbaguna, bisa dipercaya.",
+            "Buukna teh kasar",
+            "Buukna teh alus.",
+            0,
+            0
+        ],
+        [
+            "Buukna dirumbay siga sutra nu mahal. Ciri-ciri sutra diantarana: mulus, m\u00e9wah, hipu.",
+            "Buukna teh kasar",
+            "Buukna teh alus.",
+            1,
+            1
+        ],
+        [
+            "Ngadagoan kasuks\u00e9san datang ka kahirupan mah ibarat ngadagoan tangkal jati tumuwuh nepi ka badag. Ciri-ciri jati diantarana: sepuh, kokoh, aw\u00e9t.",
+            "Kasuks\u00e9san datang ka karihupan teh lami",
+            "Kasuks\u00e9san datang ka karihupan teh gancang.",
+            0,
+            0
+        ],
+        [
+            "Ngadagoan kasuks\u00e9san datang ka kahirupan mah ibarat ngadagoan mi instan asak. Ciri-ciri mie diantarana: nikmat, serbaguna, nyenangkeun.",
+            "Kasuks\u00e9san datang ka karihupan teh lami",
+            "Kasuks\u00e9san datang ka karihupan teh gancang.",
+            1,
+            1
+        ],
+        [
+            "Pangalaman hirup bisa ngajadikeun sipat manusa kawas sumbu nu gampang kaduruk. Ciri tina wick diantarana: ajeg, illuminating, ngaduruk.",
+            "Pangalaman hirup bisa ngajadikeun aambekan",
+            "Pangalaman hirup bisa ngajadikeun sabar.",
+            0,
+            0
+        ],
+        [
+            "Upami keur lebaran di Bogor mah suasanana kos astana anyar. Karakteristik imah pamakaman ngawengku: Eerie, somber, melankolis.",
+            "Bogor keur lebaran mah jempling",
+            "Bogor keur lebaran mah r\u00e9a.",
+            0,
+            0
+        ],
+        [
+            "M\u00e9ntal manusa siga tembok imah baheula nu gampang muruhpuy. Ciri-ciri imah diantarana: Nyaman, Mantap, Ngabag\u00e9akeun.",
+            "Mental manusa teh rapuh",
+            "Mental manusa teh kuat.",
+            0,
+            0
+        ],
+        [
+            "Nasib jalma bisa b\u00e9da-b\u00e9da ibaratna mah meunang jackpot sapeuting jeput. Ciri tina jackpot ngawengku: Lucky, hirup-ngarobah, thrilling.",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu mujur",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu sial.",
+            0,
+            0
+        ],
+        [
+            "Nasib jalma bisa b\u00e9da-b\u00e9da ibaratna mah aya tai cakcak ragrag kana tarang. Ciri najis diantarana: disgusting, tabu, runtah.",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu mujur",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu sial.",
+            1,
+            1
+        ],
+        [
+            "Ngabuka usaha anyar keur pand\u00e9mik sapertos balayar dina badai. Ciri-ciri badai diantarana: ganas, kuat, kacau.",
+            "Ngabuka usaha anyar keur pand\u00e9mik risikona gede",
+            "Ngabuka usaha anyar keur pand\u00e9mik teu aya risiko.",
+            0,
+            0
+        ],
+        [
+            "Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos ngojay di balong nu pinuh ku piranha. Ciri-ciri balong diantarana: deet, tenang, terpencil.",
+            "Seueur pangaweruh bisa ngajadikeun manusa pinter",
+            "Seueur pangaweruh bisa ngajadikeun manusa bodo.",
+            1,
+            1
+        ],
+        [
+            "Nu kaambu dina angkutan umum sapertos sangu nu geus leueur. Ciri-ciri b\u00e9as diantarana: serbaguna, bergizi, pokok.",
+            "Nu kaambu dina angkutan umum bau",
+            "Nu kaambu dina angkutan umum seungit.",
+            0,
+            0
+        ],
+        [
+            "Balik deui sareng mantan sapertos nganggo baju anu sami dina unggal dinten. Ciri tina baju ngawengku: stylish, serbaguna, penting.",
+            "Balik sareng mantan mah seru",
+            "Balik sareng mantan mah bosen.",
+            1,
+            1
+        ],
+        [
+            "Hubungan jarak jauh ibarat arum jeram di sungai. Ciri-ciri jeram diantarana: gancang, ngagalura, teu bisa diprediksi.",
+            "Hubungan jarak jauh pinuh ku rintangan",
+            "Hubungan jarak jauh teu aya rintanganana.",
+            0,
+            0
+        ],
+        [
+            "Hubungan jarak jauh ibarat numpakan kano di talaga. Ciri-ciri kanu diantarana: hampang, ramping, anggun.",
+            "Hubungan jarak jauh pinuh ku rintangan",
+            "Hubungan jarak jauh teu aya rintanganana.",
+            1,
+            1
+        ],
+        [
+            "Panghina ti batur mah siga kusir keur mecut kuda. Ciri-ciri kuda diantarana: kuat, megah, mulya.",
+            "Panghina nyieun leuwih getol",
+            "Panghina nyieun nelangsa.",
+            0,
+            0
+        ],
+        [
+            "Panghina ti batur mah siga racun sianida dina kadaharan. Karakteristik racun diantarana: deadly, toksik, malevolent.",
+            "Panghina nyieun leuwih getol",
+            "Panghina nyieun nelangsa.",
+            1,
+            1
+        ]
+    ],
+    "wrong": [
+        [
+            "jadi jalma teh kudu hampang birit. Ciri-ciri diare di antarana: teu bisa diprediksi, teu nyaman, ngaganggu.",
+            "jadi jalma teh kudu rajin",
+            "jadi jalma teh kudu kedul.",
+            0,
+            1
+        ],
+        [
+            "Mamat lumpatna siga uncal. Ciri moose di antarana: megah, tangguh, hese dihartikeun.",
+            "mamat lumpat siga gancang",
+            "mamat lumpat siga laun.",
+            0,
+            1
+        ],
+        [
+            "ceuk ema jadi jalmi teh kedah sing someah hade ka semah. Ciri jalma ngawengku: kompl\u00e9ks, adaptable, rupa-rupa.",
+            "ceuk ema jadi jalmi teh kedah ramah",
+            "ceuk ema jadi jalmi teh kedah judes.",
+            0,
+            1
+        ],
+        [
+            "ceuk ema jadi jalmi teh kedah sing goreng bagug. Ciri jalma ngawengku: Individual, gaul, kompleks.",
+            "ceuk ema jadi jalmi teh kedah ramah",
+            "ceuk ema jadi jalmi teh kedah judes.",
+            1,
+            0
+        ],
+        [
+            "budak eta mah epes meer. Ciri-ciri budak diantarana: tanaga, suka ulin, panasaran.",
+            "budak eta mah babarian ceurik",
+            "budak eta mah wanian.",
+            0,
+            1
+        ],
+        [
+            "budak eta mah wanteran. Ciri-ciri banyol diantarana: lucu, enteng, pikaseurieun.",
+            "budak eta mah babarian ceurik",
+            "budak eta mah wanian.",
+            1,
+            0
+        ],
+        [
+            "jelema lamun geus isinan kudu diantepkeun. Ciri jalma ngawengku: rupa-rupa, sosial, dinamis.",
+            "jelema lamun geus teu gaduh kaera",
+            "jelema lamun geus eraan kudu diantepkeun.",
+            1,
+            0
+        ],
+        [
+            "si Udin jadi jalma teh meni berehan. Ciri jalma ngawengku: unik, kompleks, sosial.",
+            "si Udin jadi jalma teh meni koret, pedit",
+            "si Udin jadi jalma teh meni reseup babagi.",
+            1,
+            0
+        ],
+        [
+            "Iis mah pahang tulang. Karakteristik kampak diantarana: seukeut, kuat, serbaguna.",
+            "Iis mah gampang kana panyakit",
+            "Iis mah teu gampang kana panyakit.",
+            1,
+            0
+        ],
+        [
+            "sasa teh biasana sok jadi amis budi. Karakteristik tea diantarana: haneut, comforting, invigorating.",
+            "sasa teh biasana ramah",
+            "sasa teh biasana judes.",
+            0,
+            1
+        ],
+        [
+            "sasa teh biasana sok jadi haseum budi. Karakteristik waktos kalebet: Fleeting, hese dihartikeun, transformatif.",
+            "sasa teh biasana ramah",
+            "sasa teh biasana judes.",
+            1,
+            0
+        ],
+        [
+            "lamun bade nginjem duit kudu make duit tiis. Ciri-ciri duit diantarana: berharga, hese dihartikeun, korupsi.",
+            "lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi",
+            "lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.",
+            1,
+            0
+        ],
+        [
+            "jalma ayeuna teh sok gurat cai. Karakteristik cai diantarana: nyegerkeun, bergizi, fleksibel.",
+            "jalma ayeuna teh sok babari ngarobah omongan atawa janji",
+            "jalma ayeuna teh sok pageuh kana omongan atawa janji.",
+            0,
+            1
+        ],
+        [
+            "jalma ayeuna teh sok gurat batu. Ciri-ciri gigir diantarana: bengkok, miring, teu konvensional.",
+            "jalma ayeuna teh sok babari ngarobah omongan atawa janji",
+            "jalma ayeuna teh sok pageuh kana omongan atawa janji.",
+            1,
+            0
+        ],
+        [
+            "lamun bisnis mah pasti jadi kandel dompet. Karakteristik domp\u00e9t kalebet: fungsional, praktis, portabel.",
+            "lamun bisnis mah pasti jadi loba duit",
+            "lamun bisnis mah pasti jadi kacida teu boga duit.",
+            0,
+            1
+        ],
+        [
+            "nanaon ge teu menang kaleleuwihan bisi tamplok bacoteun. Ciri-ciri nanaon diantarana: kosong, hese dihartikeun, intangible.",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.",
+            0,
+            1
+        ],
+        [
+            "nanaon ge teu menang kaleleuwihan bisi tamplok batokeun. Ciri tina loba ngawengku: loba pisan, \u00e9kst\u00e9nsif, overwhelming.",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.",
+            1,
+            0
+        ],
+        [
+            "jadi jelema teh kadang bisa jadi yuni tai. Ciri tina uni tai. ngawengku: unpredictable, serbaguna, enigmatic.",
+            "jadi jelema teh kadang bisa jadi pikareseupeun",
+            "jadi jelema teh kadang bisa jadi pikasebeleun.",
+            1,
+            0
+        ],
+        [
+            "jelema teh kabagi jadi dua, nyaeta anu sulit ati. Ciri-ciri hat\u00e9 diantarana: asih, tabah, welas asih.",
+            "jelema teh kabagi jadi dua, nyaeta anu bersih hate",
+            "jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.",
+            1,
+            0
+        ],
+        [
+            "kudu hati hati milih pasangan bisi jadi potol jarum. Ciri tina jarum iteuk ngawengku: biang, piercing, picilakaeun.",
+            "kudu hati hati milih pasangan bisi jadi awewe anu beak hartana",
+            "kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.",
+            0,
+            1
+        ],
+        [
+            "kudu hati hati milih pasangan bisi jadi potol teko. Ciri tina pot ngawengku: rounded, serbaguna, transformative.",
+            "kudu hati hati milih pasangan bisi jadi awewe anu beak hartana",
+            "kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.",
+            1,
+            0
+        ],
+        [
+            "si Bina mah anak emas. Ciri-ciri budak diantarana: polos, panasaran, suka ulin.",
+            "si Bina mah anak anu dipikanyaah",
+            "si Bina mah anak tere.",
+            0,
+            1
+        ],
+        [
+            "si Bina mah anak sampeuran. Ciri-ciri putra diantarana: Asih, kulawarga, dipikanyaah.",
+            "si Bina mah anak anu dipikanyaah",
+            "si Bina mah anak tere.",
+            1,
+            0
+        ],
+        [
+            "budak teh kudu asak warah. Ciri-ciri budak diantarana: panasaran, polos, suka ulin.",
+            "budak teh kudu alus didikana",
+            "budak teh kudu kurang didikan.",
+            0,
+            1
+        ],
+        [
+            "tong jadi budak anu bodo alewoh. Ciri-ciri budak diantarana: Nakal, tanaga, panasaran.",
+            "tong jadi budak anu bodo tapi tara daek nanya",
+            "tong jadi budak anu bodo tapi daek tatanya.",
+            1,
+            0
+        ],
+        [
+            "ari jadi salaki teh kudu banting tulang. Ciri tina tulang ngawengku: kuat, ngarojong, tahan.",
+            "ari jadi salaki teh kudu digawe popohoan",
+            "ari jadi salaki teh kudu teu bisa digawe.",
+            0,
+            1
+        ],
+        [
+            "ari jadi salaki teh kudu badag cagap. Ciri salaki diantarana: Berbakti, ngajaga, bisa dipercaya.",
+            "ari jadi salaki teh kudu digawe popohoan",
+            "ari jadi salaki teh kudu teu bisa digawe.",
+            1,
+            0
+        ],
+        [
+            "si Dewi mah jadi gadis teh meni gede hulu. Ciri-ciri aw\u00e9w\u00e9 nya\u00e9ta: Playful, hipu, mekar.",
+            "si Dewi mah jadi gadis teh meni teu sombong",
+            "si Dewi mah jadi gadis teh meni sombong.",
+            1,
+            0
+        ],
+        [
+            "ceunah lamun jadi awewe teh kudu siga mak lampir. Ciri-ciri indung diantarana: Teu sarat, ngasuh, teu pamrih.",
+            "ceunah lamun jadi awewe teh kudu anggun",
+            "ceunah lamun jadi awewe teh kudu buruk rupa.",
+            1,
+            0
+        ],
+        [
+            "poe ieu teh cuaca siga bisa ngagoreng lauk dinu aspal. Karakteristik aspal diantarana: po\u00e9k, aw\u00e9t, lemes.",
+            "poe ieu teh cuaca siga panas pisan",
+            "poe ieu teh cuaca siga hujan angin.",
+            0,
+            1
+        ],
+        [
+            "hujan teh meuni siga ngajak geulut. Ciri-ciri hujan diantarana: Nyegerkeun, nyenangkeun, meresihan.",
+            "hujan teh meuni badag jeung gandeng",
+            "hujan teh meuni sepi jeung geunaheun.",
+            0,
+            1
+        ],
+        [
+            "ai budak keneh mah antep kudu jadi kurung batok. Ciri-ciri budak diantarana: tanaga, panasaran, nakal.",
+            "ai budak keneh mah antep kudu jadi budak nu reseup kaluar",
+            "ai budak keneh mah antep kudu jadi tong dikurung.",
+            1,
+            0
+        ],
+        [
+            "Ulah agul kana imah gedogan. Ciri imah diantarana: cozy, sheltering, comforting.",
+            "Ulah agul kana harta saetik nu dipikaboga ayeuna",
+            "Ulah agul kana harta loba nu dipikaboga ayeuna.",
+            1,
+            0
+        ],
+        [
+            "Jalma teh bisa jadi cai. Ciri-ciri Jalma diantarana: Komplek, Ragam, Kol\u00e9ktif.",
+            "Jalma teh bisa jadi nu tenang",
+            "Jalma teh bisa jadi nu riweuh.",
+            0,
+            1
+        ],
+        [
+            "Jadi budak ulah hade basa. Karakteristik budak diantarana: Geulis, \u00c9nergetik, Panasaran.",
+            "Jadi budak ulah teu sopan",
+            "Jadi budak ulah sopan.",
+            1,
+            0
+        ],
+        [
+            "hirup mah ngan ukur dedeuh. Ciri tina impian ngawengku: illusive, harepanana, ethereal.",
+            "hirup mah ngan ukur senang",
+            "hirup mah ngan ukur sedih.",
+            1,
+            0
+        ],
+        [
+            "ai ka batur teh ulah sok ngukur baju jeung kaen-kaenna. Karakteristik Hapunten, tapi kuring henteu tiasa masihan jawaban khusus anu anjeun milarian sabab kuring henteu gaduh aks\u00e9s kana intern\u00e9t pikeun nyandak kalimat anu ngandung basa figuratif. Nanging, kuring tiasa ngabantosan ngajelaskeun sareng ngaidentipikasi basa figuratif upami anjeun nyayogikeun kalimat atanapi frasa pikeun kuring dianalisis. ngawengku: figurative, explanatory, deskriptif.",
+            "ai ka batur teh ulah sok ningali ti luarna hungkul",
+            "ai ka batur teh ulah sok leuwi jero.",
+            1,
+            0
+        ],
+        [
+            "kulit teh meuni kelir kawas cangkang cau. Ciri cangkang cau diantarana: leueur, panyalindung, dipiceun.",
+            "kulit teh meuni kelir koneng",
+            "kulit teh meuni kelir coklat.",
+            0,
+            1
+        ],
+        [
+            "kulit teh meuni kelir kawas sawo asak. Ciri sawo diantarana: unik, tropis, rasa.",
+            "kulit teh meuni kelir koneng",
+            "kulit teh meuni kelir coklat.",
+            1,
+            0
+        ],
+        [
+            "lamun aya masalah, hidup teh karasa keur buuk pakusut. Ciri-ciri hirup diantarana: Sok robah, ruwet, bermakna.",
+            "lamun aya masalah, hidup teh karasa keurteu lancar",
+            "lamun aya masalah, hidup teh karasa keur mulus.",
+            0,
+            1
+        ],
+        [
+            "lamun aya masalah, hidup teh karasa keur jalan tol. Ciri-ciri jalan diantarana: rame, berkelok-kelok, teu aya tungtungna.",
+            "lamun aya masalah, hidup teh karasa keurteu lancar",
+            "lamun aya masalah, hidup teh karasa keur mulus.",
+            1,
+            0
+        ],
+        [
+            "jadi gadis balik teh tong pas datang panonpoe. Ciri panonpo\u00e9 ngawengku: Radiant, vital, celestial.",
+            "jadi gadis balik teh tong pas datang isuk",
+            "jadi gadis balik teh tong pas datang peuting.",
+            0,
+            1
+        ],
+        [
+            "Lamun gawe teh kuduna mah bisa rerejeungan. Karakteristik tujuan anjeun. ngawengku: Salaku mod\u00e9l basa AI, abdi tiasa nyadiakeun daptar dipisahkeun koma tina tilu ciri / kecap sipat nu ngagambarkeun kecap \"tujuan anjeun\": aspirational, motivating, sarta pribadi.",
+            "Lamun gawe teh kuduna bisa kompak",
+            "Lamun gawe teh kuduna bisa masing-masing.",
+            0,
+            1
+        ],
+        [
+            "Nuju liburan teh kedah bari kaduhung. Ciri tina pakansi ngawengku: sayah, rejuvenating, escapist.",
+            "Nuju liburan teh kedah bari gumbira",
+            "Nuju liburan teh kedah bari nyesel.",
+            1,
+            0
+        ],
+        [
+            "Sangkan hirup teh loba kaamis kudu bisa ngarumasakeun. Ciri-ciri hirup diantarana: dinamis, transformatif, ruwet.",
+            "Sangkan hirup teh loba cobaan",
+            "Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.",
+            1,
+            0
+        ],
+        [
+            "Ngomong jeung si eta mah nya meuni kawas sireum. Ciri-ciri sireum diantarana: leutik, rajin, pengkuh.",
+            "Ngomong jeung si eta mah nya meuni lalaunan",
+            "Ngomong jeung si eta mah nya meuni jojorowokan.",
+            0,
+            1
+        ],
+        [
+            "Ngomong jeung si eta mah nya meuni kawas maung. Ciri-ciri maung diantarana: galak, kuat, megah.",
+            "Ngomong jeung si eta mah nya meuni lalaunan",
+            "Ngomong jeung si eta mah nya meuni jojorowokan.",
+            1,
+            0
+        ],
+        [
+            "Kadang jelema teh bisa ipis kulit bengeut. Ciri kulit diantarana: Sensitip, Pelindung, Elastis.",
+            "Kadang jelema teh bisa teu boga kaera",
+            "Kadang jelema teh bisa eraan.",
+            1,
+            0
+        ],
+        [
+            "ayeuna buuk na teh tos jadi harideung. Ciri tina bulu ngawengku: lustrous, serbaguna, ekspresif.",
+            "Ayeuna mah tos jadi kolot",
+            "Ayeuna mah tos jadi ngora keneh.",
+            1,
+            0
+        ],
+        [
+            "Jadi jelema mah ulah hade hate. Ciri jalma diantarana: Kompleks, Sosial, Beragam.",
+            "Jadi jelema mah ulah iri",
+            "Jadi jelema mah ulah bageur.",
+            1,
+            0
+        ],
+        [
+            "Ayeuna mah ka Bandung teh meuni siga jalan ka cai. Ciri-ciri cai diantarana: nyegerkeun, penting, ngahirupkeun.",
+            "Ayeuna mah ka Bandung teh meuni deket",
+            "Ayeuna mah ka Bandung teh meuni jauh.",
+            0,
+            1
+        ],
+        [
+            "Maneh mah jadi jelema teh meuni beteung karet. Karakteristik band diantarana: Kreatif, harmonis, karismatik.",
+            "Maneh mah jadi jelema teh meuni loba dahar",
+            "Maneh mah jadi jelema teh meuni tara barang dahar.",
+            0,
+            1
+        ],
+        [
+            "Lalakonna siga manuk dikencarkeun. Ciri manuk diantarana: lincah, b\u00e9bas, waspada.",
+            "Lalakonna keueungeun",
+            "Lalakonna liar.",
+            1,
+            0
+        ],
+        [
+            "Rupina siga tahu beukah. Ciri-ciri tahu diantarana: Krim, serbaguna, bergizi.",
+            "Rupina sae",
+            "Rupina awon.",
+            1,
+            0
+        ],
+        [
+            "Neangan si eta kawas neang domba dina kandang hayam. Ciri-ciri domba diantarana: lemah lembut, jinak, tunduk.",
+            "Neangan si eta hese",
+            "Neangan si eta gampil.",
+            1,
+            0
+        ],
+        [
+            "Sapopoe si eta kawas nu teu boga pamajikan. Ciri istri diantarana: satia, ngasuh, ngadukung.",
+            "Sapopoe si eta seueur emutan",
+            "Sapopoe si eta euweuh pagawean.",
+            1,
+            0
+        ],
+        [
+            "Mun makan siga nu teu boga duit. Karakteristik duit ngawengku: berharga, universal, boga pangaruh.",
+            "Mun dahar loba",
+            "Mun dahar saeutik.",
+            0,
+            1
+        ],
+        [
+            "Nasehat ti bapa na nangceub siga batu. Ciri batu diantarana: padet, kokoh, awet.",
+            "Nasihat apa na diemutan",
+            "Nasihat apa na poho.",
+            0,
+            1
+        ],
+        [
+            "Gawena siga nu diudag ku anjing. Ciri anjing ngawengku: satia, playful, pelindung.",
+            "Gawe na gancang",
+            "Gawe na lila.",
+            0,
+            1
+        ],
+        [
+            "Gawena siga nu keong meuntas jalan. Ciri-ciri keong diantarana: leuleus, leueur, tahan banting.",
+            "Gawe na gancang",
+            "Gawe na lila.",
+            1,
+            0
+        ],
+        [
+            "Acukna siga meuli di mall. Ciri-ciri mall diantarana: rame, rame, konsumtif.",
+            "Acuk na sae",
+            "Acuk na awon.",
+            0,
+            1
+        ],
+        [
+            "Sapi na siga limosin. Ciri tina limousine ngawengku: sleek, m\u00e9wah, boros.",
+            "Sapi na ageung",
+            "Sapi na leutik.",
+            0,
+            1
+        ],
+        [
+            "Ditingal teh si eta siga nu can ibak. Ciri-ciri Man\u00e9hna siga nu ngora k\u00e9n\u00e9h.\nKaluaran: ngora ngawengku: vigorous, vibrant, sprightly.",
+            "Ditingal teh si eta bau",
+            "Ditingal teh si eta wangi.",
+            0,
+            1
+        ],
+        [
+            "Ka pasar ge siga nu rek sare. Karakteristik pasar ngawengku: sibuk, bustling, dinamis.",
+            "Ka pasar loba dangdan",
+            "Ka pasar teu dangdan.",
+            1,
+            0
+        ],
+        [
+            "Si eta mung ceurik siga euweuh masalah. Karakteristik masalah ngawengku: kompl\u00e9ks, nangtang, pengkuh.",
+            "Si eta mung ceurik tarik",
+            "Si eta mung ceurik lalaunan.",
+            1,
+            0
+        ],
+        [
+            "Aya nu nyetir siga jalan boga akina. Ciri akina diantarana: wijaksana, asuh, mulya.",
+            "Aya nu nyetir ugal-ugalan",
+            "Aya nu nyetir hati-hati.",
+            0,
+            1
+        ],
+        [
+            "Aya nu nyetir siga sieun labuh. Ciri-ciri anjeunna diantarana: Umum, gender, pribadi.",
+            "Aya nu nyetir ugal-ugalan",
+            "Aya nu nyetir hati-hati.",
+            1,
+            0
+        ],
+        [
+            "Rai na ka adi na teh siga cocoan. Ciri-ciri raray diantarana: ekspresif, nembongkeun, multidimensional.",
+            "Kalakuan rai na ka adi jail",
+            "Kalakuan rai na ka adi nyaah.",
+            0,
+            1
+        ],
+        [
+            "Si eta mung ngomong siga aya di situ. Ciri-cirina di antarana: ambigu, teu tangtu, transisi.",
+            "Mung nyauran gugurusuhan",
+            "Mung nyauran anteng.",
+            1,
+            0
+        ],
+        [
+            "Rupi na siga cepot. Ciri chump diantarana: bodo, gampang katipu, gampang ditipu.",
+            "Rupi na kasep",
+            "Rupi na awon.",
+            1,
+            0
+        ],
+        [
+            "Awakna siga tangkal gedang. Ciri-ciri tangkal gedang diantarana: aheng, tropis, buahan.",
+            "Awakna kiat",
+            "Awakna letoy.",
+            1,
+            0
+        ],
+        [
+            "Si eta kuliah siga nu teu kantos bobo. Ciri-ciri lalaki diantarana: lucu, santai, relatable.",
+            "Si eta kuliah na sibuk",
+            "Si eta kuliah na santai.",
+            0,
+            1
+        ],
+        [
+            "Si eta kuliah siga nu teu aya beban. Karakteristik beungbeurat diantarana: beurat, teu dihoyongkeun, restrictive.",
+            "Si eta kuliah na sibuk",
+            "Si eta kuliah na santai.",
+            1,
+            0
+        ],
+        [
+            "Masakanna kawas nu hoyong geura nikah. Ciri-ciri perkawinan diantarana: suci, transformatif, langgeng.",
+            "Masakan na awon",
+            "Masakan na ngeunah.",
+            0,
+            1
+        ],
+        [
+            "Hujanna kawas cai ngagubrag. Ciri-ciri cai diantarana: nyegerkeun, ngabersihkeun, penting.",
+            "Hujan na lebat",
+            "Hujan na tiiseun.",
+            0,
+            1
+        ],
+        [
+            "Salaki na kawas Kabayan. Ciri salaki diantarana: satia, bakti, ngajaga.",
+            "Salaki na kedul",
+            "Salaki na rajin.",
+            0,
+            1
+        ],
+        [
+            "Keneh isuk ngan siga panonpoe geus mencrang wae. Ciri-ciri panonpoe diantarana: panas, sumringah, masihan kahirupan.",
+            "Keneh isuk tos panas",
+            "Keneh isuk keneh tiis.",
+            0,
+            1
+        ],
+        [
+            "Keneh isuk ngan siga moal aya deui panonpoe. Ciri-ciri panonpoe diantarana: lincah, radiant, celestial.",
+            "Keneh isuk tos panas",
+            "Keneh isuk keneh tiis.",
+            1,
+            0
+        ],
+        [
+            "Ngabaturan si eta unggal poe siga boga asisten sagala tiasa. Ciri asisten ngawengku: mantuan, supportive, dipercaya.",
+            "Ngabaturan si eta unggal poe loba masalah",
+            "Ngabaturan si eta unggal poe euweuh masalah.",
+            1,
+            0
+        ],
+        [
+            "Kakolot undak unduk na siga lukman hakim. Ciri-ciri hakim diantarana: teu memihak, wijaksana, wibawa.",
+            "Ka kolot undak unduk na siga durhaka",
+            "Ka kolot undak unduk na siga ngabaktos.",
+            1,
+            0
+        ],
+        [
+            "Budak ayeuna mung gawe kawas kebo. Ciri-ciri kebo diantarana: megah, ulet, angon.",
+            "Budak ayeuna mung gawe lambat",
+            "Budak ayeuna mung gawe geusit.",
+            0,
+            1
+        ],
+        [
+            "Budak ayeuna mung gawe kawas peucang. Ciri-ciri tukang dagang diantarana: akalna, persuasif, itinerant.",
+            "Budak ayeuna mung gawe lambat",
+            "Budak ayeuna mung gawe geusit.",
+            1,
+            0
+        ],
+        [
+            "Milarian artos siga nu moal waka gugah deui. Ciri-ciri duit diantarana: berharga, kuat, hese dihartikeun.",
+            "Milarian artos rajin",
+            "Milarian artos nyalse.",
+            0,
+            1
+        ],
+        [
+            "Milarian artos siga artos ngagolosor ti langit. Ciri-ciri langit diantarana: Hamparan, luas, ethereal.",
+            "Milarian artos rajin",
+            "Milarian artos nyalse.",
+            1,
+            0
+        ],
+        [
+            "Bumi na siga nu teu aya cucunguk sahiji-hiji acan. Ciri-ciri cucuk diantarana: seukeut, biang, ngahalangan.",
+            "Bumi na beresih pisan",
+            "Bumi na buladig.",
+            0,
+            1
+        ],
+        [
+            "Bumi na siga sarang na cucunguk. Ciri sarang diantarana: Nyaman, ngajaga, ngasuh.",
+            "Bumi na beresih pisan",
+            "Bumi na buladig.",
+            1,
+            0
+        ],
+        [
+            "Pangaos cocoan si ade siga panagos imah jeung sawah. Ciri sawah diantarana: lega, subur, taya watesna.",
+            "Pangaos cocoan si ade awis",
+            "Pangaos cocoan si ade mirah.",
+            0,
+            1
+        ],
+        [
+            "Wengi ieu langit na siga cai herang. Ciri-ciri langit diantarana: lega, teu aya watesna, ethereal.",
+            "Wengi ieu langit na mencrang",
+            "Wengi ieu langit na ceudeum.",
+            0,
+            1
+        ],
+        [
+            "Kasohor na eta artis siga nu teu aya internet wae. Karakteristik intern\u00e9t ngawengku: global, interconnected, transformative.",
+            "Kasohor na eta artis sagala jalmi uninga",
+            "Kasohor na eta artis teu aya jalmi uninga.",
+            1,
+            0
+        ],
+        [
+            "Hasil melak na kawas kali keur banjir. Ciri-ciri caah diantarana: ngarusak, ngabahekeun, ngaleut.",
+            "Hasil melak na loba",
+            "Hasil melak na saeutik.",
+            0,
+            1
+        ],
+        [
+            "Hasil melak na kawas kali keur saat. Karakteristik jaman ngawengku: repetitive, transformative, serbaguna.",
+            "Hasil melak na loba",
+            "Hasil melak na saeutik.",
+            1,
+            0
+        ],
+        [
+            "Nu lalajo di stadion kamari siga nu karolot kabeh. Karakteristik pikiran ngawengku: expansive, intricate, transformative.",
+            "Nu lalajo di stadion kamari rame",
+            "Nu lalajo di stadion kamari sepi.",
+            1,
+            0
+        ],
+        [
+            "Beuki ka dieu pamarentah teh siga beurit dina lumbung pare. Ciri beurit diantarana: pinter, licik, loba akal.",
+            "Beuki ka dieu pamarentah beuki korup",
+            "Beuki ka dieu pamarentah beuki ngaalusan.",
+            0,
+            1
+        ],
+        [
+            "Sanajan loba masalah manehna siga jukut di leuweung. Ciri-ciri jukut diantarana: hejo, lemes, loba pisan.",
+            "Sanajan loba masalah maneh na pantang nyerah",
+            "Sanajan loba masalah maneh na gampil nyerah.",
+            0,
+            1
+        ],
+        [
+            "Asep lumpatna kawas uncal. Ciri moose diantarana: megah, maksakeun, hese dihartikeun.",
+            "Asep lumpatna gancang",
+            "Asep lumpatna lila.",
+            0,
+            1
+        ],
+        [
+            "Si Iwan kasohor lantaran siga foto modol. Karakteristik poto kalebet: Realistis, Menawan, Abadi.",
+            "Si Iwan kasohor lantaran kasep",
+            "Si Iwan kasohor lantaran goreng.",
+            1,
+            0
+        ],
+        [
+            "Mun jadi jalmi ulah sok hampang birit. Ciri-ciri diare diantarana: Teu genah, ngaganggu, teu pikaresepeun.",
+            "Mun jadi jalmi ulah sok kedul",
+            "Mun jadi jalmi ulah sok getol.",
+            1,
+            0
+        ],
+        [
+            "Meuli hp saharga imah gedongan. Ciri imah ngawengku: cozy, stabil, pelindung.",
+            "Meuli hp mahal",
+            "Meuli hp murah.",
+            0,
+            1
+        ],
+        [
+            "Meuli hp saharga rorompok gubuk. Ciri-ciri gubuk diantarana: Rusak, rustic, hina.",
+            "Meuli hp mahal",
+            "Meuli hp murah.",
+            1,
+            0
+        ],
+        [
+            "Kulit Siti kos bujur orok. Ciri kulit ngawengku: Sensitip, pelindung, fl\u00e9ksibel.",
+            "Kulit Siti mulus",
+            "Kulit Siti korodok.",
+            0,
+            1
+        ],
+        [
+            "Kulit Siti kos careuh bulan. Ciri-ciri bulan diantarana: bercahaya, celestial, enchanting.",
+            "Kulit Siti mulus",
+            "Kulit Siti korodok.",
+            1,
+            0
+        ],
+        [
+            "Sikap anjeunna siga susu botol jang orok. Karakteristik botol kalebet: portabel, serbaguna, sempit.",
+            "Sikap anjeunna tiis",
+            "Sikap anjeunna haneut.",
+            1,
+            0
+        ],
+        [
+            "Adi lanceuk teh kalakuan kos jalak jeung kebo. Ciri jalak diantarana: anggun, merdu, serbaguna.",
+            "Adi lanceuk teh kalakuan teu akur",
+            "Adi lanceuk teh kalakuan akur.",
+            1,
+            0
+        ],
+        [
+            "Boga kabogoh teh sikapna kos maung. Ciri-ciri maung di antarana: kuat, galak, hese dihartikeun.",
+            "Boga kabogoh teh sikapna wanian",
+            "Boga kabogoh teh sikapna eraan.",
+            0,
+            1
+        ],
+        [
+            "Boga kabogoh teh sikapna kos kukang. Ciri-ciri sikep ngawengku: positip, bandel, t\u00e9kad.",
+            "Boga kabogoh teh sikapna wanian",
+            "Boga kabogoh teh sikapna eraan.",
+            1,
+            0
+        ],
+        [
+            "Lanceuk abdi awakna sapertos gajah. Ciri-ciri gajah diantarana: kuat, megah, calakan.",
+            "Lanceuk abdi awakna begang",
+            "Lanceuk abdi awakna buleud.",
+            1,
+            0
+        ],
+        [
+            "Gawe teh umpama nginum cai sirop. Karakteristik cai di antarana: nyegerkeun, penting, transformatif.",
+            "Gawe teh ngabagjakeun",
+            "Gawe teh hanjelu.",
+            0,
+            1
+        ],
+        [
+            "Gawe teh umpama nginum peresan limo. Ciri-ciri limo di antarana: m\u00e9wah, ramping, bergengsi.",
+            "Gawe teh ngabagjakeun",
+            "Gawe teh hanjelu.",
+            1,
+            0
+        ],
+        [
+            "Sora manehna kawas hujan geledek. Ciri-ciri hujan diantarana: Nyegerkeun, meresihan, merdu.",
+            "Sora manehna merdu",
+            "Sora manehna gandeng.",
+            1,
+            0
+        ],
+        [
+            "Awak manehna meuni kawas kembang bangke. Karakteristik kembang diantarana: geulis, hipu, lincah.",
+            "Awak manehna meuni seungit",
+            "Awak manehna meuni bau.",
+            1,
+            0
+        ],
+        [
+            "Ponten rapor kuring umpama beureum getih. Ciri beureum diantarana: Kandel, gairah, lincah.",
+            "Ponten rapor kuring goreng",
+            "Ponten rapor kuring alus.",
+            0,
+            1
+        ],
+        [
+            "Omongan manehna kawas tangkal beringin. Ciri-ciri tangkal diantarana: Jangkung, berakar, bercabang.",
+            "Omongan manehna robah-robah",
+            "Omongan manehna ajeg.",
+            1,
+            0
+        ],
+        [
+            "Kosan rerencangan abdi sapertos lapangan bola. Ciri sawah diantarana: lincah, jembar, rupa-rupa.",
+            "Kosan rerencangan abdi lega",
+            "Kosan rerencangan abdi heurin.",
+            0,
+            1
+        ],
+        [
+            "Ngaharep balesan manehna ibarat ngajarkeun monyet naek tangkal. Ciri-ciri mony\u00e9t diantarana: panasaran, lincah, nakal.",
+            "Ngaharep balesan manehna mustahil",
+            "Ngaharep balesan manehna teu kudu usaha.",
+            1,
+            0
+        ],
+        [
+            "Milarian padamelan ayena mah sapertos milarian bintang di beurang copong. Ciri b\u00e9ntang di antarana: caang, bersinar, sohor.",
+            "Milarian padamelan ayeuna mah sesah",
+            "Milarian padamelan ayeuna mah gampil.",
+            0,
+            1
+        ],
+        [
+            "Abdi sareung anjeuna kawas langit jeung bumi. Ciri-ciri bumi diantarana: Geulis, ulet, silih sambung.",
+            "Abdi sareung anjeuna jauh bedana",
+            "Abdi sareung anjeuna eweuh bedana.",
+            0,
+            1
+        ],
+        [
+            "Abdi sareung anjeuna kawas monyet jeung kera. Ciri-ciri kera diantarana: pinter, panasaran, sosial.",
+            "Abdi sareung anjeuna jauh bedana",
+            "Abdi sareung anjeuna eweuh bedana.",
+            1,
+            0
+        ],
+        [
+            "Diajar matematika umpama diajar maca jang budak TK. Ciri-ciri budak diantarana: Panasaran, polos, suka ulin.",
+            "Diajar matematika sesah",
+            "Diajar matematika gampil.",
+            1,
+            0
+        ],
+        [
+            "Bobogah lima taun jeung manehna kawas naek kapal di laut nu loba badaina. Ciri-ciri kapal di antarana: ged\u00e9, kokoh, megah.",
+            "Bobogohan lima taun jeung manehna nyusahkeun",
+            "Bobogohan lima taun jeung manehna nyenengkeun.",
+            0,
+            1
+        ],
+        [
+            "Acuk seuseuhan abdi mah sapertos acuk jalmi beres nguli. Ciri jalma ngawengku: unik, serbaguna, kompl\u00e9ks.",
+            "Acuk seuseuhan abdi mah beresih",
+            "Acuk seuseuhan abdi mah kotor.",
+            1,
+            0
+        ],
+        [
+            "Pindah bumi ibarat manggihan dompet. Karakteristik domp\u00e9t kalebet: leutik, portabel, penting.",
+            "Pindah bumi nyedihkeun",
+            "Pindah bumi nyenengkeun.",
+            1,
+            0
+        ],
+        [
+            "Naek kareta ekonomi sarupa calik dina korsi papan. Ciri tina korsi ngawengku: nyaman, supportive, adjustable.",
+            "Naek kareta ekonomi teu enakeun",
+            "Naek kareta ekonomi enakeun.",
+            0,
+            1
+        ],
+        [
+            "Basa inggris maneh geus saalus budak nu karak diajar ngomong. Ciri-ciri budak diantarana: ulin, polos, panasaran.",
+            "Basa inggris maneh lancar",
+            "Basa inggris maneh balelol.",
+            1,
+            0
+        ],
+        [
+            "Minyak goreng ayeuna geus saharga imah. Ciri imah diantarana: nyaman, panyumputan, ramah.",
+            "Minyak goreng ayeuna mahal",
+            "Minyak goreng ayeuna mirah.",
+            0,
+            1
+        ],
+        [
+            "Cai sumur ayeuna mah kos cai kopi. Ciri-ciri cai ngawengku: cairan, \u00e9s\u00e9nsial, m\u00e9r\u00e9 kahirupan.",
+            "Cai sumur ayeuna kiruh",
+            "Cai sumur ayeuna herang.",
+            0,
+            1
+        ],
+        [
+            "Cai sumur ayeuna mah kos cai aqua. Ciri-ciri cai ngawengku: \u00e9s\u00e9nsial, murni, m\u00e9r\u00e9 kahirupan.",
+            "Cai sumur ayeuna kiruh",
+            "Cai sumur ayeuna herang.",
+            1,
+            0
+        ],
+        [
+            "Hirup teu boga elmu sarupa leumpang sapanjang jalan nu loba lampuna. Ciri-ciri lampu diantarana: caang, caang, caang.",
+            "Hirup teu boga elmu teu jelas",
+            "Hirup teu boga elmu jelas.",
+            1,
+            0
+        ],
+        [
+            "Pertanyaan si bapa teh meuni kos tts kompas. Ciri-ciri kompas diantarana: dipercaya, nungtun, ngawengku.",
+            "Pertanyaan si bapa bermutu tur sesah",
+            "Pertanyaan si bapa teu bermutu.",
+            0,
+            1
+        ],
+        [
+            "Lamun keur belajar naha nya panon teh kawas teu sare 3 poe. Ciri panon diantarana: analitis, observasi, ekspresif.",
+            "Lamun keur belajar naha panon teh tunduh",
+            "Lamun keur belajar naha panon teh beunta.",
+            0,
+            1
+        ],
+        [
+            "Buruan tatangga teh meuni saluas wc kareta. Karakteristik jamban ngawengku: Fungsional, swasta, perlu.",
+            "Buruan tatanga luas",
+            "Buruan tatanga heurin.",
+            1,
+            0
+        ],
+        [
+            "Gambar rayi abdi layak umpama gambar nu meunang ponten F. Karakteristik kelas ngawengku: nangtang, evaluative, transformative.",
+            "Gambar rayi abdi hade",
+            "Gambar rayi abdi butut.",
+            1,
+            0
+        ],
+        [
+            "Elmu agama kawas senter caang kanggo mapay jalan wengi. Karakteristik senter diantarana: Portabel, illuminating, dipercaya.",
+            "Elmu agama caang tur nuntun",
+            "Elmu agama poek.",
+            0,
+            1
+        ],
+        [
+            "Elmu agama kawas gudang nu eweuh lampuan. Ciri-ciri gudang di antarana: melimpah, melimpah, lega.",
+            "Elmu agama caang tur nuntun",
+            "Elmu agama poek.",
+            1,
+            0
+        ],
+        [
+            "Lapang Padjajaran kos lapang bola piala dunia. Ciri-ciri biaya diantarana: mahal, ngabeuratkeun, ngalarang.",
+            "Lapang Padjajaran alus tur rapi",
+            "Lapang Padjajaran butut tur balatak.",
+            0,
+            1
+        ],
+        [
+            "Lapang Padjajaran kos lapang di kandang kuda. Karakteristik stabil diantarana: dipercaya, tahan banting, saimbang.",
+            "Lapang Padjajaran alus tur rapi",
+            "Lapang Padjajaran butut tur balatak.",
+            1,
+            0
+        ],
+        [
+            "Ngendong sawengi ge bawaan teh kawas jalmi nu bade pindahan. Ciri jalma ngawengku: unik, kompleks, sosial.",
+            "Ngendong sawengi ge bawaan teh seueur",
+            "Ngendong sawengi ge bawaan teh teu aya.",
+            0,
+            1
+        ],
+        [
+            "Ngendong sawengi ge bawaan teh kawas jalmi teu gaduh acuk. Ciri mawar diantarana: geulis, hipu, seungit.",
+            "Ngendong sawengi ge bawaan teh seueur",
+            "Ngendong sawengi ge bawaan teh teu aya.",
+            1,
+            0
+        ],
+        [
+            "Acuk rerencangan abdi sapertos bu haji. Ciri-ciri jamaah haji diantarana: Ngumbara, Ngumbara, Rohani.",
+            "Acuk rerencangan abdi katutup",
+            "Acuk rerencangan abdi kabuka.",
+            0,
+            1
+        ],
+        [
+            "Acuk rerencangan abdi sapertos awewe nu arek mangkal. Ciri-ciri wanoja diantarana: kuat, asuh, elegan.",
+            "Acuk rerencangan abdi katutup",
+            "Acuk rerencangan abdi kabuka.",
+            1,
+            0
+        ],
+        [
+            "Kahayang abdi mah sagede keresek indomaret. Ciri-ciri indomaret diantarana: merenah, bisa diasupan, affordable.",
+            "Kahayang abdi mah seueur",
+            "Kahayang abdi mah saalit.",
+            1,
+            0
+        ],
+        [
+            "Akuarium hotel ieu meuni saageung keler kue. Ciri-ciri kueh diantarana: nikmat, amis, manja.",
+            "Akuarium hotel ieu ageung",
+            "Akuarium hotel ieu alit.",
+            1,
+            0
+        ],
+        [
+            "Kembang pamasihan anjeun teh kawas seungit sangit. Karakteristik seungit diantarana: halus, enticing, evocative.",
+            "Kembang pamasihan anjeun seungit",
+            "Kembang pamasihan anjeun hapeuk.",
+            1,
+            0
+        ],
+        [
+            "Tawaran anjeun kawas hujan duit. Ciri-ciri duit diantarana: berharga, kuat, hese dihartikeun.",
+            "Tawaran anjeun nyenengkeun",
+            "Tawaran anjeun nyengsarakeun.",
+            0,
+            1
+        ],
+        [
+            "Acara Jazz Prambanan taun ieu kawas langit wengi teu aya bentang. Ciri-ciri langit diantarana: lega, taya tungtungna, menawan.",
+            "Acara Jazz Prambanan taun ieu meriah",
+            "Acara Jazz Prambanan taun ieu sepi.",
+            1,
+            0
+        ],
+        [
+            "Tisu merek eta mah saalus karung beas. Ciri-ciri b\u00e9as diantarana: Pokok, serbaguna, bergizi.",
+            "Tisu merek eta mah alus",
+            "Tisu merek eta mah kasar.",
+            1,
+            0
+        ],
+        [
+            "Tong make lipen setip eta, jieun biwir kos sawah retak. Ciri biwir diantarana: Lemes, sensual, ekspresif.",
+            "Tong make lipen setip eta, jieun biwir garing",
+            "Tong make lipen setip eta, jieun biwir lembab.",
+            0,
+            1
+        ],
+        [
+            "Kualitas koper anyar teh kos koper dior. Karakteristik biaya kalebet: luhur, disumputkeun, penting.",
+            "Kualitas koper anyar teh butut",
+            "Kualitas koper anyar teh alus.",
+            1,
+            0
+        ],
+        [
+            "Kantor abdi di Bandung umpama gedong di tengah kebon. Ciri wangunan ngawengku: maksakeun, towering, inovatif.",
+            "Kantor abdi di Bandung tiis tur asri",
+            "Kantor abdi di Bandung panas tur tandus.",
+            0,
+            1
+        ],
+        [
+            "Biaya listrik makin kiwari makin kos porosotan. Karakteristik listrik ngawengku: ngareureuwas, kuat, transformative.",
+            "Biaya listrik makin kiwari makin naek",
+            "Biaya listrik makin kiwari makin turun.",
+            1,
+            0
+        ],
+        [
+            "Karpet anyar teh warnana jiga areng. Ciri tina karp\u00e9t ngawengku: lemes, haneut, comforting.",
+            "Karpet anyar teh warnana cerah",
+            "Karpet anyar teh warnana poek.",
+            1,
+            0
+        ],
+        [
+            "Poto kawinan anjeun sapertos poto di kalender toko emas. Karakteristik kal\u00e9nder ngawengku: sistematis, terorganisir, cyclical.",
+            "Poto kawinan anjeun estetik",
+            "Poto kawinan anjeun teu estetik.",
+            1,
+            0
+        ],
+        [
+            "Harga anduk di toko ieu samirah dp bumi di komplek elit. Ciri imah diantarana: cozy, aman, ngondang.",
+            "Harga anduk di toko ieu mirah",
+            "Harga anduk di toko ieu awis.",
+            1,
+            0
+        ],
+        [
+            "Desain Totoya nu anyar kawas mobil cocooan. Karakteristik mobil diantarana: Gancang, ramping, dipercaya.",
+            "Desain Toyota nu anyar keren tur canggih",
+            "Desain Toyota nu anyar butut.",
+            1,
+            0
+        ],
+        [
+            "Naek gunung Sumbing umpama naek gunung nganggo sapatu roda. Karakteristik skates diantarana: lincah, lincah, gliding.",
+            "Naek gunung Sumbing sesah",
+            "Naek gunung Sumbing gampil.",
+            0,
+            1
+        ],
+        [
+            "Rorompok amih lamun nuju seueur dulur kawas bumi gigir rel kareta. Ciri-ciri imah diantarana: Nyaman, Tahan, Panyumputan.",
+            "Rorompok amih lamun nuju seueur dulur rame tur gandeng",
+            "Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.",
+            0,
+            1
+        ],
+        [
+            "Sapatu pamere mamang teh kawas sapatu kaca dipake cinderella. Ciri tina sapatu kaca ngawengku: rapuh, transparan, gaib.",
+            "Sapatu pamere mamang teh teu mahi",
+            "Sapatu pamere mamang teh mahi.",
+            1,
+            0
+        ],
+        [
+            "Lomari di kamar pun kolot saageung ka'bah. Ciri-ciri Ka'bah diantarana: Suci, kuno, dihormat.",
+            "Lomari di kamar pun kolot ageung",
+            "Lomari di kamar pun kolot alit.",
+            0,
+            1
+        ],
+        [
+            "Lomari di kamar pun kolot saageung bagasi mobil sedan. Ciri-ciri kalapa diantarana: ageung, gagah, pelindung.",
+            "Lomari di kamar pun kolot ageung",
+            "Lomari di kamar pun kolot alit.",
+            1,
+            0
+        ],
+        [
+            "Lukisan ieu sapertos karya budak nu keur diajar ngagambar. Ciri-ciri budak diantarana: polos, panasaran, suka ulin.",
+            "Lukisan ieu alus",
+            "Lukisan ieu butut.",
+            1,
+            0
+        ],
+        [
+            "Botol cai teh kos toren cai. Ciri munara diantarana: jangkung, maksakeun, megah.",
+            "Botol cai teh gede pisan",
+            "Botol cai teh leutik pisan.",
+            0,
+            1
+        ],
+        [
+            "Jolang di bumi rerencangan abdi kawas kulah lauk. Ciri-ciri lauk diantarana: licin, lincah, instingtif.",
+            "Jolang di bumi rerencangan abdi ageung",
+            "Jolang di bumi rerencangan abdi alit.",
+            0,
+            1
+        ],
+        [
+            "Jolang di bumi rerencangan abdi kawas gayung. Ciri gayung diantarana: serbaguna, lincah, akalna.",
+            "Jolang di bumi rerencangan abdi ageung",
+            "Jolang di bumi rerencangan abdi alit.",
+            1,
+            0
+        ],
+        [
+            "Sangu di warung ieu mah sapertos gigih. Ciri-ciri sangu diantarana: bergizi, serbaguna, nyenangkeun.",
+            "Sangu di warung ieu pulen",
+            "Sangu di warung ieu heuras.",
+            1,
+            0
+        ],
+        [
+            "Cat di imah maneh mah jiun imah kawas imah eweuh lampuan. Ciri-ciri lampu diantarana: caang, illuminating, captivating.",
+            "Cat imah maneh mah jieun imah poek",
+            "Cat imah maneh mah jieun imah caang.",
+            0,
+            1
+        ],
+        [
+            "Martabak Mang Idoy umpama lauk digembrong laleur. Ciri-ciri laleur diantarana: hese dihartikeun, lincah, ephemeral.",
+            "Martabak Mang Idoy payu",
+            "Martabak Mang Idoy teu payu.",
+            0,
+            1
+        ],
+        [
+            "Martabak Mang Idoy umpama emas nu hargana naek. Ciri emas diantarana: bersinar, mulia, berharga.",
+            "Martabak Mang Idoy payu",
+            "Martabak Mang Idoy teu payu.",
+            1,
+            0
+        ],
+        [
+            "Jarawat Teh Susi naha makin jiga hasil perawatan dokter. Ciri tina jerawat ngawengku: radang, pengkuh, blemishing.",
+            "Jarawat Teh Susi naha makin loba tur parah",
+            "Jarawat Teh Susi naha makin bersih.",
+            1,
+            0
+        ],
+        [
+            "Laut di Sukabumi kawas lapang urut konser. Ciri sawah diantarana: lega, lega, subur.",
+            "Laut di Sukabumi beresih",
+            "Laut di Sukabumi bala.",
+            1,
+            0
+        ],
+        [
+            "Twitter jaman kiwari makin sapertos warung klontong. Ciri-ciri warung diantarana: sibuk, rame, riweuh.",
+            "Twitter jaman kiwari makin rame",
+            "Twitter jaman kiwari makin tiiseun.",
+            0,
+            1
+        ],
+        [
+            "Pangseungit ruangan ieu jieun sapertos hayang utah. Ciri-ciri seungit diantarana: pikaresepeun, pikaresepeun, evocative.",
+            "Pangseungit ruangan ieu bau",
+            "Pangseungit ruangan ieu seungit.",
+            0,
+            1
+        ],
+        [
+            "Hargi sewa mobil di dieu saharga biaya umroh. Ciri-ciri Umroh. ngawengku: spiritual, transformative, suci.",
+            "Hargi sewa mobil di dieu awis",
+            "Hargi sewa mobil di dieu mirah.",
+            0,
+            1
+        ],
+        [
+            "Hargi sewa mobil di dieu saharga biaya naek beca. Ciri-ciri beca diantarana: kuno, aheng, mobile.",
+            "Hargi sewa mobil di dieu awis",
+            "Hargi sewa mobil di dieu mirah.",
+            1,
+            0
+        ],
+        [
+            "Huntu Si Joko jiga seragam golkar. Karakteristik seragam ngawengku: konsisten, teu bisa dib\u00e9dakeun, egaliter.",
+            "Huntu Si Joko koneng",
+            "Huntu Si Joko bodas.",
+            0,
+            1
+        ],
+        [
+            "Huntu Si Joko jiga mukena lebaran. Ciri-ciri Idul Fitri diantarana: Gembira, Gembira, Rohani.",
+            "Huntu Si Joko koneng",
+            "Huntu Si Joko bodas.",
+            1,
+            0
+        ],
+        [
+            "Manehna ngahasilkeun artos jiga ngarenghap napas. Ciri-ciri duit diantarana: Desirable, hese dihartikeun, boga pangaruh.",
+            "Manehna ngahasilkeun artos meuni gampil",
+            "Manehna ngahasilkeun artos hese pisan.",
+            0,
+            1
+        ],
+        [
+            "Eta murid hiji kawas kancil. Ciri kijang diantarana: Anggun, hese dihartikeun, waspada.",
+            "Eta murid hiji bodo",
+            "Eta murid hiji pinter.",
+            1,
+            0
+        ],
+        [
+            "Biwirna ngucapkeun kecap amis siga gula. Karakteristik gula kalebet: Amis, adiktif, granulated.",
+            "Biwirna ngucapkeun kecap nu mikeun nyeri hate",
+            "Biwirna ngucapkeun kecap mikeun bungah.",
+            1,
+            0
+        ],
+        [
+            "Manehna angkat liburan nganggo kuda beusi. Ciri-ciri kuda diantarana: megah, kuat, sumanget.",
+            "Manehna angkat liburan nganggo motor",
+            "Manehna angkat liburan nganggo pesawat.",
+            0,
+            1
+        ],
+        [
+            "Manehna angkat liburan nganggo manuk beusi. Ciri manuk di antarana: hiber, b\u00e9bas, anggun.",
+            "Manehna angkat liburan nganggo motor",
+            "Manehna angkat liburan nganggo pesawat.",
+            1,
+            0
+        ],
+        [
+            "Sorana kad\u00e9ng\u00e9 kawas kicau manu. Ciri-ciri manuk diantarana: gesit, bebas, melayang.",
+            "Sorana kad\u00e9ng\u00e9 merdu",
+            "Sorana kad\u00e9ng\u00e9 ngaganggu.",
+            0,
+            1
+        ],
+        [
+            "Di tempat damel manenha janten embe hideung. Ciri-ciri embe diantarana: yakin, mandiri, t\u00e9kad.",
+            "Di tempat damel manenha janten unggulan",
+            "Di tempat damel manenha janten jalma nu dipikasalah.",
+            1,
+            0
+        ],
+        [
+            "Ceuk babaturanana, manehna mangrupikeun jalma tiis sirah. Ciri jalma ngawengku: kompl\u00e9ks, dinamis, multifaceted.",
+            "Ceuk babaturanana, manehna mangrupikeun jalma keras kepala",
+            "Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.",
+            1,
+            0
+        ],
+        [
+            "Manehna jalmi nu tiis leungeun. Ciri-ciri jalma ngawengku: Kompleks, Sosial, Rasional.",
+            "Manehna jalmi nu bisa naon wae",
+            "Manehna jalmi nu teu bisa nanaon.",
+            0,
+            1
+        ],
+        [
+            "Dina \u00e9ta balapan manehna jiga kuda hideung. Ciri-ciri kuda diantarana: kuat, megah, satia.",
+            "Dina \u00e9ta balapan manehna jiga idola",
+            "Dina \u00e9ta balapan manehna jiga jalmi nu teu diperhitungkeun.",
+            1,
+            0
+        ],
+        [
+            "Manehna mangrupakeun pamingpin anu haneut hate. Ciri-ciri pamingpin diantarana: Inspiratif, boga pangaruh, visioner.",
+            "Manehna mangrupakeun pamingpin anu ngartikeun",
+            "Manehna mangrupakeun pamingpin anu teu ngartikeun.",
+            0,
+            1
+        ],
+        [
+            "Ushana nalika pandemi teh kawas jalan tol. Ciri-ciri jalan diantarana: berkelok-kelok, teu aya tungtungna, transformatif.",
+            "Usahana nalika pandemi teh kawas lancar pisan",
+            "Usahana nalika pandemi teh kawas hese pisan.",
+            0,
+            1
+        ],
+        [
+            "Eta jelema teh kawas buku tebel. Karakteristik buku ngawengku: matak, enlightening, serbaguna.",
+            "Eta jelema teh kawas berilmu",
+            "Eta jelema teh kawas teu ngarti nanaon.",
+            0,
+            1
+        ],
+        [
+            "Manehna ngarasa kawas raja leutik. Ciri-ciri raja di antarana: perkasa, angger, mar\u00e9ntah.",
+            "Manehna ngarasa kawas boga kuasa",
+            "Manehna ngarasa kawas teu boga kuasa.",
+            0,
+            1
+        ],
+        [
+            "Beungeutna katingali kawas wengi po\u00e9k. Ciri-ciri peuting diantarana: po\u00e9k, misterius, tengtrem.",
+            "Beungeutna katingali kawas bahagia",
+            "Beungeutna katingali kawas loba masalah.",
+            1,
+            0
+        ],
+        [
+            "Manehna mangrupikeun kutu buku. Ciri kutu buku di antarana: gairah, rakus, pangaweruh.",
+            "Manehna mangrupikeun senang maca buku",
+            "Manehna mangrupikeun loba omong.",
+            0,
+            1
+        ],
+        [
+            "Manehna mangrupikeun tong kosong. Ciri laras diantarana: kosong, silinder, kokoh.",
+            "Manehna mangrupikeun senang maca buku",
+            "Manehna mangrupikeun loba omong.",
+            1,
+            0
+        ],
+        [
+            "Hate manusia kadang kawas langit. Ciri-ciri langit diantarana: teu aya watesna, jembar, pikaheraneun.",
+            "Hate manusia kadang luas",
+            "Hate manusia kadang tinggi pisan.",
+            1,
+            0
+        ],
+        [
+            "Eta budak hiji mah mangrupakeun tulang tonggong. Ciri-ciri budak diantarana: tanaga, panasaran, suka ulin.",
+            "Eta budak hiji mah mangrupakeun unggulan",
+            "Eta budak hiji mah mangrupakeun masalah.",
+            0,
+            1
+        ],
+        [
+            "Kulawargana nya\u00e9ta darah biru. Ciri-ciri getih diantarana: Vital, ngalir, karuhun.",
+            "Kulawargana nya\u00e9ta bangsawan",
+            "Kulawargana nya\u00e9ta jalmi biasa.",
+            0,
+            1
+        ],
+        [
+            "Panonna kawas elang. Ciri-ciri garuda diantarana: megah, kuat, galak.",
+            "Panonna teh tajeum",
+            "Panonna teh jelek.",
+            0,
+            1
+        ],
+        [
+            "Anjeunna junun nampi padamelan ti orang dalem. Ciri-ciri bangsawan diantarana: Berhormat, som\u00e9ah, pinunjul.",
+            "Anjeunna junun nampi padamelan ti usaha sorangan",
+            "Anjeunna junun nampi padamelan ti jalma lian.",
+            1,
+            0
+        ],
+        [
+            "Mulutna meuni enteng. Ciri-ciri lisan diantarana: ekspresif, biantara, sensual.",
+            "Mulutna meuni gampil ngomong",
+            "Mulutna meuni hese ngomong.",
+            0,
+            1
+        ],
+        [
+            "Mulutna meuni beurat. Ciri tina sungut diantarana: ekspresif, sensual, engulfing.",
+            "Mulutna meuni gampil ngomong",
+            "Mulutna meuni hese ngomong.",
+            1,
+            0
+        ],
+        [
+            "Manehna naroskeun patarosan anu seuket siga peso. Karakteristik p\u00e9so di antarana: seukeut, runcing, motong.",
+            "Manehna naroskeun patarosan anu penting",
+            "Manehna naroskeun patarosan anu asal ngucap.",
+            0,
+            1
+        ],
+        [
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan lengkah kuya. Karakteristik hambalan ngawengku: incremental, decisive, transformative.",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan cepet",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan lila.",
+            1,
+            0
+        ],
+        [
+            "Luncatna dina pertandingan siga luncat kebo. Ciri-ciri kebo diantarana: megah, ulet, tahan banting.",
+            "Luncatna dina pertandingan siga gampil",
+            "Luncatna dina pertandingan siga hese.",
+            1,
+            0
+        ],
+        [
+            "Usaha anu manehna lakukeun kawas naek tangga. Ciri-ciri tangga di antarana: lungkawing, na\u00e9k, nyambungkeun.",
+            "Usaha anu manehna lakukeun kawas gampil",
+            "Usaha anu manehna lakukeun kawas hese.",
+            0,
+            1
+        ],
+        [
+            "Usaha anu manehna lakukeun kawas naek bukit. Ciri-ciri bukit di antarana: Lungkawing, luhur, endah.",
+            "Usaha anu manehna lakukeun kawas gampil",
+            "Usaha anu manehna lakukeun kawas hese.",
+            1,
+            0
+        ],
+        [
+            "Warna baju manehnya katingali caang sapertos beurang. Karakteristik po\u00e9 ngawengku: ephemeral, cyclical, radiant.",
+            "Warna baju manehnya katingali bahagia",
+            "Warna baju manehnya katingali teu bahagia.",
+            0,
+            1
+        ],
+        [
+            "Warna baju manehnya katingali poek sapertos peuting. Karakteristik peuting diantarana: misterius, enchanting, tenang.",
+            "Warna baju manehnya katingali bahagia",
+            "Warna baju manehnya katingali teu bahagia.",
+            1,
+            0
+        ],
+        [
+            "Hirupna karasaeun di naraka. Ciri-ciri naraka diantarana: api-api, teu weleh, nyiksa.",
+            "Hirupna karasaeun di ngeunah",
+            "Hirupna karasaeun di loba cobaan.",
+            1,
+            0
+        ],
+        [
+            "Rarayna siga tangkal kolot anu layu. Ciri tangkal diantarana: jangkung, akaran, rindang.",
+            "Rarayna katingali ngora",
+            "Rarayna katingali kolot.",
+            1,
+            0
+        ],
+        [
+            "Ngapalkeun materi kuliah mah kawas ngukir dina kai. Ciri tina kai diantarana: teuas, kuat, alam.",
+            "Ngapalkeun materi kuliah mah gampil",
+            "Ngapalkeun materi kuliah mah sesah.",
+            0,
+            1
+        ],
+        [
+            "Milarian padamelan salami Covid-19 siga nyekelan tonggong babaturan. Ciri tonggong sobat diantarana: satia, ngadukung, ngajaga.",
+            "Milarian padamelan teh sesah",
+            "Milarian padamelan teh gampil.",
+            1,
+            0
+        ],
+        [
+            "Jualan online mah meunang kauntunganna t\u00e9h siga ngala c\u00e9r\u00e9 ti selokan. Ciri tina cherries ngawengku: amis, vibrant, juicy.",
+            "Jualan online shop teh kauntunganna seueur",
+            "Jualan online shop teh kauntunganna sakedik.",
+            1,
+            0
+        ],
+        [
+            "Barudak jaman ayeuna mah bajuna siga leupeut daun kalapa. Ciri daunna diantarana: h\u00e9jo, hipu, ragrag.",
+            "Barudak jaman ayeuna mah bajuna merecet",
+            "Barudak jaman ayeuna mah bajuna logor.",
+            0,
+            1
+        ],
+        [
+            "Barudak jaman ayeuna mah bajuna siga calana nu euweuh talian. Karakteristik senar diantarana: mampuh, serbaguna, mengikat.",
+            "Barudak jaman ayeuna mah bajuna merecet",
+            "Barudak jaman ayeuna mah bajuna logor.",
+            1,
+            0
+        ],
+        [
+            "Ayeuna jumlah motor di jalan t\u00e9h siga sireum anu ngedeukeutan gula. Ciri-ciri sireum diantarana: leutik, rajin, teratur.",
+            "Ayeuna jumlah motor di jalan teh seeur",
+            "Ayeuna jumlah motor di jalan teh saeutik.",
+            0,
+            1
+        ],
+        [
+            "Nabung lamun rutin bisa nyieun domp\u00e9t anjeun sapertos atlit sumo. Karakteristik domp\u00e9t kalebet: fungsional, portabel, penting.",
+            "Nabung lamun rutin mah bisa ngajadikeun beunghar",
+            "Nabung lamun rutin mah bisa ngajadikeun malarat.",
+            0,
+            1
+        ],
+        [
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah karasana siga lumpat di kolam renang. Ciri tina kolam renang ngawengku: tiis, jero, refreshing.",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah beurat",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah hampang.",
+            0,
+            1
+        ],
+        [
+            "Kawin jeung idola t\u00e9h kawas ngala cai make rak\u00e9t. Ciri-ciri rak\u00e9t diantarana: Nyaring, ngaganggu, ilegal.",
+            "Kawin jeung idola pimanaeun",
+            "Kawin jeung idola tiasa wa\u00e9.",
+            0,
+            1
+        ],
+        [
+            "Jalmi anu jujur mah biasana jiga kembang tarat\u00e9 dina cai. Ciri kembang lotus diantarana: Elegan, Murni, Seren.",
+            "Jalmi anu jujur kalem",
+            "Jalmi anu jujur riweuh.",
+            0,
+            1
+        ],
+        [
+            "Hukum Indon\u00e9sia mah siga bujur se\u00e9ng paranti sangu. Ciri mangkok ngawengku: buleud, jero, mangpaat.",
+            "Hukum Indonesia teh kotor",
+            "Hukum Indonesia teh beresih.",
+            0,
+            1
+        ],
+        [
+            "Hukum Indon\u00e9sia mah siga bangkuang dina jero taneuh. Karakteristik bangku diantarana: kokoh, dipercaya, komunal.",
+            "Hukum Indonesia teh kotor",
+            "Hukum Indonesia teh beresih.",
+            1,
+            0
+        ],
+        [
+            "Lalampahan ka kantor rasana siga dago jeung biwir. Ciri-ciri dago di antarana: ngahina, nyinggung, etnis.",
+            "Lalampahan ka kantor tebih",
+            "Lalampahan ka kantor deukeut.",
+            1,
+            0
+        ],
+        [
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri kawas inten anu leutik tapi dipilarian ku jalma r\u00e9a. Ciri inten di antarana: sparkling, adi, enduring.",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri murahan",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri dipihormat.",
+            1,
+            0
+        ],
+        [
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah ibarat miceun uyah ka laut. Karakteristik laut diantarana: lega, tenang, misterius.",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah teu aya manpaatna",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah aya mangpaatna.",
+            0,
+            1
+        ],
+        [
+            "Jalmi suks\u00e9s digaw\u00e9 kawas sireum n\u00e9angan dahareun. Ciri-ciri sireum diantarana: rajin, koperasi, rajin.",
+            "Jalmi suks\u00e9s kudu getol",
+            "Jalmi suks\u00e9s kudu kedul.",
+            0,
+            1
+        ],
+        [
+            "Guru t\u00e9h ibarat lilin anu r\u00e9la ngaduruk dirina sorangan pikeun mer\u00e9 caang. Ciri tina lilin ngawengku: haneut, glowing, soothing.",
+            "Guru teh gawena tulus",
+            "Guru teh gawena pamrih.",
+            0,
+            1
+        ],
+        [
+            "Guru t\u00e9h ibarat tukang dagang ka nu meuli. Ciri-ciri padagang diantarana: wirausaha, pinter, strategis.",
+            "Guru teh gawena tulus",
+            "Guru teh gawena pamrih.",
+            1,
+            0
+        ],
+        [
+            "Pernikahan mah ti jaman baheula g\u00e9 asaan pasti aya anu siga mayit dib\u00e9r\u00e9 formalin. Ciri-ciri mayit diantarana: teu nyawaan, angker, pikasebeleun.",
+            "Pernikahan mah aya nu aw\u00e9t",
+            "Pernikahan mah aya nu teu aw\u00e9t.",
+            0,
+            1
+        ],
+        [
+            "Pernikahan mah ti jaman baheula g\u00e9 asaan pasti aya anu siga batr\u00e9 hp urut batur. Karakteristik batr\u00e9 diantarana: dipercaya, kuat, inovatif.",
+            "Pernikahan mah aya nu aw\u00e9t",
+            "Pernikahan mah aya nu teu aw\u00e9t.",
+            1,
+            0
+        ],
+        [
+            "Tulisan man\u00e9h keur di sakola mah siga c\u00e9k\u00e9r hayam. Ciri licks hayam diantarana: ngeunah, flavorful, unconventional.",
+            "Tulisan man\u00e9h keur di sakola mah goreng",
+            "Tulisan man\u00e9h keur di sakola mah alus.",
+            0,
+            1
+        ],
+        [
+            "Tulisan man\u00e9h keur di sakola mah siga huruf anu aya di komputer. Ciri-ciri surat diantarana: artistik, ruwet, rupa-rupa.",
+            "Tulisan man\u00e9h keur di sakola mah goreng",
+            "Tulisan man\u00e9h keur di sakola mah alus.",
+            1,
+            0
+        ],
+        [
+            "Umur manusa mah siga buukna jenglot. Ciri-ciri rambut diantarana: Sutra, kusut, ngalir.",
+            "Umur manusa panjang",
+            "Umur manusa pondok.",
+            0,
+            1
+        ],
+        [
+            "Pangalaman hirup bisa ngajadikeun sipat manusa kawas maung keur nungguan mangsa ti kajauhan. Ciri-ciri maung di antarana: galak, megah, kuat.",
+            "Pangalaman hirup bisa ngajadikeun aambekan",
+            "Pangalaman hirup bisa ngajadikeun sabar.",
+            1,
+            0
+        ],
+        [
+            "Upami keur lebaran di Bogor mah suasanana kos ulin ka pasar peuting. Ciri-ciri pasar malam diantarana: Riweuh, rame, nokturnal.",
+            "Bogor keur lebaran mah jempling",
+            "Bogor keur lebaran mah r\u00e9a.",
+            1,
+            0
+        ],
+        [
+            "M\u00e9ntal manusa siga inten nu teu gampang peupeus. Karakteristik inten di antarana: adi, langgeng, cemerlang.",
+            "Mental manusa teh rapuh",
+            "Mental manusa teh kuat.",
+            1,
+            0
+        ],
+        [
+            "Duit bisa ngarobah jalma kawas Qarun anu dikubur ku hartana sorangan. Karakteristik harta ngawengku: berharga, tangible, inherent.",
+            "Duit bisa ngarobah jalma jadi sarakah",
+            "Duit bisa ngarobah jalma jadi bersukur.",
+            0,
+            1
+        ],
+        [
+            "Duit bisa ngarobah jalma kawas dermawan sanajan man\u00e9hna kakurangan. Ciri-ciri benefactor diantarana: berehan, teu pamrih, altruistik.",
+            "Duit bisa ngarobah jalma jadi sarakah",
+            "Duit bisa ngarobah jalma jadi bersukur.",
+            1,
+            0
+        ],
+        [
+            "Ngabuka usaha anyar keur pand\u00e9mik sapertos na\u00e9k gunung anu teu lungkawing. Ciri-ciri gunung diantarana: megah, menjulang, tangguh.",
+            "Ngabuka usaha anyar keur pand\u00e9mik risikona gede",
+            "Ngabuka usaha anyar keur pand\u00e9mik teu aya risiko.",
+            1,
+            0
+        ],
+        [
+            "Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos kantong semar keur ngajuju mangsana. Ciri-ciri cacing diantarana: leunca, lilir, invasif.",
+            "Seueur pangaweruh bisa ngajadikeun manusa pinter",
+            "Seueur pangaweruh bisa ngajadikeun manusa bodo.",
+            0,
+            1
+        ],
+        [
+            "Nu kaambu dina angkutan umum sapertos keur aya di toko minyak seungit. Ciri-ciri toko diantarana: Sibuk, riweuh, rame.",
+            "Nu kaambu dina angkutan umum bau",
+            "Nu kaambu dina angkutan umum seungit.",
+            1,
+            0
+        ],
+        [
+            "Balik deui sareng mantan sapertos ningali final badminton. Ciri-ciri ahir ngawengku: Definitif, pamungkas, konklusif.",
+            "Balik sareng mantan mah seru",
+            "Balik sareng mantan mah bosen.",
+            0,
+            1
+        ]
+    ],
+    "accuracy": 0.6016666666666667
+}
