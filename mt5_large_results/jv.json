@@ -1,0 +1,4207 @@
+{
+    "correct": [
+        [
+            "Nyawang esemmu sing rupane kaya ngemut glali",
+            "Nyawang esemmu sing manis",
+            "Nyawang esemmu sing pahit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lakmu mlaku jan kaya nyeret bata",
+            "Lakmu mlaku cepet",
+            "Lakmu mlaku suwi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dekwingi aku nyang omahmu jan kaya pasar malem",
+            "Dek wingi aku nyang omahmu sing rame",
+            "Dek wingi aku nyang omahmu sing sepi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngawiti dina senen iku seabot nyunggi kapuk",
+            "Ngawiti dina senen iku abot banget",
+            "Ngawiti dina senen iku enteng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Winginane aku ketemu Mbak Dewi, rupane kaya cak ning",
+            "Winginane aku ketemu Mbak Dewi, wajahe ayu",
+            "Winginane aku ketemu Mbak Dewi, wajahe elek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Winginane aku ketemu Mbak Dewi, rupane kaya kuntilanak",
+            "Winginane aku ketemu Mbak Dewi, wajahe ayu",
+            "Winginane aku ketemu Mbak Dewi, wajahe elek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Poh, ambune klambine Bu Nita kaya peceren",
+            "Ambune klambine Bu Nita wangi",
+            "Ambune klambine Bu Nita mambu ora enak",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Suasanane pasar kliwon jan kaya wong tawuran",
+            "Suasanane pasar kliwon jan kaya rame",
+            "Suasanane pasar kliwon jan kaya sepi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Suasanane pasar kliwon jan kaya kuburan",
+            "Suasanane pasar kliwon jan kaya rame",
+            "Suasanane pasar kliwon jan kaya sepi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lekmu numpak mobil kaya keong",
+            "Lekmu numpak mobil alon",
+            "Lekmu numpak mobil cepet",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Udane maeng isuk kaya disok",
+            "Udane maeng isuk deres",
+            "Udane maeng isuk gerimis",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Udane maeng isuk kaya kletik",
+            "Udane maeng isuk deres",
+            "Udane maeng isuk gerimis",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bar sepedahan tekan nggunung boyok rasane kaya dilindes trek",
+            "Bar sepedahan tekan nggunung boyok rasane keju kabeh",
+            "Bar sepedahan tekan nggunung boyok rasane penak",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bar sepedahan tekan nggunung boyok rasane kaya dibalsemi sedinaan",
+            "Bar sepedahan tekan nggunung boyok rasane keju kabeh",
+            "Bar sepedahan tekan nggunung boyok rasane penak",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ra umum, duwurmen adike Anas sak wit klapa",
+            "Adike Anas duwur banget",
+            "Adike Anas cendek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Padange lampu kamarku kaya sokle",
+            "Lampu kamarku padang",
+            "Lampu kamarku peteng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Polahe bocah cilik kuwi kaya kitiran",
+            "Bocah cilik kuwi ora isa meneng",
+            "Bocah cilik kuwi tura-turu ae",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pasuryane Mas Tono kaya Arjuna",
+            "Pasuryane Mas Tono ganteng",
+            "Pasuryane Mas Tono elek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pipine Rida aluse kaya dalan aspalan",
+            "Pipine Rida alus",
+            "Pipine Rida kasar kakehan kukul",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hawane awan iki kaya dolan menyang gurun",
+            "Hawane awan iki panas",
+            "Hawane awan iki adhem",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hawane awan iki kaya dolan menyang kutub",
+            "Hawane awan iki panas",
+            "Hawane awan iki adhem",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nyawang dedege Kartolo kok kaya kendel ngringkel",
+            "Kartolo kuwi wani",
+            "Kartolo kuwi weden",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan tangis",
+            "Kahanan omahe Pak Sardi kang lagi susah",
+            "Kahanan omahe Pak Sardi kang lagi seneng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gawe wedang kopi Painem kaya disoki juruh",
+            "Nek gawe wedang kopi Painem legi",
+            "Nek gawe wedang kopi Painem pahit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Baguse Paijo katulung saka irunge sing kaya irunge petruk",
+            "Baguse Paijo katulung irunge sing mancung",
+            "Baguse Paijo katulung irunge sing pesek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya cina craki",
+            "Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit",
+            "Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pak Hasan ora gelem menehi sumbangan pancen sipate iku kaya blaba uda",
+            "Pak Hasan ora gelem menehi sumbangan pancen sipate iku medhit",
+            "Pak Hasan ora gelem menehi sumbangan pancen sipate iku loman",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Anggone nyambut gawe Allia kaya banteng ketaton",
+            "Anggone nyambut gawe Allia Cepet banget",
+            "Anggone nyambut gawe Allia alon banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika sesrawungan Pak Jemani lan Paiman kaya banyu karo lenga",
+            "Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur",
+            "Nalika sesrawungan Pak Jemani lan Paiman akur banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tulisane Sarti jumejer ana papan tulis kaya awangun ketumbar",
+            "Tulisane Sarti jumejer ana papan tulis apik banget",
+            "Tulisane Sarti jumejer ana papan tulis elek banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rambute Selfi wiwit cilik pancen kaya kembang jagung",
+            "Rambute Selfi wiwit cilik pancen lurus",
+            "Rambute Selfi wiwit cilik pancen kriting",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit babat",
+            "Kain batik sing dituku menyang pasar klewer tipis banget",
+            "Kain batik sing dituku menyang pasar klewer kandel banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Isih esuk kahanane Mbak Marmi kaya Ulat peteng",
+            "Isih esuk khanane mbak Marmi Katon mrengut",
+            "Isih esuk khanane mbak Marmi Katon sumeh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Roti donat lek nggawe Narti kaya atose debog",
+            "Roti donat lek nggawe Narti empuk banget",
+            "Roti donat lek nggawe Narti atos banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe sing dibangun ambane kaya pagupon dara",
+            "Omahe sing di bangun amba banget",
+            "Omahe sing di bangun ciwut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental tempe",
+            "Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kendel",
+            "Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale weden",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sawise mulih saka griya sakit pasuryane Siti isih kaya abang dluwang",
+            "Sawise mulih saka griya sakit pasuryane Siti pucet banget",
+            "Sawise mulih saka griya sakit pasuryane Siti cerah banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lungane Pakdhe menyang Surabaya enggale suwe kaya banyu sinaring",
+            "Lungane Pakdhe menyang Surabaya cepet banget",
+            "Lungane Pakdhe menyang Surabaya suwi banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rasane pelem kaya asem jawa",
+            "Rasane pelem kecut",
+            "Rasane pelem legi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Swarane sing nembang kaya knalpot bolong",
+            "Swarane sing nembang apik banget",
+            "Swarane sing nembang elek banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bathuke Icha nyela cendhani",
+            "Bathuke Ica Rata",
+            "Bathuke Ica amba banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bathuke Icha nonong",
+            "Bathuke Ica Rata",
+            "Bathuke Ica amba banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Yen nyawang mripate Sari kaya liyep lindri",
+            "Yen nyawang mripate Sari blalak-blalak",
+            "Yen nyawang mripate Sari sipit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Banyune kolam renang kaya banyu aki",
+            "Banyune kolam renang bening",
+            "Banyune kolam renang buthek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Anggone mlaku bis mini kaya sikatan nyamber lawang",
+            "Anggone mlaku bis mini klular klulur",
+            "Anggone mlaku bis mini trengginas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Awake Surya nalika isih sekolah mbiyen kaya kuru semangka",
+            "Awake Surya nalika isih sekolah mbiyen lemu banget",
+            "Awake Surya nalika isih sekolah mbiyen kuru banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen lungguh ana nggarep dhewe patrape kaya Dewi Sembadra",
+            "Yen lungguh ana ngarep dhewe patrape anteng banget",
+            "Yen lungguh ana ngarep dhewe patrape pecicilan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pratandha arep udan amarga medhunge kaya ndumuk irung",
+            "Pratandha arep udan amarga mendhunge peteng banget",
+            "Pratandha arep udan amarga mendhunge padhang jingglang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Regane lombok abang kembang gogrog",
+            "Regane lombok abang larang",
+            "Regane lombok abang murah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pondhasine omah kaya ting listrik",
+            "Pondhasine omah gampang rubuh",
+            "Pondhasine omah kuwat jejeg",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rambute polisi kae kaya ulu kucing",
+            "Rambute polisi kae gundhul",
+            "Rambute polisi kae kethel",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Uripku karo uripe wis kaya langit",
+            "Uripku karo uripe bedo banget kaya perbandingan langit",
+            "Uripku karo uripe bedo banget bumi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Obahe wis kaya welut",
+            "Obahe cepet banget",
+            "Obahe lambat banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Obahe wis kaya siput",
+            "Obahe cepet banget",
+            "Obahe lambat banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Urip nang kutho gedhe iku kaya urip nang suarga",
+            "Urip nang kutho gedhe iku kaya urip ning panggon sing nyaman",
+            "Urip nang kutho gedhe iku kaya urip ning panggon sing sumpek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis suwi ngerantau, rasane wong iku tambah andhap asor",
+            "Wes suwi ngerantau, wong iku tambah rendah hati",
+            "Wes suwi ngerantau, wong iku tambah besar kepala",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mahasiswa iku nduweni julukan otak udang",
+            "Mahasiswa iku nduweni julukan wong sing bodho",
+            "Mahasiswa iku nduweni julukan wong sing pinter",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omah iku kaya istana",
+            "Omah iku apik banget",
+            "Omah iku elek banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis ngerti entuk biji elek, Abdi tetep gedhe ati",
+            "Wes ngerti entuk biji elek, Abdi tetep sombong",
+            "Wes ngerti entuk biji elek, Abdi tetep rendah diri",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awan iku bentukane kaya wedhus gembel",
+            "Awan iku bentukane kaya resik banget",
+            "Awan iku bentukane kaya reged banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Persidangan nang film kuwi rasane kaya gedhe sisih",
+            "Persidangan nang film kuwi rasane kaya ora adil",
+            "Persidangan nang film kuwi rasane kaya adil",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong iku mangane kaya durung mangan 3 dino",
+            "Wong iku mangane kaya wong luwe",
+            "Wong iku mangane kaya wong wareg",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Prajurit nang film iku ngelakoni perang wis kaya singa",
+            "Prajurit nang film iku ngelakoni perang wani banget",
+            "Prajurit nang film iku ngelakoni perang wedi banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis suwi kerja nang negara liya, wong iku nduweni watak kaya watu",
+            "Wis suwi kerja nang negara liya, wong iku nduweni watak keras banget",
+            "Wis suwi kerja nang negara liya, wong iku nduweni watak lembek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Didelok saka kelakuane, anake Pak Budi iku kaya putri solo",
+            "Didelok saka kelakuane, anake Pak Budi iku lemah lembut",
+            "Didelok saka kelakuane, anake Pak Budi iku kasar",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pernikahane pasangan iku kaya Romeo lan Juliet",
+            "Pernikahane pasangan iku kaya akur banget",
+            "Pernikahane pasangan iku kaya ora akur",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pak Sutrisno iku tansaya dhuwur pendidikane tambah kaya tong kosong",
+            "Pak Sutrisno iku tansaya dhuwur pendidikane tambah rendah hati seperti padi",
+            "Pak Sutrisno iku tansaya dhuwur pendidikane tambah sombong seperti tong kosong",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adhiku yen ngomong kaya Werkudara",
+            "Adhiku yen ngomong kaya kasar banget",
+            "Adhiku yen ngomong kaya lemah lembut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kesabarane ibu nang anak-anake kaya samudra",
+            "Kesabarane ibu nang anak-anake jembar banget",
+            "Kesabarane ibu nang anak-anake sempit banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kesabarane ibu nang anak-anake kaya godhong kelor",
+            "Kesabarane ibu nang anak-anake jembar banget",
+            "Kesabarane ibu nang anak-anake sempit banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Yen lara, awake dewe wis kaya kutub",
+            "Yen lara, awake dewe wis kaya panas banget",
+            "Yen lara, awake dewe wis kaya adem banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wajahe mbak e iku kaya srengenge",
+            "Wajahe mbak e iku cerah",
+            "Wajahe mbak e iku murung",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulite cah kuwi kaya salju",
+            "Kulite cah kuwi putih",
+            "Kulite cah kuwi ireng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lapangan iku bentukane kaya segara",
+            "Lapangan iku bentukane kaya ombo banget",
+            "Lapangan iku bentukane kaya sempit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Saben lebaran omah iki kaya pasar",
+            "Saben lebaran omah iki rame banget",
+            "Saben lebaran omah iki sepi banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bangunan iki rasane kaya wit tela",
+            "Bangunan iki rasane kaya pohon beringin",
+            "Bangunan iki rasane kaya pohon ketela",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Simbah suarane kaya udan",
+            "Simbah suarane merdu kaya udah",
+            "Simbah suarane gembredek kaya gluduk",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cah iku yen dikandhani kaya watu",
+            "Cah iku yen dikandhani angel banget, keras kepala",
+            "Cah iku yen dikandhani manut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Panganan iki rasane kaya bintang lima, nanging regane bintang lima",
+            "Panganan iki rasane kaya bintang lima, tapi regane larange banget",
+            "Panganan iki rasane kaya bintang lima, tapi regane murah banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Panganan iki rasane kaya bintang lima, nanging regane kaki lima",
+            "Panganan iki rasane kaya bintang lima, tapi regane larange banget",
+            "Panganan iki rasane kaya bintang lima, tapi regane murah banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nardi iki piye carane sikatan, untune wis kaya emas 24 karat",
+            "Nardi iki piye carane sikatan, untune wis kaya kuning banget",
+            "Nardi iki piye carane sikatan, untune wis kaya putih banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nardi iki piye carane sikatan, untune wis kaya gamping",
+            "Nardi iki piye carane sikatan, untune wis kaya kuning banget",
+            "Nardi iki piye carane sikatan, untune wis kaya putih banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pak Danu yen kena masalah berubah dadi kucing",
+            "Pak Danu yen kena masalah berubah dadi beringas kaya singa",
+            "Pak Danu yen kena masalah berubah dadi kalem kaya kucing",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wis dididik, diajari sampe sukses, bocah kuwi kaya penyu",
+            "Wis dididik, diajari sampe sukses, bocah kuwi kaya lali asal muasale",
+            "Wis dididik, diajari sampe sukses, bocah kuwi kaya iling asale",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ibu yen nesu kaya Gunung Merapi",
+            "Ibu yen nesu kaya arep mbledos",
+            "Ibu yen nesu kaya kalem",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ibu yen nesu kaya segara",
+            "Ibu yen nesu kaya arep mbledos",
+            "Ibu yen nesu kaya kalem",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mobil iku ghoib",
+            "Mobil iku langka banget, gaono wujude",
+            "Mobil iku gampang banget ditemu",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Deni yen wis nari kaya robot",
+            "Deni yen wis nari luwes banget kaya godhong ceblok",
+            "Deni yen wis nari kaku banget kaya robot",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kowe apa wis mangan? Kok polahmu kaya kucing luwe",
+            "Kowe apa wis mangan? Kok polahmu kaya beringas",
+            "Kowe apa wis mangan? Kok polahmu kaya lemes banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wong yen wis gedhe iku ojo kaya katak ning njero tempurung",
+            "Wong yen wis gedhe iku aja meneng wae",
+            "Wong yen wis gedhe iku bebas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Motor iku yen ditumpaki wis kaya jet",
+            "Motor iku yen ditumpaki cepet banget",
+            "Motor iku yen ditumpaki alon banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ndek sekolah, Andi iku bintang kelas",
+            "Ndek sekolah, Andi iku juara kelas",
+            "Ndek sekolah, Andi iku ranking paling ngisor",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Aldi lan Doni iku sahabat sing wis kaya rante",
+            "Aldi lan Doni iku sahabat sing wis kokoh banget kaya rante",
+            "Aldi lan Doni iku sahabat sing wis rapuh lan tipis kaya senar",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pengawas ujian iku nduweni mata kaya elang",
+            "Pengawas ujian iku nduweni mata awas banget kaya elang",
+            "Pengawas ujian iku nduweni mata rabun kaya lawa",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong iku kulite kaya kulit bayi",
+            "Wong iku kulite kaya lembut kaya kulit bayi",
+            "Wong iku kulite kaya kasar kaya kulit boyo",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong iku kulite kaya kulit boyo",
+            "Wong iku kulite kaya lembut kaya kulit bayi",
+            "Wong iku kulite kaya kasar kaya kulit boyo",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Masa depane cah kuwi kaya siang",
+            "Masa depane cah kuwi kaya cerah banget",
+            "Masa depane cah kuwi kaya peteng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sikapmu kaya es batu",
+            "Sikapmu ramah banget kaya srengenge",
+            "Sikapmu adem banget kaya es",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adike Doni perawakane kaya gajah",
+            "Adike Doni perawakane gede banget kaya gajah",
+            "Adike Doni perawakane cilik banget kaya semut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen didelok, Pak Guru iku sikape kaya watu",
+            "Yen didelok, Pak Guru iku sikape gampang berubah",
+            "Yen didelok, Pak Guru iku sikape teguh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Guyune kaya gula jawa",
+            "Guyune manis kaya gula",
+            "Guyune pait kaya kopi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pasangan iku yen didelok kaya banyu lan minyak",
+            "Pasangan iku yen didelok kaya ora cocok",
+            "Pasangan iku yen didelok kaya cocok banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rambute kaya kain sutra",
+            "Rambute alus lan lurus kaya kain sutra",
+            "Rambute bergelombang keriting kaya kain wol",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Urip iki kaya mampir ngombe",
+            "Urip iki senajan sedilut",
+            "Urip iki senajan suwe",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rasa ombenan alkohol kuwi umpama pait madu",
+            "Rasa ombenan alkohol kuwi legi banget",
+            "Rasa ombenan alkohol kuwi pait banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah kembar iku raine kaya pring diparuh",
+            "Bocah kembar iku raine bedho",
+            "Bocah kembar iku raine padha",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pancen dadi polisi kuwi kaya nemu mas ing omah dewe",
+            "Pancen dadi polisi kuwi angel",
+            "Pancen dadi polisi kuwi gampang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dadi anak pak lurah uripe kaya kalungan mas",
+            "Dadi anak pak lurah uripe kepenak",
+            "Dadi anak pak lurah uripe sara",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapak guru ngewenehi tugas kaya arep nggawe candi",
+            "Bapak guru ngewenehi tugas dhadhakan",
+            "Bapak guru ngewenehi tugas mipil",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Menungso kuwi umur e umpama arca sewu tahun",
+            "Menungso kuwi umur e dawa",
+            "Menungso kuwi umur e cendhek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mlayune atlet kuwi kaya keong mlayu",
+            "Mlayune atlet kuwi alon",
+            "Mlayune atlet kuwi banter",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mlayune atlet kuwi kaya macan mlaku",
+            "Mlayune atlet kuwi alon",
+            "Mlayune atlet kuwi banter",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adhiku pengen duwe omah sing kaya alas wit sewu",
+            "Adhiku pengen duwe omah sing gedhe",
+            "Adhiku pengen duwe omah sing cilik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gani kesohor amarga swarane kaya kucing turu",
+            "Gani kesohor amarga swarane banter",
+            "Gani kesohor amarga swarane alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Drijine Marni rupane kaya mucuk ri",
+            "Drijine Marni rupane lancip",
+            "Drijine Marni rupane ora lancip",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jare Dinda, kalebu ing jurusan teknik kuwi kaya cecak nguntal boyo",
+            "Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing angel kawujud",
+            "Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing gampang kawujud",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jare Dinda, kalebu ing jurusan teknik kuwi kaya ndulang mas ning tambak",
+            "Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing angel kawujud",
+            "Jare Dinda, kalebu ing jurusan teknik kuwi mimpi sing gampang kawujud",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Senajan sugih, Pak Tomo kerjane kaya diuber utang",
+            "Senajan sugih, Pak Tomo kerjane sregep",
+            "Senajan sugih, Pak Tomo kerjane males",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek ketemu tonggo, bocah kuwi pancen kaya ngemut inten",
+            "Nek ketemu tonggo, bocah kuwi pancen kemaki",
+            "Nek ketemu tonggo, bocah kuwi pancen sumeh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek ketemu tonggo, bocah kuwi pancen kaya temu dulur",
+            "Nek ketemu tonggo, bocah kuwi pancen kemaki",
+            "Nek ketemu tonggo, bocah kuwi pancen sumeh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Penyanyi iku pancen swarane kaya tembang sinom",
+            "Sinden iku pancen swarane apik",
+            "Sinden iku pancen swarane elek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Penyanyi iku pancen swarane kaya kumbang nyinom",
+            "Sinden iku pancen swarane apik",
+            "Sinden iku pancen swarane elek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Banyu ing Surabaya umpama embun kacampur awu",
+            "Banyu ing Surabaya bening",
+            "Banyu ing Surabaya buthek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Masakane Bu Mardi rasane kaya dhaharan sultan",
+            "Masakane Bu Mardi rasane enak",
+            "Masakane Bu Mardi rasane ora enak",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Saben dina toko kuwi kaya kuburan wayah bengi",
+            "Saben dina toko kuwi rame",
+            "Saben dina toko kuwi sepi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ning panggung, penari srimpi kae obahe umpama kembang kesenggol angin",
+            "Ning panggung, penari srimpi kae obahe anggun",
+            "Ning panggung, penari srimpi kae obahe kaku",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya wulan tumuju tanggal sepisan",
+            "Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kandhel",
+            "Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise arang-arang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Umar bali sekolah mlakune kaya macan luwe",
+            "Umar bali sekolah mlakune alon-alon",
+            "Umar bali sekolah mlakune kesusu",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lakune bocah kuwi ning keluargane umpama kidang kencana ning tengah alas",
+            "Lakune bocah kuwi ning keluargane kalem",
+            "Lakune bocah kuwi ning keluargane teges",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mimpi dadi presiden pancen kaya Petruk arep dadi ratu",
+            "Mimpi dadi presiden pancen ora mungkin",
+            "Mimpi dadi presiden pancen mungkin",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kerja ning kantor pemerintah kaya numpak gethek ning Bengawan Solo",
+            "Kerja ning kantor pemerintah akeh tantangan",
+            "Kerja ning kantor pemerintah ora ono tantangan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ning TV saiki akeh pejabat sing umpama duwe ajining godhong garing",
+            "Ning TV saiki akeh pejabat sing ora duwe wibawa",
+            "Ning TV saiki akeh pejabat sing duwe wibawa",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika zaman semono, rega beras kaya tuku emas kang disepuh",
+            "Nalika zaman semono, rega beras larang",
+            "Nalika zaman semono, rega beras murah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Carita kae marai ati rasa kaya dicacah gaman",
+            "Carita kae marai ati rasa duka",
+            "Carita kae marai ati rasa bungah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Carita kae marai ati rasa kaya disiram banyu kembang",
+            "Carita kae marai ati rasa duka",
+            "Carita kae marai ati rasa bungah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Urip ning jobo kutha san saya umpama udan watu geni",
+            "Urip ning jobo kutha san saya tinemu apes",
+            "Urip ning jobo kutha san saya nyenengake",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mimpi sing mau bengi kaya kembang turu",
+            "Mimpi sing mau bengi apik",
+            "Mimpi sing mau bengi elek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ning kuthaku, wong kang mbangun pabrik kaya jamur wayah udan",
+            "Ning kuthaku, wong kang mbangun pabrik akeh",
+            "Ning kuthaku, wong kang mbangun pabrik sitik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ning kuthaku, wong kang mbangun pabrik kaya ngitung driji tangan siji",
+            "Ning kuthaku, wong kang mbangun pabrik akeh",
+            "Ning kuthaku, wong kang mbangun pabrik sitik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngelakoni kerja ning pabrik kuwi umpama nguyahi segara",
+            "Ngelakoni kerja ning pabrik kuwi sia-sia",
+            "Ngelakoni kerja ning pabrik kuwi ngasilake",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngelakoni kerja ning pabrik kuwi umpama nandur lombok ning tegalan",
+            "Ngelakoni kerja ning pabrik kuwi sia-sia",
+            "Ngelakoni kerja ning pabrik kuwi ngasilake",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dadi anak bontot ning keluarga iki padha kaya nggendong watu sak gunung",
+            "Dadi anak bontot ning keluarga iki abot",
+            "Dadi anak bontot ning keluarga iki enteng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngelakoni urip dadi santri ana wae ceritane senajan umpama surya wayah sore",
+            "Ngelakoni urip dadi santri ana wae ceritane senajan nentremake",
+            "Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapake yen kerja sampe kaya adol tangan karo sikil",
+            "Bapake yen kerja sampe pol-polan",
+            "Bapake yen kerja sampe males-malesan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nuruti dhawuhe wong tuwa dadi umpama nggenggem bara geni",
+            "Nuruti dhawuh e wong tuwa dadi ragu-ragu",
+            "Nuruti dhawuh e wong tuwa dadi kukuh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tenangane wong kuwi kaya ngangkat kebo limo",
+            "Tenangane wong kuwi kuat banget",
+            "Tenangane wong kuwi lemes banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Urip ning perkampungan Jakarta kaya tinemu sadulur tunggal getih",
+            "Urip ning perkampungan Jakarta guyub",
+            "Urip ning perkampungan Jakarta akeh gelut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keputusan sing digawe Bu Dwi wis kaya kayu jati ngadeg-jejeg",
+            "Keputusan sing digawe Bu Dwi wis teguh",
+            "Keputusan sing digawe Bu Dwi wis ora teguh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lia lan adhine kaya kopi dibanjur susu",
+            "Lia lan adhine rukun",
+            "Lia lan adhine musuhan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Didikan keluargane umpama prajurit Jepang arep tempur",
+            "Didikan keluargane disiplin",
+            "Didikan keluargane sekarepe dewe",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bener jare wong kene yen Bu Lurah tumindake kaya pucuk kertas nyeset driji",
+            "Bener jare wong kene yen Bu Lurah tumindake nglarani ati",
+            "Bener jare wong kene yen Bu Lurah tumindake nyenengke ati",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Doni karo Yanti pancen kaya Rama Sinta ing pewayangan",
+            "Doni karo Yanti pancen cocok sesandhingan",
+            "Doni karo Yanti pancen ora cocok sesandhingan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nyawang esemmu rasane kaya angin semilir",
+            "Nyawang esemmu rasane adem",
+            "Nyawang esemmu rasane panas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sepur iku suarane kaya manuk dares",
+            "Sepur iku suarane mbrebegi",
+            "Sepur iku suarane sepi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kucing kuwi obah kaya sepur",
+            "Kucing kuwi obahe cepet",
+            "Kucing kuwi obahe alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sinden dangdut suarane kaya manuk kutilang",
+            "Sinden dangdut suarane merdu",
+            "Sinden dangdut suarane elek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sinden dangdut suarane kaya bebek",
+            "Sinden dangdut suarane merdu",
+            "Sinden dangdut suarane elek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manuk dara mabur kaya montor mabur",
+            "Manuk dara mabure cepet",
+            "Manuk dara mabure alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngenteni awakmu teka rasane kaya sewu tahun",
+            "Ngenteni awakmu rasane suwi",
+            "Ngenteni awakmu rasane cepet",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sega warung iku rasane kaya mangan watu",
+            "Sega ing warung iku rasane atos",
+            "Sega ing warung iku rasane pulen",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sega warung iku rasane kaya mangan bubur",
+            "Sega ing warung iku rasane atos",
+            "Sega ing warung iku rasane pulen",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Berita iku ditampa kaya ngeleg obat",
+            "Berita iku ditampa hal sing angel",
+            "Berita iku ditampa hal sing gampang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong iku leh mlaku kaya numpak montor mabur",
+            "Wong iku leh mlaku cepet banget",
+            "Wong iku leh mlaku alon banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongane bu guru kaya landhep pedang",
+            "Omongane bu guru landhep",
+            "Omongane bu guru alus",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongane bu guru kaya kethul karet",
+            "Omongane bu guru landhep",
+            "Omongane bu guru alus",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wayah esuk hawane kaya es",
+            "Wayah esuk hawane adem",
+            "Wayah esuk hawane panas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Banjir sasi wingi duwure kaya tugu monas",
+            "Banjir sasi wingi duwur banget",
+            "Banjir sasi wingi cekak banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Banjir sasi wingi duwure kaya tungkak",
+            "Banjir sasi wingi duwur banget",
+            "Banjir sasi wingi cekak banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Omongane isa kaya korek gas",
+            "Omongane iso marai ribut",
+            "Omongane iso marai ayem",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Temok omah iku dicet werna areng",
+            "Tembok omah iku dicet werna peteng",
+            "Tembok omah iku dicet werna terang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bantal iki rasane kaya watu",
+            "Bantal iki rasane alus",
+            "Bantal iki rasane athos",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Apel iku rasane kaya asem",
+            "Apel iku rasane asem",
+            "Apel iku rasane legi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mangsa ngarep wong iku ibarat padhang esuk",
+            "Mangsa ngarep wong iku kebak pangarep",
+            "Mangsa ngarep wong iku kebak kuciwo",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mripatku yen yah mene dinggo ndelok kaya buthek banyu",
+            "Mripatku yen yah mene dinggo ndelok kaya cetha",
+            "Mripatku yen yah mene dinggo ndelok kaya kabur",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Werno wulu kucing iku kaya areng",
+            "Werna wulu kucing iku ireng",
+            "Werna wulu kucing iku putih",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cah loro iku kelet kaya tluth",
+            "Cah loro iku keletan",
+            "Cah loro iku pisahan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Fahmi mangan sega kaya ora mangan limang dina",
+            "Fahmi mangan sega kaya wong keluwen",
+            "Fahmi mangan sega kaya wong kewaregen",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keluargaku saben dina mangan telo",
+            "Keluargaku saben dina mangan apa anane",
+            "Keluargaku saben dina mangan apa wae ana",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raihan mambune kaya kembang",
+            "Raihan mambune wangi",
+            "Raihan mambune bosok",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raihan mambune kaya mayit",
+            "Raihan mambune wangi",
+            "Raihan mambune bosok",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Omahe Jokowi ambane kaya laut kidul",
+            "Omahe Jokowi amba banget",
+            "Omahe Jokowi sempit banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kowe takdongakne kaya penyu laut",
+            "Kowe takdongakne dawa umure",
+            "Kowe takdongakne cekak umure",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tresnaku marang sliramu iku kaya semut",
+            "Tresnaku marang sliramu iku gede",
+            "Tresnaku marang sliramu iku cilik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Banyu omah iki rasane kaya wedhang ronde",
+            "Banyu omah iki rasane adem",
+            "Banyu omah iki rasane anget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Omah iku kaya digawe saka emas",
+            "Omah iku kaya mewah",
+            "Omah iku kaya murah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Montor iku digawe seka wesi",
+            "Montor iku kuat",
+            "Montor iku ringkih",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rasane panganan iki kaya iwak pithik",
+            "Rasane panganan iki gurih",
+            "Rasane panganan iki raono rasane",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tresnaku marang awakmu seamba laut biru",
+            "Tresnaku marang awakmu amba",
+            "Tresnaku marang awakmu sempit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tresnaku marang awakmu sesempit bolongan dom",
+            "Tresnaku marang awakmu amba",
+            "Tresnaku marang awakmu sempit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngenteni Surya adus iku kaya satus tahun",
+            "Ngenteni Surya adus iku suwi",
+            "Ngenteni Surya adus iku cepet",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Febri jajan kaya tanggal nom",
+            "Febri jajan kaya wong sugih",
+            "Febri jajan kaya wong kere",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jaka urip ing omah kardus",
+            "Jaka urip ing panggonan kang cukup",
+            "Jaka urip ing panggonan kan kurang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adi rewel merga wetenge muni",
+            "Adi rewel merga keluwen",
+            "Adi rewel merga kewaregen",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gambar iku kaya langit kebak bintang",
+            "Gambar iku apik banget",
+            "Gambar iku elek banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Polisi iku sifate kaya asu galak",
+            "Polisi iku sifate kasar",
+            "Polisi iku sifate alus",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raimu tak sawang-sawang kaya Luna Maya",
+            "Raimu taksawang-sawang ayu",
+            "Raimu taksawang-sawang medeni",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raimu tak sawang-sawang kaya Mak Lampir",
+            "Raimu taksawang-sawang ayu",
+            "Raimu taksawang-sawang medeni",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bapak tuku kacang kaya dompete tipis",
+            "Bapak tuku kacang kaya duite akeh",
+            "Bapak tuku kacang kaya duite sithik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Meja kerjane bapak digawe saka kayu jati",
+            "Meja kerjane bapak kuwat",
+            "Meja kerjane bapak ringkih",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe kancaku kaya keraton",
+            "Omahe kancaku mewah",
+            "Omahe kancaku pas-pasan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dina iki aku ibarat nemu duit",
+            "Dina iki aku begja",
+            "Dina iki aku apes",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dina iki aku ibarat kebanan",
+            "Dina iki aku begja",
+            "Dina iki aku apes",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kanggo dheweke, uripe kaya ndeleng pemandangan sing apik",
+            "Uripe seneng",
+            "Uripe sengsara",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kanggo dheweke, uripe kaya ing bar wesi",
+            "Uripe seneng",
+            "Uripe sengsara",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dheweke nulungi ibune sing wis tuwa kaya nggowo kresek isi krupuk",
+            "Dheweke nulungi ibune sing wis tuwa iku abot",
+            "Dheweke nulungi ibune sing wis tuwa iku entheng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dheweke yen kerjo kaya jaran nalika mlayu",
+            "Dheweke yen kerjo cepet",
+            "Dheweke yen kerjo alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika turu swarane ngorok kaya maling mlaku",
+            "Swarane ngorok banter",
+            "Swarane ngorok alon-alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ujian uripe wong kuwi ibarat udan deres gak mandek-mandek",
+            "Ujian uripe enek terus",
+            "Ujian uripe jarang-jarang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ibu nggawa koper gedhene sak omah",
+            "Kopere gedhe",
+            "Kopere cilik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pikirane kaya rel sepur",
+            "Mikire dawa",
+            "Mikire cendhak",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe kaya kraton raja",
+            "Omahe Mewah",
+            "Omahe kumuh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pendukunge Pak Rangga dadi bupati kayata jamaah sholat subuh ing masjid",
+            "Pendukunge Pak Rangga dadi bupati Akeh",
+            "Pendukunge Pak Rangga dadi bupati sitik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manggon ing omah iki kaya swarga",
+            "Manggon ing omah iki Seneng",
+            "Manggon ing omah iki nandhang sangsara",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Swasana desa iki kaya pasar",
+            "Swasana desa iki Ramai",
+            "Swasana desa iki Sepi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Swarane masku nek nyanyi koyo swarane Didi kempot",
+            "Swarane masku nek nyanyi merdu",
+            "Swarane masku nek nyanyi cempreng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Swarane masku nek nyanyi koyo tutup panci njeblok",
+            "Swarane masku nek nyanyi merdu",
+            "Swarane masku nek nyanyi cempreng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kulite wong wedok iku kaya kulit bayi",
+            "Kulite wong wedok iku Halus",
+            "Kulite wong wedok iku kasar",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Semangate nandhang pacoban urip iku kaya raja singa ing tengah alas",
+            "Semangate nandhang pacoban urip iku Wani",
+            "Semangate nandhang pacoban urip iku Wedi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika ngrampungake masalah dheweke kaya ombak ing tengah samodra",
+            "Nalika ngrampungake masalah dheweke Ora Tenang",
+            "Nalika ngrampungake masalah dheweke kuwat, tenang kebak kawicaksanan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ponakanku yen sekolah kaya kidang sing pinter lan lincah",
+            "Ponakanku yen sekolah aktif",
+            "Ponakanku yen sekolah pasif menengae",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sabare kaya samodra",
+            "Sabare Jembar",
+            "Sabare Ciyut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sabare kaya bolongan sedotan",
+            "Sabare Jembar",
+            "Sabare Ciyut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Esemmu koyo rembulan sing madhangi wengi kang peteng ndhedhet",
+            "Esemmu apik",
+            "Esemmu kecut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen nyuarake panemune kaya nggeroman macan",
+            "Yen nyuarake panemune banter",
+            "Yen nyuarake panemune ora banter",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen nyuarake panemune kaya buntut tikus sing kecepit ing lawang",
+            "Yen nyuarake panemune banter",
+            "Yen nyuarake panemune ora banter",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ukuran awak bocah iku kaya gajah",
+            "Gedhe",
+            "cilik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rambute bocah iku kaya kain sutra",
+            "Rambute bocah iku Lembut",
+            "Rambute bocah iku kaku",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kekancan kita ibarat kayu padat sing kerep kena banyu",
+            "Kekancan kita kuat",
+            "Kekancan kita rapuh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tresnaku marang sliramu sejeroning samudra Hindia",
+            "Tresnaku marang sliramu jeru",
+            "Tresnaku marang sliramu cethek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tresnaku marang sliramu jerone kaya kolam bocah",
+            "Tresnaku marang sliramu jeru",
+            "Tresnaku marang sliramu cethek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mlayune kaya macan tutul nguber mangsane",
+            "Mlayune cepet",
+            "Mlayune alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Anake pasangan kuwi kaya cacahe anggota pemaine sepak bola",
+            "Anake pasangan kuwi akeh banget nganti akeh",
+            "Anake pasangan kuwi akeh banget nganti sithik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Uripe bocah kuwi kaya manuk sing mabur bebas ing langit",
+            "Uripe bocah kuwi bebas",
+            "Uripe bocah kuwi dikekang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan tanggaku kaya driji kenek peso sing landhep",
+            "Omongan tanggaku perih",
+            "Omongan tanggaku nyenengne",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kendaraane mlaku kaya angin",
+            "Kendaraane mlaku cepet",
+            "Kendaraane mlaku alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong wedok iku kaya polahe semut",
+            "Wong wedok iku sregep",
+            "Wong wedok iku males",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hubungan katresnan kita kaya crita Romeo lan Juliet",
+            "Hubungan katresnan kita romantis",
+            "Hubungan katresnan kita tukaran wae",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raine koncoku kaya aspal dalan gedhe",
+            "Raine koncoku mulus",
+            "Raine koncoku kasar",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hubungan seduluranku karo mbakyuku iku ibarat manungsa karo oksigen",
+            "Hubungan seduluranku karo mbakyuku pasti mbutuhne",
+            "Hubungan seduluranku karo mbakyuku gak iso nyatu",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dalan-dalan ing desaku lampune kaya ing pasar malam",
+            "Dalan-dalan ing desaku lampune padhang",
+            "Dalan-dalan ing desaku lampune remang-remang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapake koncoku iku kaya raden werkudara",
+            "Bapake koncoku iku gagah",
+            "Bapake koncoku iku medeni",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapak tirine sifate kaya Gatot Kaca",
+            "Bapak tirine sifat apik",
+            "Bapak tirine sifat jahat",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika ngawasi ujian, pandelenge guru iku kaya manuk garudha ngarah mangsane",
+            "Nalika ngawasi ujian, pandelenge guru iku fokus ngamati muride",
+            "Nalika ngawasi ujian, pandelenge guru iku ora fokus mergo ngantuk",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Masku nalika ngumbara kaya kebo seng ileng mulih menyang kandhange",
+            "Masku nalika ngumbara tetep ileng lan balik ana asale",
+            "Masku nalika ngumbara lali karo asale",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong kuwi sifate kaya bathok bolu isi madu",
+            "Wong kuwi sifate Nggambarake wong saka kelas ngisor, nanging sugih ing kawruh",
+            "Wong kuwi sifate wong sing akeh omong nanging ora gelem nyambut gawe lan kemeruh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dheweke nek nari kaya robot diuripake bateraine",
+            "Dheweke nek nari luwes",
+            "Dheweke nek nari kaku",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Aku lan kowe kaya pinang dibelah loro",
+            "Aku lan kowe kembar",
+            "Aku lan kowe bedho",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dheweke mlumpat kaya kangguru",
+            "Dheweke mlumpat dhuwur banget",
+            "Dheweke mlumpat cendhek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake kaya inti bumi",
+            "Awake panas",
+            "Awake adem",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Atine ibarat watu sing ora bakal goyah senajan kahalang ombak gedhe",
+            "Atine mantep lan kuat",
+            "Atine iso rapuh lan gampang pecah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Roke mbak Ayu dowone kaya telung kilan",
+            "Roke mbak Ayu dowone cekak",
+            "Roke mbak Ayu dowone landhung",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban duren",
+            "Perasaane bungah",
+            "Perasaane susah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kamare mas Andi kaya kandang kewan",
+            "Kamare mas Andi kemproh",
+            "Kamare mas Andi resikan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Udan awan ini kaya banyu langsung diguyur soko dhuwur",
+            "Udane deres",
+            "Udane gerimis",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Semangate urip wong kuwi ibarat terus ngibadah ngiro urip muk sampe sesok",
+            "Semangate mempeng",
+            "Semangate kesed",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong lanang iku nemui bapake pacare kaya Werkudhara",
+            "Wong lanang iku nemui bapake pacare kendhel",
+            "Wong lanang iku nemui bapake pacare jireh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gaekne susu nggo anake kaya banyu",
+            "Susune cuwer",
+            "Susune kenthel",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Areke nek gae janji kaya ndelok gajah numpak becak",
+            "blangko",
+            "goroh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bondone wong tuane ibarat pitung turunan gak entek-entek",
+            "sugih",
+            "mlarat",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gae alasan kaya ketemu setan awan-awan",
+            "Nek gae alasan aneh",
+            "Nek gae alasan lumrah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah-bocah kuwi polahe kaya wong manten disandingne",
+            "Bocah-bocah kuwi polahe antheng",
+            "Bocah-bocah kuwi polahe ronggeh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mbiyen bapakku ngluluhne atine ibukku kaya numpak motor metik ra sah mlebu gigi nek ditumpaki",
+            "angel",
+            "gampang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Banyune jeding kaya banyu kopi",
+            "Banyune jeding bening",
+            "Banyune jeding buthek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Watake masku kaya parutan",
+            "Watake masku kasar",
+            "Watake masku alus",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Watake masku kaya kulit bayi",
+            "Watake masku kasar",
+            "Watake masku alus",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Atine Ani seperti ambane segoro",
+            "Atine Ani jembar",
+            "Atine Ani ciyut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budheku wonge ibarat blonjo susuk seked ripis mesti dijaluk maneh",
+            "Budheku wonge cethil",
+            "Budheku wonge lumo",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dalane ngarep omah kaya koco dilap kain teles",
+            "Dalane ngarep omah jemek",
+            "Dalane ngarep omah kesed",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nek nduwe cita-cita sakduwur langit",
+            "Nek nduwe cita-cita duwur banget",
+            "Nek nduwe cita-cita ora duwur ( biasa-biasa ae",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek nduwe cita-cita sakduwur cagak listrik",
+            "Nek nduwe cita-cita duwur banget",
+            "Nek nduwe cita-cita ora duwur ( biasa-biasa ae",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dadi guru saiki iku ibarat mlaku munggah gunung",
+            "Dadi guru saiki iku ibarat soro",
+            "Dadi guru saiki iku ibarat penak",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lampu ndek omahe kaya wong nduwe tanggapan",
+            "Lampu ndek omahe padhang",
+            "Lampu ndek omahe peteng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lampu ndek omahe kaya dalanan kuburan",
+            "Lampu ndek omahe padhang",
+            "Lampu ndek omahe peteng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Soale ujian dikerjakne ibarat ditingal merem entuk satus",
+            "Soale ujian gampang",
+            "Soale ujian angel",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Soale ujian dikerjakne ibarat nglebokne benang wengi-wengi",
+            "Soale ujian gampang",
+            "Soale ujian angel",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Irunge dicantoli koco moto mlorot terus",
+            "Irunge bangir",
+            "Irunge pesek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Usahane kaya numpak motor kene lampu abang ndek prapatan",
+            "Usahane mandheg",
+            "Usahane mlaku",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Warna kulite kaya woh juwet",
+            "Warna kulite ireng",
+            "Warna kulite putih",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake gedhine sakdrum",
+            "Awake lemu",
+            "Awake kuru",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah kuwi nek enek wong anyar kaya wani maju kenalan dewe",
+            "Bocah kuwi saen",
+            "Bocah kuwi isinan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Warnane rambute kaya kembang jambu",
+            "Warna rambute putih",
+            "Warna rambute ireng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapake kaya pejabat penting",
+            "Bapake sibuk banget",
+            "Bapake ora sibuk",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kerjane kaya mesin seng gak pernah mati",
+            "Kerjane kuat",
+            "Kerjane lemah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake dewe kaya payung lan udan",
+            "Awake dewe sering bareng",
+            "Awake dewe tukaran",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pas wonge milih lungo soko uripku rasane kaya kiamat",
+            "Pas wonge milih lungo soko uripku rasane susah",
+            "Pas wonge milih lungo soko uripku rasane bungah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raut wajahe kaya kembang ndek taman seng mekar",
+            "Wajahe sumringah",
+            "Wajahe pucet",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Senyume kaya gula jawa",
+            "Senyumane manis",
+            "Senyumane kecut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Suarane pak Budi kaya singo ngaum ndek jero alas",
+            "Suarane pak Budi medeni",
+            "Suarane pak Budi alus",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ilmune wong kuwi ibarat banyu sing ombak ora jero",
+            "Ilmune dangkal",
+            "Ilmune luas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Klambine sewangi kembang melati",
+            "Klambine wangi",
+            "Klambine mambu",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keteguhane ngadepi kenyataan kaya krupuk",
+            "Keteguhane ngadepi kenyataan kuat",
+            "Keteguhane ngadepi kenyataan rapuh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ganang yen nesu kaya macan ngamuk",
+            "Ganang yen nesu ngamuk bengok-bengok",
+            "Ganang yen nesu meneng ae",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek ngguyu kaya kebelet",
+            "Nek ngguyu banter tur mlengking",
+            "Nek ngguyu diempet",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wedhange kaya obat loro untu",
+            "Wedhange pahit",
+            "Wedhange manis",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake kaya gedung duwur",
+            "Awake kuat",
+            "Awake ringkih",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ]
+    ],
+    "wrong": [
+        [
+            "Nyawang esemmu sing rupane kaya nyruput ampas kopi",
+            "Nyawang esemmu sing manis",
+            "Nyawang esemmu sing pahit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Suarane bocahe kuwi kaya sutra",
+            "Suarane bocah kuwi merdu",
+            "Suarane bocah kuwi elek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Suarane bocahe kuwi kaya bledek",
+            "Suarane bocah kuwi merdu",
+            "Suarane bocah kuwi elek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lakmu mlaku jan kaya diuber maling",
+            "Lakmu mlaku cepet",
+            "Lakmu mlaku suwi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dekwingi aku nyang omahmu jan kaya omah demit",
+            "Dek wingi aku nyang omahmu sing rame",
+            "Dek wingi aku nyang omahmu sing sepi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngawiti dina senen iku seabot nyunggi batako",
+            "Ngawiti dina senen iku abot banget",
+            "Ngawiti dina senen iku enteng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Poh, ambune klambine Bu Nita kaya kebon mlathi",
+            "Ambune klambine Bu Nita wangi",
+            "Ambune klambine Bu Nita mambu ora enak",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lekmu numpak mobil kaya alap-alap",
+            "Lekmu numpak mobil alon",
+            "Lekmu numpak mobil cepet",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lungguh ning kursi iku rasane kaya bantal",
+            "Lungguh ning kursi iku rasane empuk",
+            "Lungguh ning kursi iku rasane atos",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lungguh ning kursi iku rasane kaya watu",
+            "Lungguh ning kursi iku rasane empuk",
+            "Lungguh ning kursi iku rasane atos",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ra umum, duwurmen adike Anas sak wit ceplukan",
+            "Adike Anas duwur banget",
+            "Adike Anas cendek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Padange lampu kamarku kaya ublik",
+            "Lampu kamarku padang",
+            "Lampu kamarku peteng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mas Edi lak mlayu jan kaya kancil",
+            "Mas Edi lak mlayu cepet",
+            "Mas Edi lak mlayu rindik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mas Edi lak mlayu jan kaya semut",
+            "Mas Edi lak mlayu cepet",
+            "Mas Edi lak mlayu rindik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Untune Dik Sri mbiji timun",
+            "Untine Dik Sri tata",
+            "Untine Dik Sri gedi-gedi ting mbedesal",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Untune Dik Sri ngungkal gerang",
+            "Untine Dik Sri tata",
+            "Untine Dik Sri gedi-gedi ting mbedesal",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Polahe bocah cilik kuwi kaya kebo",
+            "Bocah cilik kuwi ora isa meneng",
+            "Bocah cilik kuwi tura-turu ae",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pasuryane Mas Tono kaya Rahwana",
+            "Pasuryane Mas Tono ganteng",
+            "Pasuryane Mas Tono elek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pipine Rida aluse kaya dalan makadhaman",
+            "Pipine Rida alus",
+            "Pipine Rida kasar kakehan kukul",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nyawang dedege Kartolo kok kaya dhadang ora godak",
+            "Kartolo kuwi wani",
+            "Kartolo kuwi weden",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kahanan omahe Pak Sardi sing lagi wae oleh bantuwan kaya udan dhuwit",
+            "Kahanan omahe Pak Sardi kang lagi susah",
+            "Kahanan omahe Pak Sardi kang lagi seneng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gawe wedang kopi Painem kaya disoki suruh",
+            "Nek gawe wedang kopi Painem legi",
+            "Nek gawe wedang kopi Painem pahit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Baguse Paijo katulung saka irunge sing kaya irunge semar",
+            "Baguse Paijo katulung irunge sing mancung",
+            "Baguse Paijo katulung irunge sing pesek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Anggone nyambut gawe Allia kaya macan luwe",
+            "Anggone nyambut gawe Allia Cepet banget",
+            "Anggone nyambut gawe Allia alon banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika sesrawungan Pak Jemani lan Paiman kaya mimi lan mituna",
+            "Nalika sesrawungan Pak Jemani lan Paiman ora bisa akur",
+            "Nalika sesrawungan Pak Jemani lan Paiman akur banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tulisane Sarti jumejer ana papan tulis kaya cekere pitik",
+            "Tulisane Sarti jumejer ana papan tulis apik banget",
+            "Tulisane Sarti jumejer ana papan tulis elek banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rambute Selfi wiwit cilik pancen kaya brintik linggis",
+            "Rambute Selfi wiwit cilik pancen lurus",
+            "Rambute Selfi wiwit cilik pancen kriting",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kain batik sing dituku nalika menyang pasar Klewer iku kandele kaya kulit bawang",
+            "Kain batik sing dituku menyang pasar klewer tipis banget",
+            "Kain batik sing dituku menyang pasar klewer kandel banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Isih esuk kahanane Mbak Marmi kaya ulat manis",
+            "Isih esuk khanane mbak Marmi Katon mrengut",
+            "Isih esuk khanane mbak Marmi Katon sumeh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Roti donat lek nggawe Narti kaya lemese pikulan",
+            "Roti donat lek nggawe Narti empuk banget",
+            "Roti donat lek nggawe Narti atos banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe sing dibangun ambane kaya leng semut",
+            "Omahe sing di bangun amba banget",
+            "Omahe sing di bangun ciwut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kaya mental wesi",
+            "Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale kendel",
+            "Nalika tumut lomba Bujangganong solahe Radit luwes , amarga wiwit kelas siji mentale weden",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sawise mulih saka griya sakit pasuryane Siti isih kaya abang godhong katirah",
+            "Sawise mulih saka griya sakit pasuryane Siti pucet banget",
+            "Sawise mulih saka griya sakit pasuryane Siti cerah banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lungane Pakdhe menyang Surabaya enggale suwe kaya madu sinaring",
+            "Lungane Pakdhe menyang Surabaya cepet banget",
+            "Lungane Pakdhe menyang Surabaya suwi banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rasane pelem kaya gula jawa",
+            "Rasane pelem kecut",
+            "Rasane pelem legi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Swarane sing nembang kaya kutut manggung",
+            "Swarane sing nembang apik banget",
+            "Swarane sing nembang elek banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Yen nyawang mripate Sari kaya ndamar kanginan",
+            "Yen nyawang mripate Sari blalak-blalak",
+            "Yen nyawang mripate Sari sipit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Banyune kolam renang kaya banyu leri",
+            "Banyune kolam renang bening",
+            "Banyune kolam renang buthek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Anggone mlaku bis mini kaya tuma kathok",
+            "Anggone mlaku bis mini klular klulur",
+            "Anggone mlaku bis mini trengginas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong kelor",
+            "Lemah sing disumbangake kanggo lapangan desa ciyut banget",
+            "Lemah sing disumbangake kanggo lapangan desa amba banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lemah sing disumbangake kanggo lapangan desa ambane kaya amba godhong tales",
+            "Lemah sing disumbangake kanggo lapangan desa ciyut banget",
+            "Lemah sing disumbangake kanggo lapangan desa amba banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake Surya nalika isih sekolah mbiyen kaya lemu kurma",
+            "Awake Surya nalika isih sekolah mbiyen lemu banget",
+            "Awake Surya nalika isih sekolah mbiyen kuru banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen lungguh ana nggarep dhewe patrape kaya Buta Cakil",
+            "Yen lungguh ana ngarep dhewe patrape anteng banget",
+            "Yen lungguh ana ngarep dhewe patrape pecicilan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pratandha arep udan amarga medhunge kaya nyumet dimar",
+            "Pratandha arep udan amarga mendhunge peteng banget",
+            "Pratandha arep udan amarga mendhunge padhang jingglang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Regane lombok abang sundhul langit",
+            "Regane lombok abang larang",
+            "Regane lombok abang murah",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pondhasine omah kaya wit tela",
+            "Pondhasine omah gampang rubuh",
+            "Pondhasine omah kuwat jejeg",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rambute polisi kae kaya bathok klapa",
+            "Rambute polisi kae gundhul",
+            "Rambute polisi kae kethel",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nalika dina Minggu, yen bisa nindakake pakaryan ngajari manuk beo nyanyi",
+            "Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate",
+            "Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nalika dina Minggu, yen bisa nindakake pakaryan bebek nglangi",
+            "Nalika dina Minggu, yen bisa nindakake pakaryan sing ana mupangate",
+            "Nalika dina Minggu, yen bisa nindakake pakaryan sing sia-sia ora ana mupangate",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Uripku karo uripe wis kaya bumi",
+            "Uripku karo uripe bedo banget kaya perbandingan langit",
+            "Uripku karo uripe bedo banget bumi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kutho iki hawane kaya kutub",
+            "Kutho iki hawane adem banget",
+            "Kutho iki hawane panas banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kutho iki hawane kaya gurun",
+            "Kutho iki hawane adem banget",
+            "Kutho iki hawane panas banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Urip nang kutho gedhe iku kaya urip nang neraka",
+            "Urip nang kutho gedhe iku kaya urip ning panggon sing nyaman",
+            "Urip nang kutho gedhe iku kaya urip ning panggon sing sumpek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis suwi ngerantau, rasane wong iku tambah gumedhe",
+            "Wes suwi ngerantau, wong iku tambah rendah hati",
+            "Wes suwi ngerantau, wong iku tambah besar kepala",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mahasiswa iku nduweni julukan otak encer",
+            "Mahasiswa iku nduweni julukan wong sing bodho",
+            "Mahasiswa iku nduweni julukan wong sing pinter",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omah iku kaya gedheg",
+            "Omah iku apik banget",
+            "Omah iku elek banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis ngerti entuk biji elek, Abdi tetep cilik ati",
+            "Wes ngerti entuk biji elek, Abdi tetep sombong",
+            "Wes ngerti entuk biji elek, Abdi tetep rendah diri",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awan iku bentukane kaya wedhus putih",
+            "Awan iku bentukane kaya resik banget",
+            "Awan iku bentukane kaya reged banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Persidangan nang film kuwi rasane kaya gedhe padha",
+            "Persidangan nang film kuwi rasane kaya ora adil",
+            "Persidangan nang film kuwi rasane kaya adil",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong iku mangane kaya wong wis wareg",
+            "Wong iku mangane kaya wong luwe",
+            "Wong iku mangane kaya wong wareg",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Aldo yen nggarap tugas kaya mesin",
+            "Aldo yen nggarap tugas cepet banget",
+            "Aldo yen nggarap tugas lambat banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Aldo yen nggarap tugas kaya siput",
+            "Aldo yen nggarap tugas cepet banget",
+            "Aldo yen nggarap tugas lambat banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Prajurit nang film iku ngelakoni perang wis kaya kura",
+            "Prajurit nang film iku ngelakoni perang wani banget",
+            "Prajurit nang film iku ngelakoni perang wedi banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis suwi kerja nang negara liya, wong iku nduweni watak kaya tahu",
+            "Wis suwi kerja nang negara liya, wong iku nduweni watak keras banget",
+            "Wis suwi kerja nang negara liya, wong iku nduweni watak lembek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Didelok saka kelakuane, anake Pak Budi iku kaya preman",
+            "Didelok saka kelakuane, anake Pak Budi iku lemah lembut",
+            "Didelok saka kelakuane, anake Pak Budi iku kasar",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pernikahane pasangan iku kaya asu lan kucing",
+            "Pernikahane pasangan iku kaya akur banget",
+            "Pernikahane pasangan iku kaya ora akur",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pak Sutrisno iku tansaya dhuwur pendidikane tambah kaya pari",
+            "Pak Sutrisno iku tansaya dhuwur pendidikane tambah rendah hati seperti padi",
+            "Pak Sutrisno iku tansaya dhuwur pendidikane tambah sombong seperti tong kosong",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adhiku yen ngomong kaya Puntadewa",
+            "Adhiku yen ngomong kaya kasar banget",
+            "Adhiku yen ngomong kaya lemah lembut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen lara, awake dewe wis kaya inti bumi",
+            "Yen lara, awake dewe wis kaya panas banget",
+            "Yen lara, awake dewe wis kaya adem banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wajahe mbak e iku kaya mendung",
+            "Wajahe mbak e iku cerah",
+            "Wajahe mbak e iku murung",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulite cah kuwi kaya areng",
+            "Kulite cah kuwi putih",
+            "Kulite cah kuwi ireng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lapangan iku bentukane kaya kolam",
+            "Lapangan iku bentukane kaya ombo banget",
+            "Lapangan iku bentukane kaya sempit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mlayune wis kaya kancil",
+            "Mlayune wis kaya cepet banget",
+            "Mlayune wis kaya alon banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mlayune wis kaya kura",
+            "Mlayune wis kaya cepet banget",
+            "Mlayune wis kaya alon banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Saben lebaran omah iki kaya kuburan",
+            "Saben lebaran omah iki rame banget",
+            "Saben lebaran omah iki sepi banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bangunan iki rasane kaya wit ringin",
+            "Bangunan iki rasane kaya pohon beringin",
+            "Bangunan iki rasane kaya pohon ketela",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Simbah suarane kaya gluduk",
+            "Simbah suarane merdu kaya udah",
+            "Simbah suarane gembredek kaya gluduk",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cah iku yen dikandhani kaya banyu",
+            "Cah iku yen dikandhani angel banget, keras kepala",
+            "Cah iku yen dikandhani manut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pak Danu yen kena masalah berubah dadi singa",
+            "Pak Danu yen kena masalah berubah dadi beringas kaya singa",
+            "Pak Danu yen kena masalah berubah dadi kalem kaya kucing",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mbak e nduweni awak kaya gitar spanyol",
+            "Mbak e nduweni awak dhuwur langsing",
+            "Mbak e nduweni awak pendek lemu",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mbak e nduweni awak kaya guci",
+            "Mbak e nduweni awak dhuwur langsing",
+            "Mbak e nduweni awak pendek lemu",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wis dididik, diajari sampe sukses, bocah kuwi kaya kacang",
+            "Wis dididik, diajari sampe sukses, bocah kuwi kaya lali asal muasale",
+            "Wis dididik, diajari sampe sukses, bocah kuwi kaya iling asale",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mobil iku pasaran",
+            "Mobil iku langka banget, gaono wujude",
+            "Mobil iku gampang banget ditemu",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Deni yen wis nari kaya godhong ceblok",
+            "Deni yen wis nari luwes banget kaya godhong ceblok",
+            "Deni yen wis nari kaku banget kaya robot",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kowe apa wis mangan? Kok polahmu kaya banteng nesu",
+            "Kowe apa wis mangan? Kok polahmu kaya beringas",
+            "Kowe apa wis mangan? Kok polahmu kaya lemes banget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wong yen wis gedhe iku kaya walet",
+            "Wong yen wis gedhe iku aja meneng wae",
+            "Wong yen wis gedhe iku bebas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Motor iku yen ditumpaki wis kaya dokar",
+            "Motor iku yen ditumpaki cepet banget",
+            "Motor iku yen ditumpaki alon banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ndek sekolah, Andi iku juru kunci kelas",
+            "Ndek sekolah, Andi iku juara kelas",
+            "Ndek sekolah, Andi iku ranking paling ngisor",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Aldi lan Doni iku sahabat sing wis kaya senar",
+            "Aldi lan Doni iku sahabat sing wis kokoh banget kaya rante",
+            "Aldi lan Doni iku sahabat sing wis rapuh lan tipis kaya senar",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pengawas ujian iku nduweni mata kaya lawa",
+            "Pengawas ujian iku nduweni mata awas banget kaya elang",
+            "Pengawas ujian iku nduweni mata rabun kaya lawa",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Masa depane cah kuwi kaya malam",
+            "Masa depane cah kuwi kaya cerah banget",
+            "Masa depane cah kuwi kaya peteng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sikapmu kaya srengenge",
+            "Sikapmu ramah banget kaya srengenge",
+            "Sikapmu adem banget kaya es",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adike Doni perawakane kaya semut",
+            "Adike Doni perawakane gede banget kaya gajah",
+            "Adike Doni perawakane cilik banget kaya semut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen didelok, Pak Guru iku sikape kaya banyu nang godhong talas",
+            "Yen didelok, Pak Guru iku sikape gampang berubah",
+            "Yen didelok, Pak Guru iku sikape teguh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Guyune kaya kopi",
+            "Guyune manis kaya gula",
+            "Guyune pait kaya kopi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pasangan iku yen didelok kaya alas lan udan",
+            "Pasangan iku yen didelok kaya ora cocok",
+            "Pasangan iku yen didelok kaya cocok banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rambute kaya kain wol",
+            "Rambute alus lan lurus kaya kain sutra",
+            "Rambute bergelombang keriting kaya kain wol",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Urip iki kaya mlaku adoh",
+            "Urip iki senajan sedilut",
+            "Urip iki senajan suwe",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah kuwi nemu omah umpama tumbu oleh tutup",
+            "Bocah kuwi nemu omah cocok",
+            "Bocah kuwi nemu omah ora cocok",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bocah kuwi nemu omah umpama kuthuk marani sunduk",
+            "Bocah kuwi nemu omah cocok",
+            "Bocah kuwi nemu omah ora cocok",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rasa ombenan alkohol kuwi umpama legi racun",
+            "Rasa ombenan alkohol kuwi legi banget",
+            "Rasa ombenan alkohol kuwi pait banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah kembar iku raine kaya bhumi karo langit",
+            "Bocah kembar iku raine bedho",
+            "Bocah kembar iku raine padha",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pancen dadi polisi kuwi kaya cebol nggayuh lintang",
+            "Pancen dadi polisi kuwi angel",
+            "Pancen dadi polisi kuwi gampang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dadi anak pak lurah uripe kaya kalungan wesi",
+            "Dadi anak pak lurah uripe kepenak",
+            "Dadi anak pak lurah uripe sara",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Isuk iki Jogja hawane kaya banyu umup",
+            "Isuk iki Jogja hawane panas",
+            "Isuk iki Jogja hawane adem",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Isuk iki Jogja hawane kaya es ning gunung",
+            "Isuk iki Jogja hawane panas",
+            "Isuk iki Jogja hawane adem",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapak guru ngewenehi tugas kaya nandur pari",
+            "Bapak guru ngewenehi tugas dhadhakan",
+            "Bapak guru ngewenehi tugas mipil",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Menungso kuwi umur e umpama capung sedina",
+            "Menungso kuwi umur e dawa",
+            "Menungso kuwi umur e cendhek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Adhiku pengen duwe omah sing kaya pagupon dara",
+            "Adhiku pengen duwe omah sing gedhe",
+            "Adhiku pengen duwe omah sing cilik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gani kesohor amarga swarane kaya pithik kluruk",
+            "Gani kesohor amarga swarane banter",
+            "Gani kesohor amarga swarane alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Drijine Marni rupane kaya mucuk pring",
+            "Drijine Marni rupane lancip",
+            "Drijine Marni rupane ora lancip",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Senajan sugih, Pak Tomo kerjane kaya duwe inten sekarung",
+            "Senajan sugih, Pak Tomo kerjane sregep",
+            "Senajan sugih, Pak Tomo kerjane males",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Banyu ing Surabaya umpama embun ning ndhuwur kaca",
+            "Banyu ing Surabaya bening",
+            "Banyu ing Surabaya buthek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hendra kuwi omongane kaya abang-abang lambe",
+            "Hendra kuwi omongane ngapusi",
+            "Hendra kuwi omongane temenan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hendra kuwi omongane kaya kacekel tangan sepisan",
+            "Hendra kuwi omongane ngapusi",
+            "Hendra kuwi omongane temenan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Masakane Bu Mardi rasane kaya panganan wong lara",
+            "Masakane Bu Mardi rasane enak",
+            "Masakane Bu Mardi rasane ora enak",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Saben dina toko kuwi kaya gula dirubung semut",
+            "Saben dina toko kuwi rame",
+            "Saben dina toko kuwi sepi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ning panggung, penari srimpi kae obahe umpama kayu mati",
+            "Ning panggung, penari srimpi kae obahe anggun",
+            "Ning panggung, penari srimpi kae obahe kaku",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kaya merang sawah",
+            "Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise kandhel",
+            "Yen ana wong takon Yuli sing endi, omongana yen dekne sing alise arang-arang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Umar bali sekolah mlakune kaya macan nguber kidang",
+            "Umar bali sekolah mlakune alon-alon",
+            "Umar bali sekolah mlakune kesusu",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lakune bocah kuwi ning keluargane umpama buta kala ning alengka",
+            "Lakune bocah kuwi ning keluargane kalem",
+            "Lakune bocah kuwi ning keluargane teges",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mimpi dadi presiden pancen kaya Semar mbangun kayangan",
+            "Mimpi dadi presiden pancen ora mungkin",
+            "Mimpi dadi presiden pancen mungkin",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sinau sejarah ning sekolah umpama ngenteni babon ngendhok",
+            "Sinau sejarah ning sekolah marai bosen",
+            "Sinau sejarah ning sekolah marai seneng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sinau sejarah ning sekolah umpama dolanan ning pasar malem",
+            "Sinau sejarah ning sekolah marai bosen",
+            "Sinau sejarah ning sekolah marai seneng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kerja ning kantor pemerintah kaya numpak gethek ning Kali Brantas",
+            "Kerja ning kantor pemerintah akeh tantangan",
+            "Kerja ning kantor pemerintah ora ono tantangan",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ning TV saiki akeh pejabat sing umpama lelaku ratu adil",
+            "Ning TV saiki akeh pejabat sing ora duwe wibawa",
+            "Ning TV saiki akeh pejabat sing duwe wibawa",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika zaman semono, rega beras kaya tuku kerikil",
+            "Nalika zaman semono, rega beras larang",
+            "Nalika zaman semono, rega beras murah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sejatine, urip ning mancanegara kaya mecahke kendhil isi banyu",
+            "Sejatine, urip ning mancanegara sia-sia",
+            "Sejatine, urip ning mancanegara nguntungake",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sejatine, urip ning mancanegara kaya ngisi banyu ning kendhil",
+            "Sejatine, urip ning mancanegara sia-sia",
+            "Sejatine, urip ning mancanegara nguntungake",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Urip ning jobo kutha san saya umpama udan banyu",
+            "Urip ning jobo kutha san saya tinemu apes",
+            "Urip ning jobo kutha san saya nyenengake",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mimpi sing mau bengi kaya diuber demit",
+            "Mimpi sing mau bengi apik",
+            "Mimpi sing mau bengi elek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Angin ning pantura pancen padha karo banteng playon",
+            "Angin ning pantura pancen banter",
+            "Angin ning pantura pancen sumilir",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Angin ning pantura pancen padha karo umbul-umbul keterak bayu",
+            "Angin ning pantura pancen banter",
+            "Angin ning pantura pancen sumilir",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dadi anak bontot ning keluarga iki padha kaya nggendong kapas sak genggem",
+            "Dadi anak bontot ning keluarga iki abot",
+            "Dadi anak bontot ning keluarga iki enteng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngelakoni urip dadi santri ana wae ceritane senajan umpama kesasar ning alas roban",
+            "Ngelakoni urip dadi santri ana wae ceritane senajan nentremake",
+            "Ngelakoni urip dadi santri ana wae ceritane senajan gawe usrek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapake yen kerja sampe kaya adol omongan",
+            "Bapake yen kerja sampe pol-polan",
+            "Bapake yen kerja sampe males-malesan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nuruti dhawuhe wong tuwa dadi umpama nggenggem tembaga wesi",
+            "Nuruti dhawuh e wong tuwa dadi ragu-ragu",
+            "Nuruti dhawuh e wong tuwa dadi kukuh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tenangane wong kuwi kaya kambrukan wulu",
+            "Tenangane wong kuwi kuat banget",
+            "Tenangane wong kuwi lemes banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Enteke dhuwit gajiku umpama ngetutke miline banyu",
+            "Enteke dhuwit gajiku boros",
+            "Enteke dhuwit gajiku irit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Enteke dhuwit gajiku umpama dipendhem nggo mangsa ketelu",
+            "Enteke dhuwit gajiku boros",
+            "Enteke dhuwit gajiku irit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Urip ning perkampungan Jakarta kaya ngorbanake getih",
+            "Urip ning perkampungan Jakarta guyub",
+            "Urip ning perkampungan Jakarta akeh gelut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gawe pegawe kantor iki, keputusan mau isuk kaya gong tinabuh",
+            "Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe gedhe",
+            "Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe cilik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nek gawe pegawe kantor iki, keputusan mau isuk kaya nabuh kenong",
+            "Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe gedhe",
+            "Nek gawe pegawe kantor iki, keputusan mau isuk pengaruhe cilik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keputusan sing digawe Bu Dwi wis kaya wedi ning pinggir segara",
+            "Keputusan sing digawe Bu Dwi wis teguh",
+            "Keputusan sing digawe Bu Dwi wis ora teguh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lia lan adhine kaya lenga karo banyu",
+            "Lia lan adhine rukun",
+            "Lia lan adhine musuhan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Didikan keluargane umpama cul-culane kuthuk",
+            "Didikan keluargane disiplin",
+            "Didikan keluargane sekarepe dewe",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bener jare wong kene yen Bu Lurah tumindake kaya nyiram madu",
+            "Bener jare wong kene yen Bu Lurah tumindake nglarani ati",
+            "Bener jare wong kene yen Bu Lurah tumindake nyenengke ati",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Doni karo Yanti pancen kaya Rahwana Sinta ing pewayangan",
+            "Doni karo Yanti pancen cocok sesandhingan",
+            "Doni karo Yanti pancen ora cocok sesandhingan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nyawang esemmu rasane kaya panase neraka",
+            "Nyawang esemmu rasane adem",
+            "Nyawang esemmu rasane panas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sepur iku suarane kaya manuk pentet",
+            "Sepur iku suarane mbrebegi",
+            "Sepur iku suarane sepi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Awakmu iku kaya wesi",
+            "Awakmu iku atos",
+            "Awakmu iku empuk",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Awakmu iku kaya kapuk",
+            "Awakmu iku atos",
+            "Awakmu iku empuk",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kucing kuwi obah kaya becak",
+            "Kucing kuwi obahe cepet",
+            "Kucing kuwi obahe alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kelekmu mambu kaya telek pithik",
+            "Kelekmu mambu bosok",
+            "Kelekmu mambu wangi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kelekmu mambu kaya kembang melati",
+            "Kelekmu mambu bosok",
+            "Kelekmu mambu wangi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manuk dara mabur kaya keong",
+            "Manuk dara mabure cepet",
+            "Manuk dara mabure alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngenteni awakmu teka rasane kaya limang detik",
+            "Ngenteni awakmu rasane suwi",
+            "Ngenteni awakmu rasane cepet",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gawe kowe percaya iku kaya malik dlamaan tangan",
+            "Gawe kowe percaya iku gampang",
+            "Gawe kowe percaya iku angel",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Gawe kowe percaya iku kaya munggah gunung lawu",
+            "Gawe kowe percaya iku gampang",
+            "Gawe kowe percaya iku angel",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Berita iku ditampa kaya ngeleg idu",
+            "Berita iku ditampa hal sing angel",
+            "Berita iku ditampa hal sing gampang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong iku leh mlaku kaya numpak keong",
+            "Wong iku leh mlaku cepet banget",
+            "Wong iku leh mlaku alon banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rupane wingi kaya peteng wayah bengi",
+            "Rupane wingi peteng",
+            "Rupane wingi ceta",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rupane wingi kaya srengenge tengah hari",
+            "Rupane wingi peteng",
+            "Rupane wingi ceta",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wayah esuk hawane kaya geni",
+            "Wayah esuk hawane adem",
+            "Wayah esuk hawane panas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongane isa kaya banyu adem",
+            "Omongane iso marai ribut",
+            "Omongane iso marai ayem",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Temok omah iku dicet werna pupur",
+            "Tembok omah iku dicet werna peteng",
+            "Tembok omah iku dicet werna terang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bantal iki rasane kaya kapuk",
+            "Bantal iki rasane alus",
+            "Bantal iki rasane athos",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Apel iku rasane kaya tebu",
+            "Apel iku rasane asem",
+            "Apel iku rasane legi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mangsa ngarep wong iku ibarat mangsa surup",
+            "Mangsa ngarep wong iku kebak pangarep",
+            "Mangsa ngarep wong iku kebak kuciwo",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mripatku yen yah mene dinggo ndelok kaya bening kaca",
+            "Mripatku yen yah mene dinggo ndelok kaya cetha",
+            "Mripatku yen yah mene dinggo ndelok kaya kabur",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Werno wulu kucing iku kaya salju",
+            "Werna wulu kucing iku ireng",
+            "Werna wulu kucing iku putih",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cah loro iku pisahan kaya padu",
+            "Cah loro iku keletan",
+            "Cah loro iku pisahan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Fahmi mangan sega kaya kewaregen bubar prasmanan",
+            "Fahmi mangan sega kaya wong keluwen",
+            "Fahmi mangan sega kaya wong kewaregen",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keluargaku saben dina mangan iwak",
+            "Keluargaku saben dina mangan apa anane",
+            "Keluargaku saben dina mangan apa wae ana",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe Jokowi ambane kaya gang tikus",
+            "Omahe Jokowi amba banget",
+            "Omahe Jokowi sempit banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kowe takdongakne kaya jengklong",
+            "Kowe takdongakne dawa umure",
+            "Kowe takdongakne cekak umure",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ambune awakmu wes kaya wedhus",
+            "Ambune awakmu prengus",
+            "Ambune awakmu wangi",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ambune awakmu wes kaya kembang melati",
+            "Ambune awakmu prengus",
+            "Ambune awakmu wangi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tresnaku marang sliramu iku kaya gajah",
+            "Tresnaku marang sliramu iku gede",
+            "Tresnaku marang sliramu iku cilik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Banyu omah iki rasane kaya banyu es",
+            "Banyu omah iki rasane adem",
+            "Banyu omah iki rasane anget",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nyawang esemme mantan rasane kaya tebu",
+            "Nyawang esemme mantan rasane legi",
+            "Nyawang esemme mantan rasane pait",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nyawang esemme mantan rasane kaya godhong kates",
+            "Nyawang esemme mantan rasane legi",
+            "Nyawang esemme mantan rasane pait",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omah iku kaya digawe saka kayu",
+            "Omah iku kaya mewah",
+            "Omah iku kaya murah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Montor iku digawe seka kayu",
+            "Montor iku kuat",
+            "Montor iku ringkih",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rasane panganan iki kaya tempe godhog",
+            "Rasane panganan iki gurih",
+            "Rasane panganan iki raono rasane",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngenteni Surya adus iku kaya limang menit",
+            "Ngenteni Surya adus iku suwi",
+            "Ngenteni Surya adus iku cepet",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Febri jajan kaya tanggal tuwa",
+            "Febri jajan kaya wong sugih",
+            "Febri jajan kaya wong kere",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jaka urip ing omah tembok",
+            "Jaka urip ing panggonan kang cukup",
+            "Jaka urip ing panggonan kan kurang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adi rewel merga wetenge wareg",
+            "Adi rewel merga keluwen",
+            "Adi rewel merga kewaregen",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gambar iku kaya langit kemeluk",
+            "Gambar iku apik banget",
+            "Gambar iku elek banget",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong kaya kowe iku kaya pasir pantai",
+            "Wong kaya kowe iku ono akeh",
+            "Wong kaya kowe iku langka",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wong kaya kowe iku kaya watu akik",
+            "Wong kaya kowe iku ono akeh",
+            "Wong kaya kowe iku langka",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Polisi iku sifate kaya anak kucing",
+            "Polisi iku sifate kasar",
+            "Polisi iku sifate alus",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapak tuku kacang kaya dompete kandel",
+            "Bapak tuku kacang kaya duite akeh",
+            "Bapak tuku kacang kaya duite sithik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Meja kerjane bapak digawe saka gedebog gedhang",
+            "Meja kerjane bapak kuwat",
+            "Meja kerjane bapak ringkih",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe kancaku kaya kos kosan",
+            "Omahe kancaku mewah",
+            "Omahe kancaku pas-pasan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Parkiran omahe paklik kaya lapangan bal-balan",
+            "Parkiran omahe paklik amba nemen",
+            "Parkiran omahe paklik sempit",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Parkiran omahe paklik kaya teras omah",
+            "Parkiran omahe paklik amba nemen",
+            "Parkiran omahe paklik sempit",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dheweke nulungi ibune sing wis tuwa kaya mikul beras sepuluh sak",
+            "Dheweke nulungi ibune sing wis tuwa iku abot",
+            "Dheweke nulungi ibune sing wis tuwa iku entheng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dheweke yen kerjo kaya keong nalika mlayu",
+            "Dheweke yen kerjo cepet",
+            "Dheweke yen kerjo alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika turu swarane ngorok kaya knalpot mobil lawas lan lungse",
+            "Swarane ngorok banter",
+            "Swarane ngorok alon-alon",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ujian uripe wong kuwi ibarat sirah botak jarang rambute",
+            "Ujian uripe enek terus",
+            "Ujian uripe jarang-jarang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ibu nggawa koper gedhene sak kotak petelot",
+            "Kopere gedhe",
+            "Kopere cilik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pikirane kaya slerekane kathok",
+            "Mikire dawa",
+            "Mikire cendhak",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Karir artis iku kaya gabus dilebokake ing banyu",
+            "Karir artis iku Munggah",
+            "Karir artis iku ndelep",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Karir artis iku kaya watu dilebokake ing banyu",
+            "Karir artis iku Munggah",
+            "Karir artis iku ndelep",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omahe kaya omah soko karton lan triplek",
+            "Omahe Mewah",
+            "Omahe kumuh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pendukunge Pak Rangga dadi bupati kayata busa ing samodra",
+            "Pendukunge Pak Rangga dadi bupati Akeh",
+            "Pendukunge Pak Rangga dadi bupati sitik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manggon ing omah iki kaya neraka",
+            "Manggon ing omah iki Seneng",
+            "Manggon ing omah iki nandhang sangsara",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Swasana desa iki kaya kuburan",
+            "Swasana desa iki Ramai",
+            "Swasana desa iki Sepi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulite wong wedok iku kaya kulit salak",
+            "Kulite wong wedok iku Halus",
+            "Kulite wong wedok iku kasar",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dina iki hawa ing njaba krasa kaya ing kutub lor",
+            "Dina iki hawa ing njaba krasa adem",
+            "Dina iki hawa ing njaba krasa panas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Dina iki hawa ing njaba krasa kaya ana ing gurun wedi",
+            "Dina iki hawa ing njaba krasa adem",
+            "Dina iki hawa ing njaba krasa panas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Semangate nandhang pacoban urip iku kaya kura-kura sing kerep ndhelik ing cangkang",
+            "Semangate nandhang pacoban urip iku Wani",
+            "Semangate nandhang pacoban urip iku Wedi",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika ngrampungake masalah dheweke kaya gunung",
+            "Nalika ngrampungake masalah dheweke Ora Tenang",
+            "Nalika ngrampungake masalah dheweke kuwat, tenang kebak kawicaksanan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ponakanku yen sekolah kaya tumpukan kayu",
+            "Ponakanku yen sekolah aktif",
+            "Ponakanku yen sekolah pasif menengae",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mentale kaya baja",
+            "Mentale kuwat",
+            "Mentale ora kuwat",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mentale kaya tempe",
+            "Mentale kuwat",
+            "Mentale ora kuwat",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Esemmu koyo jeruk durung mateng nanging wis dipetik",
+            "Esemmu apik",
+            "Esemmu kecut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mbak Siti mbagi wektune kaya bebek sing baris",
+            "Mbak Siti mbagi wektune teratur",
+            "Mbak Siti mbagi wektune ora teratur",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mbak Siti mbagi wektune kaya macet kenderaan ing ibu kota",
+            "Mbak Siti mbagi wektune teratur",
+            "Mbak Siti mbagi wektune ora teratur",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ukuran awak bocah iku kaya semut",
+            "Gedhe",
+            "cilik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rambute bocah iku kaya sapu aren",
+            "Rambute bocah iku Lembut",
+            "Rambute bocah iku kaku",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kekancan kita ibarat rante",
+            "Kekancan kita kuat",
+            "Kekancan kita rapuh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mlayune kaya keong kebon",
+            "Mlayune cepet",
+            "Mlayune alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake kaya bal basket",
+            "Awake gedi",
+            "Awake dowo kuru",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Awake kaya cagak daya",
+            "Awake gedi",
+            "Awake dowo kuru",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Anake pasangan kuwi kaya cacahing wiji rambutan",
+            "Anake pasangan kuwi akeh banget nganti akeh",
+            "Anake pasangan kuwi akeh banget nganti sithik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Adikku yen ndek omah kaya manuk beo",
+            "Adikku yen ndek omah cerewet",
+            "Adikku yen ndek omah gak enek suarane",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adikku yen ndek omah kaya wong loro untu",
+            "Adikku yen ndek omah cerewet",
+            "Adikku yen ndek omah gak enek suarane",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Uripe bocah kuwi kaya manuk ing kandhang",
+            "Uripe bocah kuwi bebas",
+            "Uripe bocah kuwi dikekang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan tanggaku kaya teh sing diombe yen udan",
+            "Omongan tanggaku perih",
+            "Omongan tanggaku nyenengne",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kendaraane mlaku kaya macan luwe",
+            "Kendaraane mlaku cepet",
+            "Kendaraane mlaku alon",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong wedok iku kaya polahe kebo",
+            "Wong wedok iku sregep",
+            "Wong wedok iku males",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Yen nggawakne oleh-oleh kaya abote watu",
+            "Yen nggawakne oleh-oleh abot",
+            "Yen nggawakne oleh-oleh entheng",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Yen nggawakne oleh-oleh kaya entheng kapas",
+            "Yen nggawakne oleh-oleh abot",
+            "Yen nggawakne oleh-oleh entheng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hubungan katresnan kita kaya asu lan kucing",
+            "Hubungan katresnan kita romantis",
+            "Hubungan katresnan kita tukaran wae",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raine koncoku kaya dalane deso ora roto akeh krikile",
+            "Raine koncoku mulus",
+            "Raine koncoku kasar",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hubungan seduluranku karo mbakyuku iku ibarat banyu lan lengo",
+            "Hubungan seduluranku karo mbakyuku pasti mbutuhne",
+            "Hubungan seduluranku karo mbakyuku gak iso nyatu",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dalan-dalan ing desaku lampune kaya ing warung-warunge cah enom",
+            "Dalan-dalan ing desaku lampune padhang",
+            "Dalan-dalan ing desaku lampune remang-remang",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapake koncoku iku kaya buto ijo",
+            "Bapake koncoku iku gagah",
+            "Bapake koncoku iku medeni",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapak tirine sifate kaya Sengkuni",
+            "Bapak tirine sifat apik",
+            "Bapak tirine sifat jahat",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika ngawasi ujian, pandelenge guru iku kaya bocah cilik ditembangake",
+            "Nalika ngawasi ujian, pandelenge guru iku fokus ngamati muride",
+            "Nalika ngawasi ujian, pandelenge guru iku ora fokus mergo ngantuk",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Masku nalika ngumbara kaya kacang lali karo kulitnya",
+            "Masku nalika ngumbara tetep ileng lan balik ana asale",
+            "Masku nalika ngumbara lali karo asale",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong kuwi sifate kaya drum kosong menehi swara banter",
+            "Wong kuwi sifate Nggambarake wong saka kelas ngisor, nanging sugih ing kawruh",
+            "Wong kuwi sifate wong sing akeh omong nanging ora gelem nyambut gawe lan kemeruh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dheweke nek nari kaya ombak ular-ular.",
+            "Dheweke nek nari luwes",
+            "Dheweke nek nari kaku",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Aku lan kowe kaya awan lan wengi",
+            "Aku lan kowe kembar",
+            "Aku lan kowe bedho",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dheweke mlumpat kaya kelinci",
+            "Dheweke mlumpat dhuwur banget",
+            "Dheweke mlumpat cendhek",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake kaya es batu",
+            "Awake panas",
+            "Awake adem",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Atine ibarat koco",
+            "Atine mantep lan kuat",
+            "Atine iso rapuh lan gampang pecah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Roke mbak Ayu dowone kaya nyapu dalan",
+            "Roke mbak Ayu dowone cekak",
+            "Roke mbak Ayu dowone landhung",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Perasaane wong lanang iku dijodohne tonggone dewe kaya ketiban ondo",
+            "Perasaane bungah",
+            "Perasaane susah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kamare mas Andi kaya kamar hotel",
+            "Kamare mas Andi kemproh",
+            "Kamare mas Andi resikan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Udan awan ini kaya sitok-sitok banyune jeblok",
+            "Udane deres",
+            "Udane gerimis",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Semangate urip wong kuwi ibarat enthong mlungker ndek njero godhong gedhang",
+            "Semangate mempeng",
+            "Semangate kesed",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wong lanang iku nemui bapake pacare kaya Petruk",
+            "Wong lanang iku nemui bapake pacare kendhel",
+            "Wong lanang iku nemui bapake pacare jireh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gaekne susu nggo anake kaya santen soko kambil tuwek",
+            "Susune cuwer",
+            "Susune kenthel",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Areke nek gae janji kaya merpati",
+            "blangko",
+            "goroh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bondone wong tuane ibarat muk klambi lan kathok ndek awak",
+            "sugih",
+            "mlarat",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cah enom mburi omahku kuwi yen ngetokne duwit dipikir kanggone",
+            "gemi",
+            "ngebreh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Cah enom mburi omahku kuwi ngentek-ngentekne duwit",
+            "gemi",
+            "ngebreh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek gae alasan kaya wong kesel mergo sedinoan nyambut gae",
+            "Nek gae alasan aneh",
+            "Nek gae alasan lumrah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah-bocah kuwi polahe kaya wong ndek pasar",
+            "Bocah-bocah kuwi polahe antheng",
+            "Bocah-bocah kuwi polahe ronggeh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mbiyen bapakku ngluluhne atine ibukku kaya golek dom ndek tengah jerami",
+            "angel",
+            "gampang",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mbakyuku nek ngekei klambi kaya buka plastik soko toko",
+            "Mbakyuku nek ngekei klambi anyar",
+            "Mbakyuku nek ngekei klambi lawas",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mbakyuku nek ngekei klambi kaya wes nate digae",
+            "Mbakyuku nek ngekei klambi anyar",
+            "Mbakyuku nek ngekei klambi lawas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Banyune jeding kaya sendhang ndek kali",
+            "Banyune jeding bening",
+            "Banyune jeding buthek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Atine Ani seperti ambane gang",
+            "Atine Ani jembar",
+            "Atine Ani ciyut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budheku wonge ibarat wong seng ra eman bondho seneng ngekei wong-wong ra nduwe",
+            "Budheku wonge cethil",
+            "Budheku wonge lumo",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dalane ngarep omah kaya gulo jowo kenek banyu",
+            "Dalane ngarep omah jemek",
+            "Dalane ngarep omah kesed",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lemari neng njero omahe sakgede lapangan bal-balan",
+            "Lemari neng njero omahe gedhi",
+            "Lemari neng njero omahe cilik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lemari neng njero omahe sakgede kerdus mie",
+            "Lemari neng njero omahe gedhi",
+            "Lemari neng njero omahe cilik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dadi guru saiki iku ibarat mlaku-mlaku santai",
+            "Dadi guru saiki iku ibarat soro",
+            "Dadi guru saiki iku ibarat penak",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sakpeduluran iku podo koyo pitik nek dipyuri beras",
+            "Sakpeduluran iku podo nyedak",
+            "Sakpeduluran iku podo ngadoh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sakpeduluran iku podo koyo semut kenek srengenge matahari",
+            "Sakpeduluran iku podo nyedak",
+            "Sakpeduluran iku podo ngadoh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Irunge iso dicenteli panci",
+            "Irunge bangir",
+            "Irunge pesek",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Usahane kaya numpak motor kene lampu ijo",
+            "Usahane mandheg",
+            "Usahane mlaku",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Warna kulite kaya susu",
+            "Warna kulite ireng",
+            "Warna kulite putih",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake gedhine sak cagak omah",
+            "Awake lemu",
+            "Awake kuru",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bocah kuwi nek enek wong anyar kaya ndelik ra wani metu",
+            "Bocah kuwi saen",
+            "Bocah kuwi isinan",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake kaya gathot koco",
+            "Awake kuat",
+            "Awake ringkeh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Awake kaya wong loro",
+            "Awake kuat",
+            "Awake ringkeh",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hawane saiki kaya gae jaket rangkep limo",
+            "Hawane saiki sumuk",
+            "Hawane saiki isis",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hawane saiki kaya dikipasi wong sepuluh",
+            "Hawane saiki sumuk",
+            "Hawane saiki isis",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Warnane rambute kaya areng",
+            "Warna rambute putih",
+            "Warna rambute ireng",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bapake kaya wong ra nduwe penggawean",
+            "Bapake sibuk banget",
+            "Bapake ora sibuk",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kerjane kaya jam kentekkan baterai",
+            "Kerjane kuat",
+            "Kerjane lemah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake dewe kaya kucing karo asu.",
+            "Awake dewe sering bareng",
+            "Awake dewe tukaran",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Guyunanne kaya badut lagek atraksi",
+            "Guyonane lucu",
+            "Guyonane garing",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Guyunanne kaya ghodhong wes kuning",
+            "Guyonane lucu",
+            "Guyonane garing",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pas wonge milih lungo soko uripku rasane kaya entuk duwit 100 milyar",
+            "Pas wonge milih lungo soko uripku rasane susah",
+            "Pas wonge milih lungo soko uripku rasane bungah",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Raut wajahe kaya kembang layu",
+            "Wajahe sumringah",
+            "Wajahe pucet",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Senyume kaya pencit",
+            "Senyumane manis",
+            "Senyumane kecut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Suarane pak Budi kaya bocah ngaji",
+            "Suarane pak Budi medeni",
+            "Suarane pak Budi alus",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ilmune wong kuwi ibarat ombone segoro",
+            "Ilmune dangkal",
+            "Ilmune luas",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Klambine sewangi kringet",
+            "Klambine wangi",
+            "Klambine mambu",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keteguhane ngadepi kenyataan kaya watu karang",
+            "Keteguhane ngadepi kenyataan kuat",
+            "Keteguhane ngadepi kenyataan rapuh",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Jidate kaya lapangan bal-balan",
+            "Jidate ombo",
+            "Jidate ciut",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Jidate kaya kulit kacang seng mengkeret",
+            "Jidate ombo",
+            "Jidate ciut",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ganang yen nesu kaya patung",
+            "Ganang yen nesu ngamuk bengok-bengok",
+            "Ganang yen nesu meneng ae",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek ngguyu kaya mak lampir",
+            "Nek ngguyu banter tur mlengking",
+            "Nek ngguyu diempet",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Wedhange kaya kolak gedhang",
+            "Wedhange pahit",
+            "Wedhange manis",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nek mangan ngentekne sego sakwakul",
+            "Nek mangan akeh",
+            "Nek mangan sithik",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nek mangan muk pirang pulukan",
+            "Nek mangan akeh",
+            "Nek mangan sithik",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awake kaya kripik",
+            "Awake kuat",
+            "Awake ringkih",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ]
+    ],
+    "accuracy": 0.49166666666666664
+}

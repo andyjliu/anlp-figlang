@@ -1,0 +1,4207 @@
+{
+    "correct": [
+        [
+            "hirup kawas murag bulu bitis.",
+            "hirup kawas kakekang",
+            "hirup kawas bebas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mamat lumpatna siga kuya.",
+            "mamat lumpat siga gancang",
+            "mamat lumpat siga laun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "hirup teh kudu boga pamadeugan",
+            "hirup teh kudu boga pendirian",
+            "hirup teh kudu boga plin-plan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "hirup teh kudu boga kaditu kadieu.",
+            "hirup teh kudu boga pendirian",
+            "hirup teh kudu boga plin-plan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "si amat mah sok ngeduk cikur kedah mitutur",
+            "jadi jalma kudu jujur",
+            "jadi jalma kudu boong.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si amat mah sok luncat licin.",
+            "jadi jalma kudu jujur",
+            "jadi jalma kudu boong.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "ceuk ema jadi jalmi teh kedah sing someah hade ka semah",
+            "ceuk ema jadi jalmi teh kedah ramah",
+            "ceuk ema jadi jalmi teh kedah judes.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ceuk ema jadi jalmi teh kedah sing goreng bagug.",
+            "ceuk ema jadi jalmi teh kedah ramah",
+            "ceuk ema jadi jalmi teh kedah judes.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "si eta mah ateul biwir",
+            "si eta mah ngomong wae",
+            "si eta mah cicing wae.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si eta mah kawas gaang katincak.",
+            "si eta mah ngomong wae",
+            "si eta mah cicing wae.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "lamun mikir kudu pondok lengkah",
+            "lamun mikir kudu teu mikir panjang",
+            "lamun mikir kudu mikir jauh.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "budak eta mah wanteran.",
+            "budak eta mah babarian ceurik",
+            "budak eta mah wanian.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "jelema lamun geus kandel kulit bengeut",
+            "jelema lamun geus teu gaduh kaera",
+            "jelema lamun geus eraan kudu diantepkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Iis mah amis daging",
+            "Iis mah gampang kana panyakit",
+            "Iis mah teu gampang kana panyakit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "sasa teh biasana sok jadi amis budi",
+            "sasa teh biasana ramah",
+            "sasa teh biasana judes.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "lamun bade nginjem duit kudu make duit panas",
+            "lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi",
+            "lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jalma ayeuna teh sok gurat cai",
+            "jalma ayeuna teh sok babari ngarobah omongan atawa janji",
+            "jalma ayeuna teh sok pageuh kana omongan atawa janji.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jalma ayeuna teh sok gurat batu.",
+            "jalma ayeuna teh sok babari ngarobah omongan atawa janji",
+            "jalma ayeuna teh sok pageuh kana omongan atawa janji.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "nanaon ge teu menang kaleleuwihan bisi tamplok bacoteun",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jadi jelema teh kadang bisa jadi yuni kembang",
+            "jadi jelema teh kadang bisa jadi pikareseupeun",
+            "jadi jelema teh kadang bisa jadi pikasebeleun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jelema teh kabagi jadi dua, nyaeta anu wening galih",
+            "jelema teh kabagi jadi dua, nyaeta anu bersih hate",
+            "jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "kudu hati hati milih pasangan bisi jadi potol jarum",
+            "kudu hati hati milih pasangan bisi jadi awewe anu beak hartana",
+            "kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si Bina mah anak emas",
+            "si Bina mah anak anu dipikanyaah",
+            "si Bina mah anak tere.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "budak teh kudu asak warah",
+            "budak teh kudu alus didikana",
+            "budak teh kudu kurang didikan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "tong jadi budak anu bodo alewoh.",
+            "tong jadi budak anu bodo tapi tara daek nanya",
+            "tong jadi budak anu bodo tapi daek tatanya.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "ari jadi salaki teh kudu banting tulang",
+            "ari jadi salaki teh kudu digawe popohoan",
+            "ari jadi salaki teh kudu teu bisa digawe.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si Dewi mah jadi gadis teh meni handap asor",
+            "si Dewi mah jadi gadis teh meni teu sombong",
+            "si Dewi mah jadi gadis teh meni sombong.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ceunah lamun jadi awewe teh kudu siga putri raja",
+            "ceunah lamun jadi awewe teh kudu anggun",
+            "ceunah lamun jadi awewe teh kudu buruk rupa.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "poe ieu teh cuaca siga bisa ngagoreng lauk dinu aspal",
+            "poe ieu teh cuaca siga panas pisan",
+            "poe ieu teh cuaca siga hujan angin.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "hujan teh meuni siga ngajak geulut",
+            "hujan teh meuni badag jeung gandeng",
+            "hujan teh meuni sepi jeung geunaheun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si eta mah kuatannya, teu siga lempeuh yuni",
+            "si eta mah kuatannya, teu gampang geuring",
+            "si eta mah kuatannya, teu sehat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ai budak keneh mah antep kudu jadi kurung batok.",
+            "ai budak keneh mah antep kudu jadi budak nu reseup kaluar",
+            "ai budak keneh mah antep kudu jadi tong dikurung.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kadang hirup teh bisa jadi kembang seungit",
+            "Kadang hirup teh bisa jadi katingali senang",
+            "Kadang hirup teh bisa jadi teu bahagia.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kadang hirup teh bisa jadi bau bangke.",
+            "Kadang hirup teh bisa jadi katingali senang",
+            "Kadang hirup teh bisa jadi teu bahagia.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ulah agul kana payung butut",
+            "Ulah agul kana harta saetik nu dipikaboga ayeuna",
+            "Ulah agul kana harta loba nu dipikaboga ayeuna.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jalma teh bisa jadi cai",
+            "Jalma teh bisa jadi nu tenang",
+            "Jalma teh bisa jadi nu riweuh.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jadi budak ulah nincak hulu",
+            "Jadi budak ulah teu sopan",
+            "Jadi budak ulah sopan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "hirup mah ngan ukur hahay",
+            "hirup mah ngan ukur senang",
+            "hirup mah ngan ukur sedih.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ai ka batur teh ulah sok ngukur baju sasereg awak",
+            "ai ka batur teh ulah sok ningali ti luarna hungkul",
+            "ai ka batur teh ulah sok leuwi jero.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "kulit teh meuni kelir kawas cangkang cau",
+            "kulit teh meuni kelir koneng",
+            "kulit teh meuni kelir coklat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jadi gadis balik teh tong pas datang bulan.",
+            "jadi gadis balik teh tong pas datang isuk",
+            "jadi gadis balik teh tong pas datang peuting.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lamun gawe teh kuduna mah bisa rerejeungan",
+            "Lamun gawe teh kuduna bisa kompak",
+            "Lamun gawe teh kuduna bisa masing-masing.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nuju liburan teh kedah bari bear budi",
+            "Nuju liburan teh kedah bari gumbira",
+            "Nuju liburan teh kedah bari nyesel.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teh kadang bisa jadi runtah",
+            "Hirup teh kadang bisa jadi teu dihargaan",
+            "Hirup teh kadang bisa jadi diagung-agungkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sangkan hirup teh loba kapait",
+            "Sangkan hirup teh loba cobaan",
+            "Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngomong jeung si eta mah nya meuni kawas sireum",
+            "Ngomong jeung si eta mah nya meuni lalaunan",
+            "Ngomong jeung si eta mah nya meuni jojorowokan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kadang jelema teh bisa kandel kulit bengeut",
+            "Kadang jelema teh bisa teu boga kaera",
+            "Kadang jelema teh bisa eraan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jadi jelema mah ulah sulit ati",
+            "Jadi jelema mah ulah iri",
+            "Jadi jelema mah ulah bageur.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ayeuna mah ka Bandung teh meuni siga mapay jalan satapak.",
+            "Ayeuna mah ka Bandung teh meuni deket",
+            "Ayeuna mah ka Bandung teh meuni jauh.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lalakonna siga bangkong dikurung batok",
+            "Lalakonna keueungeun",
+            "Lalakonna liar.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Balong laukna siga mencrang cai herang",
+            "Balong laukna beresih",
+            "Balong laukna ledig.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Balong laukna siga buyatak solokan.",
+            "Balong laukna beresih",
+            "Balong laukna ledig.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sorana kawas tarompet",
+            "Sora na tarik",
+            "Sora na laun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sorana kawas susumputan.",
+            "Sora na tarik",
+            "Sora na laun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Neangan si eta kawas neang domba dina kandang hayam.",
+            "Neangan si eta hese",
+            "Neangan si eta gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mun makan siga nu teu boga duit",
+            "Mun dahar loba",
+            "Mun dahar saeutik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dagingna siga tahu",
+            "Daging na hipu",
+            "Daging na heuras.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dagingna siga batu.",
+            "Daging na hipu",
+            "Daging na heuras.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sakapeung jodoh teh kawas meuli bumbu di pasar.",
+            "Sakapeung jodoh teh teu kantos ditebak",
+            "Sakapeung jodoh teh kantos ditebak.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sapi na siga limosin",
+            "Sapi na ageung",
+            "Sapi na leutik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sapi na siga nu cacingan.",
+            "Sapi na ageung",
+            "Sapi na leutik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mung ngomong siga aya sambelna",
+            "Mung ngomong nyeurikeun hate",
+            "Mung ngomong hati-hati.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ka pasar ge siga nu rek ka uleman",
+            "Ka pasar loba dangdan",
+            "Ka pasar teu dangdan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lengeunna geutihan siga nu ditabrak mobil",
+            "Lengeunna geutihan loba",
+            "Lengeunna geutihan saeutik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Si eta mung ceurik siga nu loba masalah",
+            "Si eta mung ceurik tarik",
+            "Si eta mung ceurik lalaunan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Aya nu nyetir siga jalan boga akina",
+            "Aya nu nyetir ugal-ugalan",
+            "Aya nu nyetir hati-hati.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mangga na siga cuka.",
+            "Mangga na amis",
+            "Mangga na haseum.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rai na ka adi na teh siga cocoan",
+            "Kalakuan rai na ka adi jail",
+            "Kalakuan rai na ka adi nyaah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Si eta mung ngomong siga nu kahuruan",
+            "Mung nyauran gugurusuhan",
+            "Mung nyauran anteng.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rupi na siga arjuna",
+            "Rupi na kasep",
+            "Rupi na awon.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kuliah na siga euweuh tanggal beureum",
+            "Kuliah na rajin",
+            "Kuliah na sakahayang.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awakna siga tangkal gedang.",
+            "Awakna kiat",
+            "Awakna letoy.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Mung lumpat si eta siga peucang",
+            "Mung lumpat gancang",
+            "Mung lumpat lila.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mung lumpat si eta siga kuya.",
+            "Mung lumpat gancang",
+            "Mung lumpat lila.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hawa na siga di leuweung",
+            "Hawa na tiis",
+            "Hawa na panas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kaayaan ayeuna kawas loba dosa",
+            "Kaayaan ayeuna awon",
+            "Kaayaan ayeuna alus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hujanna kawas cai ngagubrag",
+            "Hujan na lebat",
+            "Hujan na tiiseun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak na siga nu dipoe ti isuk nepi peuting",
+            "Budak na kurus",
+            "Budak na gendut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keneh isuk ngan siga panonpoe geus mencrang wae",
+            "Keneh isuk tos panas",
+            "Keneh isuk keneh tiis.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngabaturan si eta unggal poe siga keur aya perang wae",
+            "Ngabaturan si eta unggal poe loba masalah",
+            "Ngabaturan si eta unggal poe euweuh masalah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kakolot undak unduk na siga malin kundang",
+            "Ka kolot undak unduk na siga durhaka",
+            "Ka kolot undak unduk na siga ngabaktos.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Milarian artos siga nu moal waka gugah deui",
+            "Milarian artos rajin",
+            "Milarian artos nyalse.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mie na beukah kawas kembang aromanis",
+            "Mie na beukah sae",
+            "Mie na beukah teu tangtu.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sakola na ka bumi siga ti kulon ka wetan",
+            "Sakola na ka bumi tebih",
+            "Sakola na ka bumi caket.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pangaos cocoan si ade siga panagos imah jeung sawah",
+            "Pangaos cocoan si ade awis",
+            "Pangaos cocoan si ade mirah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wengi ieu langit na siga cai herang",
+            "Wengi ieu langit na mencrang",
+            "Wengi ieu langit na ceudeum.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kasohor na eta artis siga nu gaduh panghargaan ti seeuer nagara",
+            "Kasohor na eta artis sagala jalmi uninga",
+            "Kasohor na eta artis teu aya jalmi uninga.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nu lalajo di stadion kamari siga nu karolot kabeh.",
+            "Nu lalajo di stadion kamari rame",
+            "Nu lalajo di stadion kamari sepi.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sanajan loba masalah manehna siga jukut di leuweung",
+            "Sanajan loba masalah maneh na pantang nyerah",
+            "Sanajan loba masalah maneh na gampil nyerah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sanajan loba masalah manehna siga kembang katewak angin.",
+            "Sanajan loba masalah maneh na pantang nyerah",
+            "Sanajan loba masalah maneh na gampil nyerah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngalereskeun ieu mesin siga nu keur operasi jantung",
+            "Ngalereskeun ieu mesin hese",
+            "Ngalereskeun ieu mesin gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngalereskeun ieu mesin siga ngalereskeun cocoan budak.",
+            "Ngalereskeun ieu mesin hese",
+            "Ngalereskeun ieu mesin gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Asep lumpatna kawas keong.",
+            "Asep lumpatna gancang",
+            "Asep lumpatna lila.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Si Iwan kasohor lantaran siga foto model",
+            "Si Iwan kasohor lantaran kasep",
+            "Si Iwan kasohor lantaran goreng.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mun jadi jalmi ulah sok beurat birit",
+            "Mun jadi jalmi ulah sok kedul",
+            "Mun jadi jalmi ulah sok getol.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teh kawas lumpat di lapang.",
+            "Hirup teh sulit",
+            "Hirup teh gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Meuli hp saharga imah gedongan",
+            "Meuli hp mahal",
+            "Meuli hp murah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan Pak Ustad kawas gula dina enteh",
+            "Omongan Pak Ustad amis",
+            "Omongan Pak Ustad pait.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ieu kabar umpama hujan bentar",
+            "Ieu kabar ngareuwaskeun",
+            "Ieu kabar nenangkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulit Siti kos bujur orok",
+            "Kulit Siti mulus",
+            "Kulit Siti korodok.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulit Siti kos careuh bulan.",
+            "Kulit Siti mulus",
+            "Kulit Siti korodok.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Adi lanceuk teh kalakuan kos anjing jeung ucing",
+            "Adi lanceuk teh kalakuan teu akur",
+            "Adi lanceuk teh kalakuan akur.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Adi lanceuk teh kalakuan kos jalak jeung kebo.",
+            "Adi lanceuk teh kalakuan teu akur",
+            "Adi lanceuk teh kalakuan akur.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Boga kabogoh teh sikapna kos maung",
+            "Boga kabogoh teh sikapna wanian",
+            "Boga kabogoh teh sikapna eraan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lanceuk abdi awakna sapertos nyere",
+            "Lanceuk abdi awakna begang",
+            "Lanceuk abdi awakna buleud.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gawe teh umpama nginum cai sirop",
+            "Gawe teh ngabagjakeun",
+            "Gawe teh hanjelu.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sora manehna kawas kicau manuk dadali",
+            "Sora manehna merdu",
+            "Sora manehna gandeng.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awak manehna meuni kawas mawar bodas",
+            "Awak manehna meuni seungit",
+            "Awak manehna meuni bau.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awak manehna meuni kawas kembang bangke.",
+            "Awak manehna meuni seungit",
+            "Awak manehna meuni bau.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ponten rapor kuring umpama beureum getih",
+            "Ponten rapor kuring goreng",
+            "Ponten rapor kuring alus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ditolak manehna umpama hate dikeureut peso",
+            "Ditolak manehna meuni nyeri",
+            "Ditolak manehna meuni gumbira.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan manehna kawas cai di daun taleus",
+            "Omongan manehna robah-robah",
+            "Omongan manehna ajeg.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan manehna kawas tangkal beringin.",
+            "Omongan manehna robah-robah",
+            "Omongan manehna ajeg.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Cicing di imah teh kos cicing di neraka",
+            "Cicing di imah teh teu betah",
+            "Cicing di imah teh betah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngaharep balesan manehna ibarat ngajarkeun lauk naek tangkal",
+            "Ngaharep balesan manehna mustahil",
+            "Ngaharep balesan manehna teu kudu usaha.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngaharep balesan manehna ibarat ngajarkeun monyet naek tangkal.",
+            "Ngaharep balesan manehna mustahil",
+            "Ngaharep balesan manehna teu kudu usaha.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Milarian padamelan ayena mah sapertos milarian bintang di beurang copong",
+            "Milarian padamelan ayeuna mah sesah",
+            "Milarian padamelan ayeuna mah gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun lauk naek tangkal",
+            "Hoyong seueur acis, tapi teu damel teh mustahil",
+            "Hoyong seueur acis, tapi teu damel teh mungkin wae.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Abdi sareung anjeuna kawas langit jeung bumi",
+            "Abdi sareung anjeuna jauh bedana",
+            "Abdi sareung anjeuna eweuh bedana.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Diajar matematika umpama diajar maca jang budak SMA",
+            "Diajar matematika sesah",
+            "Diajar matematika gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kue damelan umi abdi saraos kue toko",
+            "Kue damelan umi abdi raos",
+            "Kue damelan umi abdi teu raos.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kue damelan umi abdi saraos kue basi.",
+            "Kue damelan umi abdi raos",
+            "Kue damelan umi abdi teu raos.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pun bapa tanagana kawas budak sd.",
+            "Pun bapa kuat",
+            "Pun bapa lemah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Acuk lebaran teh sarupa acuk damelan designer kasohor",
+            "Acuk lebaran teh sae",
+            "Acuk lebaran teh butut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Teu nyangka rayi abdi sajangkung buto ijo",
+            "Teu nyangka rayi abdi jangkung",
+            "Teu nyangka rayi abdi pondok.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Teu nyangka rayi abdi sajangkung ucok baba.",
+            "Teu nyangka rayi abdi jangkung",
+            "Teu nyangka rayi abdi pondok.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngarantau ibarat jalan-jalan ka nagari nu endah kacipta",
+            "Ngarantau nyenengkeun",
+            "Ngarantau sieun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bobogah lima taun jeung manehna kawas naek kapal di laut nu loba badaina",
+            "Bobogohan lima taun jeung manehna nyusahkeun",
+            "Bobogohan lima taun jeung manehna nyenengkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jaket maneh naha siga tukang ojek",
+            "Jaket maneh butut",
+            "Jaket maneh alus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Acuk seuseuhan abdi mah sapertos acuk anyar",
+            "Acuk seuseuhan abdi mah beresih",
+            "Acuk seuseuhan abdi mah kotor.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak rerencangan abdi irungnya samancung orang arab",
+            "Budak rerencangan abdi irungna mancung",
+            "Budak rerencangan abdi irungna pesek.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Naek kareta ekonomi sarupa calik dina korsi papan",
+            "Naek kareta ekonomi teu enakeun",
+            "Naek kareta ekonomi enakeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Naek kareta ekonomi sarupa calik dina sofa busa.",
+            "Naek kareta ekonomi teu enakeun",
+            "Naek kareta ekonomi enakeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ukuran suku maneh meuni jiga raksasa",
+            "Ukuran suku maneh meuni gede",
+            "Ukuran suku maneh meuni leutik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Basa inggris maneh geus saalus bule",
+            "Basa inggris maneh lancar",
+            "Basa inggris maneh balelol.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Carita nini abdi kawas carita pelem-pelem di bioskop",
+            "Carita nini abdi rame tur alus",
+            "Carita nini abdi butut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Minyak goreng ayeuna geus saharga imah",
+            "Minyak goreng ayeuna mahal",
+            "Minyak goreng ayeuna mirah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Minyak goreng ayeuna geus saharga kacang.",
+            "Minyak goreng ayeuna mahal",
+            "Minyak goreng ayeuna mirah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Cai sumur ayeuna mah kos cai kopi",
+            "Cai sumur ayeuna kiruh",
+            "Cai sumur ayeuna herang.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teu boga elmu sarupa leumpang teu aya tujuan",
+            "Hirup teu boga elmu teu jelas",
+            "Hirup teu boga elmu jelas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pertanyaan si bapa teh meuni kos tts kompas",
+            "Pertanyaan si bapa bermutu tur sesah",
+            "Pertanyaan si bapa teu bermutu.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lamun keur belajar naha nya panon teh kawas teu sare 3 poe",
+            "Lamun keur belajar naha panon teh tunduh",
+            "Lamun keur belajar naha panon teh beunta.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lamun keur belajar naha nya panon teh kawas karak ngadahar mangga ngora.",
+            "Lamun keur belajar naha panon teh tunduh",
+            "Lamun keur belajar naha panon teh beunta.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kunaon atuh eta seragam teh jiga can meunang nyetrika",
+            "Kunaon atuh eta seragam teh risek",
+            "Kunaon atuh eta seragam teh licin.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buruan tatangga teh meuni saluas lapangan bola",
+            "Buruan tatanga luas",
+            "Buruan tatanga heurin.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buruan tatangga teh meuni saluas wc kareta.",
+            "Buruan tatanga luas",
+            "Buruan tatanga heurin.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Gambar rayi abdi layak umpama gambar nu meunang ponten 100",
+            "Gambar rayi abdi hade",
+            "Gambar rayi abdi butut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tulisan budak teh meuni jiga cakar hayam",
+            "Tulisan budak teh acak-acakan",
+            "Tulisan budak teh rapi.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Elmu agama kawas senter caang kanggo mapay jalan wengi",
+            "Elmu agama caang tur nuntun",
+            "Elmu agama poek.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lapang Padjajaran kos lapang bola piala dunia",
+            "Lapang Padjajaran alus tur rapi",
+            "Lapang Padjajaran butut tur balatak.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lapang Padjajaran kos lapang di kandang kuda.",
+            "Lapang Padjajaran alus tur rapi",
+            "Lapang Padjajaran butut tur balatak.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Cai Dieng sapertos cai es",
+            "Cai Dieng tiis",
+            "Cai Dieng panas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngendong sawengi ge bawaan teh kawas jalmi nu bade pindahan",
+            "Ngendong sawengi ge bawaan teh seueur",
+            "Ngendong sawengi ge bawaan teh teu aya.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Acuk rerencangan abdi sapertos bu haji",
+            "Acuk rerencangan abdi katutup",
+            "Acuk rerencangan abdi kabuka.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kahayang abdi mah sagede keresek indomaret.",
+            "Kahayang abdi mah seueur",
+            "Kahayang abdi mah saalit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tutumbenan masakan dinten ieu kawas masakan hotel bintang lima",
+            "Tutumbenan masakan dinten ieu raos pisan",
+            "Tutumbenan masakan dinten ieu teu raos.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kaca di kamar abdi meuni sagede kaca spion",
+            "Kaca di kamar abdi meuni alit",
+            "Kaca di kamar abdi meuni ageung.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Akuarium hotel ieu meuni saageung sea world",
+            "Akuarium hotel ieu ageung",
+            "Akuarium hotel ieu alit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kembang pamasihan anjeun teh kawas seungit sedap malam",
+            "Kembang pamasihan anjeun seungit",
+            "Kembang pamasihan anjeun hapeuk.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mun jadi jalmi ulah sok luhur hate",
+            "Mun jadi jalmi ulah sok agul",
+            "Mun jadi jalmi ulah sok pesimis.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tawaran anjeun kawas hujan duit",
+            "Tawaran anjeun nyenengkeun",
+            "Tawaran anjeun nyengsarakeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tawaran anjeun kawas hujan batu es.",
+            "Tawaran anjeun nyenengkeun",
+            "Tawaran anjeun nyengsarakeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Diajar ekonomi sapertos renang di kulah cai es",
+            "Diajar ekonomi nyengsarakeun",
+            "Diajar ekonomi nyenengkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Diajar ekonomi sapertos renang di kulah kembang.",
+            "Diajar ekonomi nyengsarakeun",
+            "Diajar ekonomi nyenengkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tisu merek eta mah saalus selimut orok",
+            "Tisu merek eta mah alus",
+            "Tisu merek eta mah kasar.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tisu merek eta mah saalus karung beas.",
+            "Tisu merek eta mah alus",
+            "Tisu merek eta mah kasar.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tong make lipen setip eta, jieun biwir kos sawah retak",
+            "Tong make lipen setip eta, jieun biwir garing",
+            "Tong make lipen setip eta, jieun biwir lembab.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tong make lipen setip eta, jieun biwir kos embun daun.",
+            "Tong make lipen setip eta, jieun biwir garing",
+            "Tong make lipen setip eta, jieun biwir lembab.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Omongan presiden teh umpama cai di daun taleus",
+            "Omongan presiden teh gonta-ganti",
+            "Omongan presiden teh ajeg.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan presiden teh umpama bangunan kabah.",
+            "Omongan presiden teh gonta-ganti",
+            "Omongan presiden teh ajeg.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kualitas koper anyar teh kos urut batur",
+            "Kualitas koper anyar teh butut",
+            "Kualitas koper anyar teh alus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngadangukeun lagu Yura Yunita sapertos dipepende",
+            "Ngadangukeun lagu Yura Yunita nenangkeun",
+            "Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sampo si mama jieun buuk sapertos ti salon",
+            "Sampo si mama jieun buuk alus",
+            "Sampo si mama jieun buuk kasar.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sampo si mama jieun buuk sapertos kasetrum listrik.",
+            "Sampo si mama jieun buuk alus",
+            "Sampo si mama jieun buuk kasar.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kantor abdi di Bandung umpama gedong di tengah savana.",
+            "Kantor abdi di Bandung tiis tur asri",
+            "Kantor abdi di Bandung panas tur tandus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tumpeng damelan si uwak meuni sajangkung gunung merapi",
+            "Tumpeng damelan si uwak jangkung",
+            "Tumpeng damelan si uwak pondok.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buku sakola ayeuna sakandeul koran",
+            "Buku sakola ayeuna ipis",
+            "Buku sakola ayeuna kandeul.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cuaca dinten ieu sapertos langit nu nuju sedih",
+            "Cuaca dinten ieu hujan",
+            "Cuaca dinten ieu cerah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Biaya listrik makin kiwari makin kos taraje",
+            "Biaya listrik makin kiwari makin naek",
+            "Biaya listrik makin kiwari makin turun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gawe tanpa elmu umpama mancing eweuh umpan",
+            "Gawe tanpa elmu sesah",
+            "Gawe tanpa elmu gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Desain Totoya nu anyar kawas mobil ti masa hareup",
+            "Desain Toyota nu anyar keren tur canggih",
+            "Desain Toyota nu anyar butut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Naek gunung Sumbing umpama naek gunung nganggo sapatu roda",
+            "Naek gunung Sumbing sesah",
+            "Naek gunung Sumbing gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulah lauk di bumi aki salega bagasi motor",
+            "Kulah lauk di bumi aki leutik",
+            "Kulah lauk di bumi aki lega.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kelas X IPS mah aya teu aya guru umpama budak can dibere nyusu",
+            "Kelas X IPS mah aya teu aya guru gandeng",
+            "Kelas X IPS mah aya teu aya guru jempling.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sapatu pamere mamang teh kawas sapatu meunang nginjeum",
+            "Sapatu pamere mamang teh teu mahi",
+            "Sapatu pamere mamang teh mahi.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lukisan ieu sapertos karya da Vinci",
+            "Lukisan ieu alus",
+            "Lukisan ieu butut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Botol cai teh kos toren cai",
+            "Botol cai teh gede pisan",
+            "Botol cai teh leutik pisan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Botol cai teh kos gelas budak.",
+            "Botol cai teh gede pisan",
+            "Botol cai teh leutik pisan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Jolang di bumi rerencangan abdi kawas kulah lauk",
+            "Jolang di bumi rerencangan abdi ageung",
+            "Jolang di bumi rerencangan abdi alit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sangu di warung ieu mah sapertos sangu beres akeul",
+            "Sangu di warung ieu pulen",
+            "Sangu di warung ieu heuras.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cat di imah maneh mah jiun imah kawas imah eweuh lampuan",
+            "Cat imah maneh mah jieun imah poek",
+            "Cat imah maneh mah jieun imah caang.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Martabak Mang Idoy umpama lauk digembrong laleur",
+            "Martabak Mang Idoy payu",
+            "Martabak Mang Idoy teu payu.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jarawat Teh Susi naha makin jiga jelema keuna cacar",
+            "Jarawat Teh Susi naha makin loba tur parah",
+            "Jarawat Teh Susi naha makin bersih.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Laut di Sukabumi kawas kelas meunang piket",
+            "Laut di Sukabumi beresih",
+            "Laut di Sukabumi bala.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Laut di Sukabumi kawas lapang urut konser.",
+            "Laut di Sukabumi beresih",
+            "Laut di Sukabumi bala.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Twitter jaman kiwari makin sapertos warung klontong",
+            "Twitter jaman kiwari makin rame",
+            "Twitter jaman kiwari makin tiiseun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Twitter jaman kiwari makin sapertos warung bakso jam 12 beurang basa keur bulan puasa.",
+            "Twitter jaman kiwari makin rame",
+            "Twitter jaman kiwari makin tiiseun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pangseungit ruangan ieu jieun sapertos hayang utah",
+            "Pangseungit ruangan ieu bau",
+            "Pangseungit ruangan ieu seungit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hargi sewa mobil di dieu saharga biaya umroh",
+            "Hargi sewa mobil di dieu awis",
+            "Hargi sewa mobil di dieu mirah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Huntu Si Joko jiga seragam golkar",
+            "Huntu Si Joko koneng",
+            "Huntu Si Joko bodas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ngahasilkeun artos jiga ngarenghap napas",
+            "Manehna ngahasilkeun artos meuni gampil",
+            "Manehna ngahasilkeun artos hese pisan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Eta murid hiji otak udang",
+            "Eta murid hiji bodo",
+            "Eta murid hiji pinter.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Eta murid hiji kawas kancil.",
+            "Eta murid hiji bodo",
+            "Eta murid hiji pinter.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manehna angkat liburan nganggo manuk beusi.",
+            "Manehna angkat liburan nganggo motor",
+            "Manehna angkat liburan nganggo pesawat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sorana kad\u00e9ng\u00e9 kawas kicau manu",
+            "Sorana kad\u00e9ng\u00e9 merdu",
+            "Sorana kad\u00e9ng\u00e9 ngaganggu.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sorana kad\u00e9ng\u00e9 kawas gogog anjing.",
+            "Sorana kad\u00e9ng\u00e9 merdu",
+            "Sorana kad\u00e9ng\u00e9 ngaganggu.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Di tempat damel manenha janten budak emas",
+            "Di tempat damel manenha janten unggulan",
+            "Di tempat damel manenha janten jalma nu dipikasalah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna jalmi nu tiis leungeun",
+            "Manehna jalmi nu bisa naon wae",
+            "Manehna jalmi nu teu bisa nanaon.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna tampil siga bintang dina langit",
+            "Manehna tampil siga percaya diri",
+            "Manehna tampil siga henteu percaya diri.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dina \u00e9ta balapan manehna jiga b\u00e9ntang lapangan",
+            "Dina \u00e9ta balapan manehna jiga idola",
+            "Dina \u00e9ta balapan manehna jiga jalmi nu teu diperhitungkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pagawean anu dilakonan ku manehna nganggo kaki jeung lengeun batur",
+            "Pagawean anu dilakonan ku manehna nganggo dikerjakeun nu lain",
+            "Pagawean anu dilakonan ku manehna nganggo usaha sorangan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Eta lalaki kawas ksatria",
+            "Eta lalaki kawas sae pisan",
+            "Eta lalaki kawas jahat pisan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna mangrupakeun pamingpin anu haneut hate",
+            "Manehna mangrupakeun pamingpin anu ngartikeun",
+            "Manehna mangrupakeun pamingpin anu teu ngartikeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak eta mah lurus hat\u00e9",
+            "Budak eta mah baik",
+            "Budak eta mah sombong.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ngarasa kawas raja leutik",
+            "Manehna ngarasa kawas boga kuasa",
+            "Manehna ngarasa kawas teu boga kuasa.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lamun diperlukeun, manehna senang pikeun turun lengeun",
+            "Lamun diperlukeun, manehna senang pikeun ngabantu",
+            "Lamun diperlukeun, manehna senang pikeun cicing wae.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Artis eta t\u00e9h keur na\u00e9k",
+            "Artis eta t\u00e9h keur kawentar",
+            "Artis eta t\u00e9h keur boga masalah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kecap-kecapna kawas kembang",
+            "Kecap-kecapna kawas indah",
+            "Kecap-kecapna kawas mikeun nyeri hate.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ceuk tatanggana, manehna teh hate leutik.",
+            "Ceuk tatanggana, manehna teh baik",
+            "Ceuk tatanggana, manehna teh pelit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Beungeutna katingali kawas caang panonpo\u00e9",
+            "Beungeutna katingali kawas bahagia",
+            "Beungeutna katingali kawas loba masalah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulawargana nya\u00e9ta darah biru",
+            "Kulawargana nya\u00e9ta bangsawan",
+            "Kulawargana nya\u00e9ta jalmi biasa.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Panonna kawas elang",
+            "Panonna teh tajeum",
+            "Panonna teh jelek.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sorana siga ngaum singa",
+            "Sorana siga gede pisan",
+            "Sorana siga alit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mulutna meuni enteng",
+            "Mulutna meuni gampil ngomong",
+            "Mulutna meuni hese ngomong.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Di kelas, manehna murid anu beurat sirah.",
+            "Di kelas, manehna murid anu pinter",
+            "Di kelas, manehna murid anu bodo.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kota ieu karasa kawas imah",
+            "Kota ieu karasa kawas nyaman",
+            "Kota ieu karasa kawas teu genah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika ditanya manehna buka mulut",
+            "Nalika ditanya manehna nyarios",
+            "Nalika ditanya manehna pura-pura teu terang.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Di dunya ieu aya jalma anu sarupa malaikat",
+            "Di dunya ieu aya jalma anu baik pisan",
+            "Di dunya ieu aya jalma anu jahat pisan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di istana",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di lezat",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di teu karasa nanaon.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hat\u00e9na bener-bener salega sagara",
+            "Hat\u00e9na bener-bener baik",
+            "Hat\u00e9na bener-bener jahat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hat\u00e9na bener-bener teuas kawas batu.",
+            "Hat\u00e9na bener-bener baik",
+            "Hat\u00e9na bener-bener jahat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manehna naroskeun patarosan anu seuket siga peso",
+            "Manehna naroskeun patarosan anu penting",
+            "Manehna naroskeun patarosan anu asal ngucap.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Imahna karasa kawas istana",
+            "Imahna karasa kawas nyaman",
+            "Imahna karasa kawas teu ngenaheun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ningali pantulanna dina eunteung kawas putri raja",
+            "Manehna ningali pantulanna dina eunteung kawas cantik pisan",
+            "Manehna ningali pantulanna dina eunteung kawas biasa wae.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Padamelannana karasaeun kawas warna-warni pelangi",
+            "Padamelannana karasaeun kawas ngeunah",
+            "Padamelannana karasaeun kawas teu ngeunah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Padamelannana karasaeun kawas nincak paku.",
+            "Padamelannana karasaeun kawas ngeunah",
+            "Padamelannana karasaeun kawas teu ngeunah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Luncatna dina pertandingan siga luncat kebo.",
+            "Luncatna dina pertandingan siga gampil",
+            "Luncatna dina pertandingan siga hese.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Usaha anu manehna lakukeun kawas naek bukit.",
+            "Usaha anu manehna lakukeun kawas gampil",
+            "Usaha anu manehna lakukeun kawas hese.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Poe ieu manehnya hudang kalayan wajah anu berseri",
+            "Poe ieu manehnya hudang kalayan wajah anu bahagia",
+            "Poe ieu manehnya hudang kalayan wajah anu loba masalah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hawana Jakarta upami tos siang mah sapertos seuneu naraka",
+            "Hawana Jakarta upami tos siang mah panas",
+            "Hawana Jakarta upami tos siang mah tiris.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rarayna siga kembang anu kakarak mekar",
+            "Rarayna katingali ngora",
+            "Rarayna katingali kolot.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngapalkeun materi kuliah mah kawas ngukir dina kai",
+            "Ngapalkeun materi kuliah mah gampil",
+            "Ngapalkeun materi kuliah mah sesah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Milarian padamelan salami Covid-19 siga ngal\u00e9tak ujung irung sorangan",
+            "Milarian padamelan teh sesah",
+            "Milarian padamelan teh gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Milarian padamelan salami Covid-19 siga nyekelan tonggong babaturan.",
+            "Milarian padamelan teh sesah",
+            "Milarian padamelan teh gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kasatiaan dina jaman ayeuna sapertos ningali hayam broiler di pasar.",
+            "Kasatiaan dina jaman ayeuna langka",
+            "Kasatiaan dina jaman ayeuna biasa wae, seueur kajadian.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Jualan online mah meunang kauntunganna t\u00e9h siga ngagali emas di Pongkor",
+            "Jualan online shop teh kauntunganna seueur",
+            "Jualan online shop teh kauntunganna sakedik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ceuk batur g\u00e9 hirup sareng pamajikan mah ibarat keur dijajah Walanda",
+            "Hirup sareng pamajikan mah kaampeuh",
+            "Hirup sareng pamajikan mah b\u00e9bas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan lalaki t\u00e9h ibarat sarang madu",
+            "Omongan lalaki t\u00e9h alus",
+            "Omongan lalaki t\u00e9h pait,gor\u00e9ng.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Barudak jaman ayeuna mah bajuna siga leupeut daun kalapa",
+            "Barudak jaman ayeuna mah bajuna merecet",
+            "Barudak jaman ayeuna mah bajuna logor.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kamajuan t\u00e9hnologi di Indon\u00e9sia kawas kareta Shinkansen",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si gancang",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si lalaunan,telat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ayeuna jumlah motor di jalan t\u00e9h siga sireum anu ngedeukeutan gula",
+            "Ayeuna jumlah motor di jalan teh seeur",
+            "Ayeuna jumlah motor di jalan teh saeutik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rumaja jaman kiwari mah rasa nasionalismena siga Palung Mariana di Samudra Pasifik",
+            "Rasa nasionalisme rumaja tinggi",
+            "Rasa nasionalisme rumaja rendah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rumaja jaman kiwari mah rasa nasionalismena siga jerona balong keur lauk.",
+            "Rasa nasionalisme rumaja tinggi",
+            "Rasa nasionalisme rumaja rendah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nabung lamun rutin bisa nyieun domp\u00e9t anjeun sapertos atlit sumo",
+            "Nabung lamun rutin mah bisa ngajadikeun beunghar",
+            "Nabung lamun rutin mah bisa ngajadikeun malarat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos buku anu ngaj\u00e9j\u00e9r di perpustakaan",
+            "Upami gaduh balita bumina rapih",
+            "Upami gaduh balita bumina pabalatak.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kawin jeung idola t\u00e9h kawas ngala cai make rak\u00e9t",
+            "Kawin jeung idola pimanaeun",
+            "Kawin jeung idola tiasa wa\u00e9.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kawin jeung idola t\u00e9h kawas meunang lauk dina balong anu leutik.",
+            "Kawin jeung idola pimanaeun",
+            "Kawin jeung idola tiasa wa\u00e9.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Jalmi anu jujur mah biasana jiga kembang tarat\u00e9 dina cai",
+            "Jalmi anu jujur kalem",
+            "Jalmi anu jujur riweuh.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keur kuring mah disuntik vaksin kawas durian ragrag kana sirah",
+            "Disuntik rasana nyeri",
+            "Disuntik rasana teu nyeri.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hukum Indon\u00e9sia mah siga bangkuang dina jero taneuh.",
+            "Hukum Indonesia teh kotor",
+            "Hukum Indonesia teh beresih.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang kudu ngajual ginjal",
+            "Biaya kawinan teh awis",
+            "Biaya kawinan teh mirah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dos\u00e9n abdi di kampus baheula siga indung tirina Cinder\u00e9lla",
+            "Dosen abdi di kampus baheula meuni galak",
+            "Dosen abdi di kampus baheula meuni bageur.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pamadegan batur keur urang mah siga kembang malati kaluar tina sungut",
+            "Pamadegan batur keur urang had\u00e9",
+            "Pamadegan batur keur urang buruk.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lalampahan ka kantor rasana siga nempo puncakna gunung ti handap",
+            "Lalampahan ka kantor tebih",
+            "Lalampahan ka kantor deukeut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lalampahan ka kantor rasana siga dago jeung biwir.",
+            "Lalampahan ka kantor tebih",
+            "Lalampahan ka kantor deukeut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah ibarat miceun uyah ka laut",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah teu aya manpaatna",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah aya mangpaatna.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jalmi suks\u00e9s digaw\u00e9 kawas sireum n\u00e9angan dahareun",
+            "Jalmi suks\u00e9s kudu getol",
+            "Jalmi suks\u00e9s kudu kedul.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jalmi suks\u00e9s digaw\u00e9 kawas panda nu sar\u00e9 sapopo\u00e9.",
+            "Jalmi suks\u00e9s kudu getol",
+            "Jalmi suks\u00e9s kudu kedul.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Guru t\u00e9h ibarat lilin anu r\u00e9la ngaduruk dirina sorangan pikeun mer\u00e9 caang",
+            "Guru teh gawena tulus",
+            "Guru teh gawena pamrih.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nuduh batur ku awon t\u00e9h kawas jalma nu nyiduh ka langit",
+            "Nuduh batur ku awon ngajel\u00e9kkeun diri sorangan",
+            "Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pernikahan mah ti jaman baheula g\u00e9 asaan pasti aya anu siga mayit dib\u00e9r\u00e9 formalin",
+            "Pernikahan mah aya nu aw\u00e9t",
+            "Pernikahan mah aya nu teu aw\u00e9t.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pernikahan mah ti jaman baheula g\u00e9 asaan pasti aya anu siga batr\u00e9 hp urut batur.",
+            "Pernikahan mah aya nu aw\u00e9t",
+            "Pernikahan mah aya nu teu aw\u00e9t.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tulisan man\u00e9h keur di sakola mah siga c\u00e9k\u00e9r hayam",
+            "Tulisan man\u00e9h keur di sakola mah goreng",
+            "Tulisan man\u00e9h keur di sakola mah alus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Umur manusa mah siga tangkal tog\u00e9.",
+            "Umur manusa panjang",
+            "Umur manusa pondok.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pikiran babaturan urang mah kawas nu geus ulin di lumpur",
+            "Pikiran babaturan kotor",
+            "Pikiran babaturan beresih.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pikiran babaturan urang mah kawas nu karek beres mandi.",
+            "Pikiran babaturan kotor",
+            "Pikiran babaturan beresih.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngejar kareta api di stasiun mah siga diudag anjing \u00e9dan",
+            "Ngejar kareta mah engal-engal",
+            "Ngejar kareta mah santai.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buukna dirumbay siga sapu ijuk",
+            "Buukna teh kasar",
+            "Buukna teh alus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngadagoan kasuks\u00e9san datang ka kahirupan mah ibarat ngadagoan tangkal jati tumuwuh nepi ka badag",
+            "Kasuks\u00e9san datang ka karihupan teh lami",
+            "Kasuks\u00e9san datang ka karihupan teh gancang.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pangalaman hirup bisa ngajadikeun sipat manusa kawas sumbu nu gampang kaduruk",
+            "Pangalaman hirup bisa ngajadikeun aambekan",
+            "Pangalaman hirup bisa ngajadikeun sabar.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Upami keur lebaran di Bogor mah suasanana kos astana anyar",
+            "Bogor keur lebaran mah jempling",
+            "Bogor keur lebaran mah r\u00e9a.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "M\u00e9ntal manusa siga tembok imah baheula nu gampang muruhpuy",
+            "Mental manusa teh rapuh",
+            "Mental manusa teh kuat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Duit bisa ngarobah jalma kawas Qarun anu dikubur ku hartana sorangan",
+            "Duit bisa ngarobah jalma jadi sarakah",
+            "Duit bisa ngarobah jalma jadi bersukur.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nasib jalma bisa b\u00e9da-b\u00e9da ibaratna mah meunang jackpot sapeuting jeput",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu mujur",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu sial.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nasib jalma bisa b\u00e9da-b\u00e9da ibaratna mah aya tai cakcak ragrag kana tarang.",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu mujur",
+            "Nasib jalma bisa b\u00e9da-b\u00e9da aya nu sial.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngabuka usaha anyar keur pand\u00e9mik sapertos balayar dina badai",
+            "Ngabuka usaha anyar keur pand\u00e9mik risikona gede",
+            "Ngabuka usaha anyar keur pand\u00e9mik teu aya risiko.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos kantong semar keur ngajuju mangsana",
+            "Seueur pangaweruh bisa ngajadikeun manusa pinter",
+            "Seueur pangaweruh bisa ngajadikeun manusa bodo.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nu kaambu dina angkutan umum sapertos sangu nu geus leueur",
+            "Nu kaambu dina angkutan umum bau",
+            "Nu kaambu dina angkutan umum seungit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Balik deui sareng mantan sapertos nganggo baju anu sami dina unggal dinten.",
+            "Balik sareng mantan mah seru",
+            "Balik sareng mantan mah bosen.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hubungan jarak jauh ibarat arum jeram di sungai",
+            "Hubungan jarak jauh pinuh ku rintangan",
+            "Hubungan jarak jauh teu aya rintanganana.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hubungan jarak jauh ibarat numpakan kano di talaga.",
+            "Hubungan jarak jauh pinuh ku rintangan",
+            "Hubungan jarak jauh teu aya rintanganana.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Panghina ti batur mah siga kusir keur mecut kuda",
+            "Panghina nyieun leuwih getol",
+            "Panghina nyieun nelangsa.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Panghina ti batur mah siga racun sianida dina kadaharan.",
+            "Panghina nyieun leuwih getol",
+            "Panghina nyieun nelangsa.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option b"
+        ]
+    ],
+    "wrong": [
+        [
+            "hirup kawas kurung batok",
+            "hirup kawas kakekang",
+            "hirup kawas bebas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "jadi jalma teh kudu hampang birit",
+            "jadi jalma teh kudu rajin",
+            "jadi jalma teh kudu kedul.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "jadi jalma teh kudu beurat birit.",
+            "jadi jalma teh kudu rajin",
+            "jadi jalma teh kudu kedul.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mamat lumpatna siga uncal",
+            "mamat lumpat siga gancang",
+            "mamat lumpat siga laun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "lamun mikir kudu panjang lengkah.",
+            "lamun mikir kudu teu mikir panjang",
+            "lamun mikir kudu mikir jauh.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "budak eta mah epes meer",
+            "budak eta mah babarian ceurik",
+            "budak eta mah wanian.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "jelema lamun geus isinan kudu diantepkeun.",
+            "jelema lamun geus teu gaduh kaera",
+            "jelema lamun geus eraan kudu diantepkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si Udin jadi jalma teh meni buntut kasiran",
+            "si Udin jadi jalma teh meni koret, pedit",
+            "si Udin jadi jalma teh meni reseup babagi.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "si Udin jadi jalma teh meni berehan.",
+            "si Udin jadi jalma teh meni koret, pedit",
+            "si Udin jadi jalma teh meni reseup babagi.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Iis mah pahang tulang.",
+            "Iis mah gampang kana panyakit",
+            "Iis mah teu gampang kana panyakit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "sasa teh biasana sok jadi haseum budi.",
+            "sasa teh biasana ramah",
+            "sasa teh biasana judes.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "lamun bade nginjem duit kudu make duit tiis.",
+            "lamun bade nginjem duit kudu make duit anu teu menang dipake biasana lain anu pribadi",
+            "lamun bade nginjem duit kudu make duit anu pribadi moal waka dipake.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "lamun bisnis mah pasti jadi kandel dompet",
+            "lamun bisnis mah pasti jadi loba duit",
+            "lamun bisnis mah pasti jadi kacida teu boga duit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "lamun bisnis mah pasti jadi kokoro nyoso.",
+            "lamun bisnis mah pasti jadi loba duit",
+            "lamun bisnis mah pasti jadi kacida teu boga duit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "nanaon ge teu menang kaleleuwihan bisi tamplok batokeun.",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean",
+            "nanaon ge teu menang kaleleuwihan bisi loba teuing mun merean nepi ka poho ka diri sorangan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jadi jelema teh kadang bisa jadi yuni tai.",
+            "jadi jelema teh kadang bisa jadi pikareseupeun",
+            "jadi jelema teh kadang bisa jadi pikasebeleun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jelema teh kabagi jadi dua, nyaeta anu sulit ati.",
+            "jelema teh kabagi jadi dua, nyaeta anu bersih hate",
+            "jelema teh kabagi jadi dua, nyaeta anu goreng hate iri, dengki.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "kudu hati hati milih pasangan bisi jadi potol teko.",
+            "kudu hati hati milih pasangan bisi jadi awewe anu beak hartana",
+            "kudu hati hati milih pasangan bisi jadi lalaki anu beak hartana.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si Bina mah anak sampeuran.",
+            "si Bina mah anak anu dipikanyaah",
+            "si Bina mah anak tere.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "budak teh kudu atah adol.",
+            "budak teh kudu alus didikana",
+            "budak teh kudu kurang didikan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "tong jadi budak anu bodo katotoloyo",
+            "tong jadi budak anu bodo tapi tara daek nanya",
+            "tong jadi budak anu bodo tapi daek tatanya.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "ari jadi salaki teh kudu badag cagap.",
+            "ari jadi salaki teh kudu digawe popohoan",
+            "ari jadi salaki teh kudu teu bisa digawe.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si Dewi mah jadi gadis teh meni gede hulu.",
+            "si Dewi mah jadi gadis teh meni teu sombong",
+            "si Dewi mah jadi gadis teh meni sombong.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ceunah lamun jadi awewe teh kudu siga mak lampir.",
+            "ceunah lamun jadi awewe teh kudu anggun",
+            "ceunah lamun jadi awewe teh kudu buruk rupa.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "poe ieu teh cuaca siga hujan angin dordar gelap.",
+            "poe ieu teh cuaca siga panas pisan",
+            "poe ieu teh cuaca siga hujan angin.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "hujan teh meuni siga tiis ceuli.",
+            "hujan teh meuni badag jeung gandeng",
+            "hujan teh meuni sepi jeung geunaheun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "si eta mah kuatannya, teu siga jagjag waringkas.",
+            "si eta mah kuatannya, teu gampang geuring",
+            "si eta mah kuatannya, teu sehat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ai budak keneh mah antep kudu jadi kembang buruan",
+            "ai budak keneh mah antep kudu jadi budak nu reseup kaluar",
+            "ai budak keneh mah antep kudu jadi tong dikurung.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ulah agul kana imah gedogan.",
+            "Ulah agul kana harta saetik nu dipikaboga ayeuna",
+            "Ulah agul kana harta loba nu dipikaboga ayeuna.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jalma teh bisa jadi seune.",
+            "Jalma teh bisa jadi nu tenang",
+            "Jalma teh bisa jadi nu riweuh.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup kudu bisa jadi batu",
+            "Hirup kudu bisa jadi boga pamadegan",
+            "Hirup kudu bisa jadi plin-plan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hirup kudu bisa jadi awi sumaer di pasir.",
+            "Hirup kudu bisa jadi boga pamadegan",
+            "Hirup kudu bisa jadi plin-plan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jadi budak ulah hade basa.",
+            "Jadi budak ulah teu sopan",
+            "Jadi budak ulah sopan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "hirup mah ngan ukur dedeuh.",
+            "hirup mah ngan ukur senang",
+            "hirup mah ngan ukur sedih.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ai ka batur teh ulah sok ngukur baju jeung kaen-kaenna.",
+            "ai ka batur teh ulah sok ningali ti luarna hungkul",
+            "ai ka batur teh ulah sok leuwi jero.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "kulit teh meuni kelir kawas sawo asak.",
+            "kulit teh meuni kelir koneng",
+            "kulit teh meuni kelir coklat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "lamun aya masalah, hidup teh karasa keur buuk pakusut",
+            "lamun aya masalah, hidup teh karasa keurteu lancar",
+            "lamun aya masalah, hidup teh karasa keur mulus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "lamun aya masalah, hidup teh karasa keur jalan tol.",
+            "lamun aya masalah, hidup teh karasa keurteu lancar",
+            "lamun aya masalah, hidup teh karasa keur mulus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "jadi gadis balik teh tong pas datang panonpoe",
+            "jadi gadis balik teh tong pas datang isuk",
+            "jadi gadis balik teh tong pas datang peuting.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lamun gawe teh kuduna mah bisa paaing-aing.",
+            "Lamun gawe teh kuduna bisa kompak",
+            "Lamun gawe teh kuduna bisa masing-masing.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nuju liburan teh kedah bari kaduhung.",
+            "Nuju liburan teh kedah bari gumbira",
+            "Nuju liburan teh kedah bari nyesel.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teh kadang bisa jadi emas.",
+            "Hirup teh kadang bisa jadi teu dihargaan",
+            "Hirup teh kadang bisa jadi diagung-agungkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sangkan hirup teh loba kaamis kudu bisa ngarumasakeun.",
+            "Sangkan hirup teh loba cobaan",
+            "Sangkan hirup teh loba kabahagiaan kudu bisa ngarumasakeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngomong jeung si eta mah nya meuni kawas maung.",
+            "Ngomong jeung si eta mah nya meuni lalaunan",
+            "Ngomong jeung si eta mah nya meuni jojorowokan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kadang jelema teh bisa ipis kulit bengeut.",
+            "Kadang jelema teh bisa teu boga kaera",
+            "Kadang jelema teh bisa eraan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "ayeuna buuk na teh tos jadi barodas",
+            "Ayeuna mah tos jadi kolot",
+            "Ayeuna mah tos jadi ngora keneh.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "ayeuna buuk na teh tos jadi harideung.",
+            "Ayeuna mah tos jadi kolot",
+            "Ayeuna mah tos jadi ngora keneh.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jadi jelema mah ulah hade hate.",
+            "Jadi jelema mah ulah iri",
+            "Jadi jelema mah ulah bageur.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ayeuna mah ka Bandung teh meuni siga jalan ka cai",
+            "Ayeuna mah ka Bandung teh meuni deket",
+            "Ayeuna mah ka Bandung teh meuni jauh.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Maneh mah jadi jelema teh meuni beteung karet",
+            "Maneh mah jadi jelema teh meuni loba dahar",
+            "Maneh mah jadi jelema teh meuni tara barang dahar.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Maneh mah jadi jelema teh meuni beuteng heras.",
+            "Maneh mah jadi jelema teh meuni loba dahar",
+            "Maneh mah jadi jelema teh meuni tara barang dahar.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lalakonna siga manuk dikencarkeun.",
+            "Lalakonna keueungeun",
+            "Lalakonna liar.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rupina siga kembang beukah",
+            "Rupina sae",
+            "Rupina awon.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rupina siga tahu beukah.",
+            "Rupina sae",
+            "Rupina awon.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Neangan si eta kawas neang jarum di sawah",
+            "Neangan si eta hese",
+            "Neangan si eta gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sapopoe si eta kawas nu diudag ku rentenir",
+            "Sapopoe si eta seueur emutan",
+            "Sapopoe si eta euweuh pagawean.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sapopoe si eta kawas nu teu boga pamajikan.",
+            "Sapopoe si eta seueur emutan",
+            "Sapopoe si eta euweuh pagawean.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mun makan siga loba duit.",
+            "Mun dahar loba",
+            "Mun dahar saeutik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nasehat ti bapa na nangceub siga batu",
+            "Nasihat apa na diemutan",
+            "Nasihat apa na poho.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nasehat ti bapa na leungit siga debu kahujanan.",
+            "Nasihat apa na diemutan",
+            "Nasihat apa na poho.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gawena siga nu diudag ku anjing",
+            "Gawe na gancang",
+            "Gawe na lila.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Gawena siga nu keong meuntas jalan.",
+            "Gawe na gancang",
+            "Gawe na lila.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sakapeung jodoh teh kawas meuli ucing dina karung",
+            "Sakapeung jodoh teh teu kantos ditebak",
+            "Sakapeung jodoh teh kantos ditebak.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Acukna siga meuli di mall",
+            "Acuk na sae",
+            "Acuk na awon.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Acukna siga nimu di rongsokan.",
+            "Acuk na sae",
+            "Acuk na awon.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mung ngomong siga putri solo.",
+            "Mung ngomong nyeurikeun hate",
+            "Mung ngomong hati-hati.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ditingal teh si eta siga nu can ibak",
+            "Ditingal teh si eta bau",
+            "Ditingal teh si eta wangi.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ditingal teh si eta siga ibak kembang tujuh rupi.",
+            "Ditingal teh si eta bau",
+            "Ditingal teh si eta wangi.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ka pasar ge siga nu rek sare.",
+            "Ka pasar loba dangdan",
+            "Ka pasar teu dangdan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lengeunna geutihan siga kakowet ucing.",
+            "Lengeunna geutihan loba",
+            "Lengeunna geutihan saeutik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Si eta mung ceurik siga euweuh masalah.",
+            "Si eta mung ceurik tarik",
+            "Si eta mung ceurik lalaunan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Aya nu nyetir siga sieun labuh.",
+            "Aya nu nyetir ugal-ugalan",
+            "Aya nu nyetir hati-hati.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mangga na siga madu",
+            "Mangga na amis",
+            "Mangga na haseum.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rai na ka adi na teh siga perhiasan.",
+            "Kalakuan rai na ka adi jail",
+            "Kalakuan rai na ka adi nyaah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Si eta mung ngomong siga aya di situ.",
+            "Mung nyauran gugurusuhan",
+            "Mung nyauran anteng.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rupi na siga cepot.",
+            "Rupi na kasep",
+            "Rupi na awon.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kuliah na siga kalender isina tanggal beureum.",
+            "Kuliah na rajin",
+            "Kuliah na sakahayang.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Awakna siga tangkal jati",
+            "Awakna kiat",
+            "Awakna letoy.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Si eta kuliah siga nu teu kantos bobo",
+            "Si eta kuliah na sibuk",
+            "Si eta kuliah na santai.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Si eta kuliah siga nu teu aya beban.",
+            "Si eta kuliah na sibuk",
+            "Si eta kuliah na santai.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Masakanna kawas nu hoyong geura nikah",
+            "Masakan na awon",
+            "Masakan na ngeunah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Masakanna kawas nu boga resto ageung.",
+            "Masakan na awon",
+            "Masakan na ngeunah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hawa na siga di pasar.",
+            "Hawa na tiis",
+            "Hawa na panas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kaayaan ayeuna kawas loba pahala.",
+            "Kaayaan ayeuna awon",
+            "Kaayaan ayeuna alus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hujanna kawas cai ceret.",
+            "Hujan na lebat",
+            "Hujan na tiiseun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Salaki na kawas Kabayan",
+            "Salaki na kedul",
+            "Salaki na rajin.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Salaki na kawas Nyi Iteung.",
+            "Salaki na kedul",
+            "Salaki na rajin.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak na siga nu dihuapan sapopoe.",
+            "Budak na kurus",
+            "Budak na gendut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teh kawas meuntas atas benang",
+            "Hirup teh loba tantangan",
+            "Hirup teh teu aya tantangan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hirup teh kawas leumpang dina jalan lega.",
+            "Hirup teh loba tantangan",
+            "Hirup teh teu aya tantangan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keneh isuk ngan siga moal aya deui panonpoe.",
+            "Keneh isuk tos panas",
+            "Keneh isuk keneh tiis.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngabaturan si eta unggal poe siga boga asisten sagala tiasa.",
+            "Ngabaturan si eta unggal poe loba masalah",
+            "Ngabaturan si eta unggal poe euweuh masalah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kakolot undak unduk na siga lukman hakim.",
+            "Ka kolot undak unduk na siga durhaka",
+            "Ka kolot undak unduk na siga ngabaktos.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak ayeuna mung gawe kawas kebo",
+            "Budak ayeuna mung gawe lambat",
+            "Budak ayeuna mung gawe geusit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Budak ayeuna mung gawe kawas peucang.",
+            "Budak ayeuna mung gawe lambat",
+            "Budak ayeuna mung gawe geusit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Milarian artos siga artos ngagolosor ti langit.",
+            "Milarian artos rajin",
+            "Milarian artos nyalse.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mie na beukah kawas adonan buyatak.",
+            "Mie na beukah sae",
+            "Mie na beukah teu tangtu.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bumi na siga nu teu aya cucunguk sahiji-hiji acan",
+            "Bumi na beresih pisan",
+            "Bumi na buladig.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Bumi na siga sarang na cucunguk.",
+            "Bumi na beresih pisan",
+            "Bumi na buladig.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sakola na ka bumi siga ukur salengkah.",
+            "Sakola na ka bumi tebih",
+            "Sakola na ka bumi caket.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pangaos cocoan si ade siga cimol tilu siki.",
+            "Pangaos cocoan si ade awis",
+            "Pangaos cocoan si ade mirah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Wengi ieu langit na siga cai kopi.",
+            "Wengi ieu langit na mencrang",
+            "Wengi ieu langit na ceudeum.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kasohor na eta artis siga nu teu aya internet wae.",
+            "Kasohor na eta artis sagala jalmi uninga",
+            "Kasohor na eta artis teu aya jalmi uninga.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hasil melak na kawas kali keur banjir",
+            "Hasil melak na loba",
+            "Hasil melak na saeutik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hasil melak na kawas kali keur saat.",
+            "Hasil melak na loba",
+            "Hasil melak na saeutik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nu lalajo di stadion kamari siga budak leutik",
+            "Nu lalajo di stadion kamari rame",
+            "Nu lalajo di stadion kamari sepi.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Beuki ka dieu pamarentah teh siga beurit dina lumbung pare",
+            "Beuki ka dieu pamarentah beuki korup",
+            "Beuki ka dieu pamarentah beuki ngaalusan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Beuki ka dieu pamarentah teh siga pare nu geus asak.",
+            "Beuki ka dieu pamarentah beuki korup",
+            "Beuki ka dieu pamarentah beuki ngaalusan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Asep lumpatna kawas uncal",
+            "Asep lumpatna gancang",
+            "Asep lumpatna lila.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Si Iwan kasohor lantaran siga foto modol.",
+            "Si Iwan kasohor lantaran kasep",
+            "Si Iwan kasohor lantaran goreng.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mun jadi jalmi ulah sok hampang birit.",
+            "Mun jadi jalmi ulah sok kedul",
+            "Mun jadi jalmi ulah sok getol.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teh kawas leumpang di gigir gawir",
+            "Hirup teh sulit",
+            "Hirup teh gampil.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Meuli hp saharga rorompok gubuk.",
+            "Meuli hp mahal",
+            "Meuli hp murah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan Pak Ustad kawas kopi hideung.",
+            "Omongan Pak Ustad amis",
+            "Omongan Pak Ustad pait.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ieu kabar umpama angin ngahiliwir.",
+            "Ieu kabar ngareuwaskeun",
+            "Ieu kabar nenangkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sikap anjeunna siga es batu",
+            "Sikap anjeunna tiis",
+            "Sikap anjeunna haneut.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Sikap anjeunna siga susu botol jang orok.",
+            "Sikap anjeunna tiis",
+            "Sikap anjeunna haneut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Boga kabogoh teh sikapna kos kukang.",
+            "Boga kabogoh teh sikapna wanian",
+            "Boga kabogoh teh sikapna eraan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lanceuk abdi awakna sapertos gajah.",
+            "Lanceuk abdi awakna begang",
+            "Lanceuk abdi awakna buleud.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gawe teh umpama nginum peresan limo.",
+            "Gawe teh ngabagjakeun",
+            "Gawe teh hanjelu.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sora manehna kawas hujan geledek.",
+            "Sora manehna merdu",
+            "Sora manehna gandeng.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ponten rapor kuring umpama biru langit.",
+            "Ponten rapor kuring goreng",
+            "Ponten rapor kuring alus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ditolak manehna umpama taman pinuh ku kembang.",
+            "Ditolak manehna meuni nyeri",
+            "Ditolak manehna meuni gumbira.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kosan rerencangan abdi sapertos lapangan bola",
+            "Kosan rerencangan abdi lega",
+            "Kosan rerencangan abdi heurin.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kosan rerencangan abdi sapertos liang sireum.",
+            "Kosan rerencangan abdi lega",
+            "Kosan rerencangan abdi heurin.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cicing di imah teh kos cicing di taman firdaus.",
+            "Cicing di imah teh teu betah",
+            "Cicing di imah teh betah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Milarian padamelan ayena mah sapertos milarian lauk di sagara.",
+            "Milarian padamelan ayeuna mah sesah",
+            "Milarian padamelan ayeuna mah gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hoyong seueur acis, tapi teu damel tes sapertos ngajarkeun monyet renang.",
+            "Hoyong seueur acis, tapi teu damel teh mustahil",
+            "Hoyong seueur acis, tapi teu damel teh mungkin wae.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Abdi sareung anjeuna kawas monyet jeung kera.",
+            "Abdi sareung anjeuna jauh bedana",
+            "Abdi sareung anjeuna eweuh bedana.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Diajar matematika umpama diajar maca jang budak TK.",
+            "Diajar matematika sesah",
+            "Diajar matematika gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pun bapa tanagana kawas samson",
+            "Pun bapa kuat",
+            "Pun bapa lemah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Acuk lebaran teh sarupa acuk tukang pulung.",
+            "Acuk lebaran teh sae",
+            "Acuk lebaran teh butut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngarantau ibarat jalan-jalan ka leuweung nu loba jurigna.",
+            "Ngarantau nyenengkeun",
+            "Ngarantau sieun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Bobogah lima taun jeung manehna kawas naek kapal di lautan biru nan endah.",
+            "Bobogohan lima taun jeung manehna nyusahkeun",
+            "Bobogohan lima taun jeung manehna nyenengkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jaket maneh naha siga jaket artis.",
+            "Jaket maneh butut",
+            "Jaket maneh alus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Acuk seuseuhan abdi mah sapertos acuk jalmi beres nguli.",
+            "Acuk seuseuhan abdi mah beresih",
+            "Acuk seuseuhan abdi mah kotor.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak rerencangan abdi irungnya samancung jalmi nu beres nyusruk.",
+            "Budak rerencangan abdi irungna mancung",
+            "Budak rerencangan abdi irungna pesek.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pindah bumi ibarat kaleungitan dompet",
+            "Pindah bumi nyedihkeun",
+            "Pindah bumi nyenengkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pindah bumi ibarat manggihan dompet.",
+            "Pindah bumi nyedihkeun",
+            "Pindah bumi nyenengkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buku di bumi rerencangan abdi kawas perpustakaan",
+            "Buku di bumi rerencangan abdi seueur",
+            "Buku di bumi rerencangan abdi hiji atawa sakedik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Buku di bumi rerencangan abdi kawas jumlah kolot na budak yatim.",
+            "Buku di bumi rerencangan abdi seueur",
+            "Buku di bumi rerencangan abdi hiji atawa sakedik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ukuran suku maneh meuni jiga cebol.",
+            "Ukuran suku maneh meuni gede",
+            "Ukuran suku maneh meuni leutik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Basa inggris maneh geus saalus budak nu karak diajar ngomong.",
+            "Basa inggris maneh lancar",
+            "Basa inggris maneh balelol.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Carita nini abdi kawas carita nu nyieun sare.",
+            "Carita nini abdi rame tur alus",
+            "Carita nini abdi butut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cai sumur ayeuna mah kos cai aqua.",
+            "Cai sumur ayeuna kiruh",
+            "Cai sumur ayeuna herang.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngadangu carita anjeun mah kawas ngimpi labuh ka gawir",
+            "Ngadangu carita anjeun mah ngareuwaskeun",
+            "Ngadangu carita anjeun mah nyenengkeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngadangu carita anjeun mah kawas ngimpi naek ferrari.",
+            "Ngadangu carita anjeun mah ngareuwaskeun",
+            "Ngadangu carita anjeun mah nyenengkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup teu boga elmu sarupa leumpang sapanjang jalan nu loba lampuna.",
+            "Hirup teu boga elmu teu jelas",
+            "Hirup teu boga elmu jelas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pertanyaan si bapa teh meuni kos pertanyaan budak.",
+            "Pertanyaan si bapa bermutu tur sesah",
+            "Pertanyaan si bapa teu bermutu.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kunaon atuh eta seragam teh jiga baju ti londri.",
+            "Kunaon atuh eta seragam teh risek",
+            "Kunaon atuh eta seragam teh licin.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirup abdi mah kawas tv baheula",
+            "Hirup abdi mah hitam putih tur monoton",
+            "Hirup abdi mah loba warnana.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hirup abdi mah kawas tv jaman kiwari.",
+            "Hirup abdi mah hitam putih tur monoton",
+            "Hirup abdi mah loba warnana.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gambar rayi abdi layak umpama gambar nu meunang ponten F.",
+            "Gambar rayi abdi hade",
+            "Gambar rayi abdi butut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Chat jeung manehna mah kawas ngobrol pas keur diboceng tukang ojek",
+            "Chat jeung manehna mah teu jelas",
+            "Chat jeung manehna mah jelas.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Chat jeung manehna mah kawas guru nerangkeun di kelas.",
+            "Chat jeung manehna mah teu jelas",
+            "Chat jeung manehna mah jelas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tulisan budak teh meuni jiga hasil ngeprint.",
+            "Tulisan budak teh acak-acakan",
+            "Tulisan budak teh rapi.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Elmu agama kawas gudang nu eweuh lampuan.",
+            "Elmu agama caang tur nuntun",
+            "Elmu agama poek.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cai Dieng sapertos cai termos.",
+            "Cai Dieng tiis",
+            "Cai Dieng panas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngendong sawengi ge bawaan teh kawas jalmi teu gaduh acuk.",
+            "Ngendong sawengi ge bawaan teh seueur",
+            "Ngendong sawengi ge bawaan teh teu aya.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Acuk rerencangan abdi sapertos awewe nu arek mangkal.",
+            "Acuk rerencangan abdi katutup",
+            "Acuk rerencangan abdi kabuka.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kahayang abdi mah sagede truk",
+            "Kahayang abdi mah seueur",
+            "Kahayang abdi mah saalit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tutumbenan masakan dinten ieu kawas masakan sesa minggu kamari.",
+            "Tutumbenan masakan dinten ieu raos pisan",
+            "Tutumbenan masakan dinten ieu teu raos.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kaca di kamar abdi meuni sagede almari tilu panto.",
+            "Kaca di kamar abdi meuni alit",
+            "Kaca di kamar abdi meuni ageung.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Akuarium hotel ieu meuni saageung keler kue.",
+            "Akuarium hotel ieu ageung",
+            "Akuarium hotel ieu alit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kembang pamasihan anjeun teh kawas seungit sangit.",
+            "Kembang pamasihan anjeun seungit",
+            "Kembang pamasihan anjeun hapeuk.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mun jadi jalmi ulah sok pondok hate.",
+            "Mun jadi jalmi ulah sok agul",
+            "Mun jadi jalmi ulah sok pesimis.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Acara Jazz Prambanan taun ieu kawas langit bertabur bentang",
+            "Acara Jazz Prambanan taun ieu meriah",
+            "Acara Jazz Prambanan taun ieu sepi.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Acara Jazz Prambanan taun ieu kawas langit wengi teu aya bentang.",
+            "Acara Jazz Prambanan taun ieu meriah",
+            "Acara Jazz Prambanan taun ieu sepi.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kualitas koper anyar teh kos koper dior.",
+            "Kualitas koper anyar teh butut",
+            "Kualitas koper anyar teh alus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngadangukeun lagu Yura Yunita sapertos hujan guludug.",
+            "Ngadangukeun lagu Yura Yunita nenangkeun",
+            "Ngadangukeun lagu Yura Yunita gandeng tur ngaganggu.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kantor abdi di Bandung umpama gedong di tengah kebon",
+            "Kantor abdi di Bandung tiis tur asri",
+            "Kantor abdi di Bandung panas tur tandus.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tumpeng damelan si uwak meuni sajangkung meja lipet lesehan.",
+            "Tumpeng damelan si uwak jangkung",
+            "Tumpeng damelan si uwak pondok.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buku sakola ayeuna sakandeul ensiklopedia dunia.",
+            "Buku sakola ayeuna ipis",
+            "Buku sakola ayeuna kandeul.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cuaca dinten ieu sapertos langit nu keur bagja.",
+            "Cuaca dinten ieu hujan",
+            "Cuaca dinten ieu cerah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Biaya listrik makin kiwari makin kos porosotan.",
+            "Biaya listrik makin kiwari makin naek",
+            "Biaya listrik makin kiwari makin turun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Karpet anyar teh warnana jiga gulali",
+            "Karpet anyar teh warnana cerah",
+            "Karpet anyar teh warnana poek.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Karpet anyar teh warnana jiga areng.",
+            "Karpet anyar teh warnana cerah",
+            "Karpet anyar teh warnana poek.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Gawe tanpa elmu umpama ngala lauk di akuarium make jaring.",
+            "Gawe tanpa elmu sesah",
+            "Gawe tanpa elmu gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Poto kawinan anjeun sapertos poster pelem nu meunang penghargaan",
+            "Poto kawinan anjeun estetik",
+            "Poto kawinan anjeun teu estetik.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Poto kawinan anjeun sapertos poto di kalender toko emas.",
+            "Poto kawinan anjeun estetik",
+            "Poto kawinan anjeun teu estetik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Harga anduk di toko ieu samirah kembang gula di warung",
+            "Harga anduk di toko ieu mirah",
+            "Harga anduk di toko ieu awis.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Harga anduk di toko ieu samirah dp bumi di komplek elit.",
+            "Harga anduk di toko ieu mirah",
+            "Harga anduk di toko ieu awis.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Desain Totoya nu anyar kawas mobil cocooan.",
+            "Desain Toyota nu anyar keren tur canggih",
+            "Desain Toyota nu anyar butut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Naek gunung Sumbing umpama naek gunung digandong porter.",
+            "Naek gunung Sumbing sesah",
+            "Naek gunung Sumbing gampil.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulah lauk di bumi aki salega garasi kapal udara.",
+            "Kulah lauk di bumi aki leutik",
+            "Kulah lauk di bumi aki lega.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rorompok amih lamun nuju seueur dulur kawas bumi gigir rel kareta",
+            "Rorompok amih lamun nuju seueur dulur rame tur gandeng",
+            "Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Rorompok amih lamun nuju seueur dulur kawas bumi di tengah leuweung.",
+            "Rorompok amih lamun nuju seueur dulur rame tur gandeng",
+            "Rorompok amih lamun nuju seueur dulur tiiseun tur jempling.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kelas X IPS mah aya teu aya guru umpama barudak di perpustakaan.",
+            "Kelas X IPS mah aya teu aya guru gandeng",
+            "Kelas X IPS mah aya teu aya guru jempling.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sapatu pamere mamang teh kawas sapatu kaca dipake cinderella.",
+            "Sapatu pamere mamang teh teu mahi",
+            "Sapatu pamere mamang teh mahi.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lomari di kamar pun kolot saageung ka'bah",
+            "Lomari di kamar pun kolot ageung",
+            "Lomari di kamar pun kolot alit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Lomari di kamar pun kolot saageung bagasi mobil sedan.",
+            "Lomari di kamar pun kolot ageung",
+            "Lomari di kamar pun kolot alit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lukisan ieu sapertos karya budak nu keur diajar ngagambar.",
+            "Lukisan ieu alus",
+            "Lukisan ieu butut.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jolang di bumi rerencangan abdi kawas gayung.",
+            "Jolang di bumi rerencangan abdi ageung",
+            "Jolang di bumi rerencangan abdi alit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sangu di warung ieu mah sapertos gigih.",
+            "Sangu di warung ieu pulen",
+            "Sangu di warung ieu heuras.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Cat di imah maneh mah jiun imah kawas panggung dangdut akademi.",
+            "Cat imah maneh mah jieun imah poek",
+            "Cat imah maneh mah jieun imah caang.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Martabak Mang Idoy umpama emas nu hargana naek.",
+            "Martabak Mang Idoy payu",
+            "Martabak Mang Idoy teu payu.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jarawat Teh Susi naha makin jiga hasil perawatan dokter.",
+            "Jarawat Teh Susi naha makin loba tur parah",
+            "Jarawat Teh Susi naha makin bersih.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pangseungit ruangan ieu jieun sapertos di taman kembang.",
+            "Pangseungit ruangan ieu bau",
+            "Pangseungit ruangan ieu seungit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hargi sewa mobil di dieu saharga biaya naek beca.",
+            "Hargi sewa mobil di dieu awis",
+            "Hargi sewa mobil di dieu mirah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Huntu Si Joko jiga mukena lebaran.",
+            "Huntu Si Joko koneng",
+            "Huntu Si Joko bodas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ngahasilkeun artos jiga milarian cai di gurun.",
+            "Manehna ngahasilkeun artos meuni gampil",
+            "Manehna ngahasilkeun artos hese pisan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Biwirna ngucapkeun kecap kawas cabe",
+            "Biwirna ngucapkeun kecap nu mikeun nyeri hate",
+            "Biwirna ngucapkeun kecap mikeun bungah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Biwirna ngucapkeun kecap amis siga gula.",
+            "Biwirna ngucapkeun kecap nu mikeun nyeri hate",
+            "Biwirna ngucapkeun kecap mikeun bungah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna angkat liburan nganggo kuda beusi",
+            "Manehna angkat liburan nganggo motor",
+            "Manehna angkat liburan nganggo pesawat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Di tempat damel manenha janten embe hideung.",
+            "Di tempat damel manenha janten unggulan",
+            "Di tempat damel manenha janten jalma nu dipikasalah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ceuk babaturanana, manehna mangrupikeun jalma sirah batu",
+            "Ceuk babaturanana, manehna mangrupikeun jalma keras kepala",
+            "Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ceuk babaturanana, manehna mangrupikeun jalma tiis sirah.",
+            "Ceuk babaturanana, manehna mangrupikeun jalma keras kepala",
+            "Ceuk babaturanana, manehna mangrupikeun jalma anu ngartikeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna jalmi nu panas leungeun.",
+            "Manehna jalmi nu bisa naon wae",
+            "Manehna jalmi nu teu bisa nanaon.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna tampil siga semut dina taneuh.",
+            "Manehna tampil siga percaya diri",
+            "Manehna tampil siga henteu percaya diri.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dina \u00e9ta balapan manehna jiga kuda hideung.",
+            "Dina \u00e9ta balapan manehna jiga idola",
+            "Dina \u00e9ta balapan manehna jiga jalmi nu teu diperhitungkeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna mangrupakeun jalma anu hatena siga lapangan",
+            "Manehna mangrupakeun jalma anu hatena siga luas",
+            "Manehna mangrupakeun jalma anu hatena siga sempit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manehna mangrupakeun jalma anu hatena siga kamar.",
+            "Manehna mangrupakeun jalma anu hatena siga luas",
+            "Manehna mangrupakeun jalma anu hatena siga sempit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pagawean anu dilakonan ku manehna nganggo lengeun sorangan.",
+            "Pagawean anu dilakonan ku manehna nganggo dikerjakeun nu lain",
+            "Pagawean anu dilakonan ku manehna nganggo usaha sorangan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Eta lalaki kawas penyihir.",
+            "Eta lalaki kawas sae pisan",
+            "Eta lalaki kawas jahat pisan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna mangrupakeun pamingpin anu tiis hate.",
+            "Manehna mangrupakeun pamingpin anu ngartikeun",
+            "Manehna mangrupakeun pamingpin anu teu ngartikeun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Budak eta mah ged\u00e9 sungut.",
+            "Budak eta mah baik",
+            "Budak eta mah sombong.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ushana nalika pandemi teh kawas jalan tol",
+            "Usahana nalika pandemi teh kawas lancar pisan",
+            "Usahana nalika pandemi teh kawas hese pisan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ushana nalika pandemi teh kawas jalanna kura-kura.",
+            "Usahana nalika pandemi teh kawas lancar pisan",
+            "Usahana nalika pandemi teh kawas hese pisan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Eta jelema teh kawas buku tebel",
+            "Eta jelema teh kawas berilmu",
+            "Eta jelema teh kawas teu ngarti nanaon.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Eta jelema teh kawas kertas kosong.",
+            "Eta jelema teh kawas berilmu",
+            "Eta jelema teh kawas teu ngarti nanaon.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ngarasa kawas sampah masarakat.",
+            "Manehna ngarasa kawas boga kuasa",
+            "Manehna ngarasa kawas teu boga kuasa.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Lamun diperlukeun, manehna senang pikeun pangku lengeun.",
+            "Lamun diperlukeun, manehna senang pikeun ngabantu",
+            "Lamun diperlukeun, manehna senang pikeun cicing wae.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Artis eta t\u00e9h keur jatoh ka jurang.",
+            "Artis eta t\u00e9h keur kawentar",
+            "Artis eta t\u00e9h keur boga masalah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kecap-kecapna kawas pinuh ku cucuk.",
+            "Kecap-kecapna kawas indah",
+            "Kecap-kecapna kawas mikeun nyeri hate.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ceuk tatanggana, manehna teh beungeut kandel",
+            "Ceuk tatanggana, manehna teh baik",
+            "Ceuk tatanggana, manehna teh pelit.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Babaturan kuring nya\u00e9ta jalma anu ringan leungeun",
+            "Babaturan kuring nya\u00e9ta jalma anu senang mere",
+            "Babaturan kuring nya\u00e9ta jalma anu nyuri.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Babaturan kuring nya\u00e9ta jalma anu panjang leungeun.",
+            "Babaturan kuring nya\u00e9ta jalma anu senang mere",
+            "Babaturan kuring nya\u00e9ta jalma anu nyuri.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Beungeutna katingali kawas wengi po\u00e9k.",
+            "Beungeutna katingali kawas bahagia",
+            "Beungeutna katingali kawas loba masalah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna mangrupikeun kutu buku",
+            "Manehna mangrupikeun senang maca buku",
+            "Manehna mangrupikeun loba omong.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manehna mangrupikeun tong kosong.",
+            "Manehna mangrupikeun senang maca buku",
+            "Manehna mangrupikeun loba omong.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tanaga manehnya kawas beruang",
+            "Tanaga manehnya kawas kuat pisan",
+            "Tanaga manehnya kawas lemah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Tanaga manehnya kawas semut.",
+            "Tanaga manehnya kawas kuat pisan",
+            "Tanaga manehnya kawas lemah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hate manusia kadang kawas lapangan",
+            "Hate manusia kadang luas",
+            "Hate manusia kadang tinggi pisan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hate manusia kadang kawas langit.",
+            "Hate manusia kadang luas",
+            "Hate manusia kadang tinggi pisan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Eta budak hiji mah mangrupakeun tulang tonggong",
+            "Eta budak hiji mah mangrupakeun unggulan",
+            "Eta budak hiji mah mangrupakeun masalah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Eta budak hiji mah mangrupakeun beungbeurat kulawarga.",
+            "Eta budak hiji mah mangrupakeun unggulan",
+            "Eta budak hiji mah mangrupakeun masalah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Penampilanna dianggap bintang lapangan",
+            "Penampilanna kawas idola",
+            "Penampilanna kawas teu dianggep.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Penampilanna dianggap sabelah panon.",
+            "Penampilanna kawas idola",
+            "Penampilanna kawas teu dianggep.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kulawargana nya\u00e9ta darah rakyat.",
+            "Kulawargana nya\u00e9ta bangsawan",
+            "Kulawargana nya\u00e9ta jalmi biasa.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Panonna kawas beurit.",
+            "Panonna teh tajeum",
+            "Panonna teh jelek.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Sorana siga kicau manuk.",
+            "Sorana siga gede pisan",
+            "Sorana siga alit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Anjeunna junun nampi padamelan ti banting tulang",
+            "Anjeunna junun nampi padamelan ti usaha sorangan",
+            "Anjeunna junun nampi padamelan ti jalma lian.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Anjeunna junun nampi padamelan ti orang dalem.",
+            "Anjeunna junun nampi padamelan ti usaha sorangan",
+            "Anjeunna junun nampi padamelan ti jalma lian.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Mulutna meuni beurat.",
+            "Mulutna meuni gampil ngomong",
+            "Mulutna meuni hese ngomong.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Di kelas, manehna murid anu ringan sirah",
+            "Di kelas, manehna murid anu pinter",
+            "Di kelas, manehna murid anu bodo.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kota ieu karasa kawas penjara.",
+            "Kota ieu karasa kawas nyaman",
+            "Kota ieu karasa kawas teu genah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nalika ditanya manehna nutup panon.",
+            "Nalika ditanya manehna nyarios",
+            "Nalika ditanya manehna pura-pura teu terang.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Di dunya ieu aya jalma anu sarupa setan.",
+            "Di dunya ieu aya jalma anu baik pisan",
+            "Di dunya ieu aya jalma anu jahat pisan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di rumah sakit.",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di lezat",
+            "Kadaharan eta r\u00e9storan karasaeun sapertos masakan di teu karasa nanaon.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna naroskeun patarosan anu deet siga solokan.",
+            "Manehna naroskeun patarosan anu penting",
+            "Manehna naroskeun patarosan anu asal ngucap.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Imahna karasa kawas penjara.",
+            "Imahna karasa kawas nyaman",
+            "Imahna karasa kawas teu ngenaheun.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan sar\u00e9bu l\u00e9ngkah",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan cepet",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan lila.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan lengkah kuya.",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan cepet",
+            "Manehna ngar\u00e9ngs\u00e9keun tugasna kalayan lila.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Manehna ningali pantulanna dina eunteung kawas jalmi biasa.",
+            "Manehna ningali pantulanna dina eunteung kawas cantik pisan",
+            "Manehna ningali pantulanna dina eunteung kawas biasa wae.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Luncatna dina pertandingan siga luncat bajing",
+            "Luncatna dina pertandingan siga gampil",
+            "Luncatna dina pertandingan siga hese.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Usaha anu manehna lakukeun kawas naek tangga",
+            "Usaha anu manehna lakukeun kawas gampil",
+            "Usaha anu manehna lakukeun kawas hese.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Poe ieu manehnya hudang kalayan wajah anu katekuk.",
+            "Poe ieu manehnya hudang kalayan wajah anu bahagia",
+            "Poe ieu manehnya hudang kalayan wajah anu loba masalah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Warna baju manehnya katingali caang sapertos beurang",
+            "Warna baju manehnya katingali bahagia",
+            "Warna baju manehnya katingali teu bahagia.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Warna baju manehnya katingali poek sapertos peuting.",
+            "Warna baju manehnya katingali bahagia",
+            "Warna baju manehnya katingali teu bahagia.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hirupna karasaeun di surga",
+            "Hirupna karasaeun di ngeunah",
+            "Hirupna karasaeun di loba cobaan.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Hirupna karasaeun di naraka.",
+            "Hirupna karasaeun di ngeunah",
+            "Hirupna karasaeun di loba cobaan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hawana Jakarta upami tos siang mah sapertos ibun dina dangdaunan.",
+            "Hawana Jakarta upami tos siang mah panas",
+            "Hawana Jakarta upami tos siang mah tiris.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Rarayna siga tangkal kolot anu layu.",
+            "Rarayna katingali ngora",
+            "Rarayna katingali kolot.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngapalkeun materi kuliah mah kawas ngukir dina cai.",
+            "Ngapalkeun materi kuliah mah gampil",
+            "Ngapalkeun materi kuliah mah sesah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kasatiaan dina jaman ayeuna sapertos milarian maung sumatera",
+            "Kasatiaan dina jaman ayeuna langka",
+            "Kasatiaan dina jaman ayeuna biasa wae, seueur kajadian.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Jualan online mah meunang kauntunganna t\u00e9h siga ngala c\u00e9r\u00e9 ti selokan.",
+            "Jualan online shop teh kauntunganna seueur",
+            "Jualan online shop teh kauntunganna sakedik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ceuk batur g\u00e9 hirup sareng pamajikan mah ibarat budak leutik ulin kaditu-kadieu.",
+            "Hirup sareng pamajikan mah kaampeuh",
+            "Hirup sareng pamajikan mah b\u00e9bas.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Omongan lalaki t\u00e9h ibarat empedu sasatoan.",
+            "Omongan lalaki t\u00e9h alus",
+            "Omongan lalaki t\u00e9h pait,gor\u00e9ng.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Barudak jaman ayeuna mah bajuna siga calana nu euweuh talian.",
+            "Barudak jaman ayeuna mah bajuna merecet",
+            "Barudak jaman ayeuna mah bajuna logor.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kamajuan t\u00e9hnologi di Indon\u00e9sia kawas k\u00e9ong keur lumpat.",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si gancang",
+            "Kamajuan t\u00e9hnologi di Indon\u00e9si lalaunan,telat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ayeuna jumlah motor di jalan t\u00e9h siga eusi domp\u00e9t dina ahir bulan.",
+            "Ayeuna jumlah motor di jalan teh seeur",
+            "Ayeuna jumlah motor di jalan teh saeutik.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nagihan ijeuman t\u00e9h ibarat kaluar tina labirin",
+            "Nagihan utang teh susah",
+            "Nagihan utang teh mudah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Nagihan ijeuman t\u00e9h ibarat masak cai dugi ka ngagolak.",
+            "Nagihan utang teh susah",
+            "Nagihan utang teh mudah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nabung lamun rutin bisa nyieun domp\u00e9t anjeun sapertos Dobby di Harry Potter.",
+            "Nabung lamun rutin mah bisa ngajadikeun beunghar",
+            "Nabung lamun rutin mah bisa ngajadikeun malarat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Upami anjeun gaduh murangkalih di handapeun umur lima, suasana bumina sapertos kapal rusak.",
+            "Upami gaduh balita bumina rapih",
+            "Upami gaduh balita bumina pabalatak.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kamar kos abdi t\u00e9h sapertos liang beurit dina taneuh",
+            "Kamar kos meuni rupek",
+            "Kamar kos meuni lega.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kamar kos abdi t\u00e9h sapertos lapangan keur barudak ma\u00e9n bal.",
+            "Kamar kos meuni rupek",
+            "Kamar kos meuni lega.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah karasana siga lumpat di kolam renang",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah beurat",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah hampang.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah karasana siga mawa kapas sakarung.",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah beurat",
+            "Migaw\u00e9 pagaw\u00e9an kalompok mah hampang.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Jalmi anu jujur mah biasana jiga emb\u00e9 di kandang keur lapar.",
+            "Jalmi anu jujur kalem",
+            "Jalmi anu jujur riweuh.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Keur kuring mah disuntik vaksin kawas dig\u00e9g\u00e9l sireum.",
+            "Disuntik rasana nyeri",
+            "Disuntik rasana teu nyeri.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Kom\u00e9n netizen mah siga dikirimkeun surat phk ti kantor",
+            "Kom\u00e9n netizen meuni sedih",
+            "Kom\u00e9n netizen meuni bungah.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Kom\u00e9n netizen mah siga dikirimkeun surat cinta ti kabogoh.",
+            "Kom\u00e9n netizen meuni sedih",
+            "Kom\u00e9n netizen meuni bungah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Hukum Indon\u00e9sia mah siga bujur se\u00e9ng paranti sangu",
+            "Hukum Indonesia teh kotor",
+            "Hukum Indonesia teh beresih.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngumpulkeun biaya kawinan jaman ayeuna mah siga urang meuli dahareun di warteg.",
+            "Biaya kawinan teh awis",
+            "Biaya kawinan teh mirah.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Upami urang ningali jurig tengah peuting mah siga kurupuk k\u00e9na kua baso",
+            "Upami ningali jurig sieun",
+            "Upami ningali jurig berani.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Upami urang ningali jurig tengah peuting mah siga pawangna komodo.",
+            "Upami ningali jurig sieun",
+            "Upami ningali jurig berani.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Dos\u00e9n abdi di kampus baheula siga bidadari di surga.",
+            "Dosen abdi di kampus baheula meuni galak",
+            "Dosen abdi di kampus baheula meuni bageur.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pamadegan batur keur urang mah siga bisa oray nyiduh tina sungut.",
+            "Pamadegan batur keur urang had\u00e9",
+            "Pamadegan batur keur urang buruk.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri kawas obralan calana l\u00e9baran",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri murahan",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri dipihormat.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri kawas inten anu leutik tapi dipilarian ku jalma r\u00e9a.",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri murahan",
+            "Pergaulan anu b\u00e9bas bisa nyieun harga diri dipihormat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah ibarat lilin dina po\u00e9k lampu.",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah teu aya manpaatna",
+            "Getol nabung tapi getol og\u00e9 ngahutangna mah aya mangpaatna.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Guru t\u00e9h ibarat tukang dagang ka nu meuli.",
+            "Guru teh gawena tulus",
+            "Guru teh gawena pamrih.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nuduh batur ku awon t\u00e9h kawas nyebarkeun binih kembang sapanjang jalan.",
+            "Nuduh batur ku awon ngajel\u00e9kkeun diri sorangan",
+            "Nuduh batur ku awon nebarkeun kahadean ka diri sorangan.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Tulisan man\u00e9h keur di sakola mah siga huruf anu aya di komputer.",
+            "Tulisan man\u00e9h keur di sakola mah goreng",
+            "Tulisan man\u00e9h keur di sakola mah alus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Umur manusa mah siga buukna jenglot",
+            "Umur manusa panjang",
+            "Umur manusa pondok.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ],
+        [
+            "Ngejar kareta api di stasiun mah siga nu eweh gaweaneun.",
+            "Ngejar kareta mah engal-engal",
+            "Ngejar kareta mah santai.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Buukna dirumbay siga sutra nu mahal.",
+            "Buukna teh kasar",
+            "Buukna teh alus.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngadagoan kasuks\u00e9san datang ka kahirupan mah ibarat ngadagoan mi instan asak.",
+            "Kasuks\u00e9san datang ka karihupan teh lami",
+            "Kasuks\u00e9san datang ka karihupan teh gancang.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Pangalaman hirup bisa ngajadikeun sipat manusa kawas maung keur nungguan mangsa ti kajauhan.",
+            "Pangalaman hirup bisa ngajadikeun aambekan",
+            "Pangalaman hirup bisa ngajadikeun sabar.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Upami keur lebaran di Bogor mah suasanana kos ulin ka pasar peuting.",
+            "Bogor keur lebaran mah jempling",
+            "Bogor keur lebaran mah r\u00e9a.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "M\u00e9ntal manusa siga inten nu teu gampang peupeus.",
+            "Mental manusa teh rapuh",
+            "Mental manusa teh kuat.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Duit bisa ngarobah jalma kawas dermawan sanajan man\u00e9hna kakurangan.",
+            "Duit bisa ngarobah jalma jadi sarakah",
+            "Duit bisa ngarobah jalma jadi bersukur.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Ngabuka usaha anyar keur pand\u00e9mik sapertos na\u00e9k gunung anu teu lungkawing.",
+            "Ngabuka usaha anyar keur pand\u00e9mik risikona gede",
+            "Ngabuka usaha anyar keur pand\u00e9mik teu aya risiko.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Seueur teuing pangaweruh bisa ngajadikeun manusa sapertos ngojay di balong nu pinuh ku piranha.",
+            "Seueur pangaweruh bisa ngajadikeun manusa pinter",
+            "Seueur pangaweruh bisa ngajadikeun manusa bodo.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Nu kaambu dina angkutan umum sapertos keur aya di toko minyak seungit.",
+            "Nu kaambu dina angkutan umum bau",
+            "Nu kaambu dina angkutan umum seungit.",
+            "<extra_id_0> option b",
+            "<extra_id_0> option a"
+        ],
+        [
+            "Balik deui sareng mantan sapertos ningali final badminton",
+            "Balik sareng mantan mah seru",
+            "Balik sareng mantan mah bosen.",
+            "<extra_id_0> option a",
+            "<extra_id_0> option b"
+        ]
+    ],
+    "accuracy": 0.48833333333333334
+}
